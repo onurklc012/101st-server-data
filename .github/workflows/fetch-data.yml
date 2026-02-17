@@ -4,6 +4,11 @@ on:
   schedule:
     # Run every 5 minutes
     - cron: '*/5 * * * *'
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/fetch-data.yml'
+      - 'fetch-data.mjs'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
