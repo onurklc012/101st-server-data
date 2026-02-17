@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:11:44",
+      "missionDate": "2026-04-21 11:16:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:57:49 UTC",
+      "lastUpdate": "26-02-17 18:02:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:01:38",
+      "missionDate": "2026-08-01 15:06:38",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:57:50 UTC",
+      "lastUpdate": "26-02-17 18:02:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［8／32］",
+      "channelName": "🖥️┃server-dynamic［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 8,
+      "players": 9,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 07:57:14",
+      "missionDate": "2024-10-31 08:02:14",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 8,
           "total": 69
         },
         "red": {
@@ -219,12 +219,13 @@
       },
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
-        "101\\-Yidobaba\\[0098\\]",
-        "ı dont have money",
-        "⍟101\\-Longec\\[0007\\]⍟",
         "101\\-DrakeN",
         "101\\-MrMercans",
-        "Tunay"
+        "101\\-Yidobaba\\[0098\\]",
+        "MehmetYP",
+        "Tunay",
+        "WiRaN",
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
         {
@@ -232,28 +233,32 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-DrakeN",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-MrMercans",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Su-30SM"
         },
         {
-          "name": "ı dont have money",
-          "unit": "Su-25T"
+          "name": "MehmetYP",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Tunay",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "WiRaN",
+          "unit": "Su-30MKA"
         },
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-DrakeN",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-MrMercans",
-          "unit": "--"
-        },
-        {
-          "name": "Tunay",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -263,12 +268,28 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-DrakeN",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Su-30SM"
           },
           {
-            "name": "ı dont have money",
-            "unit": "Su-25T"
+            "name": "MehmetYP",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Tunay",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "WiRaN",
+            "unit": "Su-30MKA"
           },
           {
             "name": "⍟101\\-Longec\\[0007\\]⍟",
@@ -276,20 +297,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-DrakeN",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-MrMercans",
-            "unit": "--"
-          },
-          {
-            "name": "Tunay",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -345,7 +353,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:57:59 UTC",
+      "lastUpdate": "26-02-17 18:02:51 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -360,7 +368,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:11:44",
+    "missionDate": "2026-04-21 11:16:44",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -440,9 +448,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-17 17:57:49 UTC",
+    "lastUpdate": "26-02-17 18:02:49 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-17T17:58:20.730Z"
+  "lastUpdated": "2026-02-17T18:03:26.406Z"
 }
