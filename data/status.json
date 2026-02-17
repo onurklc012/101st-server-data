@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:38:46",
+        "missionDate": "2026-04-21 08:43:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:24:49 UTC",
+        "lastUpdate": "26-02-17 21:29:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:28:40",
+        "missionDate": "2026-08-01 12:33:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:24:50 UTC",
+        "lastUpdate": "26-02-17 21:29:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［4／32］",
+        "channelName": "🖥️┃server-dynamic［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 4,
+        "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:18:23",
+        "missionDate": "2024-10-31 08:23:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -221,7 +221,8 @@
         "playerList": [
           "101ArmOn1453",
           "Aloske",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101\\-EMRE \\[0444\\]"
         ],
         "playerDetails": [
           {
@@ -235,6 +236,10 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -253,7 +258,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-EMRE \\[0444\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -309,7 +319,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:24:51 UTC",
+        "lastUpdate": "26-02-17 21:29:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -324,7 +334,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:38:46",
+      "missionDate": "2026-04-21 08:43:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -404,11 +414,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 21:24:49 UTC",
+      "lastUpdate": "26-02-17 21:29:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T21:25:14.428Z"
+    "lastUpdated": "2026-02-17T21:30:17.523Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -448,7 +458,7 @@
           "activePilots": "5",
           "highestScore": 7432
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -487,12 +497,12 @@
         "activePilots": "5",
         "highestScore": 7432
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:20  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T21:25:14.680Z"
+    "lastUpdated": "2026-02-17T21:30:17.682Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T21:25:14.681Z",
+    "fetchedAt": "2026-02-17T21:30:17.683Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
