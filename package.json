@@ -1,0 +1,10 @@
+{
+    "name": "101st-server-data",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Fetches DCS server & leaderboard data from Discord and publishes via GitHub Pages",
+    "scripts": {
+        "fetch": "node fetch-data.mjs"
+    },
+    "dependencies": {}
+}
