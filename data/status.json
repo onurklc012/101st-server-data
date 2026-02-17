@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:11:44",
+        "missionDate": "2026-04-21 10:16:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:57:49 UTC",
+        "lastUpdate": "26-02-17 17:02:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:01:38",
+        "missionDate": "2026-08-01 14:06:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +197,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:57:50 UTC",
+        "lastUpdate": "26-02-17 17:02:51 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +211,7 @@
         "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:51:21",
+        "missionDate": "2024-10-31 09:56:21",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -232,22 +232,18 @@
         },
         "playerList": [
           "101\\-Cuce \\[0011\\]",
-          "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
           "Me1e27",
           "MehmetYP",
           "SarpSKULAR31",
+          "TomCruiseMissile",
           "cassaba",
-          "TomCruiseMissile"
+          "101\\-MrMercans"
         ],
         "playerDetails": [
           {
             "name": "101\\-Cuce \\[0011\\]",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-MrMercans",
-            "unit": "F-16C_50"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
@@ -266,11 +262,15 @@
             "unit": "Su-25T"
           },
           {
+            "name": "TomCruiseMissile",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "cassaba",
             "unit": "F-16C_50"
           },
           {
-            "name": "TomCruiseMissile",
+            "name": "101\\-MrMercans",
             "unit": "_ _"
           }
         ],
@@ -279,10 +279,6 @@
             {
               "name": "101\\-Cuce \\[0011\\]",
               "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "101\\-MrMercans",
-              "unit": "F-16C_50"
             },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
@@ -301,6 +297,10 @@
               "unit": "Su-25T"
             },
             {
+              "name": "TomCruiseMissile",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "cassaba",
               "unit": "F-16C_50"
             }
@@ -308,7 +308,7 @@
           "red": [],
           "neutral": [
             {
-              "name": "TomCruiseMissile",
+              "name": "101\\-MrMercans",
               "unit": "_ _"
             }
           ]
@@ -367,7 +367,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:57:51 UTC",
+        "lastUpdate": "26-02-17 17:02:52 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -382,7 +382,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:11:44",
+      "missionDate": "2026-04-21 10:16:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -462,11 +462,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 16:57:49 UTC",
+      "lastUpdate": "26-02-17 17:02:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T16:58:48.078Z"
+    "lastUpdated": "2026-02-17T17:02:57.207Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -506,7 +506,7 @@
           "activePilots": "5",
           "highestScore": 5565
         },
-        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 19:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -545,12 +545,12 @@
         "activePilots": "5",
         "highestScore": 5565
       },
-      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 19:50  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T16:58:48.196Z"
+    "lastUpdated": "2026-02-17T17:02:57.338Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T16:58:48.197Z",
+    "fetchedAt": "2026-02-17T17:02:57.338Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
