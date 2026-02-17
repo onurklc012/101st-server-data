@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 09:18:46",
+        "missionDate": "2026-04-21 09:23:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:04:49 UTC",
+        "lastUpdate": "26-02-17 22:09:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:08:40",
+        "missionDate": "2026-08-01 13:13:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:04:50 UTC",
+        "lastUpdate": "26-02-17 22:09:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:58:23",
+        "missionDate": "2024-10-31 09:03:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 69
           },
           "red": {
@@ -220,17 +220,14 @@
         },
         "playerList": [
           "101ArmOn1453",
-          "101\\-EMRE \\[0444\\]",
           "Ata",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101\\-EMRE \\[0444\\]",
+          "✯101\\-EffBee\\[0010\\]"
         ],
         "playerDetails": [
           {
             "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
           },
           {
@@ -240,16 +237,20 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "--"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "--"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101ArmOn1453",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "101\\-EMRE \\[0444\\]",
               "unit": "F-16C_50"
             },
             {
@@ -262,7 +263,16 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-EMRE \\[0444\\]",
+              "unit": "--"
+            },
+            {
+              "name": "✯101\\-EffBee\\[0010\\]",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -318,7 +328,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:04:51 UTC",
+        "lastUpdate": "26-02-17 22:09:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -333,7 +343,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:18:46",
+      "missionDate": "2026-04-21 09:23:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -413,11 +423,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 22:04:49 UTC",
+      "lastUpdate": "26-02-17 22:09:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T22:05:34.304Z"
+    "lastUpdated": "2026-02-17T22:10:36.938Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -457,7 +467,7 @@
           "activePilots": "5",
           "highestScore": 7432
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 01:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 01:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -496,12 +506,12 @@
         "activePilots": "5",
         "highestScore": 7432
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 01:00  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 01:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T22:05:34.530Z"
+    "lastUpdated": "2026-02-17T22:10:37.197Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T22:05:34.531Z",
+    "fetchedAt": "2026-02-17T22:10:37.198Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
