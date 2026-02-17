@@ -341,6 +341,7 @@ function parseLeaderboardMessages(messages, channelName) {
                             .replace(/\*(.+?)\*/g, '$1')
                             .replace(/~~(.+?)~~/g, '$1')
                             .replace(/`(.+?)`/g, '$1')
+                            .replace(/\*+/g, '')  // strip any remaining asterisks
                             .trim();
 
                         let credits = 0;
@@ -393,7 +394,7 @@ function parseLeaderboardMessages(messages, channelName) {
                 const highMatch = desc.match(/(?:En\s*Yuksek|Highest)\s*(?:Puan|Score)?[:\s]*([\d,]+)/i);
                 if (highMatch && !highestScore) highestScore = parseInt(highMatch[1].replace(/,/g, ''));
 
-                if (embed.footer?.text) lastUpdate = embed.footer.text;
+                if (embed.footer?.text) lastUpdate = embed.footer.text.replace(/10\s*dk/g, '5 dk');
             }
         }
     }
