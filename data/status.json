@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［1／32］",
+        "channelName": "🖥️┃server-caucasus［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:01:44",
+        "missionDate": "2026-04-21 11:06:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -30,12 +30,24 @@
             "total": 16
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "Veronayesun"
+        ],
+        "playerDetails": [
+          {
+            "name": "Veronayesun",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Veronayesun",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -91,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 17:47:49 UTC",
+        "lastUpdate": "26-02-17 17:52:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +117,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:51:38",
+        "missionDate": "2026-08-01 14:56:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +197,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 17:47:50 UTC",
+        "lastUpdate": "26-02-17 17:52:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［8／32］",
+        "channelName": "🖥️┃server-dynamic［9／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 8,
+        "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 10:41:21",
+        "missionDate": "2024-10-31 10:45:16",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +222,7 @@
         },
         "slots": {
           "blue": {
-            "used": 7,
+            "used": 6,
             "total": 69
           },
           "red": {
@@ -223,9 +235,10 @@
           "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
           "MehmetYP",
-          "Tunay",
           "ı dont have money",
-          "⍟101\\-Longec\\[0007\\]⍟"
+          "⍟101\\-Longec\\[0007\\]⍟",
+          "101\\-DrakeN",
+          "MALIKalmo7anak"
         ],
         "playerDetails": [
           {
@@ -245,16 +258,20 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Tunay",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "ı dont have money",
             "unit": "Su-25T"
           },
           {
             "name": "⍟101\\-Longec\\[0007\\]⍟",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-DrakeN",
+            "unit": "--"
+          },
+          {
+            "name": "MALIKalmo7anak",
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -276,10 +293,6 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Tunay",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "ı dont have money",
               "unit": "Su-25T"
             },
@@ -289,7 +302,16 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-DrakeN",
+              "unit": "--"
+            },
+            {
+              "name": "MALIKalmo7anak",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -345,22 +367,22 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 17:47:51 UTC",
+        "lastUpdate": "26-02-17 17:52:29 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:01:44",
+      "missionDate": "2026-04-21 11:06:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -379,12 +401,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Veronayesun"
+      ],
+      "playerDetails": [
+        {
+          "name": "Veronayesun",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Veronayesun",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -440,11 +474,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:47:49 UTC",
+      "lastUpdate": "26-02-17 17:52:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T17:48:19.059Z"
+    "lastUpdated": "2026-02-17T17:53:20.251Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -455,7 +489,7 @@
           {
             "rank": 1,
             "name": "101-Yidobaba[0098]",
-            "credits": 5595
+            "credits": 5605
           },
           {
             "rank": 2,
@@ -479,12 +513,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 17683,
+          "totalCredits": 17593,
           "totalPlayers": 54,
           "activePilots": "5",
-          "highestScore": 5595
+          "highestScore": 5605
         },
-        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:40  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:50  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -494,7 +528,7 @@
         {
           "rank": 1,
           "name": "101-Yidobaba[0098]",
-          "credits": 5595
+          "credits": 5605
         },
         {
           "rank": 2,
@@ -518,17 +552,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 17683,
+        "totalCredits": 17593,
         "totalPlayers": 54,
         "activePilots": "5",
-        "highestScore": 5595
+        "highestScore": 5605
       },
-      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:40  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 20:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T17:48:19.188Z"
+    "lastUpdated": "2026-02-17T17:53:20.595Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T17:48:19.189Z",
+    "fetchedAt": "2026-02-17T17:53:20.595Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
