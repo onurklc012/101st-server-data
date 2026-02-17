@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:28:46",
+        "missionDate": "2026-04-21 08:33:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:14:49 UTC",
+        "lastUpdate": "26-02-17 21:19:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:18:40",
+        "missionDate": "2026-08-01 12:23:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:14:50 UTC",
+        "lastUpdate": "26-02-17 21:19:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［3／32］",
+        "channelName": "🖥️┃server-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:08:23",
+        "missionDate": "2024-10-31 08:13:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 69
           },
           "red": {
@@ -234,7 +234,7 @@
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "_ _"
+            "unit": "FA-18C_hornet"
           }
         ],
         "activePlayers": {
@@ -246,15 +246,14 @@
             {
               "name": "Aloske",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -310,7 +309,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:14:51 UTC",
+        "lastUpdate": "26-02-17 21:19:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -325,7 +324,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:28:46",
+      "missionDate": "2026-04-21 08:33:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -405,11 +404,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 21:14:49 UTC",
+      "lastUpdate": "26-02-17 21:19:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T21:15:10.597Z"
+    "lastUpdated": "2026-02-17T21:20:19.315Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -444,12 +443,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 20730,
+          "totalCredits": 20630,
           "totalPlayers": 58,
           "activePilots": "5",
           "highestScore": 7432
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -483,17 +482,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 20730,
+        "totalCredits": 20630,
         "totalPlayers": 58,
         "activePilots": "5",
         "highestScore": 7432
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:10  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T21:15:10.792Z"
+    "lastUpdated": "2026-02-17T21:20:19.531Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T21:15:10.792Z",
+    "fetchedAt": "2026-02-17T21:20:19.531Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
