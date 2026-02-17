@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:26:44",
+      "missionDate": "2026-04-21 10:31:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,12 +29,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Veronayesun"
+      ],
+      "playerDetails": [
+        {
+          "name": "Veronayesun",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Veronayesun",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -90,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:12:49 UTC",
+      "lastUpdate": "26-02-17 17:17:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +116,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:16:38",
+      "missionDate": "2026-08-01 14:21:38",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +208,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:12:50 UTC",
+      "lastUpdate": "26-02-17 17:17:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［9／32］",
+      "channelName": "🖥️┃server-dynamic［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 9,
+      "players": 10,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 10:06:21",
+      "missionDate": "2024-10-31 10:11:21",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -237,7 +249,8 @@
         "MehmetYP",
         "SarpSKULAR31",
         "TomCruiseMissile",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "figo53"
       ],
       "playerDetails": [
         {
@@ -271,6 +284,10 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "figo53",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -309,7 +326,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "figo53",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -365,22 +387,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:12:51 UTC",
+      "lastUpdate": "26-02-17 17:17:50 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:26:44",
+    "missionDate": "2026-04-21 10:31:44",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -399,12 +421,24 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Veronayesun"
+    ],
+    "playerDetails": [
+      {
+        "name": "Veronayesun",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Veronayesun",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -460,9 +494,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-17 17:12:49 UTC",
+    "lastUpdate": "26-02-17 17:17:49 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-17T17:12:59.729Z"
+  "lastUpdated": "2026-02-17T17:18:03.180Z"
 }
