@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:23:46",
+        "missionDate": "2026-04-21 08:28:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:09:49 UTC",
+        "lastUpdate": "26-02-17 21:14:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:13:40",
+        "missionDate": "2026-08-01 12:18:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:09:50 UTC",
+        "lastUpdate": "26-02-17 21:14:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:03:23",
+        "missionDate": "2024-10-31 08:08:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -220,7 +220,8 @@
         },
         "playerList": [
           "101ArmOn1453",
-          "Aloske"
+          "Aloske",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -230,6 +231,10 @@
           {
             "name": "Aloske",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -244,7 +249,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -300,7 +310,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 21:09:51 UTC",
+        "lastUpdate": "26-02-17 21:14:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -315,7 +325,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:23:46",
+      "missionDate": "2026-04-21 08:28:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -395,11 +405,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 21:09:49 UTC",
+      "lastUpdate": "26-02-17 21:14:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T21:10:07.044Z"
+    "lastUpdated": "2026-02-17T21:15:10.597Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -480,10 +490,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 18.02.2026 00:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T21:10:07.305Z"
+    "lastUpdated": "2026-02-17T21:15:10.792Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T21:10:07.305Z",
+    "fetchedAt": "2026-02-17T21:15:10.792Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
