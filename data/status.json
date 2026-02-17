@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［1／32］",
+        "channelName": "🖥️┃server-caucasus［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 1,
+        "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:31:44",
+        "missionDate": "2026-04-21 09:23:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 2,
             "total": 134
           },
           "red": {
@@ -30,10 +30,31 @@
             "total": 16
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-SKY",
+          "BARBARANAN"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-SKY",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "BARBARANAN",
+            "unit": "F-16C_50"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-SKY",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "BARBARANAN",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -91,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 15:17:49 UTC",
+        "lastUpdate": "26-02-17 16:09:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:21:38",
+        "missionDate": "2026-08-01 13:13:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 15:17:50 UTC",
+        "lastUpdate": "26-02-17 16:09:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［7／32］",
+        "channelName": "🖥️┃server-dynamic［9／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 7,
+        "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:11:21",
+        "missionDate": "2024-10-31 09:03:21",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -219,28 +240,26 @@
           }
         },
         "playerList": [
-          "101\\-SKY",
-          "101\\-Yidobaba\\[0098\\]",
-          "Can",
-          "ShadowEagle",
+          "003\\-Enes",
+          "101\\-Cuce \\[0011\\]",
+          "Omry",
           "TR Viper",
-          "Turkishviper"
+          "Turkishviper",
+          "Tğm\\.Denizci",
+          "101\\-MrMercans",
+          "kkrait"
         ],
         "playerDetails": [
           {
-            "name": "101\\-SKY",
-            "unit": "Mi-8MT"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          },
-          {
-            "name": "Can",
+            "name": "003\\-Enes",
             "unit": "F-16C_50"
           },
           {
-            "name": "ShadowEagle",
+            "name": "101\\-Cuce \\[0011\\]",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "Omry",
             "unit": "F-16C_50"
           },
           {
@@ -250,24 +269,32 @@
           {
             "name": "Turkishviper",
             "unit": "F-5E-3"
+          },
+          {
+            "name": "Tğm\\.Denizci",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "--"
+          },
+          {
+            "name": "kkrait",
+            "unit": "--"
           }
         ],
         "activePlayers": {
           "blue": [
             {
-              "name": "101\\-SKY",
-              "unit": "Mi-8MT"
-            },
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Su-30SM"
-            },
-            {
-              "name": "Can",
+              "name": "003\\-Enes",
               "unit": "F-16C_50"
             },
             {
-              "name": "ShadowEagle",
+              "name": "101\\-Cuce \\[0011\\]",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "Omry",
               "unit": "F-16C_50"
             },
             {
@@ -277,28 +304,41 @@
             {
               "name": "Turkishviper",
               "unit": "F-5E-3"
+            },
+            {
+              "name": "Tğm\\.Denizci",
+              "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "--"
+            },
+            {
+              "name": "kkrait",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
             "Airbases / FARPs": {
-              "blue": 22,
-              "red": 31
+              "blue": 23,
+              "red": 30
             },
             "Planes": {
-              "blue": 10,
-              "red": 3
+              "blue": 8,
+              "red": 7
             },
             "Helicopters": {
-              "blue": 2,
+              "blue": 1,
               "red": 0
             },
             "Ground Units": {
-              "blue": 116,
-              "red": 893
+              "blue": 124,
+              "red": 876
             },
             "Ships": {
               "blue": 8,
@@ -306,7 +346,7 @@
             },
             "Structures": {
               "blue": 35,
-              "red": 151
+              "red": 147
             }
           },
           "achievements": {
@@ -315,15 +355,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
-              "red": 0
+              "blue": 2,
+              "red": 2
             },
             "Downed Helicopters": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 0,
+              "blue": 20,
               "red": 0
             },
             "Sunken Ships": {
@@ -336,22 +376,22 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 15:17:51 UTC",
+        "lastUpdate": "26-02-17 16:09:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:31:44",
+      "missionDate": "2026-04-21 09:23:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -362,7 +402,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -370,10 +410,31 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-SKY",
+        "BARBARANAN"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-SKY",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "BARBARANAN",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-SKY",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "BARBARANAN",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -431,11 +492,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 15:17:49 UTC",
+      "lastUpdate": "26-02-17 16:09:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T15:18:44.529Z"
+    "lastUpdated": "2026-02-17T16:09:57.218Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -446,7 +507,7 @@
           {
             "rank": 1,
             "name": "101-Yidobaba[0098]**",
-            "credits": 5135
+            "credits": 5465
           },
           {
             "rank": 2,
@@ -470,12 +531,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 15640,
-          "totalPlayers": 46,
+          "totalCredits": 15863,
+          "totalPlayers": 48,
           "activePilots": "5",
-          "highestScore": 5135
+          "highestScore": 5465
         },
-        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 18:10  |  Her 10 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 19:00  |  Her 10 dk guncellenir"
       }
     ],
     "primary": {
@@ -485,7 +546,7 @@
         {
           "rank": 1,
           "name": "101-Yidobaba[0098]**",
-          "credits": 5135
+          "credits": 5465
         },
         {
           "rank": 2,
@@ -509,17 +570,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 15640,
-        "totalPlayers": 46,
+        "totalCredits": 15863,
+        "totalPlayers": 48,
         "activePilots": "5",
-        "highestScore": 5135
+        "highestScore": 5465
       },
-      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 18:10  |  Her 10 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 19:00  |  Her 10 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T15:18:44.676Z"
+    "lastUpdated": "2026-02-17T16:09:57.379Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T15:18:44.677Z",
+    "fetchedAt": "2026-02-17T16:09:57.380Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
