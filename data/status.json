@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:04:46",
+        "missionDate": "2026-04-21 10:09:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 0,
             "total": 134
           },
           "red": {
@@ -30,22 +30,10 @@
             "total": 16
           }
         },
-        "playerList": [
-          "101\\-Yidobaba\\[0098\\]"
-        ],
-        "playerDetails": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "F-16C_50"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "F-16C_50"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -103,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:50:49 UTC",
+        "lastUpdate": "26-02-17 22:55:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -117,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:54:40",
+        "missionDate": "2026-08-01 13:59:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:50:52 UTC",
+        "lastUpdate": "26-02-17 22:55:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +199,7 @@
         "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:44:23",
+        "missionDate": "2024-10-31 09:49:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -235,7 +223,8 @@
           "101\\-EMRE \\[0444\\]",
           "101chemisTR61",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "✯101\\-EffBee\\[0010\\]"
+          "✯101\\-EffBee\\[0010\\]",
+          "101 \\- Asil Turq \\[1919\\]"
         ],
         "playerDetails": [
           {
@@ -257,6 +246,10 @@
           {
             "name": "✯101\\-EffBee\\[0010\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -283,7 +276,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -339,7 +337,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 22:50:52 UTC",
+        "lastUpdate": "26-02-17 22:55:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -354,7 +352,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:04:46",
+      "missionDate": "2026-04-21 10:09:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -365,7 +363,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -373,22 +371,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "101\\-Yidobaba\\[0098\\]"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -446,11 +432,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 22:50:49 UTC",
+      "lastUpdate": "26-02-17 22:55:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T22:50:55.750Z"
+    "lastUpdated": "2026-02-17T22:55:57.961Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -531,10 +517,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 18.02.2026 01:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T22:50:56.135Z"
+    "lastUpdated": "2026-02-17T22:55:58.168Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T22:50:56.136Z",
+    "fetchedAt": "2026-02-17T22:55:58.169Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
