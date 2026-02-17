@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:09:44",
+        "missionDate": "2026-04-21 10:11:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:55:49 UTC",
+        "lastUpdate": "26-02-17 16:57:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:59:38",
+        "missionDate": "2026-08-01 14:01:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,21 +197,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:55:50 UTC",
+        "lastUpdate": "26-02-17 16:57:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［8／32］",
+        "channelName": "🖥️┃server-dynamic［9／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 8,
+        "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:49:21",
+        "missionDate": "2024-10-31 09:51:21",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -222,7 +222,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 7,
             "total": 69
           },
           "red": {
@@ -237,7 +237,8 @@
           "Me1e27",
           "MehmetYP",
           "SarpSKULAR31",
-          "cassaba"
+          "cassaba",
+          "TomCruiseMissile"
         ],
         "playerDetails": [
           {
@@ -267,6 +268,10 @@
           {
             "name": "cassaba",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "TomCruiseMissile",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -301,7 +306,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "TomCruiseMissile",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -357,7 +367,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 16:55:51 UTC",
+        "lastUpdate": "26-02-17 16:57:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -372,7 +382,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:09:44",
+      "missionDate": "2026-04-21 10:11:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -452,11 +462,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 16:55:49 UTC",
+      "lastUpdate": "26-02-17 16:57:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T16:56:28.955Z"
+    "lastUpdated": "2026-02-17T16:58:48.078Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -537,10 +547,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 17.02.2026 19:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T16:56:29.144Z"
+    "lastUpdated": "2026-02-17T16:58:48.196Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T16:56:29.145Z",
+    "fetchedAt": "2026-02-17T16:58:48.197Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
