@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:36:44",
+      "missionDate": "2026-04-21 10:41:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -36,24 +36,25 @@
       "playerDetails": [
         {
           "name": "MehmetYP",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "Veronayesun",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "MehmetYP",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": [
           {
-            "name": "MehmetYP",
-            "unit": "--"
-          },
-          {
             "name": "Veronayesun",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -111,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:22:49 UTC",
+      "lastUpdate": "26-02-17 17:27:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +126,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:26:38",
+      "missionDate": "2026-08-01 14:31:38",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -217,7 +218,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:22:50 UTC",
+      "lastUpdate": "26-02-17 17:27:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -231,7 +232,7 @@
       "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 10:16:21",
+      "missionDate": "2024-10-31 10:21:21",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -242,7 +243,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 6,
           "total": 69
         },
         "red": {
@@ -255,8 +256,8 @@
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
         "Me1e27",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "figo53"
+        "ı dont have money",
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
         {
@@ -269,19 +270,19 @@
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "UH-1H"
+          "unit": "Su-30SM"
         },
         {
           "name": "Me1e27",
           "unit": "Su-25T"
         },
         {
-          "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "F-16C_50"
+          "name": "ı dont have money",
+          "unit": "Su-25T"
         },
         {
-          "name": "figo53",
-          "unit": "_ _"
+          "name": "⍟101\\-Longec\\[0007\\]⍟",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -296,10 +297,14 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "UH-1H"
+            "unit": "Su-30SM"
           },
           {
             "name": "Me1e27",
+            "unit": "Su-25T"
+          },
+          {
+            "name": "ı dont have money",
             "unit": "Su-25T"
           },
           {
@@ -308,12 +313,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "figo53",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -369,7 +369,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 17:22:51 UTC",
+      "lastUpdate": "26-02-17 17:27:51 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -384,7 +384,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:36:44",
+    "missionDate": "2026-04-21 10:41:44",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -395,7 +395,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -410,24 +410,25 @@
     "playerDetails": [
       {
         "name": "MehmetYP",
-        "unit": "--"
+        "unit": "F-16C_50"
       },
       {
         "name": "Veronayesun",
-        "unit": "--"
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "MehmetYP",
+          "unit": "F-16C_50"
+        }
+      ],
       "red": [],
       "neutral": [
         {
-          "name": "MehmetYP",
-          "unit": "--"
-        },
-        {
           "name": "Veronayesun",
-          "unit": "--"
+          "unit": "_ _"
         }
       ]
     },
@@ -485,9 +486,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-17 17:22:49 UTC",
+    "lastUpdate": "26-02-17 17:27:49 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-17T17:23:05.333Z"
+  "lastUpdated": "2026-02-17T17:28:07.798Z"
 }
