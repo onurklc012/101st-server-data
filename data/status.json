@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 12:52:44",
+        "missionDate": "2026-04-21 12:57:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 19:38:49 UTC",
+        "lastUpdate": "26-02-17 19:43:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 16:42:38",
+        "missionDate": "2026-08-01 16:47:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 19:38:50 UTC",
+        "lastUpdate": "26-02-17 19:43:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［5／32］",
+        "channelName": "🖥️┃server-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 5,
+        "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:38:14",
+        "missionDate": "2024-10-31 09:43:14",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 69
           },
           "red": {
@@ -218,12 +218,52 @@
             "total": 2
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-MrMercans",
+          "101\\-Yidobaba\\[0098\\]",
+          "⍟101\\-Longec\\[0007\\]⍟",
+          "101 \\- Asil Turq \\[1919\\]"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-MrMercans",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "⍟101\\-Longec\\[0007\\]⍟",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "⍟101\\-Longec\\[0007\\]⍟",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -279,7 +319,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-17 19:38:51 UTC",
+        "lastUpdate": "26-02-17 19:43:51 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -294,7 +334,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:52:44",
+      "missionDate": "2026-04-21 12:57:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -374,11 +414,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-17 19:38:49 UTC",
+      "lastUpdate": "26-02-17 19:43:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-17T19:39:23.941Z"
+    "lastUpdated": "2026-02-17T19:44:23.491Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -418,7 +458,7 @@
           "activePilots": "5",
           "highestScore": 6417
         },
-        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 22:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 17.02.2026 22:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -457,12 +497,12 @@
         "activePilots": "5",
         "highestScore": 6417
       },
-      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 22:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 17.02.2026 22:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-17T19:39:24.171Z"
+    "lastUpdated": "2026-02-17T19:44:23.652Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-17T19:39:24.171Z",
+    "fetchedAt": "2026-02-17T19:44:23.652Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
