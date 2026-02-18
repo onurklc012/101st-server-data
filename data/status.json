@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:39:09",
+        "missionDate": "2026-04-21 10:44:09",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:24:57 UTC",
+        "lastUpdate": "26-02-18 17:29:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:29:03",
+        "missionDate": "2026-08-01 14:34:03",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:24:58 UTC",
+        "lastUpdate": "26-02-18 17:29:58 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［7／32］",
+        "channelName": "🖥️┃server-dynamic［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 7,
+        "players": 8,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 10:18:49",
+        "missionDate": "2024-10-31 10:23:49",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -224,7 +224,8 @@
           "101\\-Yidobaba\\[0098\\]",
           "101chemisTR61",
           "Jahkenix",
-          "ShadowEagle"
+          "ShadowEagle",
+          "cassaba"
         ],
         "playerDetails": [
           {
@@ -250,6 +251,10 @@
           {
             "name": "ShadowEagle",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "cassaba",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -280,7 +285,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "cassaba",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -336,7 +346,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:24:58 UTC",
+        "lastUpdate": "26-02-18 17:29:58 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -351,7 +361,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:39:09",
+      "missionDate": "2026-04-21 10:44:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -431,11 +441,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 17:24:57 UTC",
+      "lastUpdate": "26-02-18 17:29:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T17:25:15.453Z"
+    "lastUpdated": "2026-02-18T17:30:26.822Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -475,7 +485,7 @@
           "activePilots": "5",
           "highestScore": 8502
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 20:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 20:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -514,12 +524,12 @@
         "activePilots": "5",
         "highestScore": 8502
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 20:20  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 20:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T17:25:15.647Z"
+    "lastUpdated": "2026-02-18T17:30:26.957Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T17:25:15.647Z",
+    "fetchedAt": "2026-02-18T17:30:26.958Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
