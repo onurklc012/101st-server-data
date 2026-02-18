@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:24:09",
+        "missionDate": "2026-04-21 10:29:09",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:09:57 UTC",
+        "lastUpdate": "26-02-18 17:14:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:14:03",
+        "missionDate": "2026-08-01 14:19:03",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:09:58 UTC",
+        "lastUpdate": "26-02-18 17:14:58 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 10:03:49",
+        "missionDate": "2024-10-31 10:08:49",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -223,7 +223,8 @@
           "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
           "101chemisTR61",
-          "ShadowEagle"
+          "ShadowEagle",
+          "Jahkenix"
         ],
         "playerDetails": [
           {
@@ -232,11 +233,11 @@
           },
           {
             "name": "101\\-MrMercans",
-            "unit": "F-16C_50"
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Ka-50_3"
+            "unit": "AH-64D_BLK_II"
           },
           {
             "name": "101chemisTR61",
@@ -245,6 +246,10 @@
           {
             "name": "ShadowEagle",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Jahkenix",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -255,11 +260,11 @@
             },
             {
               "name": "101\\-MrMercans",
-              "unit": "F-16C_50"
+              "unit": "AH-64D_BLK_II (crew)"
             },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Ka-50_3"
+              "unit": "AH-64D_BLK_II"
             },
             {
               "name": "101chemisTR61",
@@ -271,7 +276,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Jahkenix",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -327,7 +337,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 17:09:58 UTC",
+        "lastUpdate": "26-02-18 17:14:58 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -342,7 +352,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:24:09",
+      "missionDate": "2026-04-21 10:29:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -422,11 +432,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 17:09:57 UTC",
+      "lastUpdate": "26-02-18 17:14:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T17:10:25.836Z"
+    "lastUpdated": "2026-02-18T17:15:20.743Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -507,10 +517,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 18.02.2026 20:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T17:10:26.022Z"
+    "lastUpdated": "2026-02-18T17:15:20.947Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T17:10:26.023Z",
+    "fetchedAt": "2026-02-18T17:15:20.948Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
