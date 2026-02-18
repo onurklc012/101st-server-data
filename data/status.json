@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［1／32］",
+        "channelName": "🖥️┃server-caucasus［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 1,
+        "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:15:00",
+        "missionDate": "2026-04-21 08:19:34",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,11 +22,11 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 1,
             "total": 16
           }
         },
@@ -37,26 +37,27 @@
         "playerDetails": [
           {
             "name": "Shadow 0\\-1 John Wick",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "WiRaN",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "Shadow 0\\-1 John Wick",
-              "unit": "--"
-            },
+              "unit": "F-16C_50"
+            }
+          ],
+          "red": [
             {
               "name": "WiRaN",
-              "unit": "--"
+              "unit": "FA-18C_hornet"
             }
-          ]
+          ],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -65,11 +66,11 @@
               "red": 23
             },
             "Planes": {
-              "blue": 8,
+              "blue": 7,
               "red": 18
             },
             "Helicopters": {
-              "blue": 3,
+              "blue": 2,
               "red": 2
             },
             "Ground Units": {
@@ -92,7 +93,7 @@
             },
             "Killed Planes": {
               "blue": 0,
-              "red": 1
+              "red": 0
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -112,7 +113,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 21:00:27 UTC",
+        "lastUpdate": "26-02-18 21:04:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +127,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:05:00",
+        "missionDate": "2026-08-01 12:09:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -160,7 +161,7 @@
             },
             "Planes": {
               "blue": 9,
-              "red": 26
+              "red": 28
             },
             "Helicopters": {
               "blue": 0,
@@ -206,84 +207,110 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 21:00:28 UTC",
+        "lastUpdate": "26-02-18 21:04:57 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
-        "online": false,
-        "channelName": "🖥️┃server-dynamic［9／32］",
+        "online": true,
+        "channelName": "🖥️┃server-dynamic［7／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
-        "players": 9,
+        "serverIP": "88.247.164.234:10310",
+        "mission": "101 Hunters SQN \\- Modern Warfare_v1",
+        "map": "Caucasus",
+        "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionDate": "2024-10-31 07:59:16",
+        "weather": {
+          "temperature": "6.6°C",
+          "qnh": "1022 hPa",
+          "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "50° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 6,
+            "total": 69
+          },
+          "red": {
+            "used": 0,
+            "total": 2
+          }
+        },
         "playerList": [
-          "101ArmOn1453",
+          "101 \\- Asil Turq \\[1919\\]",
           "101\\-Cuce \\[0011\\]",
           "101\\-Nos",
           "101\\-Yidobaba\\[0098\\]",
           "EMİRHAN",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101ArmOn1453"
         ],
         "playerDetails": [
           {
-            "name": "101ArmOn1453",
-            "unit": "--"
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
           },
           {
             "name": "101\\-Cuce \\[0011\\]",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "101\\-Nos",
-            "unit": "--"
+            "unit": "C-130J-30"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "EMİRHAN",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "101\\-Cuce \\[0011\\]",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "101\\-Nos",
+              "unit": "C-130J-30"
+            },
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "EMİRHAN",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "FA-18C_hornet"
+            }
+          ],
           "red": [],
           "neutral": [
             {
               "name": "101ArmOn1453",
-              "unit": "--"
-            },
-            {
-              "name": "101\\-Cuce \\[0011\\]",
-              "unit": "--"
-            },
-            {
-              "name": "101\\-Nos",
-              "unit": "--"
-            },
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "--"
-            },
-            {
-              "name": "EMİRHAN",
-              "unit": "--"
-            },
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "--"
+              "unit": "_ _"
             }
           ]
         },
@@ -341,22 +368,22 @@
             }
           }
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-02-18 21:04:58 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:15:00",
+      "missionDate": "2026-04-21 08:19:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -367,11 +394,11 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
@@ -382,26 +409,27 @@
       "playerDetails": [
         {
           "name": "Shadow 0\\-1 John Wick",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "WiRaN",
-          "unit": "--"
+          "unit": "FA-18C_hornet"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "Shadow 0\\-1 John Wick",
-            "unit": "--"
-          },
+            "unit": "F-16C_50"
+          }
+        ],
+        "red": [
           {
             "name": "WiRaN",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
           }
-        ]
+        ],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -410,11 +438,11 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
+            "blue": 7,
             "red": 18
           },
           "Helicopters": {
-            "blue": 3,
+            "blue": 2,
             "red": 2
           },
           "Ground Units": {
@@ -437,7 +465,7 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -457,11 +485,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:00:27 UTC",
+      "lastUpdate": "26-02-18 21:04:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T21:00:33.541Z"
+    "lastUpdated": "2026-02-18T21:05:36.374Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -542,10 +570,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T21:00:33.732Z"
+    "lastUpdated": "2026-02-18T21:05:37.181Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T21:00:33.733Z",
+    "fetchedAt": "2026-02-18T21:05:37.181Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
