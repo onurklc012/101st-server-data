@@ -417,10 +417,53 @@ function parseLeaderboardMessages(messages, channelName) {
 }
 
 
+
+// ─── Online Status Detection ────────────────────────────────────────────
+// Discord REST API doesn't provide per-member presence.
+// We use the Guild Widget to detect who's online.
+
+async function enableGuildWidget() {
+    try {
+        await fetch(`${API_BASE}/guilds/${GUILD_ID}`, {
+            method: 'PATCH',
+            headers: {
+                ...headers,
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ widget_enabled: true }),
+        });
+        console.log('  ✅ Guild widget enabled');
+    } catch (err) {
+        console.log('  ⚠️ Could not enable widget:', err.message);
+    }
+}
+
+async function getOnlineMemberNames() {
+    try {
+        // Widget endpoint is public, no auth needed
+        const res = await fetch(`https://discord.com/api/v10/guilds/${GUILD_ID}/widget.json`);
+        if (!res.ok) {
+            console.log('  ⚠️ Widget not available:', res.status);
+            return new Set();
+        }
+        const widget = await res.json();
+        // Widget returns members with their server nickname as 'username'
+        const onlineNames = new Set(widget.members.map(m => m.username));
+        console.log(`  ✅ Widget: ${onlineNames.size} online members detected`);
+        return onlineNames;
+    } catch (err) {
+        console.log('  ⚠️ Widget fetch failed:', err.message);
+        return new Set();
+    }
+}
+
 // ─── Discord Members ──────────────────────────────────────────────────
 
 async function fetchDiscordMembers() {
     console.log('Fetching guild members...');
+        // Enable widget and get online members
+        await enableGuildWidget();
+        const onlineNames = await getOnlineMemberNames();
     try {
         const guild = await discordGet(`/guilds/${GUILD_ID}?with_counts=true`);
         const guildName = guild.name || '';
@@ -465,6 +508,7 @@ async function fetchDiscordMembers() {
                 return name && name.includes('101');
             })
             .map(m => {
+                const displayName = m.nick || m.user.global_name || m.user.username;
                 const userRoles = (m.roles || [])
                     .map(rid => roleMap[rid])
                     .filter(Boolean)
@@ -473,14 +517,16 @@ async function fetchDiscordMembers() {
                 return {
                     id: m.user.id,
                     username: m.user.username,
-                    displayName: m.nick || m.user.global_name || m.user.username,
+                    displayName,
                     avatar: m.user.avatar
                         ? `https://cdn.discordapp.com/avatars/${m.user.id}/${m.user.avatar}.png?size=128`
                         : null,
                     roles: userRoles.map(r => ({ id: r.id, name: r.name, color: r.color, icon: r.icon, position: r.position })),
                     topRole: topRole ? { id: topRole.id, name: topRole.name, color: topRole.color, position: topRole.position } : null,
                     joinedAt: m.joined_at,
-                    status: m.status || null,
+                    status: onlineNames.size > 0
+                        ? (onlineNames.has(displayName) ? 'online' : 'offline')
+                        : null,
                     activity: null,
                 };
             })
