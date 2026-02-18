@@ -460,6 +460,10 @@ async function fetchDiscordMembers() {
         // Build member list
         const members = allMembers
             .filter(m => !m.user.bot)
+            .filter(m => {
+                const name = m.nick || m.user.global_name || m.user.username;
+                return name && name.includes('101');
+            })
             .map(m => {
                 const userRoles = (m.roles || [])
                     .map(rid => roleMap[rid])
