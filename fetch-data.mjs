@@ -477,16 +477,16 @@ async function fetchDiscordMembers() {
                     avatar: m.user.avatar
                         ? `https://cdn.discordapp.com/avatars/${m.user.id}/${m.user.avatar}.png?size=128`
                         : null,
-                    roles: userRoles.map(r => ({ name: r.name, color: r.color, icon: r.icon })),
-                    topRole: topRole ? { name: topRole.name, color: topRole.color } : null,
+                    roles: userRoles.map(r => ({ id: r.id, name: r.name, color: r.color, icon: r.icon, position: r.position })),
+                    topRole: topRole ? { id: topRole.id, name: topRole.name, color: topRole.color, position: topRole.position } : null,
                     joinedAt: m.joined_at,
                     status: m.status || null,
                     activity: null,
                 };
             })
             .sort((a, b) => {
-                const aPos = a.roles.length > 0 ? a.roles[0].position || 0 : -1;
-                const bPos = b.roles.length > 0 ? b.roles[0].position || 0 : -1;
+                const aPos = a.topRole ? a.topRole.position || 0 : -1;
+                const bPos = b.topRole ? b.topRole.position || 0 : -1;
                 return bPos - aPos;
             });
 
