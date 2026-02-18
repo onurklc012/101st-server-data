@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:54:34",
+      "missionDate": "2026-04-21 08:59:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:39:57 UTC",
+      "lastUpdate": "26-02-18 21:44:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -126,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:44:29",
+      "missionDate": "2026-08-01 12:49:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,21 +206,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:39:59 UTC",
+      "lastUpdate": "26-02-18 21:44:58 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［6／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 6,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:34:16",
+      "missionDate": "2024-10-31 08:39:16",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -231,7 +231,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -241,18 +241,14 @@
       },
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
-        "101ArmOn1453",
         "101\\-Cuce \\[0011\\]",
         "101\\-Yidobaba\\[0098\\]",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101ArmOn1453"
       ],
       "playerDetails": [
         {
           "name": "101 \\- Asil Turq \\[1919\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101ArmOn1453",
           "unit": "F-16C_50"
         },
         {
@@ -266,16 +262,16 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101ArmOn1453",
             "unit": "F-16C_50"
           },
           {
@@ -292,7 +288,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -302,15 +303,15 @@
           },
           "Planes": {
             "blue": 8,
-            "red": 10
+            "red": 9
           },
           "Helicopters": {
             "blue": 0,
-            "red": 3
+            "red": 8
           },
           "Ground Units": {
             "blue": 313,
-            "red": 665
+            "red": 660
           },
           "Ships": {
             "blue": 10,
@@ -327,15 +328,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 2,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 17,
+            "blue": 22,
             "red": 0
           },
           "Sunken Ships": {
@@ -348,7 +349,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:39:59 UTC",
+      "lastUpdate": "26-02-18 21:45:37 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -363,7 +364,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:54:34",
+    "missionDate": "2026-04-21 08:59:34",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -465,9 +466,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 21:39:57 UTC",
+    "lastUpdate": "26-02-18 21:44:57 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T21:40:17.281Z"
+  "lastUpdated": "2026-02-18T21:45:46.189Z"
 }
