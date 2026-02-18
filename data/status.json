@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:49:09",
+        "missionDate": "2026-04-21 13:54:09",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:34:57 UTC",
+        "lastUpdate": "26-02-18 20:39:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:39:03",
+        "missionDate": "2026-08-01 17:44:03",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -139,7 +139,7 @@
             },
             "Planes": {
               "blue": 9,
-              "red": 28
+              "red": 26
             },
             "Helicopters": {
               "blue": 0,
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:34:58 UTC",
+        "lastUpdate": "26-02-18 20:39:57 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 14,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:20:39",
+        "missionDate": "2024-10-31 08:25:39",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 12,
+            "used": 10,
             "total": 69
           },
           "red": {
@@ -222,16 +222,14 @@
           "101 \\- Asil Turq \\[1919\\]",
           "101ArmOn1453",
           "101\\-Cuce \\[0011\\]",
-          "101\\-Maskot\\(0019\\)",
           "101\\-MrMercans",
           "101\\-Nos",
           "101\\-Yidobaba\\[0098\\]",
-          "101\\-zeshka\\[0035\\]",
           "113 \\- Makina",
           "113 \\- Slazey",
           "EMİRHAN",
-          "Omry",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101\\-zeshka\\[0035\\]"
         ],
         "playerDetails": [
           {
@@ -247,10 +245,6 @@
             "unit": "FA-18C_hornet"
           },
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-MrMercans",
             "unit": "F-16C_50"
           },
@@ -261,10 +255,6 @@
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "UH-1H"
-          },
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "F-16C_50"
           },
           {
             "name": "113 \\- Makina",
@@ -279,12 +269,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Omry",
-            "unit": "F-16C_50"
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "FA-18C_hornet"
           },
           {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -302,10 +292,6 @@
               "unit": "FA-18C_hornet"
             },
             {
-              "name": "101\\-Maskot\\(0019\\)",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "101\\-MrMercans",
               "unit": "F-16C_50"
             },
@@ -316,10 +302,6 @@
             {
               "name": "101\\-Yidobaba\\[0098\\]",
               "unit": "UH-1H"
-            },
-            {
-              "name": "101\\-zeshka\\[0035\\]",
-              "unit": "F-16C_50"
             },
             {
               "name": "113 \\- Makina",
@@ -334,16 +316,17 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Omry",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "F-16C_50"
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-zeshka\\[0035\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -352,23 +335,23 @@
               "red": 23
             },
             "Planes": {
-              "blue": 11,
-              "red": 11
+              "blue": 10,
+              "red": 3
             },
             "Helicopters": {
-              "blue": 5,
-              "red": 9
+              "blue": 2,
+              "red": 4
             },
             "Ground Units": {
-              "blue": 231,
-              "red": 779
+              "blue": 232,
+              "red": 679
             },
             "Ships": {
               "blue": 10,
-              "red": 1
+              "red": 0
             },
             "Structures": {
-              "blue": 43,
+              "blue": 35,
               "red": 150
             }
           },
@@ -378,19 +361,19 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 11,
-              "red": 16
+              "blue": 2,
+              "red": 7
             },
             "Downed Helicopters": {
-              "blue": 1,
-              "red": 3
+              "blue": 0,
+              "red": 0
             },
             "Ground Shacks": {
-              "blue": 39,
+              "blue": 70,
               "red": 0
             },
             "Sunken Ships": {
-              "blue": 1,
+              "blue": 0,
               "red": 0
             },
             "Demolished Structures": {
@@ -399,7 +382,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:34:58 UTC",
+        "lastUpdate": "26-02-18 20:39:58 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -414,7 +397,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:49:09",
+      "missionDate": "2026-04-21 13:54:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -494,11 +477,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 20:34:57 UTC",
+      "lastUpdate": "26-02-18 20:39:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T20:35:22.295Z"
+    "lastUpdated": "2026-02-18T20:40:20.577Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -533,12 +516,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 23799,
+          "totalCredits": 24277,
           "totalPlayers": 62,
           "activePilots": "5",
           "highestScore": 8812
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -572,17 +555,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 23799,
+        "totalCredits": 24277,
         "totalPlayers": 62,
         "activePilots": "5",
         "highestScore": 8812
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T20:35:22.488Z"
+    "lastUpdated": "2026-02-18T20:40:20.788Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T20:35:22.489Z",
+    "fetchedAt": "2026-02-18T20:40:20.789Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
