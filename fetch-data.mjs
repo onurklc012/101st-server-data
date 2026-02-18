@@ -416,9 +416,6 @@ function parseLeaderboardMessages(messages, channelName) {
     };
 }
 
-
-
-
 // ─── Main ─────────────────────────────────────────────
 
 async function main() {
@@ -450,10 +447,6 @@ async function main() {
     }
 
     
-    // Fetch Discord members
-    console.log('\n─── Discord Members ───');
-    const membersData = await fetchDiscordMembers();
-    console.log(`  ✅ Got ${membersData.members.length} members`);
 
     // Write JSON files
     writeFileSync('data/server-status.json', JSON.stringify(serverStatus, null, 2));
