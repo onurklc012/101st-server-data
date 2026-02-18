@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:54:09",
+      "missionDate": "2026-04-21 12:59:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:39:57 UTC",
+      "lastUpdate": "26-02-18 19:44:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:44:03",
+      "missionDate": "2026-08-01 16:49:03",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:39:57 UTC",
+      "lastUpdate": "26-02-18 19:44:57 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:33:49",
+      "missionDate": "2024-10-31 12:38:49",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -219,7 +219,9 @@
       },
       "playerList": [
         "101\\-MrMercans",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101ArmOn1453",
+        "101\\-Nos"
       ],
       "playerDetails": [
         {
@@ -229,6 +231,14 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "--"
+        },
+        {
+          "name": "101\\-Nos",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -243,7 +253,16 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "--"
+          },
+          {
+            "name": "101\\-Nos",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -252,7 +271,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
+            "blue": 8,
             "red": 11
           },
           "Helicopters": {
@@ -299,7 +318,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:39:58 UTC",
+      "lastUpdate": "26-02-18 19:45:37 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -314,7 +333,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:54:09",
+    "missionDate": "2026-04-21 12:59:09",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -394,9 +413,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 19:39:57 UTC",
+    "lastUpdate": "26-02-18 19:44:57 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T19:40:18.065Z"
+  "lastUpdated": "2026-02-18T19:45:41.474Z"
 }
