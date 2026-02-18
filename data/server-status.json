@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:06:34",
+      "missionDate": "2026-04-21 09:09:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:51:57 UTC",
+      "lastUpdate": "26-02-18 21:54:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -126,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:56:29",
+      "missionDate": "2026-08-01 12:59:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +206,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:51:58 UTC",
+      "lastUpdate": "26-02-18 21:54:57 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -220,7 +220,7 @@
       "players": 8,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:46:16",
+      "missionDate": "2024-10-31 08:49:16",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -231,7 +231,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 7,
           "total": 69
         },
         "red": {
@@ -244,7 +244,9 @@
         "101ArmOn1453",
         "101\\-Cuce \\[0011\\]",
         "101\\-Yidobaba\\[0098\\]",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "151\\-Pentecsot",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "faatih0"
       ],
       "playerDetails": [
         {
@@ -261,10 +263,18 @@
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "FA-18C_hornet"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "151\\-Pentecsot",
+          "unit": "F-16C_50"
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "faatih0",
           "unit": "F-16C_50"
         }
       ],
@@ -284,10 +294,18 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "FA-18C_hornet"
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "151\\-Pentecsot",
+            "unit": "F-16C_50"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "faatih0",
             "unit": "F-16C_50"
           }
         ],
@@ -348,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:51:58 UTC",
+      "lastUpdate": "26-02-18 21:54:58 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -363,7 +381,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:06:34",
+    "missionDate": "2026-04-21 09:09:34",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -465,9 +483,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 21:51:57 UTC",
+    "lastUpdate": "26-02-18 21:54:57 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T21:52:19.641Z"
+  "lastUpdated": "2026-02-18T21:55:17.082Z"
 }
