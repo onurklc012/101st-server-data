@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:44:09",
+        "missionDate": "2026-04-21 11:49:09",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 18:29:57 UTC",
+        "lastUpdate": "26-02-18 18:34:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:34:03",
+        "missionDate": "2026-08-01 15:39:03",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 18:29:58 UTC",
+        "lastUpdate": "26-02-18 18:34:58 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 11:23:49",
+        "missionDate": "2024-10-31 11:28:49",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -221,7 +221,8 @@
         "playerList": [
           "101 \\- Asil Turq \\[1919\\]",
           "Omry",
-          "ShadowEagle"
+          "ShadowEagle",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -235,6 +236,10 @@
           {
             "name": "ShadowEagle",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -253,7 +258,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -262,16 +272,16 @@
               "red": 23
             },
             "Planes": {
-              "blue": 9,
-              "red": 15
+              "blue": 8,
+              "red": 14
             },
             "Helicopters": {
               "blue": 5,
-              "red": 4
+              "red": 6
             },
             "Ground Units": {
               "blue": 226,
-              "red": 763
+              "red": 778
             },
             "Ships": {
               "blue": 10,
@@ -288,7 +298,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 5,
+              "blue": 6,
               "red": 8
             },
             "Downed Helicopters": {
@@ -309,7 +319,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 18:29:58 UTC",
+        "lastUpdate": "26-02-18 18:34:59 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -324,7 +334,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:44:09",
+      "missionDate": "2026-04-21 11:49:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -404,11 +414,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 18:29:57 UTC",
+      "lastUpdate": "26-02-18 18:34:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T18:30:24.392Z"
+    "lastUpdated": "2026-02-18T18:35:16.568Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -489,10 +499,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 18.02.2026 21:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T18:30:24.511Z"
+    "lastUpdated": "2026-02-18T18:35:16.882Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T18:30:24.511Z",
+    "fetchedAt": "2026-02-18T18:35:16.882Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
