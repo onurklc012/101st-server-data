@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:49:09",
+      "missionDate": "2026-04-21 12:54:09",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:34:57 UTC",
+      "lastUpdate": "26-02-18 19:39:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:39:03",
+      "missionDate": "2026-08-01 16:44:03",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:34:58 UTC",
+      "lastUpdate": "26-02-18 19:39:57 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:28:49",
+      "missionDate": "2024-10-31 12:33:49",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -218,33 +218,32 @@
         }
       },
       "playerList": [
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "101\\-MrMercans"
+        "101\\-MrMercans",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "F-16C_50"
+          "name": "101\\-MrMercans",
+          "unit": "FA-18C_hornet"
         },
         {
-          "name": "101\\-MrMercans",
-          "unit": "_ _"
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-MrMercans",
+            "unit": "FA-18C_hornet"
+          },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-MrMercans",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -300,7 +299,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 19:34:58 UTC",
+      "lastUpdate": "26-02-18 19:39:58 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -315,7 +314,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:49:09",
+    "missionDate": "2026-04-21 12:54:09",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -395,9 +394,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 19:34:57 UTC",
+    "lastUpdate": "26-02-18 19:39:57 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T19:35:17.622Z"
+  "lastUpdated": "2026-02-18T19:40:18.065Z"
 }
