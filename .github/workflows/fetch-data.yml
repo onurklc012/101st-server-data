@@ -3,13 +3,11 @@ name: Fetch DCS Server Data
 on:
   schedule:
     - cron: '*/5 * * * *'
-  push:
-    branches: [master]
   workflow_dispatch:
 
 concurrency:
   group: fetch-data
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -22,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -38,6 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin master
           git add data/
           git diff --cached --quiet || git commit -m "🔄 Auto-update server data [$(date -u +'%Y-%m-%d %H:%M UTC')]"
           git push
