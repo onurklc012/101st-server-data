@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 14:09:09",
+        "missionDate": "2026-04-21 08:15:00",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -30,12 +30,33 @@
             "total": 16
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "Shadow 0\\-1 John Wick",
+          "WiRaN"
+        ],
+        "playerDetails": [
+          {
+            "name": "Shadow 0\\-1 John Wick",
+            "unit": "--"
+          },
+          {
+            "name": "WiRaN",
+            "unit": "--"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Shadow 0\\-1 John Wick",
+              "unit": "--"
+            },
+            {
+              "name": "WiRaN",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -91,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:54:57 UTC",
+        "lastUpdate": "26-02-18 21:00:27 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:59:03",
+        "missionDate": "2026-08-01 12:05:00",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,147 +206,86 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:54:57 UTC",
+        "lastUpdate": "26-02-18 21:00:28 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
-        "online": true,
-        "channelName": "🖥️┃server-dynamic［13／32］",
+        "online": false,
+        "channelName": "🖥️┃server-dynamic［9／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": "88.247.164.234:10310",
-        "mission": "101 Hunters SQN \\- Modern Warfare_v1",
-        "map": "Caucasus",
-        "players": 13,
+        "serverIP": null,
+        "mission": "--",
+        "map": "--",
+        "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:40:39",
-        "weather": {
-          "temperature": "6.6°C",
-          "qnh": "1022 hPa",
-          "clouds": "Two Layers Scattered Large Clouds High Ceiling",
-          "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
-          "wind": "50° / 4 kts"
-        },
-        "slots": {
-          "blue": {
-            "used": 11,
-            "total": 69
-          },
-          "red": {
-            "used": 0,
-            "total": 2
-          }
-        },
+        "missionDate": null,
+        "weather": null,
+        "slots": null,
         "playerList": [
-          "101 \\- Asil Turq \\[1919\\]",
           "101ArmOn1453",
           "101\\-Cuce \\[0011\\]",
-          "101\\-MrMercans",
           "101\\-Nos",
           "101\\-Yidobaba\\[0098\\]",
-          "101\\-zeshka\\[0035\\]",
-          "113 \\- Makina",
-          "113 \\- Slazey",
           "EMİRHAN",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
-            "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101ArmOn1453",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "101\\-Cuce \\[0011\\]",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-MrMercans",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "101\\-Nos",
-            "unit": "C-130J-30"
+            "unit": "--"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "113 \\- Makina",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "113 \\- Slazey",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "EMİRHAN",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "FA-18C_hornet"
+            "unit": "--"
           }
         ],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101 \\- Asil Turq \\[1919\\]",
-              "unit": "F-16C_50"
-            },
+          "blue": [],
+          "red": [],
+          "neutral": [
             {
               "name": "101ArmOn1453",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "101\\-Cuce \\[0011\\]",
-              "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "101\\-MrMercans",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "101\\-Nos",
-              "unit": "C-130J-30"
+              "unit": "--"
             },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "101\\-zeshka\\[0035\\]",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "113 \\- Makina",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "113 \\- Slazey",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "EMİRHAN",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "FA-18C_hornet"
+              "unit": "--"
             }
-          ],
-          "red": [],
-          "neutral": []
+          ]
         },
         "missionStats": {
           "situation": {
@@ -381,7 +341,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 20:54:58 UTC",
+        "lastUpdate": null,
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -396,7 +356,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:09:09",
+      "missionDate": "2026-04-21 08:15:00",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -415,12 +375,33 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Shadow 0\\-1 John Wick",
+        "WiRaN"
+      ],
+      "playerDetails": [
+        {
+          "name": "Shadow 0\\-1 John Wick",
+          "unit": "--"
+        },
+        {
+          "name": "WiRaN",
+          "unit": "--"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Shadow 0\\-1 John Wick",
+            "unit": "--"
+          },
+          {
+            "name": "WiRaN",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -476,11 +457,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 20:54:57 UTC",
+      "lastUpdate": "26-02-18 21:00:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T20:55:16.073Z"
+    "lastUpdated": "2026-02-18T21:00:33.541Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -491,7 +472,7 @@
           {
             "rank": 1,
             "name": "101-Yidobaba[0098]",
-            "credits": 8812
+            "credits": 8612
           },
           {
             "rank": 2,
@@ -511,16 +492,16 @@
           {
             "rank": 5,
             "name": "101-MrMercans",
-            "credits": 1430
+            "credits": 1330
           }
         ],
         "stats": {
-          "totalCredits": 24427,
+          "totalCredits": 24137,
           "totalPlayers": 63,
           "activePilots": "5",
-          "highestScore": 8812
+          "highestScore": 8612
         },
-        "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -530,7 +511,7 @@
         {
           "rank": 1,
           "name": "101-Yidobaba[0098]",
-          "credits": 8812
+          "credits": 8612
         },
         {
           "rank": 2,
@@ -550,21 +531,21 @@
         {
           "rank": 5,
           "name": "101-MrMercans",
-          "credits": 1430
+          "credits": 1330
         }
       ],
       "stats": {
-        "totalCredits": 24427,
+        "totalCredits": 24137,
         "totalPlayers": 63,
         "activePilots": "5",
-        "highestScore": 8812
+        "highestScore": 8612
       },
-      "lastUpdate": "🕒 Son guncelleme: 18.02.2026 23:50  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T20:55:16.317Z"
+    "lastUpdated": "2026-02-18T21:00:33.732Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T20:55:16.318Z",
+    "fetchedAt": "2026-02-18T21:00:33.733Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
