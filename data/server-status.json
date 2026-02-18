@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:44:31",
+      "missionDate": "2026-04-21 10:49:30",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "Shadow 0\\-1 John Wick"
+        "Shadow 0\\-1 John Wick",
+        "WiRaN"
       ],
       "playerDetails": [
         {
           "name": "Shadow 0\\-1 John Wick",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "WiRaN",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -46,7 +51,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "WiRaN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -59,7 +69,7 @@
             "red": 16
           },
           "Helicopters": {
-            "blue": 2,
+            "blue": 0,
             "red": 2
           },
           "Ground Units": {
@@ -81,8 +91,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 6
+            "blue": 11,
+            "red": 8
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -102,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 23:29:53 UTC",
+      "lastUpdate": "26-02-18 23:34:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:34:25",
+      "missionDate": "2026-08-01 14:39:24",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -146,11 +156,11 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 7,
-            "red": 8
+            "red": 7
           },
           "Planes": {
             "blue": 9,
-            "red": 28
+            "red": 27
           },
           "Helicopters": {
             "blue": 0,
@@ -162,7 +172,7 @@
           },
           "Ships": {
             "blue": 4,
-            "red": 8
+            "red": 7
           },
           "Structures": {
             "blue": 28,
@@ -196,39 +206,23 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 23:29:53 UTC",
+      "lastUpdate": "26-02-18 23:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-dynamic［-］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10310",
-      "mission": "101 Hunters SQN \\- Modern Warfare_v1",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 0,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 10:20:16",
-      "weather": {
-        "temperature": "6.6°C",
-        "qnh": "1022 hPa",
-        "clouds": "Two Layers Scattered Large Clouds High Ceiling",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "50° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 69
-        },
-        "red": {
-          "used": 0,
-          "total": 2
-        }
-      },
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -290,22 +284,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 23:25:58 UTC",
+      "lastUpdate": null,
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:44:31",
+    "missionDate": "2026-04-21 10:49:30",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -325,12 +319,17 @@
       }
     },
     "playerList": [
-      "Shadow 0\\-1 John Wick"
+      "Shadow 0\\-1 John Wick",
+      "WiRaN"
     ],
     "playerDetails": [
       {
         "name": "Shadow 0\\-1 John Wick",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "WiRaN",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -341,7 +340,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "WiRaN",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -354,7 +358,7 @@
           "red": 16
         },
         "Helicopters": {
-          "blue": 2,
+          "blue": 0,
           "red": 2
         },
         "Ground Units": {
@@ -376,8 +380,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 9,
-          "red": 6
+          "blue": 11,
+          "red": 8
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -397,9 +401,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 23:29:53 UTC",
+    "lastUpdate": "26-02-18 23:34:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T23:30:24.129Z"
+  "lastUpdated": "2026-02-18T23:35:16.292Z"
 }
