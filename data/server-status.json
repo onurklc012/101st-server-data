@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:24:34",
+      "missionDate": "2026-04-21 08:29:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "Shadow 0\\-1 John Wick",
-        "WiRaN"
+        "WiRaN",
+        "Shadow"
       ],
       "playerDetails": [
         {
@@ -40,7 +41,11 @@
         },
         {
           "name": "WiRaN",
-          "unit": "FA-18C_hornet"
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "Shadow",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -53,10 +58,15 @@
         "red": [
           {
             "name": "WiRaN",
-            "unit": "FA-18C_hornet"
+            "unit": "Su-30SM"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Shadow",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -112,7 +122,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:09:57 UTC",
+      "lastUpdate": "26-02-18 21:14:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -126,7 +136,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:14:29",
+      "missionDate": "2026-08-01 12:19:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +216,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:09:58 UTC",
+      "lastUpdate": "26-02-18 21:14:57 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -220,7 +230,7 @@
       "players": 8,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:04:16",
+      "missionDate": "2024-10-31 08:09:16",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -366,7 +376,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:09:58 UTC",
+      "lastUpdate": "26-02-18 21:14:58 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -381,7 +391,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:24:34",
+    "missionDate": "2026-04-21 08:29:34",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -402,7 +412,8 @@
     },
     "playerList": [
       "Shadow 0\\-1 John Wick",
-      "WiRaN"
+      "WiRaN",
+      "Shadow"
     ],
     "playerDetails": [
       {
@@ -411,7 +422,11 @@
       },
       {
         "name": "WiRaN",
-        "unit": "FA-18C_hornet"
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "Shadow",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -424,10 +439,15 @@
       "red": [
         {
           "name": "WiRaN",
-          "unit": "FA-18C_hornet"
+          "unit": "Su-30SM"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Shadow",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -483,9 +503,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-18 21:09:57 UTC",
+    "lastUpdate": "26-02-18 21:14:57 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-18T21:10:20.387Z"
+  "lastUpdated": "2026-02-18T21:15:17.525Z"
 }
