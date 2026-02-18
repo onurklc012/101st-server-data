@@ -418,95 +418,6 @@ function parseLeaderboardMessages(messages, channelName) {
 
 
 
-// ─── Discord Members ──────────────────────────────────────────────────
-
-async function fetchDiscordMembers() {
-    console.log('Fetching guild members...');
-
-    try {
-        const guild = await discordGet(`/guilds/${GUILD_ID}?with_counts=true`);
-        const guildName = guild.name || '';
-        const guildIcon = guild.icon
-            ? `https://cdn.discordapp.com/icons/${GUILD_ID}/${guild.icon}.png?size=128`
-            : null;
-        const totalMembers = guild.approximate_member_count || 0;
-        const onlineCount = guild.approximate_presence_count || 0;
-
-        // Fetch all members (up to 1000)
-        let allMembers = [];
-        let after = '0';
-        for (let i = 0; i < 10; i++) {
-            const batch = await discordGet(`/guilds/${GUILD_ID}/members?limit=100&after=${after}`);
-            if (batch.length === 0) break;
-            allMembers = allMembers.concat(batch);
-            after = batch[batch.length - 1].user.id;
-            if (batch.length < 100) break;
-        }
-
-        // Fetch roles
-        const roles = await discordGet(`/guilds/${GUILD_ID}/roles`);
-        const roleMap = {};
-        const sortedRoles = roles
-            .filter(r => r.name !== '@everyone')
-            .sort((a, b) => b.position - a.position);
-        sortedRoles.forEach(r => {
-            roleMap[r.id] = {
-                id: r.id,
-                name: r.name,
-                color: r.color ? `#${r.color.toString(16).padStart(6, '0')}` : null,
-                position: r.position,
-                icon: r.unicode_emoji || null,
-            };
-        });
-
-        // Build member list
-        const members = allMembers
-            .filter(m => !m.user.bot)
-            .filter(m => {
-                const name = m.nick || m.user.global_name || m.user.username;
-                return name && name.includes('101');
-            })
-            .map(m => {
-                const displayName = m.nick || m.user.global_name || m.user.username;
-                const userRoles = (m.roles || [])
-                    .map(rid => roleMap[rid])
-                    .filter(Boolean)
-                    .sort((a, b) => b.position - a.position);
-                const topRole = userRoles[0] || null;
-                return {
-                    id: m.user.id,
-                    username: m.user.username,
-                    displayName,
-                    avatar: m.user.avatar
-                        ? `https://cdn.discordapp.com/avatars/${m.user.id}/${m.user.avatar}.png?size=128`
-                        : null,
-                    roles: userRoles.map(r => ({ id: r.id, name: r.name, color: r.color, icon: r.icon, position: r.position })),
-                    topRole: topRole ? { id: topRole.id, name: topRole.name, color: topRole.color, position: topRole.position } : null,
-                    joinedAt: m.joined_at,
-                    status: null,
-                    activity: null,
-                };
-            })
-            .sort((a, b) => {
-                const aPos = a.topRole ? a.topRole.position || 0 : -1;
-                const bPos = b.topRole ? b.topRole.position || 0 : -1;
-                return bPos - aPos;
-            });
-
-        return {
-            guildName,
-            guildIcon,
-            totalMembers,
-            onlineCount,
-            members,
-            roles: sortedRoles.map(r => ({ id: r.id, name: r.name, color: roleMap[r.id]?.color, icon: roleMap[r.id]?.icon, position: r.position })),
-            lastUpdated: new Date().toISOString(),
-        };
-    } catch (err) {
-        console.log('  ⚠️ Could not fetch members:', err.message);
-        return { guildName: '', guildIcon: null, totalMembers: 0, onlineCount: 0, members: [], roles: [], lastUpdated: new Date().toISOString() };
-    }
-}
 
 // ─── Main ─────────────────────────────────────────────
 
@@ -547,13 +458,11 @@ async function main() {
     // Write JSON files
     writeFileSync('data/server-status.json', JSON.stringify(serverStatus, null, 2));
     writeFileSync('data/leaderboard.json', JSON.stringify(leaderboard, null, 2));
-    writeFileSync('data/members.json', JSON.stringify(membersData, null, 2));
-
+    
     // Also write a combined status file
     const combined = {
         serverStatus,
         leaderboard,
-        membersData,
         meta: {
             fetchedAt: new Date().toISOString(),
             source: 'GitHub Actions',
@@ -566,8 +475,7 @@ async function main() {
     console.log('  → data/server-status.json');
     console.log('  → data/leaderboard.json');
     console.log('  → data/status.json');
-    console.log('  → data/members.json');
-}
+    }
 
 main().catch(err => {
     console.error('❌ Fatal error:', err);
