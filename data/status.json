@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 09:54:34",
+        "missionDate": "2026-04-21 09:59:34",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -66,8 +66,8 @@
               "red": 23
             },
             "Planes": {
-              "blue": 7,
-              "red": 18
+              "blue": 8,
+              "red": 16
             },
             "Helicopters": {
               "blue": 2,
@@ -92,8 +92,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
-              "red": 0
+              "blue": 7,
+              "red": 5
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -113,7 +113,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 22:39:57 UTC",
+        "lastUpdate": "26-02-18 22:44:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -127,7 +127,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:44:29",
+        "missionDate": "2026-08-01 13:49:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -207,7 +207,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 22:39:57 UTC",
+        "lastUpdate": "26-02-18 22:44:58 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -221,7 +221,7 @@
         "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:34:16",
+        "missionDate": "2024-10-31 09:39:16",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -263,7 +263,7 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "UH-1H"
+            "unit": "Ka-50_3"
           },
           {
             "name": "151\\-Pentecsot",
@@ -290,7 +290,7 @@
             },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "UH-1H"
+              "unit": "Ka-50_3"
             },
             {
               "name": "151\\-Pentecsot",
@@ -307,20 +307,20 @@
         "missionStats": {
           "situation": {
             "Airbases / FARPs": {
-              "blue": 32,
-              "red": 22
+              "blue": 34,
+              "red": 20
             },
             "Planes": {
               "blue": 10,
-              "red": 10
-            },
-            "Helicopters": {
-              "blue": 2,
               "red": 6
             },
+            "Helicopters": {
+              "blue": 4,
+              "red": 5
+            },
             "Ground Units": {
-              "blue": 301,
-              "red": 641
+              "blue": 325,
+              "red": 648
             },
             "Ships": {
               "blue": 10,
@@ -337,15 +337,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 8,
-              "red": 4
+              "blue": 9,
+              "red": 7
             },
             "Downed Helicopters": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 50,
+              "blue": 52,
               "red": 0
             },
             "Sunken Ships": {
@@ -358,7 +358,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 22:39:58 UTC",
+        "lastUpdate": "26-02-18 22:44:58 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -373,7 +373,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:54:34",
+      "missionDate": "2026-04-21 09:59:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -428,8 +428,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 8,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -454,8 +454,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 7,
+            "red": 5
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -475,11 +475,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 22:39:57 UTC",
+      "lastUpdate": "26-02-18 22:44:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T22:40:17.628Z"
+    "lastUpdated": "2026-02-18T22:45:19.257Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -560,10 +560,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 19.02.2026 01:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T22:40:17.741Z"
+    "lastUpdated": "2026-02-18T22:45:19.484Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T22:40:17.741Z",
+    "fetchedAt": "2026-02-18T22:45:19.485Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
