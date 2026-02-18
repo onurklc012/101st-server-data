@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:59:34",
+        "missionDate": "2026-04-21 09:04:34",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -41,7 +41,7 @@
           },
           {
             "name": "WiRaN",
-            "unit": "Su-30SM"
+            "unit": "Su-33"
           }
         ],
         "activePlayers": {
@@ -54,7 +54,7 @@
           "red": [
             {
               "name": "WiRaN",
-              "unit": "Su-30SM"
+              "unit": "Su-33"
             }
           ],
           "neutral": []
@@ -113,7 +113,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 21:44:57 UTC",
+        "lastUpdate": "26-02-18 21:49:57 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -127,7 +127,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:49:29",
+        "missionDate": "2026-08-01 12:54:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -207,21 +207,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 21:44:58 UTC",
+        "lastUpdate": "26-02-18 21:49:58 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［5／32］",
+        "channelName": "🖥️┃server-dynamic［6／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 5,
+        "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:39:16",
+        "missionDate": "2024-10-31 08:44:14",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -232,7 +232,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 69
           },
           "red": {
@@ -242,14 +242,18 @@
         },
         "playerList": [
           "101 \\- Asil Turq \\[1919\\]",
+          "101ArmOn1453",
           "101\\-Cuce \\[0011\\]",
           "101\\-Yidobaba\\[0098\\]",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "101ArmOn1453"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
             "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101ArmOn1453",
             "unit": "F-16C_50"
           },
           {
@@ -263,16 +267,16 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "101ArmOn1453",
               "unit": "F-16C_50"
             },
             {
@@ -289,12 +293,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101ArmOn1453",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -350,7 +349,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-18 21:45:37 UTC",
+        "lastUpdate": "26-02-18 21:50:00 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -365,7 +364,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:59:34",
+      "missionDate": "2026-04-21 09:04:34",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -395,7 +394,7 @@
         },
         {
           "name": "WiRaN",
-          "unit": "Su-30SM"
+          "unit": "Su-33"
         }
       ],
       "activePlayers": {
@@ -408,7 +407,7 @@
         "red": [
           {
             "name": "WiRaN",
-            "unit": "Su-30SM"
+            "unit": "Su-33"
           }
         ],
         "neutral": []
@@ -467,11 +466,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-18 21:44:57 UTC",
+      "lastUpdate": "26-02-18 21:49:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-18T21:45:46.189Z"
+    "lastUpdated": "2026-02-18T21:50:18.781Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -482,7 +481,7 @@
           {
             "rank": 1,
             "name": "101-Yidobaba[0098]",
-            "credits": 9392
+            "credits": 9502
           },
           {
             "rank": 2,
@@ -506,12 +505,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 26396,
+          "totalCredits": 26516,
           "totalPlayers": 63,
           "activePilots": "5",
-          "highestScore": 9392
+          "highestScore": 9502
         },
-        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:40  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:50  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -521,7 +520,7 @@
         {
           "rank": 1,
           "name": "101-Yidobaba[0098]",
-          "credits": 9392
+          "credits": 9502
         },
         {
           "rank": 2,
@@ -545,17 +544,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 26396,
+        "totalCredits": 26516,
         "totalPlayers": 63,
         "activePilots": "5",
-        "highestScore": 9392
+        "highestScore": 9502
       },
-      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:40  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 00:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-18T21:45:46.375Z"
+    "lastUpdated": "2026-02-18T21:50:18.916Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-18T21:45:46.376Z",
+    "fetchedAt": "2026-02-18T21:50:18.917Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
