@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:29:30",
+        "missionDate": "2026-04-21 11:34:30",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 00:14:53 UTC",
+        "lastUpdate": "26-02-19 00:19:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:19:25",
+        "missionDate": "2026-08-01 15:24:25",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 00:14:53 UTC",
+        "lastUpdate": "26-02-19 00:19:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［4／32］",
+        "channelName": "🖥️┃server-dynamic［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 4,
+        "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:32:23",
+        "missionDate": "2024-10-31 08:37:23",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -242,7 +242,8 @@
         "playerList": [
           "101\\-HotelTango",
           "101\\-Yidobaba\\[0098\\]",
-          "Maddog"
+          "Maddog",
+          "ilyas"
         ],
         "playerDetails": [
           {
@@ -256,6 +257,10 @@
           {
             "name": "Maddog",
             "unit": "A-10A"
+          },
+          {
+            "name": "ilyas",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -274,7 +279,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "ilyas",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -330,7 +340,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 00:14:54 UTC",
+        "lastUpdate": "26-02-19 00:19:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -345,7 +355,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:29:30",
+      "missionDate": "2026-04-21 11:34:30",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -446,11 +456,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 00:14:53 UTC",
+      "lastUpdate": "26-02-19 00:19:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T00:15:23.424Z"
+    "lastUpdated": "2026-02-19T00:20:17.614Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -485,12 +495,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 28330,
+          "totalCredits": 28230,
           "totalPlayers": 64,
           "activePilots": "5",
           "highestScore": 10332
         },
-        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 03:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 03:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -524,17 +534,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 28330,
+        "totalCredits": 28230,
         "totalPlayers": 64,
         "activePilots": "5",
         "highestScore": 10332
       },
-      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 03:10  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 03:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T00:15:23.569Z"
+    "lastUpdated": "2026-02-19T00:20:17.735Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T00:15:23.569Z",
+    "fetchedAt": "2026-02-19T00:20:17.736Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
