@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:39:30",
+      "missionDate": "2026-04-21 11:44:30",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 00:24:53 UTC",
+      "lastUpdate": "26-02-19 00:29:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:29:25",
+      "missionDate": "2026-08-01 15:34:25",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +205,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 00:24:53 UTC",
+      "lastUpdate": "26-02-19 00:29:54 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,7 +219,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:42:23",
+      "missionDate": "2024-10-31 08:47:23",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -230,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -259,7 +259,7 @@
         },
         {
           "name": "ilyas",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -275,15 +275,14 @@
           {
             "name": "Maddog",
             "unit": "A-10A"
+          },
+          {
+            "name": "ilyas",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "ilyas",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -292,16 +291,16 @@
             "red": 20
           },
           "Planes": {
-            "blue": 12,
+            "blue": 13,
             "red": 8
           },
           "Helicopters": {
             "blue": 1,
-            "red": 2
+            "red": 1
           },
           "Ground Units": {
             "blue": 286,
-            "red": 590
+            "red": 594
           },
           "Ships": {
             "blue": 13,
@@ -322,7 +321,7 @@
             "red": 3
           },
           "Downed Helicopters": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
@@ -339,7 +338,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 00:24:54 UTC",
+      "lastUpdate": "26-02-19 00:29:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -354,7 +353,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:39:30",
+    "missionDate": "2026-04-21 11:44:30",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -455,9 +454,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-19 00:24:53 UTC",
+    "lastUpdate": "26-02-19 00:29:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-19T00:25:18.695Z"
+  "lastUpdated": "2026-02-19T00:30:26.475Z"
 }
