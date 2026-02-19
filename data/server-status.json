@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:16:47",
+      "missionDate": "2026-04-21 08:18:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 21:02:53 UTC",
+      "lastUpdate": "26-02-19 21:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:06:40",
+      "missionDate": "2026-08-01 12:08:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 21:02:53 UTC",
+      "lastUpdate": "26-02-19 21:04:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［9／32］",
+      "channelName": "🖥️┃server-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 9,
+      "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 07:56:21",
+      "missionDate": "2024-10-31 07:58:21",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -218,53 +218,56 @@
         }
       },
       "playerList": [
-        "101\\-Cuce \\[0011\\]",
-        "Galeb",
-        "Hv\\.Plt\\.ÜsTğm\\.Mert",
         "101 \\- Asil Turq \\[1919\\]",
         "101ArmOn1453",
-        "101\\-HotelTango",
-        "101\\-Yidobaba\\[0098\\]"
+        "101\\-Cuce \\[0011\\]",
+        "101\\-Yidobaba\\[0098\\]",
+        "Hv\\.Plt\\.ÜsTğm\\.Mert",
+        "101\\-HotelTango"
       ],
       "playerDetails": [
+        {
+          "name": "101 \\- Asil Turq \\[1919\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Cuce \\[0011\\]",
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "Galeb",
-          "unit": "F-16C_50"
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
         },
         {
           "name": "Hv\\.Plt\\.ÜsTğm\\.Mert",
           "unit": "F-16C_50"
         },
         {
-          "name": "101 \\- Asil Turq \\[1919\\]",
-          "unit": "--"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "--"
-        },
-        {
           "name": "101\\-HotelTango",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Cuce \\[0011\\]",
             "unit": "FA-18C_hornet"
           },
           {
-            "name": "Galeb",
-            "unit": "F-16C_50"
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
           }
         ],
         "red": [
@@ -275,20 +278,8 @@
         ],
         "neutral": [
           {
-            "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "--"
-          },
-          {
-            "name": "101ArmOn1453",
-            "unit": "--"
-          },
-          {
             "name": "101\\-HotelTango",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -346,7 +337,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 21:02:54 UTC",
+      "lastUpdate": "26-02-19 21:04:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -361,7 +352,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:16:47",
+    "missionDate": "2026-04-21 08:18:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -441,9 +432,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-19 21:02:53 UTC",
+    "lastUpdate": "26-02-19 21:04:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-19T21:03:21.511Z"
+  "lastUpdated": "2026-02-19T21:05:16.649Z"
 }
