@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:48:46",
+        "missionDate": "2026-04-21 13:53:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 20:34:53 UTC",
+        "lastUpdate": "26-02-19 20:39:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:38:40",
+        "missionDate": "2026-08-01 17:43:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 20:34:53 UTC",
+        "lastUpdate": "26-02-19 20:39:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［6／32］",
+        "channelName": "🖥️┃server-dynamic［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 6,
+        "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 13:28:31",
+        "missionDate": "2024-10-31 13:33:31",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 69
           },
           "red": {
@@ -222,7 +222,9 @@
           "101ArmOn1453",
           "101\\-Cuce \\[0011\\]",
           "101\\-Yidobaba\\[0098\\]",
-          "KAAN VİPER"
+          "Hv\\.Plt\\.ÜsTğm\\.Mert",
+          "KAAN VİPER",
+          "101\\-MrMercans"
         ],
         "playerDetails": [
           {
@@ -238,8 +240,16 @@
             "unit": "Su-30SM"
           },
           {
+            "name": "Hv\\.Plt\\.ÜsTğm\\.Mert",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "KAAN VİPER",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -257,12 +267,21 @@
               "unit": "Su-30SM"
             },
             {
+              "name": "Hv\\.Plt\\.ÜsTğm\\.Mert",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "KAAN VİPER",
               "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -318,7 +337,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 20:34:54 UTC",
+        "lastUpdate": "26-02-19 20:39:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -333,7 +352,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:48:46",
+      "missionDate": "2026-04-21 13:53:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -413,11 +432,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 20:34:53 UTC",
+      "lastUpdate": "26-02-19 20:39:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T20:35:20.930Z"
+    "lastUpdated": "2026-02-19T20:40:20.213Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -428,7 +447,7 @@
           {
             "rank": 1,
             "name": "101-Yidobaba[0098]",
-            "credits": 14262
+            "credits": 14162
           },
           {
             "rank": 2,
@@ -452,12 +471,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 35311,
+          "totalCredits": 35211,
           "totalPlayers": 69,
           "activePilots": "5",
-          "highestScore": 14262
+          "highestScore": 14162
         },
-        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 23:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 23:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -467,7 +486,7 @@
         {
           "rank": 1,
           "name": "101-Yidobaba[0098]",
-          "credits": 14262
+          "credits": 14162
         },
         {
           "rank": 2,
@@ -491,17 +510,17 @@
         }
       ],
       "stats": {
-        "totalCredits": 35311,
+        "totalCredits": 35211,
         "totalPlayers": 69,
         "activePilots": "5",
-        "highestScore": 14262
+        "highestScore": 14162
       },
-      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 23:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 23:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T20:35:21.112Z"
+    "lastUpdated": "2026-02-19T20:40:20.429Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T20:35:21.113Z",
+    "fetchedAt": "2026-02-19T20:40:20.430Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
