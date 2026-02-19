@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:53:49",
+      "missionDate": "2026-04-21 12:58:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,21 +90,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 13:39:53 UTC",
+      "lastUpdate": "26-02-19 13:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:43:43",
+      "missionDate": "2026-08-01 16:48:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -123,12 +123,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Ata"
+      ],
+      "playerDetails": [
+        {
+          "name": "Ata",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Ata",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -184,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 13:39:53 UTC",
+      "lastUpdate": "26-02-19 13:44:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［2／32］",
+      "channelName": "🖥️┃server-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:33:34",
+      "missionDate": "2024-10-31 12:38:34",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -218,12 +230,17 @@
         }
       },
       "playerList": [
-        "THE HİTMAN"
+        "THE HİTMAN",
+        "ShadowEagle"
       ],
       "playerDetails": [
         {
           "name": "THE HİTMAN",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "ShadowEagle",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -234,7 +251,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "ShadowEagle",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -290,7 +312,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 13:39:54 UTC",
+      "lastUpdate": "26-02-19 13:44:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -305,7 +327,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:53:49",
+    "missionDate": "2026-04-21 12:58:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -385,9 +407,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-19 13:39:53 UTC",
+    "lastUpdate": "26-02-19 13:44:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-19T13:40:22.105Z"
+  "lastUpdated": "2026-02-19T13:45:19.364Z"
 }
