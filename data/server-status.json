@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:43:46",
+      "missionDate": "2026-04-21 09:48:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 16:29:53 UTC",
+      "lastUpdate": "26-02-19 16:34:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:33:40",
+      "missionDate": "2026-08-01 13:38:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 16:29:53 UTC",
+      "lastUpdate": "26-02-19 16:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 09:23:31",
+      "missionDate": "2024-10-31 09:28:31",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -233,7 +233,7 @@
         },
         {
           "name": "matwisenna",
-          "unit": "_ _"
+          "unit": "Su-25T"
         }
       ],
       "activePlayers": {
@@ -245,40 +245,39 @@
           {
             "name": "WiRaN",
             "unit": "Su-30SM"
+          },
+          {
+            "name": "matwisenna",
+            "unit": "Su-25T"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "matwisenna",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 28,
-            "red": 17
+            "blue": 29,
+            "red": 16
           },
           "Planes": {
             "blue": 6,
-            "red": 9
+            "red": 6
           },
           "Helicopters": {
             "blue": 1,
-            "red": 3
+            "red": 5
           },
           "Ground Units": {
-            "blue": 310,
-            "red": 150
+            "blue": 326,
+            "red": 189
           },
           "Ships": {
             "blue": 10,
             "red": 0
           },
           "Structures": {
-            "blue": 41,
+            "blue": 43,
             "red": 147
           }
         },
@@ -309,7 +308,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 16:29:54 UTC",
+      "lastUpdate": "26-02-19 16:34:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -324,7 +323,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:43:46",
+    "missionDate": "2026-04-21 09:48:46",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -404,9 +403,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-19 16:29:53 UTC",
+    "lastUpdate": "26-02-19 16:34:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-19T16:30:30.545Z"
+  "lastUpdated": "2026-02-19T16:35:16.993Z"
 }
