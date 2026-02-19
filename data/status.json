@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 09:48:46",
+        "missionDate": "2026-04-21 09:53:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 16:34:53 UTC",
+        "lastUpdate": "26-02-19 16:39:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:38:40",
+        "missionDate": "2026-08-01 13:43:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 16:34:53 UTC",
+        "lastUpdate": "26-02-19 16:39:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:28:31",
+        "missionDate": "2024-10-31 09:33:31",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -219,11 +219,15 @@
           }
         },
         "playerList": [
+          "111\\. filo hasan ciğer",
           "Shadow 0\\-1 John Wick",
-          "WiRaN",
-          "matwisenna"
+          "WiRaN"
         ],
         "playerDetails": [
+          {
+            "name": "111\\. filo hasan ciğer",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Shadow 0\\-1 John Wick",
             "unit": "F-16C_50"
@@ -231,14 +235,14 @@
           {
             "name": "WiRaN",
             "unit": "Su-30SM"
-          },
-          {
-            "name": "matwisenna",
-            "unit": "Su-25T"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "111\\. filo hasan ciğer",
+              "unit": "F-16C_50"
+            },
             {
               "name": "Shadow 0\\-1 John Wick",
               "unit": "F-16C_50"
@@ -246,10 +250,6 @@
             {
               "name": "WiRaN",
               "unit": "Su-30SM"
-            },
-            {
-              "name": "matwisenna",
-              "unit": "Su-25T"
             }
           ],
           "red": [],
@@ -262,16 +262,16 @@
               "red": 16
             },
             "Planes": {
-              "blue": 6,
-              "red": 6
+              "blue": 7,
+              "red": 8
             },
             "Helicopters": {
               "blue": 1,
-              "red": 5
+              "red": 4
             },
             "Ground Units": {
               "blue": 326,
-              "red": 189
+              "red": 187
             },
             "Ships": {
               "blue": 10,
@@ -292,11 +292,11 @@
               "red": 2
             },
             "Downed Helicopters": {
-              "blue": 2,
+              "blue": 3,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 27,
+              "blue": 29,
               "red": 0
             },
             "Sunken Ships": {
@@ -309,7 +309,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 16:34:54 UTC",
+        "lastUpdate": "26-02-19 16:39:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -324,7 +324,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:48:46",
+      "missionDate": "2026-04-21 09:53:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -404,11 +404,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 16:34:53 UTC",
+      "lastUpdate": "26-02-19 16:39:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T16:35:16.993Z"
+    "lastUpdated": "2026-02-19T16:40:25.642Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -448,7 +448,7 @@
           "activePilots": "5",
           "highestScore": 14262
         },
-        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 19:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.02.2026 19:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -487,12 +487,12 @@
         "activePilots": "5",
         "highestScore": 14262
       },
-      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 19:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 19.02.2026 19:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T16:35:17.155Z"
+    "lastUpdated": "2026-02-19T16:40:25.862Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T16:35:17.156Z",
+    "fetchedAt": "2026-02-19T16:40:25.863Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
