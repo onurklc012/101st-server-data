@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:23:46",
+        "missionDate": "2026-04-21 11:28:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:09:53 UTC",
+        "lastUpdate": "26-02-19 18:14:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:13:40",
+        "missionDate": "2026-08-01 15:18:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:09:53 UTC",
+        "lastUpdate": "26-02-19 18:14:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 11:03:31",
+        "missionDate": "2024-10-31 11:08:31",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -271,16 +271,16 @@
               "red": 16
             },
             "Planes": {
-              "blue": 7,
+              "blue": 11,
               "red": 7
             },
             "Helicopters": {
-              "blue": 1,
+              "blue": 2,
               "red": 3
             },
             "Ground Units": {
-              "blue": 326,
-              "red": 188
+              "blue": 328,
+              "red": 148
             },
             "Ships": {
               "blue": 10,
@@ -288,7 +288,7 @@
             },
             "Structures": {
               "blue": 43,
-              "red": 147
+              "red": 145
             }
           },
           "achievements": {
@@ -297,15 +297,15 @@
               "red": 0
             },
             "Killed Planes": {
+              "blue": 6,
+              "red": 7
+            },
+            "Downed Helicopters": {
               "blue": 4,
               "red": 2
             },
-            "Downed Helicopters": {
-              "blue": 3,
-              "red": 0
-            },
             "Ground Shacks": {
-              "blue": 29,
+              "blue": 76,
               "red": 0
             },
             "Sunken Ships": {
@@ -318,7 +318,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:09:54 UTC",
+        "lastUpdate": "26-02-19 18:14:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -333,7 +333,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:23:46",
+      "missionDate": "2026-04-21 11:28:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -413,11 +413,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 18:09:53 UTC",
+      "lastUpdate": "26-02-19 18:14:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T18:10:19.337Z"
+    "lastUpdated": "2026-02-19T18:15:30.462Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -498,10 +498,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 19.02.2026 21:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T18:10:19.530Z"
+    "lastUpdated": "2026-02-19T18:15:30.794Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T18:10:19.531Z",
+    "fetchedAt": "2026-02-19T18:15:30.795Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
