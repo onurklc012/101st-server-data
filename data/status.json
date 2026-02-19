@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 12:03:46",
+        "missionDate": "2026-04-21 12:08:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:49:53 UTC",
+        "lastUpdate": "26-02-19 18:54:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:53:40",
+        "missionDate": "2026-08-01 15:58:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:49:53 UTC",
+        "lastUpdate": "26-02-19 18:54:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［7／32］",
+        "channelName": "🖥️┃server-dynamic［6／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Modern Warfare_v1",
         "map": "Caucasus",
-        "players": 7,
+        "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 11:43:31",
+        "missionDate": "2024-10-31 11:48:31",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 69
           },
           "red": {
@@ -219,13 +219,17 @@
           }
         },
         "playerList": [
+          "111\\. filo hasan ciğer",
           "Omry",
           "Shadow 0\\-1 John Wick",
           "THE HİTMAN",
-          "WiRaN",
-          "111\\. filo hasan ciğer"
+          "WiRaN"
         ],
         "playerDetails": [
+          {
+            "name": "111\\. filo hasan ciğer",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Omry",
             "unit": "F-16C_50"
@@ -241,14 +245,14 @@
           {
             "name": "WiRaN",
             "unit": "Su-30SM"
-          },
-          {
-            "name": "111\\. filo hasan ciğer",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "111\\. filo hasan ciğer",
+              "unit": "F-16C_50"
+            },
             {
               "name": "Omry",
               "unit": "F-16C_50"
@@ -267,12 +271,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "111\\. filo hasan ciğer",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -281,24 +280,24 @@
               "red": 15
             },
             "Planes": {
-              "blue": 12,
-              "red": 3
+              "blue": 13,
+              "red": 7
             },
             "Helicopters": {
-              "blue": 2,
+              "blue": 3,
               "red": 3
             },
             "Ground Units": {
-              "blue": 349,
-              "red": 158
+              "blue": 350,
+              "red": 142
             },
             "Ships": {
               "blue": 10,
               "red": 0
             },
             "Structures": {
-              "blue": 43,
-              "red": 145
+              "blue": 51,
+              "red": 139
             }
           },
           "achievements": {
@@ -307,15 +306,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 8,
-              "red": 8
+              "blue": 9,
+              "red": 9
             },
             "Downed Helicopters": {
               "blue": 4,
               "red": 2
             },
             "Ground Shacks": {
-              "blue": 76,
+              "blue": 89,
               "red": 0
             },
             "Sunken Ships": {
@@ -328,7 +327,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 18:50:23 UTC",
+        "lastUpdate": "26-02-19 18:54:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -343,7 +342,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:03:46",
+      "missionDate": "2026-04-21 12:08:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -423,11 +422,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 18:49:53 UTC",
+      "lastUpdate": "26-02-19 18:54:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T18:50:25.104Z"
+    "lastUpdated": "2026-02-19T18:55:15.156Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -508,10 +507,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 19.02.2026 21:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T18:50:25.346Z"
+    "lastUpdated": "2026-02-19T18:55:15.316Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T18:50:25.346Z",
+    "fetchedAt": "2026-02-19T18:55:15.317Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
