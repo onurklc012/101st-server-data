@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 09:13:47",
+        "missionDate": "2026-04-21 09:14:47",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 21:59:53 UTC",
+        "lastUpdate": "26-02-19 22:00:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:03:41",
+        "missionDate": "2026-08-01 13:04:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 21:59:53 UTC",
+        "lastUpdate": "26-02-19 22:00:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 08:53:21",
+        "missionDate": "2024-10-31 08:54:21",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 69
           },
           "red": {
@@ -220,8 +220,8 @@
         },
         "playerList": [
           "101 \\- Asil Turq \\[1919\\]",
+          "101ArmOn1453",
           "AnanasTRK",
-          "Brawe",
           "EGE09",
           "femboylover"
         ],
@@ -231,12 +231,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "AnanasTRK",
-            "unit": "MiG-29S"
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
           },
           {
-            "name": "Brawe",
-            "unit": "F-16C_50"
+            "name": "AnanasTRK",
+            "unit": "MiG-29S"
           },
           {
             "name": "EGE09",
@@ -254,12 +254,12 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "AnanasTRK",
-              "unit": "MiG-29S"
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
             },
             {
-              "name": "Brawe",
-              "unit": "F-16C_50"
+              "name": "AnanasTRK",
+              "unit": "MiG-29S"
             },
             {
               "name": "EGE09",
@@ -280,15 +280,15 @@
               "red": 14
             },
             "Planes": {
-              "blue": 12,
-              "red": 12
+              "blue": 10,
+              "red": 6
             },
             "Helicopters": {
               "blue": 1,
               "red": 2
             },
             "Ground Units": {
-              "blue": 396,
+              "blue": 398,
               "red": 373
             },
             "Ships": {
@@ -306,15 +306,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 2,
-              "red": 3
+              "blue": 6,
+              "red": 6
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 36,
+              "blue": 37,
               "red": 0
             },
             "Sunken Ships": {
@@ -327,7 +327,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-19 21:59:54 UTC",
+        "lastUpdate": "26-02-19 22:01:13 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -342,7 +342,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:13:47",
+      "missionDate": "2026-04-21 09:14:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -422,11 +422,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 21:59:53 UTC",
+      "lastUpdate": "26-02-19 22:00:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-19T22:00:29.972Z"
+    "lastUpdated": "2026-02-19T22:01:37.135Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -507,10 +507,10 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 20.02.2026 01:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-19T22:00:30.167Z"
+    "lastUpdated": "2026-02-19T22:01:37.375Z"
   },
   "meta": {
-    "fetchedAt": "2026-02-19T22:00:30.167Z",
+    "fetchedAt": "2026-02-19T22:01:37.376Z",
     "source": "GitHub Actions",
     "refreshInterval": "5 minutes"
   }
