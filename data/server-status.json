@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:38:46",
+      "missionDate": "2026-04-21 12:43:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 19:24:53 UTC",
+      "lastUpdate": "26-02-19 19:29:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:28:40",
+      "missionDate": "2026-08-01 16:33:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 19:24:53 UTC",
+      "lastUpdate": "26-02-19 19:29:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:18:31",
+      "missionDate": "2024-10-31 12:23:31",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -231,23 +231,28 @@
       },
       "playerList": [
         "111\\. filo hasan ciğer",
-        "THE HİTMAN"
+        "THE HİTMAN",
+        "Omry"
       ],
       "playerDetails": [
         {
           "name": "111\\. filo hasan ciğer",
-          "unit": "F-16C_50"
+          "unit": "JF-17"
         },
         {
           "name": "THE HİTMAN",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Omry",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "111\\. filo hasan ciğer",
-            "unit": "F-16C_50"
+            "unit": "JF-17"
           },
           {
             "name": "THE HİTMAN",
@@ -255,25 +260,30 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Omry",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 30,
-            "red": 15
+            "blue": 31,
+            "red": 14
           },
           "Planes": {
-            "blue": 10,
+            "blue": 9,
             "red": 8
           },
           "Helicopters": {
             "blue": 3,
-            "red": 3
+            "red": 2
           },
           "Ground Units": {
-            "blue": 351,
-            "red": 142
+            "blue": 365,
+            "red": 140
           },
           "Ships": {
             "blue": 10,
@@ -290,15 +300,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 11
+            "blue": 15,
+            "red": 15
           },
           "Downed Helicopters": {
-            "blue": 4,
+            "blue": 5,
             "red": 2
           },
           "Ground Shacks": {
-            "blue": 89,
+            "blue": 91,
             "red": 0
           },
           "Sunken Ships": {
@@ -311,7 +321,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-19 19:24:54 UTC",
+      "lastUpdate": "26-02-19 19:29:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -326,7 +336,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:38:46",
+    "missionDate": "2026-04-21 12:43:46",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -418,9 +428,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-19 19:24:53 UTC",
+    "lastUpdate": "26-02-19 19:29:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-19T19:25:16.768Z"
+  "lastUpdated": "2026-02-19T19:30:25.837Z"
 }
