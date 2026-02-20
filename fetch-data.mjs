@@ -416,6 +416,90 @@ function parseLeaderboardMessages(messages, channelName) {
     };
 }
 
+// ─── Members ──────────────────────────────────────────
+
+async function fetchMembers() {
+    console.log('Fetching guild members...');
+
+    // Fetch all guild roles
+    const allRoles = await discordGet(`/guilds/${GUILD_ID}/roles`);
+    const rolesMap = {};
+    const rolesList = allRoles
+        .filter(r => r.name !== '@everyone')
+        .sort((a, b) => b.position - a.position)
+        .map(r => {
+            const obj = {
+                id: r.id,
+                name: r.name,
+                color: r.color ? `#${r.color.toString(16).padStart(6, '0')}` : null,
+                icon: r.unicode_emoji || null,
+                position: r.position,
+            };
+            rolesMap[r.id] = obj;
+            return obj;
+        });
+
+    // Fetch members (paginated, up to 1000 per request)
+    let allMembers = [];
+    let after = '0';
+    for (let i = 0; i < 10; i++) {
+        const batch = await discordGet(`/guilds/${GUILD_ID}/members?limit=1000&after=${after}`);
+        if (batch.length === 0) break;
+        allMembers = allMembers.concat(batch);
+        after = batch[batch.length - 1].user.id;
+        if (batch.length < 1000) break;
+    }
+    console.log(`  Found ${allMembers.length} total members`);
+
+    // Filter to 101 members only
+    const filtered = allMembers.filter(m => {
+        const name = m.nick || m.user.global_name || m.user.username || '';
+        return name.includes('101') && !m.user.bot;
+    });
+    console.log(`  Filtered to ${filtered.length} 101 members`);
+
+    // Build member list
+    const memberList = filtered.map(m => {
+        const memberRoles = (m.roles || [])
+            .map(rid => rolesMap[rid])
+            .filter(Boolean)
+            .sort((a, b) => b.position - a.position);
+
+        const topRole = memberRoles[0] || null;
+        const avatarHash = m.user.avatar;
+        const avatar = avatarHash
+            ? `https://cdn.discordapp.com/avatars/${m.user.id}/${avatarHash}.png?size=128`
+            : null;
+
+        return {
+            id: m.user.id,
+            username: m.user.username,
+            displayName: m.nick || m.user.global_name || m.user.username,
+            avatar,
+            roles: memberRoles,
+            topRole: topRole ? { id: topRole.id, name: topRole.name, color: topRole.color, position: topRole.position } : null,
+            joinedAt: m.joined_at || null,
+            status: 'offline',
+            activity: null,
+        };
+    }).sort((a, b) => {
+        const aPos = a.topRole?.position || 0;
+        const bPos = b.topRole?.position || 0;
+        return bPos - aPos;
+    });
+
+    return {
+        guildName: '101. HUNTER SQUADRON (AVCI FILOSU)',
+        guildIcon: null,
+        totalMembers: memberList.length,
+        onlineCount: 0,
+        members: memberList,
+        roles: rolesList,
+        lastUpdated: new Date().toISOString(),
+        source: 'rest-api',
+    };
+}
+
 // ─── Main ─────────────────────────────────────────────
 
 async function main() {
@@ -446,20 +530,32 @@ async function main() {
         console.log('  ⚠️ No leaderboard data found');
     }
 
-    
+    // Fetch members
+    console.log('\n─── Members ───');
+    let membersData = null;
+    try {
+        membersData = await fetchMembers();
+        console.log(`  ✅ Got ${membersData.totalMembers} members`);
+    } catch (err) {
+        console.log(`  ⚠️ Members fetch failed: ${err.message}`);
+    }
 
     // Write JSON files
     writeFileSync('data/server-status.json', JSON.stringify(serverStatus, null, 2));
     writeFileSync('data/leaderboard.json', JSON.stringify(leaderboard, null, 2));
-    
+    if (membersData) {
+        writeFileSync('data/members.json', JSON.stringify(membersData, null, 2));
+    }
+
     // Also write a combined status file
     const combined = {
         serverStatus,
         leaderboard,
+        members: membersData,
         meta: {
             fetchedAt: new Date().toISOString(),
             source: 'GitHub Actions',
-            refreshInterval: '5 minutes',
+            refreshInterval: '10 minutes',
         }
     };
     writeFileSync('data/status.json', JSON.stringify(combined, null, 2));
@@ -467,8 +563,9 @@ async function main() {
     console.log('\n✅ Data written to data/ directory');
     console.log('  → data/server-status.json');
     console.log('  → data/leaderboard.json');
+    if (membersData) console.log('  → data/members.json');
     console.log('  → data/status.json');
-    }
+}
 
 main().catch(err => {
     console.error('❌ Fatal error:', err);
