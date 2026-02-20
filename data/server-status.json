@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:28:47",
+      "missionDate": "2026-04-21 08:33:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:14:53 UTC",
+      "lastUpdate": "26-02-20 21:19:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:18:41",
+      "missionDate": "2026-08-01 12:23:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:14:53 UTC",
+      "lastUpdate": "26-02-20 21:19:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［7／32］",
+      "channelName": "🖥️┃server-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 7,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:08:29",
+      "missionDate": "2024-10-31 08:13:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 69
         },
         "red": {
@@ -218,13 +218,17 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "AnanasTRK",
         "EGE09",
         "Jensai",
-        "✯101\\-EffBee\\[0010\\]",
-        "lalala"
+        "✯101\\-EffBee\\[0010\\]"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "AnanasTRK",
           "unit": "MiG-29S"
@@ -240,14 +244,14 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "lalala",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "AnanasTRK",
             "unit": "MiG-29S"
@@ -266,12 +270,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "lalala",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -327,7 +326,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:15:13 UTC",
+      "lastUpdate": "26-02-20 21:19:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -342,7 +341,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:28:47",
+    "missionDate": "2026-04-21 08:33:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -422,9 +421,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-20 21:14:53 UTC",
+    "lastUpdate": "26-02-20 21:19:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-20T21:15:19.370Z"
+  "lastUpdated": "2026-02-20T21:20:21.676Z"
 }
