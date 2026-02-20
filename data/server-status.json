@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:11:48",
+      "missionDate": "2026-04-21 09:13:48",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 15:57:53 UTC",
+      "lastUpdate": "26-02-20 15:59:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:01:42",
+      "missionDate": "2026-08-01 13:03:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 15:57:53 UTC",
+      "lastUpdate": "26-02-20 15:59:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:51:32",
+      "missionDate": "2024-10-31 08:53:32",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -217,12 +217,33 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "AhmetOzcan",
+        "Hv\\.Plt\\.ÜsTğm\\.Mert"
+      ],
+      "playerDetails": [
+        {
+          "name": "AhmetOzcan",
+          "unit": "--"
+        },
+        {
+          "name": "Hv\\.Plt\\.ÜsTğm\\.Mert",
+          "unit": "--"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "AhmetOzcan",
+            "unit": "--"
+          },
+          {
+            "name": "Hv\\.Plt\\.ÜsTğm\\.Mert",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -278,7 +299,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 15:57:54 UTC",
+      "lastUpdate": "26-02-20 16:00:03 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -293,7 +314,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:11:48",
+    "missionDate": "2026-04-21 09:13:48",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +394,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-20 15:57:53 UTC",
+    "lastUpdate": "26-02-20 15:59:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-20T15:58:38.770Z"
+  "lastUpdated": "2026-02-20T16:00:33.103Z"
 }
