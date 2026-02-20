@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:53:48",
+      "missionDate": "2026-04-21 09:58:48",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -64,8 +64,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 8,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -90,7 +90,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Downed Helicopters": {
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 16:39:53 UTC",
+      "lastUpdate": "26-02-20 16:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:43:42",
+      "missionDate": "2026-08-01 13:48:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +205,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 16:39:54 UTC",
+      "lastUpdate": "26-02-20 16:44:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,7 +219,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 09:33:32",
+      "missionDate": "2024-10-31 09:38:32",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -238,12 +238,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "THE HİTMAN"
+      ],
+      "playerDetails": [
+        {
+          "name": "THE HİTMAN",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "THE HİTMAN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -299,7 +311,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 16:39:54 UTC",
+      "lastUpdate": "26-02-20 16:45:13 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -314,7 +326,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:53:48",
+    "missionDate": "2026-04-21 09:58:48",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -368,8 +380,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
-          "red": 18
+          "blue": 8,
+          "red": 16
         },
         "Helicopters": {
           "blue": 2,
@@ -394,7 +406,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 2,
           "red": 0
         },
         "Downed Helicopters": {
@@ -415,9 +427,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-20 16:39:53 UTC",
+    "lastUpdate": "26-02-20 16:44:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-20T16:40:21.497Z"
+  "lastUpdated": "2026-02-20T16:45:18.972Z"
 }
