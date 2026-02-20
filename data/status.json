@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:18:47",
+        "missionDate": "2026-04-21 10:23:47",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-20 23:04:53 UTC",
+        "lastUpdate": "26-02-20 23:09:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:08:41",
+        "missionDate": "2026-08-01 14:13:41",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-20 23:04:53 UTC",
+        "lastUpdate": "26-02-20 23:09:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:58:29",
+        "missionDate": "2024-10-31 10:03:29",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 69
           },
           "red": {
@@ -221,9 +221,9 @@
         "playerList": [
           "101ArmOn1453",
           "101\\-EMRE \\[0444\\]",
+          "101\\-HotelTango",
           "Jensai",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "101\\-HotelTango"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -235,16 +235,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-HotelTango",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Jensai",
             "unit": "F-16C_50"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-HotelTango",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -258,6 +258,10 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "101\\-HotelTango",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "Jensai",
               "unit": "F-16C_50"
             },
@@ -267,12 +271,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-HotelTango",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -281,16 +280,16 @@
               "red": 13
             },
             "Planes": {
-              "blue": 12,
-              "red": 12
+              "blue": 9,
+              "red": 13
             },
             "Helicopters": {
               "blue": 0,
-              "red": 3
+              "red": 1
             },
             "Ground Units": {
-              "blue": 414,
-              "red": 500
+              "blue": 416,
+              "red": 561
             },
             "Ships": {
               "blue": 10,
@@ -298,7 +297,7 @@
             },
             "Structures": {
               "blue": 35,
-              "red": 151
+              "red": 150
             }
           },
           "achievements": {
@@ -307,15 +306,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 4,
-              "red": 5
+              "blue": 12,
+              "red": 6
             },
             "Downed Helicopters": {
-              "blue": 1,
+              "blue": 2,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 7,
+              "blue": 20,
               "red": 0
             },
             "Sunken Ships": {
@@ -328,7 +327,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-20 23:04:54 UTC",
+        "lastUpdate": "26-02-20 23:09:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -343,7 +342,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:18:47",
+      "missionDate": "2026-04-21 10:23:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -423,11 +422,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 23:04:53 UTC",
+      "lastUpdate": "26-02-20 23:09:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-20T23:05:19.351Z"
+    "lastUpdated": "2026-02-20T23:10:17.988Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -462,12 +461,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 38065,
+          "totalCredits": 37965,
           "totalPlayers": 76,
           "activePilots": "5",
           "highestScore": 14062
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.02.2026 02:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.02.2026 02:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -501,14 +500,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 38065,
+        "totalCredits": 37965,
         "totalPlayers": 76,
         "activePilots": "5",
         "highestScore": 14062
       },
-      "lastUpdate": "🕒 Son guncelleme: 21.02.2026 02:00  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 21.02.2026 02:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-20T23:05:19.610Z"
+    "lastUpdated": "2026-02-20T23:10:18.144Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2505,11 +2504,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-20T23:05:20.636Z",
+    "lastUpdated": "2026-02-20T23:10:18.737Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-20T23:05:20.636Z",
+    "fetchedAt": "2026-02-20T23:10:18.738Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
