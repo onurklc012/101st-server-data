@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:43:47",
+      "missionDate": "2026-04-21 08:48:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:29:53 UTC",
+      "lastUpdate": "26-02-20 21:34:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:33:41",
+      "missionDate": "2026-08-01 12:38:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:29:53 UTC",
+      "lastUpdate": "26-02-20 21:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:23:29",
+      "missionDate": "2024-10-31 08:28:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 5,
           "total": 69
         },
         "red": {
@@ -220,10 +220,10 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
-        "AnanasTRK",
         "EGE09",
         "Jensai",
-        "✯101\\-EffBee\\[0010\\]"
+        "✯101\\-EffBee\\[0010\\]",
+        "101\\-HotelTango"
       ],
       "playerDetails": [
         {
@@ -233,10 +233,6 @@
         {
           "name": "101\\-EMRE \\[0444\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "AnanasTRK",
-          "unit": "MiG-29S"
         },
         {
           "name": "EGE09",
@@ -249,6 +245,10 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-HotelTango",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -260,10 +260,6 @@
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "AnanasTRK",
-            "unit": "MiG-29S"
           },
           {
             "name": "EGE09",
@@ -279,7 +275,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -288,16 +289,16 @@
             "red": 13
           },
           "Planes": {
-            "blue": 8,
-            "red": 5
+            "blue": 9,
+            "red": 9
           },
           "Helicopters": {
             "blue": 0,
             "red": 2
           },
           "Ground Units": {
-            "blue": 412,
-            "red": 427
+            "blue": 413,
+            "red": 441
           },
           "Ships": {
             "blue": 10,
@@ -315,7 +316,7 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 1
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -335,7 +336,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 21:29:54 UTC",
+      "lastUpdate": "26-02-20 21:34:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -350,7 +351,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:43:47",
+    "missionDate": "2026-04-21 08:48:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -430,9 +431,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-20 21:29:53 UTC",
+    "lastUpdate": "26-02-20 21:34:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-20T21:30:24.149Z"
+  "lastUpdated": "2026-02-20T21:35:17.189Z"
 }
