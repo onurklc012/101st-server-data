@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:13:48",
+      "missionDate": "2026-04-21 08:18:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -44,7 +44,7 @@
           },
           "Planes": {
             "blue": 7,
-            "red": 17
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -69,7 +69,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 5,
+            "blue": 0,
             "red": 0
           },
           "Downed Helicopters": {
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 20:59:53 UTC",
+      "lastUpdate": "26-02-20 21:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 18:03:43",
+      "missionDate": "2026-08-01 12:08:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -138,7 +138,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 26
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 20:59:53 UTC",
+      "lastUpdate": "26-02-20 21:04:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［7／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 7,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 13:53:32",
+      "missionDate": "2024-10-31 07:58:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -218,68 +218,51 @@
         }
       },
       "playerList": [
-        "101ArmOn1453",
-        "101\\-EMRE \\[0444\\]",
         "AnanasTRK",
-        "EGE09",
         "NoobS",
-        "THE HİTMAN"
+        "101ArmOn1453",
+        "EGE09"
       ],
       "playerDetails": [
         {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "AnanasTRK",
           "unit": "MiG-29S"
-        },
-        {
-          "name": "EGE09",
-          "unit": "F-16C_50"
         },
         {
           "name": "NoobS",
           "unit": "Su-25T"
         },
         {
-          "name": "THE HİTMAN",
-          "unit": "F-16C_50"
+          "name": "101ArmOn1453",
+          "unit": "--"
+        },
+        {
+          "name": "EGE09",
+          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "AnanasTRK",
             "unit": "MiG-29S"
           },
           {
-            "name": "EGE09",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "NoobS",
             "unit": "Su-25T"
-          },
-          {
-            "name": "THE HİTMAN",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "--"
+          },
+          {
+            "name": "EGE09",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -288,16 +271,16 @@
             "red": 13
           },
           "Planes": {
-            "blue": 11,
-            "red": 9
-          },
-          "Helicopters": {
-            "blue": 1,
+            "blue": 3,
             "red": 1
           },
+          "Helicopters": {
+            "blue": 0,
+            "red": 0
+          },
           "Ground Units": {
-            "blue": 469,
-            "red": 384
+            "blue": 412,
+            "red": 383
           },
           "Ships": {
             "blue": 10,
@@ -314,8 +297,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 3
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -335,7 +318,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-20 20:59:54 UTC",
+      "lastUpdate": "26-02-20 21:04:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -350,7 +333,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 14:13:48",
+    "missionDate": "2026-04-21 08:18:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -384,7 +367,7 @@
         },
         "Planes": {
           "blue": 7,
-          "red": 17
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -409,7 +392,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 5,
+          "blue": 0,
           "red": 0
         },
         "Downed Helicopters": {
@@ -430,9 +413,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-20 20:59:53 UTC",
+    "lastUpdate": "26-02-20 21:04:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-20T21:00:30.599Z"
+  "lastUpdated": "2026-02-20T21:05:17.790Z"
 }
