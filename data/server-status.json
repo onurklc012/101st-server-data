@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:03:43",
+      "missionDate": "2026-04-21 10:08:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 10:49:53 UTC",
+      "lastUpdate": "26-02-21 10:54:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:53:40",
+      "missionDate": "2026-08-01 13:58:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 10:49:53 UTC",
+      "lastUpdate": "26-02-21 10:54:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 09:43:40",
+      "missionDate": "2024-10-31 09:48:40",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -218,11 +218,15 @@
         }
       },
       "playerList": [
+        "101\\-EMRE \\[0444\\]",
         "Jensai",
-        "KAAN VİPER",
-        "101\\-EMRE \\[0444\\]"
+        "KAAN VİPER"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-EMRE \\[0444\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Jensai",
           "unit": "F-16C_50"
@@ -230,14 +234,14 @@
         {
           "name": "KAAN VİPER",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Jensai",
             "unit": "F-16C_50"
@@ -248,12 +252,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -262,16 +261,16 @@
             "red": 11
           },
           "Planes": {
-            "blue": 8,
-            "red": 13
+            "blue": 7,
+            "red": 17
           },
           "Helicopters": {
             "blue": 0,
-            "red": 2
+            "red": 4
           },
           "Ground Units": {
-            "blue": 449,
-            "red": 310
+            "blue": 450,
+            "red": 306
           },
           "Ships": {
             "blue": 10,
@@ -296,7 +295,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 2,
             "red": 0
           },
           "Sunken Ships": {
@@ -309,7 +308,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 10:49:54 UTC",
+      "lastUpdate": "26-02-21 10:54:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -324,7 +323,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:03:43",
+    "missionDate": "2026-04-21 10:08:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -404,9 +403,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 10:49:53 UTC",
+    "lastUpdate": "26-02-21 10:54:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T10:50:16.585Z"
+  "lastUpdated": "2026-02-21T10:55:16.351Z"
 }
