@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:18:47",
+      "missionDate": "2026-04-21 11:23:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 00:04:53 UTC",
+      "lastUpdate": "26-02-21 00:09:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:08:41",
+      "missionDate": "2026-08-01 15:13:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 00:04:53 UTC",
+      "lastUpdate": "26-02-21 00:09:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 8,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 10:58:29",
+      "missionDate": "2024-10-31 11:03:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 69
         },
         "red": {
@@ -222,9 +222,9 @@
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
         "101\\-HotelTango",
+        "101\\-Nos",
         "101\\-Yidobaba\\[0098\\]",
-        "Jensai",
-        "101\\-Nos"
+        "Jensai"
       ],
       "playerDetails": [
         {
@@ -244,16 +244,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-Nos",
+          "unit": "UH-60L"
+        },
+        {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Ka-50_3"
         },
         {
           "name": "Jensai",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Nos",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -275,6 +275,10 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-Nos",
+            "unit": "UH-60L"
+          },
+          {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Ka-50_3"
           },
@@ -284,12 +288,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Nos",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -345,7 +344,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 00:04:54 UTC",
+      "lastUpdate": "26-02-21 00:09:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -360,7 +359,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:18:47",
+    "missionDate": "2026-04-21 11:23:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -440,9 +439,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 00:04:53 UTC",
+    "lastUpdate": "26-02-21 00:09:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T00:05:14.131Z"
+  "lastUpdated": "2026-02-21T00:10:21.804Z"
 }
