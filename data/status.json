@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［3／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 12:53:46",
+        "missionDate": "2026-04-21 12:58:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -26,13 +26,14 @@
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 1,
             "total": 16
           }
         },
         "playerList": [
           "CanAda",
-          "PENÇE"
+          "PENÇE",
+          "Corsair"
         ],
         "playerDetails": [
           {
@@ -41,6 +42,10 @@
           },
           {
             "name": "PENÇE",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Corsair",
             "unit": "F-16C_50"
           }
         ],
@@ -55,7 +60,12 @@
               "unit": "F-16C_50"
             }
           ],
-          "red": [],
+          "red": [
+            {
+              "name": "Corsair",
+              "unit": "F-16C_50"
+            }
+          ],
           "neutral": []
         },
         "missionStats": {
@@ -66,7 +76,7 @@
             },
             "Planes": {
               "blue": 9,
-              "red": 11
+              "red": 19
             },
             "Helicopters": {
               "blue": 2,
@@ -74,7 +84,7 @@
             },
             "Ground Units": {
               "blue": 52,
-              "red": 298
+              "red": 290
             },
             "Ships": {
               "blue": 10,
@@ -91,15 +101,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 26,
-              "red": 6
+              "blue": 31,
+              "red": 7
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 8,
+              "blue": 16,
               "red": 0
             },
             "Sunken Ships": {
@@ -112,7 +122,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-21 19:39:53 UTC",
+        "lastUpdate": "26-02-21 19:44:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +136,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 16:43:42",
+        "missionDate": "2026-08-01 16:48:42",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,7 +216,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-21 19:39:53 UTC",
+        "lastUpdate": "26-02-21 19:44:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -220,7 +230,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 12:33:40",
+        "missionDate": "2024-10-31 12:38:40",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -312,22 +322,22 @@
             }
           }
         },
-        "lastUpdate": "26-02-21 19:39:54 UTC",
+        "lastUpdate": "26-02-21 19:44:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:53:46",
+      "missionDate": "2026-04-21 12:58:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -342,13 +352,14 @@
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "CanAda",
-        "PENÇE"
+        "PENÇE",
+        "Corsair"
       ],
       "playerDetails": [
         {
@@ -357,6 +368,10 @@
         },
         {
           "name": "PENÇE",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Corsair",
           "unit": "F-16C_50"
         }
       ],
@@ -371,7 +386,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "Corsair",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -382,7 +402,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 11
+            "red": 19
           },
           "Helicopters": {
             "blue": 2,
@@ -390,7 +410,7 @@
           },
           "Ground Units": {
             "blue": 52,
-            "red": 298
+            "red": 290
           },
           "Ships": {
             "blue": 10,
@@ -407,15 +427,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 26,
-            "red": 6
+            "blue": 31,
+            "red": 7
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 8,
+            "blue": 16,
             "red": 0
           },
           "Sunken Ships": {
@@ -428,11 +448,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 19:39:53 UTC",
+      "lastUpdate": "26-02-21 19:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-21T19:40:19.051Z"
+    "lastUpdated": "2026-02-21T19:45:17.953Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -513,7 +533,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 21.02.2026 22:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-21T19:40:19.294Z"
+    "lastUpdated": "2026-02-21T19:45:18.163Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2524,11 +2544,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-21T19:40:19.890Z",
+    "lastUpdated": "2026-02-21T19:45:18.831Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-21T19:40:19.891Z",
+    "fetchedAt": "2026-02-21T19:45:18.832Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
