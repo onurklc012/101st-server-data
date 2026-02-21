@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:53:47",
+      "missionDate": "2026-04-21 12:58:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -29,10 +29,31 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Nos",
+        "101\\-Yidobaba\\[0098\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Nos",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-Nos",
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -43,7 +64,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
+            "blue": 9,
             "red": 18
           },
           "Helicopters": {
@@ -69,7 +90,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -90,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 01:39:53 UTC",
+      "lastUpdate": "26-02-21 01:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:43:41",
+      "missionDate": "2026-08-01 16:48:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 01:39:53 UTC",
+      "lastUpdate": "26-02-21 01:44:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［4／32］",
+      "channelName": "🖥️┃server-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:33:29",
+      "missionDate": "2024-10-31 12:38:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -299,22 +320,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 01:39:54 UTC",
+      "lastUpdate": "26-02-21 01:44:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:53:47",
+    "missionDate": "2026-04-21 12:58:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -325,7 +346,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -333,10 +354,31 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "101\\-Nos",
+      "101\\-Yidobaba\\[0098\\]"
+    ],
+    "playerDetails": [
+      {
+        "name": "101\\-Nos",
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "101\\-Yidobaba\\[0098\\]",
+        "unit": "Su-30SM"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "101\\-Nos",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
+        }
+      ],
       "red": [],
       "neutral": []
     },
@@ -347,7 +389,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
+          "blue": 9,
           "red": 18
         },
         "Helicopters": {
@@ -373,7 +415,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Downed Helicopters": {
@@ -394,9 +436,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 01:39:53 UTC",
+    "lastUpdate": "26-02-21 01:44:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T01:40:17.248Z"
+  "lastUpdated": "2026-02-21T01:45:21.724Z"
 }
