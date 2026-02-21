@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:53:47",
+      "missionDate": "2026-04-21 13:58:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 02:39:53 UTC",
+      "lastUpdate": "26-02-21 02:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:43:41",
+      "missionDate": "2026-08-01 17:48:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 02:39:53 UTC",
+      "lastUpdate": "26-02-21 02:44:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 13:33:29",
+      "missionDate": "2024-10-31 13:38:29",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -217,10 +217,22 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-WOLF \\[0033\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-WOLF \\[0033\\]",
+          "unit": "MH-6J"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-WOLF \\[0033\\]",
+            "unit": "MH-6J"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -231,12 +243,12 @@
             "red": 11
           },
           "Planes": {
-            "blue": 9,
-            "red": 12
+            "blue": 7,
+            "red": 24
           },
           "Helicopters": {
             "blue": 2,
-            "red": 1
+            "red": 3
           },
           "Ground Units": {
             "blue": 509,
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 02:39:54 UTC",
+      "lastUpdate": "26-02-21 02:44:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -293,7 +305,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:53:47",
+    "missionDate": "2026-04-21 13:58:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 02:39:53 UTC",
+    "lastUpdate": "26-02-21 02:44:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T02:40:17.898Z"
+  "lastUpdated": "2026-02-21T02:45:16.955Z"
 }
