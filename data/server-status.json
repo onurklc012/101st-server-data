@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:28:43",
+      "missionDate": "2026-04-21 12:33:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "CanAda"
+        "CanAda",
+        "✯101\\-EffBee\\[0010\\]"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -46,7 +51,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -55,8 +65,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 6,
+            "red": 17
           },
           "Helicopters": {
             "blue": 2,
@@ -81,7 +91,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Downed Helicopters": {
@@ -102,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:14:53 UTC",
+      "lastUpdate": "26-02-21 13:19:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:18:40",
+      "missionDate": "2026-08-01 16:23:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,7 +206,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:14:53 UTC",
+      "lastUpdate": "26-02-21 13:19:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -210,7 +220,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:08:40",
+      "missionDate": "2024-10-31 12:13:40",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -290,22 +300,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:14:54 UTC",
+      "lastUpdate": "26-02-21 13:19:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:28:43",
+    "missionDate": "2026-04-21 12:33:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -325,12 +335,17 @@
       }
     },
     "playerList": [
-      "CanAda"
+      "CanAda",
+      "✯101\\-EffBee\\[0010\\]"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "✯101\\-EffBee\\[0010\\]",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -341,7 +356,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -350,8 +370,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
-          "red": 18
+          "blue": 6,
+          "red": 17
         },
         "Helicopters": {
           "blue": 2,
@@ -376,7 +396,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 2,
           "red": 0
         },
         "Downed Helicopters": {
@@ -397,9 +417,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 13:14:53 UTC",
+    "lastUpdate": "26-02-21 13:19:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T13:15:19.652Z"
+  "lastUpdated": "2026-02-21T13:20:16.057Z"
 }
