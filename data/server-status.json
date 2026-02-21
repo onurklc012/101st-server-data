@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:58:45",
+      "missionDate": "2026-04-21 10:03:45",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,14 +30,9 @@
         }
       },
       "playerList": [
-        "101\\-Yidobaba\\[0098\\]",
         "CanAda"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
@@ -45,10 +40,6 @@
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          },
           {
             "name": "CanAda",
             "unit": "F-16C_50"
@@ -111,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 22:44:53 UTC",
+      "lastUpdate": "26-02-21 22:49:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:48:45",
+      "missionDate": "2026-08-01 13:53:45",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 22:44:53 UTC",
+      "lastUpdate": "26-02-21 22:49:54 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,7 +210,7 @@
       "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 09:38:42",
+      "missionDate": "2024-10-31 09:43:42",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -230,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -240,22 +231,14 @@
       },
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
-        "101ArmOn1453",
-        "EGE09",
         "M\\. EROĞLU",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "101ArmOn1453",
+        "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
         {
           "name": "101 \\- Asil Turq \\[1919\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "EGE09",
           "unit": "F-16C_50"
         },
         {
@@ -265,20 +248,20 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "--"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "EGE09",
             "unit": "F-16C_50"
           },
           {
@@ -291,7 +274,16 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "--"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -347,22 +339,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 22:44:54 UTC",
+      "lastUpdate": "26-02-21 22:49:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:58:45",
+    "missionDate": "2026-04-21 10:03:45",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,7 +365,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -382,14 +374,9 @@
       }
     },
     "playerList": [
-      "101\\-Yidobaba\\[0098\\]",
       "CanAda"
     ],
     "playerDetails": [
-      {
-        "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "Su-30SM"
-      },
       {
         "name": "CanAda",
         "unit": "F-16C_50"
@@ -397,10 +384,6 @@
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
@@ -463,9 +446,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 22:44:53 UTC",
+    "lastUpdate": "26-02-21 22:49:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T22:45:17.493Z"
+  "lastUpdated": "2026-02-21T22:50:16.158Z"
 }
