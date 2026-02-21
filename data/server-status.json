@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:43:42",
+      "missionDate": "2026-04-21 12:48:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -45,7 +45,7 @@
         },
         {
           "name": "✯101\\-EffBee\\[0010\\]",
-          "unit": "F-16C_50"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -57,14 +57,15 @@
           {
             "name": "Shadow",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "✯101\\-EffBee\\[0010\\]",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -120,7 +121,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:29:53 UTC",
+      "lastUpdate": "26-02-21 13:35:13 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,7 +135,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:33:41",
+      "missionDate": "2026-08-01 16:38:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -214,7 +215,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:29:55 UTC",
+      "lastUpdate": "26-02-21 13:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -228,7 +229,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:23:40",
+      "missionDate": "2024-10-31 12:28:40",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -308,22 +309,22 @@
           }
         }
       },
-      "lastUpdate": "26-02-21 13:29:55 UTC",
+      "lastUpdate": "26-02-21 13:34:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:43:42",
+    "missionDate": "2026-04-21 12:48:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -334,7 +335,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -358,7 +359,7 @@
       },
       {
         "name": "✯101\\-EffBee\\[0010\\]",
-        "unit": "F-16C_50"
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -370,14 +371,15 @@
         {
           "name": "Shadow",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "✯101\\-EffBee\\[0010\\]",
-          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -433,9 +435,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-21 13:29:53 UTC",
+    "lastUpdate": "26-02-21 13:35:13 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-21T13:30:26.469Z"
+  "lastUpdated": "2026-02-21T13:35:16.895Z"
 }
