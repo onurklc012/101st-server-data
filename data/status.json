@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:48:51",
+        "missionDate": "2026-04-21 13:53:51",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 14:34:53 UTC",
+        "lastUpdate": "26-02-22 14:39:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:38:45",
+        "missionDate": "2026-08-01 17:43:45",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -139,7 +139,7 @@
             },
             "Planes": {
               "blue": 9,
-              "red": 28
+              "red": 25
             },
             "Helicopters": {
               "blue": 0,
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 14:34:53 UTC",
+        "lastUpdate": "26-02-22 14:39:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 13:28:34",
+        "missionDate": "2024-10-31 13:33:34",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 6,
             "total": 69
           },
           "red": {
@@ -219,15 +219,22 @@
           }
         },
         "playerList": [
+          "101\\-MrMercans",
+          "101\\-Yidobaba\\[0098\\]",
           "M\\. EROĞLU",
           "Omry",
-          "THE HİTMAN",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "⍟101\\-Longec\\[0007\\]⍟",
-          "101\\-MrMercans",
-          "101\\-Yidobaba\\[0098\\]"
+          "⍟101\\-Longec\\[0007\\]⍟"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-MrMercans",
+            "unit": "AH-64D_BLK_II (crew)"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "AH-64D_BLK_II"
+          },
           {
             "name": "M\\. EROĞLU",
             "unit": "F-16C_50"
@@ -237,38 +244,30 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "THE HİTMAN",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "Ka-50_3"
           },
           {
             "name": "⍟101\\-Longec\\[0007\\]⍟",
             "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "101\\-MrMercans",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "--"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "AH-64D_BLK_II (crew)"
+            },
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "AH-64D_BLK_II"
+            },
             {
               "name": "M\\. EROĞLU",
               "unit": "F-16C_50"
             },
             {
               "name": "Omry",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "THE HİTMAN",
               "unit": "F-16C_50"
             },
             {
@@ -281,16 +280,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-MrMercans",
-              "unit": "--"
-            },
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -346,7 +336,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 14:34:54 UTC",
+        "lastUpdate": "26-02-22 14:39:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -361,7 +351,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:48:51",
+      "missionDate": "2026-04-21 13:53:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -441,11 +431,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 14:34:53 UTC",
+      "lastUpdate": "26-02-22 14:39:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-22T14:35:14.333Z"
+    "lastUpdated": "2026-02-22T14:40:19.242Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -461,7 +451,7 @@
           {
             "rank": 2,
             "name": "101-Hunter[0101]",
-            "credits": 4864
+            "credits": 4764
           },
           {
             "rank": 3,
@@ -480,12 +470,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 40109,
+          "totalCredits": 39809,
           "totalPlayers": 81,
           "activePilots": "5",
           "highestScore": 15434
         },
-        "lastUpdate": "🕒 Son guncelleme: 22.02.2026 17:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 22.02.2026 17:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -500,7 +490,7 @@
         {
           "rank": 2,
           "name": "101-Hunter[0101]",
-          "credits": 4864
+          "credits": 4764
         },
         {
           "rank": 3,
@@ -519,14 +509,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 40109,
+        "totalCredits": 39809,
         "totalPlayers": 81,
         "activePilots": "5",
         "highestScore": 15434
       },
-      "lastUpdate": "🕒 Son guncelleme: 22.02.2026 17:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 22.02.2026 17:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-22T14:35:14.540Z"
+    "lastUpdated": "2026-02-22T14:40:19.534Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2568,11 +2558,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-22T14:35:15.105Z",
+    "lastUpdated": "2026-02-22T14:40:20.182Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-22T14:35:15.106Z",
+    "fetchedAt": "2026-02-22T14:40:20.183Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
