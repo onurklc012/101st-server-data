@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:13:51",
+      "missionDate": "2026-04-21 13:18:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 13:59:53 UTC",
+      "lastUpdate": "26-02-22 14:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:03:45",
+      "missionDate": "2026-08-01 17:08:45",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 13:59:53 UTC",
+      "lastUpdate": "26-02-22 14:04:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［6／32］",
+      "channelName": "🖥️┃server-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 6,
+      "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 12:53:34",
+      "missionDate": "2024-10-31 12:58:34",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -222,7 +222,8 @@
         "M\\. EROĞLU",
         "Omry",
         "THE HİTMAN",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -244,6 +245,10 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -270,7 +275,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -283,11 +293,11 @@
             "red": 9
           },
           "Helicopters": {
-            "blue": 6,
-            "red": 3
+            "blue": 7,
+            "red": 4
           },
           "Ground Units": {
-            "blue": 555,
+            "blue": 556,
             "red": 138
           },
           "Ships": {
@@ -305,8 +315,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 10,
-            "red": 6
+            "blue": 11,
+            "red": 7
           },
           "Downed Helicopters": {
             "blue": 3,
@@ -326,7 +336,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 13:59:55 UTC",
+      "lastUpdate": "26-02-22 14:04:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -341,7 +351,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:13:51",
+    "missionDate": "2026-04-21 13:18:51",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -421,9 +431,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-22 13:59:53 UTC",
+    "lastUpdate": "26-02-22 14:04:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-22T14:00:29.351Z"
+  "lastUpdated": "2026-02-22T14:05:14.687Z"
 }
