@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:08:51",
+      "missionDate": "2026-04-21 14:11:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 14:54:53 UTC",
+      "lastUpdate": "26-02-22 14:57:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:58:45",
+      "missionDate": "2026-08-01 18:01:45",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 14:54:53 UTC",
+      "lastUpdate": "26-02-22 14:57:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -210,7 +210,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 13:48:34",
+      "missionDate": "2024-10-31 13:51:34",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -230,15 +230,11 @@
         }
       },
       "playerList": [
-        "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "FLOWESS"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-MrMercans",
-          "unit": "AH-64D_BLK_II (crew)"
-        },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "AH-64D_BLK_II"
@@ -246,14 +242,14 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "Ka-50_3"
+        },
+        {
+          "name": "FLOWESS",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-MrMercans",
-            "unit": "AH-64D_BLK_II (crew)"
-          },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "AH-64D_BLK_II"
@@ -264,7 +260,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "FLOWESS",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -320,7 +321,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 14:54:54 UTC",
+      "lastUpdate": "26-02-22 14:57:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -335,7 +336,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 14:08:51",
+    "missionDate": "2026-04-21 14:11:51",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -427,9 +428,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-22 14:54:53 UTC",
+    "lastUpdate": "26-02-22 14:57:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-22T14:55:16.584Z"
+  "lastUpdated": "2026-02-22T14:58:21.389Z"
 }
