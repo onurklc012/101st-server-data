@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:48:51",
+      "missionDate": "2026-04-21 08:53:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 09:34:53 UTC",
+      "lastUpdate": "26-02-22 09:39:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:38:45",
+      "missionDate": "2026-08-01 12:43:45",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 09:34:53 UTC",
+      "lastUpdate": "26-02-22 09:39:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［2／32］",
+      "channelName": "🖥️┃server-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Modern Warfare_v1",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 08:28:34",
+      "missionDate": "2024-10-31 08:33:34",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -218,12 +218,17 @@
         }
       },
       "playerList": [
-        "101\\-EMRE \\[0444\\]"
+        "101\\-EMRE \\[0444\\]",
+        "Engin113"
       ],
       "playerDetails": [
         {
           "name": "101\\-EMRE \\[0444\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Engin113",
+          "unit": "Su-33"
         }
       ],
       "activePlayers": {
@@ -231,6 +236,10 @@
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Engin113",
+            "unit": "Su-33"
           }
         ],
         "red": [],
@@ -243,16 +252,16 @@
             "red": 7
           },
           "Planes": {
-            "blue": 3,
-            "red": 1
+            "blue": 7,
+            "red": 2
           },
           "Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Units": {
-            "blue": 519,
-            "red": 176
+            "blue": 520,
+            "red": 172
           },
           "Ships": {
             "blue": 10,
@@ -260,7 +269,7 @@
           },
           "Structures": {
             "blue": 39,
-            "red": 151
+            "red": 144
           }
         },
         "achievements": {
@@ -269,7 +278,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -277,7 +286,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 12,
             "red": 0
           },
           "Sunken Ships": {
@@ -290,7 +299,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 09:34:54 UTC",
+      "lastUpdate": "26-02-22 09:39:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -305,7 +314,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:48:51",
+    "missionDate": "2026-04-21 08:53:51",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -385,9 +394,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-22 09:34:53 UTC",
+    "lastUpdate": "26-02-22 09:39:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-22T09:35:15.004Z"
+  "lastUpdated": "2026-02-22T09:40:19.326Z"
 }
