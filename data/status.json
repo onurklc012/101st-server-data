@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:53:47",
+        "missionDate": "2026-04-21 13:58:47",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 20:39:53 UTC",
+        "lastUpdate": "26-02-22 20:44:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:43:42",
+        "missionDate": "2026-08-01 17:48:42",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,7 +206,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 20:39:53 UTC",
+        "lastUpdate": "26-02-22 20:44:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -220,7 +220,7 @@
         "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 13:33:26",
+        "missionDate": "2024-10-31 13:38:26",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -231,7 +231,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 69
           },
           "red": {
@@ -241,13 +241,17 @@
         },
         "playerList": [
           "101ArmOn1453",
+          "101\\-EMRE \\[0444\\]",
           "101\\-Maskot\\(0019\\)",
-          "KAAN VİPER",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "KAAN VİPER"
         ],
         "playerDetails": [
           {
             "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
           },
           {
@@ -256,10 +260,6 @@
           },
           {
             "name": "KAAN VİPER",
-            "unit": "Su-25T"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
           }
         ],
@@ -270,15 +270,15 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "101\\-EMRE \\[0444\\]",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "101\\-Maskot\\(0019\\)",
               "unit": "F-16C_50"
             },
             {
               "name": "KAAN VİPER",
-              "unit": "Su-25T"
-            },
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
               "unit": "FA-18C_hornet"
             }
           ],
@@ -339,7 +339,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 20:39:54 UTC",
+        "lastUpdate": "26-02-22 20:44:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -354,7 +354,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:53:47",
+      "missionDate": "2026-04-21 13:58:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -455,11 +455,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 20:39:53 UTC",
+      "lastUpdate": "26-02-22 20:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-22T20:40:19.014Z"
+    "lastUpdated": "2026-02-22T20:45:17.278Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -540,7 +540,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 22.02.2026 23:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-22T20:40:19.306Z"
+    "lastUpdated": "2026-02-22T20:45:17.567Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2582,11 +2582,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-22T20:40:19.812Z",
+    "lastUpdated": "2026-02-22T20:45:18.267Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-22T20:40:19.813Z",
+    "fetchedAt": "2026-02-22T20:45:18.268Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
