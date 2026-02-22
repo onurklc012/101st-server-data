@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:11:51",
+        "missionDate": "2026-04-21 11:13:51",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:57:53 UTC",
+        "lastUpdate": "26-02-22 11:59:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:01:45",
+        "missionDate": "2026-08-01 15:03:45",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,7 +206,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:57:53 UTC",
+        "lastUpdate": "26-02-22 11:59:54 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -220,7 +220,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 10:51:34",
+        "missionDate": "2024-10-31 10:53:34",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -240,12 +240,17 @@
           }
         },
         "playerList": [
-          "Jensai"
+          "Jensai",
+          "⍟101\\-Longec\\[0007\\]⍟"
         ],
         "playerDetails": [
           {
             "name": "Jensai",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "⍟101\\-Longec\\[0007\\]⍟",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -256,7 +261,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "⍟101\\-Longec\\[0007\\]⍟",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -312,7 +322,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:58:03 UTC",
+        "lastUpdate": "26-02-22 11:59:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -327,7 +337,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:11:51",
+      "missionDate": "2026-04-21 11:13:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -428,11 +438,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 11:57:53 UTC",
+      "lastUpdate": "26-02-22 11:59:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-22T11:58:25.920Z"
+    "lastUpdated": "2026-02-22T12:00:29.095Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -467,12 +477,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 40599,
+          "totalCredits": 40649,
           "totalPlayers": 81,
           "activePilots": "5",
           "highestScore": 14624
         },
-        "lastUpdate": "🕒 Son guncelleme: 22.02.2026 14:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 22.02.2026 15:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -506,14 +516,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 40599,
+        "totalCredits": 40649,
         "totalPlayers": 81,
         "activePilots": "5",
         "highestScore": 14624
       },
-      "lastUpdate": "🕒 Son guncelleme: 22.02.2026 14:50  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 22.02.2026 15:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-22T11:58:26.098Z"
+    "lastUpdated": "2026-02-22T12:00:29.317Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2555,11 +2565,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-22T11:58:26.627Z",
+    "lastUpdated": "2026-02-22T12:00:29.985Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-22T11:58:26.628Z",
+    "fetchedAt": "2026-02-22T12:00:29.986Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
