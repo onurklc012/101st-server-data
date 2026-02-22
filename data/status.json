@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［2／32］",
+        "channelName": "🖥️┃server-caucasus［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 2,
+        "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:33:51",
+        "missionDate": "2026-04-21 10:38:51",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -31,12 +31,17 @@
           }
         },
         "playerList": [
-          "CanAda"
+          "CanAda",
+          "Shadow"
         ],
         "playerDetails": [
           {
             "name": "CanAda",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Shadow",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -47,7 +52,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Shadow",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -103,7 +113,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:19:53 UTC",
+        "lastUpdate": "26-02-22 11:24:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -117,7 +127,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:23:45",
+        "missionDate": "2026-08-01 14:28:45",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +207,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:19:53 UTC",
+        "lastUpdate": "26-02-22 11:24:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +221,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 10:13:34",
+        "missionDate": "2024-10-31 10:18:34",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -222,7 +232,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 69
           },
           "red": {
@@ -241,7 +251,7 @@
           },
           {
             "name": "Jensai",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -249,15 +259,14 @@
             {
               "name": "101ArmOn1453",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "Jensai",
+              "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "Jensai",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -267,15 +276,15 @@
             },
             "Planes": {
               "blue": 8,
-              "red": 7
+              "red": 9
             },
             "Helicopters": {
-              "blue": 1,
+              "blue": 2,
               "red": 2
             },
             "Ground Units": {
-              "blue": 528,
-              "red": 172
+              "blue": 527,
+              "red": 165
             },
             "Ships": {
               "blue": 10,
@@ -300,7 +309,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 14,
+              "blue": 21,
               "red": 0
             },
             "Sunken Ships": {
@@ -313,22 +322,22 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 11:20:03 UTC",
+        "lastUpdate": "26-02-22 11:24:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:33:51",
+      "missionDate": "2026-04-21 10:38:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -348,12 +357,17 @@
         }
       },
       "playerList": [
-        "CanAda"
+        "CanAda",
+        "Shadow"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Shadow",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -364,7 +378,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Shadow",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -420,11 +439,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 11:19:53 UTC",
+      "lastUpdate": "26-02-22 11:24:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-22T11:20:17.880Z"
+    "lastUpdated": "2026-02-22T11:25:15.146Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -505,7 +524,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 22.02.2026 14:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-22T11:20:18.048Z"
+    "lastUpdated": "2026-02-22T11:25:15.286Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2547,11 +2566,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-22T11:20:18.680Z",
+    "lastUpdated": "2026-02-22T11:25:15.799Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-22T11:20:18.681Z",
+    "fetchedAt": "2026-02-22T11:25:15.800Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
