@@ -11,7 +11,7 @@
         "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:13:23",
+        "missionDate": "2026-04-21 10:18:23",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 134
           },
           "red": {
@@ -31,11 +31,15 @@
           }
         },
         "playerList": [
+          "101\\-WOLF \\[0033\\]",
           "MajorTan",
-          "SeargentUyar",
-          "101\\-WOLF \\[0033\\]"
+          "SeargentUyar"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-WOLF \\[0033\\]",
+            "unit": "UH-60L"
+          },
           {
             "name": "MajorTan",
             "unit": "F-16C_50"
@@ -43,14 +47,15 @@
           {
             "name": "SeargentUyar",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-WOLF \\[0033\\]",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-WOLF \\[0033\\]",
+              "unit": "UH-60L"
+            }
+          ],
           "red": [
             {
               "name": "MajorTan",
@@ -61,12 +66,7 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "101\\-WOLF \\[0033\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -79,7 +79,7 @@
               "red": 15
             },
             "Helicopters": {
-              "blue": 2,
+              "blue": 3,
               "red": 2
             },
             "Ground Units": {
@@ -122,7 +122,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 23:00:13 UTC",
+        "lastUpdate": "26-02-22 23:04:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -136,7 +136,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:03:19",
+        "missionDate": "2026-08-01 14:08:19",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -216,7 +216,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 22:59:53 UTC",
+        "lastUpdate": "26-02-22 23:04:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -230,7 +230,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2024-10-31 09:53:08",
+        "missionDate": "2024-10-31 09:58:08",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -322,7 +322,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-22 22:59:54 UTC",
+        "lastUpdate": "26-02-22 23:04:54 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -337,7 +337,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:13:23",
+      "missionDate": "2026-04-21 10:18:23",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -348,7 +348,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -357,11 +357,15 @@
         }
       },
       "playerList": [
+        "101\\-WOLF \\[0033\\]",
         "MajorTan",
-        "SeargentUyar",
-        "101\\-WOLF \\[0033\\]"
+        "SeargentUyar"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-WOLF \\[0033\\]",
+          "unit": "UH-60L"
+        },
         {
           "name": "MajorTan",
           "unit": "F-16C_50"
@@ -369,14 +373,15 @@
         {
           "name": "SeargentUyar",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-WOLF \\[0033\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-WOLF \\[0033\\]",
+            "unit": "UH-60L"
+          }
+        ],
         "red": [
           {
             "name": "MajorTan",
@@ -387,12 +392,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101\\-WOLF \\[0033\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -405,7 +405,7 @@
             "red": 15
           },
           "Helicopters": {
-            "blue": 2,
+            "blue": 3,
             "red": 2
           },
           "Ground Units": {
@@ -448,11 +448,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-22 23:00:13 UTC",
+      "lastUpdate": "26-02-22 23:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-22T23:00:31.682Z"
+    "lastUpdated": "2026-02-22T23:05:17.423Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -533,7 +533,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 23.02.2026 02:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-22T23:00:31.877Z"
+    "lastUpdated": "2026-02-22T23:05:17.660Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2575,11 +2575,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-22T23:00:32.444Z",
+    "lastUpdated": "2026-02-22T23:05:18.262Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-22T23:00:32.445Z",
+    "fetchedAt": "2026-02-22T23:05:18.263Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
