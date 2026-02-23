@@ -11,7 +11,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:59:12",
+        "missionDate": "2026-04-21 11:04:12",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -103,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 17:45:16 UTC",
+        "lastUpdate": "26-02-23 17:50:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -117,7 +117,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:07:27",
+        "missionDate": "2026-08-01 12:12:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +197,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 17:45:16 UTC",
+        "lastUpdate": "26-02-23 17:50:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +211,7 @@
         "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:06:01",
+        "missionDate": "2025-07-01 07:11:01",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -232,7 +232,8 @@
         },
         "playerList": [
           "Shadow",
-          "✯101\\-EffBee\\[0010\\]"
+          "✯101\\-EffBee\\[0010\\]",
+          "101\\-MrMercans"
         ],
         "playerDetails": [
           {
@@ -242,6 +243,10 @@
           {
             "name": "✯101\\-EffBee\\[0010\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -256,7 +261,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -312,7 +322,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 17:45:17 UTC",
+        "lastUpdate": "26-02-23 17:50:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -327,7 +337,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:59:12",
+      "missionDate": "2026-04-21 11:04:12",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -419,92 +429,16 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 17:45:16 UTC",
+      "lastUpdate": "26-02-23 17:50:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-23T17:45:30.513Z"
+    "lastUpdated": "2026-02-23T17:50:25.516Z"
   },
   "leaderboard": {
-    "leaderboards": [
-      {
-        "channelName": "👑┃leaderboard🌟",
-        "title": "🏆  101 Hunter SQN | Syria Extended Dynamic Campaign",
-        "pilots": [
-          {
-            "rank": 1,
-            "name": "101-Yidobaba[0098]",
-            "credits": 15434
-          },
-          {
-            "rank": 2,
-            "name": "101-Hunter[0101]",
-            "credits": 4964
-          },
-          {
-            "rank": 3,
-            "name": "Shadow 0-1 John Wick",
-            "credits": 2997
-          },
-          {
-            "rank": 4,
-            "name": "101ArmOn1453",
-            "credits": 2812
-          },
-          {
-            "rank": 5,
-            "name": "⍟101-Longec[0007]⍟",
-            "credits": 1820
-          }
-        ],
-        "stats": {
-          "totalCredits": 42675,
-          "totalPlayers": 82,
-          "activePilots": "5",
-          "highestScore": 15434
-        },
-        "lastUpdate": "🕒 Son guncelleme: 23.02.2026 20:30  |  Her 5 dk guncellenir"
-      }
-    ],
-    "primary": {
-      "channelName": "👑┃leaderboard🌟",
-      "title": "🏆  101 Hunter SQN | Syria Extended Dynamic Campaign",
-      "pilots": [
-        {
-          "rank": 1,
-          "name": "101-Yidobaba[0098]",
-          "credits": 15434
-        },
-        {
-          "rank": 2,
-          "name": "101-Hunter[0101]",
-          "credits": 4964
-        },
-        {
-          "rank": 3,
-          "name": "Shadow 0-1 John Wick",
-          "credits": 2997
-        },
-        {
-          "rank": 4,
-          "name": "101ArmOn1453",
-          "credits": 2812
-        },
-        {
-          "rank": 5,
-          "name": "⍟101-Longec[0007]⍟",
-          "credits": 1820
-        }
-      ],
-      "stats": {
-        "totalCredits": 42675,
-        "totalPlayers": 82,
-        "activePilots": "5",
-        "highestScore": 15434
-      },
-      "lastUpdate": "🕒 Son guncelleme: 23.02.2026 20:30  |  Her 5 dk guncellenir"
-    },
-    "lastUpdated": "2026-02-23T17:45:30.663Z"
+    "leaderboards": [],
+    "primary": null,
+    "lastUpdated": "2026-02-23T17:50:25.707Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2546,11 +2480,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-23T17:45:31.246Z",
+    "lastUpdated": "2026-02-23T17:50:26.325Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-23T17:45:31.247Z",
+    "fetchedAt": "2026-02-23T17:50:26.326Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
