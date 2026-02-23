@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:23:45",
+      "missionDate": "2026-04-21 09:28:45",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 04:09:53 UTC",
+      "lastUpdate": "26-02-23 04:14:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:13:41",
+      "missionDate": "2026-08-01 13:18:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 04:09:53 UTC",
+      "lastUpdate": "26-02-23 04:14:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2024-10-31 09:03:32",
+      "missionDate": "2024-10-31 09:08:32",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -223,18 +223,18 @@
       "playerDetails": [
         {
           "name": "EGE09",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "EGE09",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -244,11 +244,11 @@
           },
           "Planes": {
             "blue": 3,
-            "red": 1
+            "red": 7
           },
           "Helicopters": {
             "blue": 0,
-            "red": 0
+            "red": 6
           },
           "Ground Units": {
             "blue": 556,
@@ -290,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 04:09:54 UTC",
+      "lastUpdate": "26-02-23 04:14:54 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -305,7 +305,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:23:45",
+    "missionDate": "2026-04-21 09:28:45",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -385,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-23 04:09:53 UTC",
+    "lastUpdate": "26-02-23 04:14:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-23T04:10:18.515Z"
+  "lastUpdated": "2026-02-23T04:15:18.508Z"
 }
