@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:23:55",
+      "missionDate": "2026-04-21 10:28:55",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 23:10:16 UTC",
+      "lastUpdate": "26-02-23 23:15:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:14:26",
+      "missionDate": "2026-08-01 14:19:26",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 23:10:16 UTC",
+      "lastUpdate": "26-02-23 23:15:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:08:14",
+      "missionDate": "2025-07-01 09:13:14",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 122
         },
         "red": {
@@ -219,8 +219,8 @@
       },
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
-        "101\\-HotelTango",
-        "101ArmOn1453"
+        "101ArmOn1453",
+        "101\\-HotelTango"
       ],
       "playerDetails": [
         {
@@ -228,12 +228,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-HotelTango",
+          "name": "101ArmOn1453",
           "unit": "F-16C_50"
         },
         {
-          "name": "101ArmOn1453",
-          "unit": "_ _"
+          "name": "101\\-HotelTango",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -243,23 +243,22 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-HotelTango",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 26,
-            "red": 49
+            "blue": 25,
+            "red": 50
           },
           "Planes": {
             "blue": 6,
@@ -267,11 +266,11 @@
           },
           "Helicopters": {
             "blue": 0,
-            "red": 4
+            "red": 6
           },
           "Ground Units": {
-            "blue": 66,
-            "red": 1335
+            "blue": 48,
+            "red": 1346
           },
           "Ships": {
             "blue": 8,
@@ -288,7 +287,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
+            "blue": 7,
             "red": 1
           },
           "Downed Helicopters": {
@@ -296,7 +295,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 3,
             "red": 0
           },
           "Sunken Ships": {
@@ -309,7 +308,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 23:10:17 UTC",
+      "lastUpdate": "26-02-23 23:15:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -324,7 +323,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:23:55",
+    "missionDate": "2026-04-21 10:28:55",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -404,9 +403,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-23 23:10:16 UTC",
+    "lastUpdate": "26-02-23 23:15:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-23T23:10:18.384Z"
+  "lastUpdated": "2026-02-23T23:15:17.732Z"
 }
