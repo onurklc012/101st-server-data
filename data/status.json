@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 12:54:12",
+        "missionDate": "2026-04-21 12:59:12",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 19:40:16 UTC",
+        "lastUpdate": "26-02-23 19:45:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:02:28",
+        "missionDate": "2026-08-01 14:07:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 19:40:16 UTC",
+        "lastUpdate": "26-02-23 19:45:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［5／32］",
+        "channelName": "🖥️┃server-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
         "map": "Syria",
-        "players": 5,
+        "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 09:01:01",
+        "missionDate": "2025-07-01 09:06:01",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -231,7 +231,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 122
           },
           "red": {
@@ -240,11 +240,15 @@
           }
         },
         "playerList": [
+          "101chemisTR61",
           "PENÇE",
-          "dragonreal",
-          "101chemisTR61"
+          "dragonreal"
         ],
         "playerDetails": [
+          {
+            "name": "101chemisTR61",
+            "unit": "F-16C_50"
+          },
           {
             "name": "PENÇE",
             "unit": "F-16C_50"
@@ -252,14 +256,14 @@
           {
             "name": "dragonreal",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101chemisTR61",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101chemisTR61",
+              "unit": "F-16C_50"
+            },
             {
               "name": "PENÇE",
               "unit": "F-16C_50"
@@ -270,12 +274,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101chemisTR61",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -284,7 +283,7 @@
               "red": 47
             },
             "Planes": {
-              "blue": 4,
+              "blue": 7,
               "red": 6
             },
             "Helicopters": {
@@ -292,8 +291,8 @@
               "red": 3
             },
             "Ground Units": {
-              "blue": 47,
-              "red": 1328
+              "blue": 53,
+              "red": 1322
             },
             "Ships": {
               "blue": 11,
@@ -311,14 +310,14 @@
             },
             "Killed Planes": {
               "blue": 16,
-              "red": 7
+              "red": 9
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 65,
+              "blue": 71,
               "red": 0
             },
             "Sunken Ships": {
@@ -331,7 +330,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-23 19:40:17 UTC",
+        "lastUpdate": "26-02-23 19:45:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -346,7 +345,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:54:12",
+      "missionDate": "2026-04-21 12:59:12",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -447,11 +446,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 19:40:16 UTC",
+      "lastUpdate": "26-02-23 19:45:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-23T19:40:29.365Z"
+    "lastUpdated": "2026-02-23T19:45:40.912Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -532,7 +531,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 23.02.2026 22:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-23T19:40:29.653Z"
+    "lastUpdated": "2026-02-23T19:45:41.165Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2574,11 +2573,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-23T19:40:30.154Z",
+    "lastUpdated": "2026-02-23T19:45:41.791Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-23T19:40:30.155Z",
+    "fetchedAt": "2026-02-23T19:45:41.792Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
