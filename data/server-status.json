@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:03:55",
+      "missionDate": "2026-04-21 10:07:55",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 22:50:16 UTC",
+      "lastUpdate": "26-02-23 22:54:17 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:54:26",
+      "missionDate": "2026-08-01 13:58:26",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 22:50:16 UTC",
+      "lastUpdate": "26-02-23 22:54:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:48:14",
+      "missionDate": "2025-07-01 08:52:14",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -223,18 +223,18 @@
       "playerDetails": [
         {
           "name": "101ArmOn1453",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101ArmOn1453",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -290,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 22:50:17 UTC",
+      "lastUpdate": "26-02-23 22:54:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -305,7 +305,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:03:55",
+    "missionDate": "2026-04-21 10:07:55",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -385,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-23 22:50:16 UTC",
+    "lastUpdate": "26-02-23 22:54:17 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-23T22:50:19.590Z"
+  "lastUpdated": "2026-02-23T22:55:15.583Z"
 }
