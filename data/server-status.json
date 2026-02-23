@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:04:12",
+      "missionDate": "2026-04-21 11:08:12",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 17:50:16 UTC",
+      "lastUpdate": "26-02-23 17:54:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:12:28",
+      "missionDate": "2026-08-01 12:16:28",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 17:50:16 UTC",
+      "lastUpdate": "26-02-23 17:54:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［4／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 07:11:01",
+      "missionDate": "2025-07-01 07:15:01",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 122
         },
         "red": {
@@ -230,11 +230,21 @@
         }
       },
       "playerList": [
+        "101 \\- Asil Turq \\[1919\\]",
+        "101\\-MrMercans",
         "Shadow",
         "✯101\\-EffBee\\[0010\\]",
-        "101\\-MrMercans"
+        "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
+        {
+          "name": "101 \\- Asil Turq \\[1919\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-MrMercans",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Shadow",
           "unit": "F-16C_50"
@@ -244,12 +254,20 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-MrMercans",
+          "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Shadow",
             "unit": "F-16C_50"
@@ -262,7 +280,7 @@
         "red": [],
         "neutral": [
           {
-            "name": "101\\-MrMercans",
+            "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "_ _"
           }
         ]
@@ -321,7 +339,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-23 17:50:17 UTC",
+      "lastUpdate": "26-02-23 17:54:56 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -336,7 +354,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:04:12",
+    "missionDate": "2026-04-21 11:08:12",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -428,9 +446,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-23 17:50:16 UTC",
+    "lastUpdate": "26-02-23 17:54:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-23T17:50:25.516Z"
+  "lastUpdated": "2026-02-23T17:55:16.346Z"
 }
