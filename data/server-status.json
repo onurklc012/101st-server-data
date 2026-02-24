@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:59:37",
+      "missionDate": "2026-04-21 10:04:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-24 04:45:16 UTC",
+      "lastUpdate": "26-02-24 04:50:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:49:27",
+      "missionDate": "2026-08-01 13:54:27",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-24 04:45:16 UTC",
+      "lastUpdate": "26-02-24 04:50:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:43:20",
+      "missionDate": "2025-07-01 08:48:20",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -217,31 +217,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "Falcon Pilot YT",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
-      ],
-      "playerDetails": [
-        {
-          "name": "Falcon Pilot YT",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Falcon Pilot YT",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -252,16 +231,16 @@
             "red": 50
           },
           "Planes": {
-            "blue": 7,
-            "red": 2
+            "blue": 5,
+            "red": 6
           },
           "Helicopters": {
-            "blue": 0,
-            "red": 2
+            "blue": 3,
+            "red": 4
           },
           "Ground Units": {
-            "blue": 99,
-            "red": 1297
+            "blue": 102,
+            "red": 1305
           },
           "Ships": {
             "blue": 8,
@@ -278,15 +257,15 @@
             "red": 0
           },
           "Killed Planes": {
+            "blue": 6,
+            "red": 1
+          },
+          "Downed Helicopters": {
             "blue": 2,
             "red": 0
           },
-          "Downed Helicopters": {
-            "blue": 0,
-            "red": 0
-          },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
@@ -299,7 +278,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-24 04:45:17 UTC",
+      "lastUpdate": "26-02-24 04:50:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -314,7 +293,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:59:37",
+    "missionDate": "2026-04-21 10:04:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -394,9 +373,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-24 04:45:16 UTC",
+    "lastUpdate": "26-02-24 04:50:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-24T04:45:17.825Z"
+  "lastUpdated": "2026-02-24T04:50:21.697Z"
 }
