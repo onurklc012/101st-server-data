@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:54:44",
+        "missionDate": "2026-04-21 13:59:44",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 20:40:16 UTC",
+        "lastUpdate": "26-02-24 20:45:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:44:33",
+        "missionDate": "2026-08-01 17:49:33",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 20:40:16 UTC",
+        "lastUpdate": "26-02-24 20:45:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 12:38:35",
+        "missionDate": "2025-07-01 12:43:35",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 122
           },
           "red": {
@@ -219,11 +219,15 @@
           }
         },
         "playerList": [
+          "101 \\- Asil Turq \\[1919\\]",
           "101ArmOn1453",
-          "THE HİTMAN",
-          "101 \\- Asil Turq \\[1919\\]"
+          "THE HİTMAN"
         ],
         "playerDetails": [
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
@@ -231,14 +235,14 @@
           {
             "name": "THE HİTMAN",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101ArmOn1453",
               "unit": "F-16C_50"
@@ -249,12 +253,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101 \\- Asil Turq \\[1919\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -310,7 +309,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 20:40:17 UTC",
+        "lastUpdate": "26-02-24 20:45:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -325,7 +324,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:54:44",
+      "missionDate": "2026-04-21 13:59:44",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -405,11 +404,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-24 20:40:16 UTC",
+      "lastUpdate": "26-02-24 20:45:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-24T20:40:20.188Z"
+    "lastUpdated": "2026-02-24T20:45:18.261Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -490,7 +489,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 24.02.2026 23:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-24T20:40:20.401Z"
+    "lastUpdated": "2026-02-24T20:45:18.434Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2532,11 +2531,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-24T20:40:21.335Z",
+    "lastUpdated": "2026-02-24T20:45:18.945Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-24T20:40:21.336Z",
+    "fetchedAt": "2026-02-24T20:45:18.946Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
