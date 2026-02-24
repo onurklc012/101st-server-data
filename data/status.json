@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:34:41",
+        "missionDate": "2026-04-21 08:38:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -30,12 +30,24 @@
             "total": 16
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "WiRaN"
+        ],
+        "playerDetails": [
+          {
+            "name": "WiRaN",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "WiRaN",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -91,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 21:20:16 UTC",
+        "lastUpdate": "26-02-24 21:24:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +117,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:24:28",
+        "missionDate": "2026-08-01 12:28:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +197,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 21:20:16 UTC",
+        "lastUpdate": "26-02-24 21:24:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +211,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:18:32",
+        "missionDate": "2025-07-01 07:22:32",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -300,7 +312,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-24 21:20:17 UTC",
+        "lastUpdate": "26-02-24 21:24:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -315,7 +327,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:34:41",
+      "missionDate": "2026-04-21 08:38:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -334,12 +346,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "WiRaN"
+      ],
+      "playerDetails": [
+        {
+          "name": "WiRaN",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "WiRaN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -395,11 +419,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-24 21:20:16 UTC",
+      "lastUpdate": "26-02-24 21:24:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-24T21:20:18.853Z"
+    "lastUpdated": "2026-02-24T21:25:15.428Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -480,7 +504,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 25.02.2026 00:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-24T21:20:19.051Z"
+    "lastUpdated": "2026-02-24T21:25:15.543Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2522,11 +2546,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-24T21:20:19.597Z",
+    "lastUpdated": "2026-02-24T21:25:16.182Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-24T21:20:19.598Z",
+    "fetchedAt": "2026-02-24T21:25:16.183Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
