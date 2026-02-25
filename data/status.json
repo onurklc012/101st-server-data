@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 14:04:41",
+        "missionDate": "2026-04-21 14:09:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-25 14:50:16 UTC",
+        "lastUpdate": "26-02-25 14:55:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:54:20",
+        "missionDate": "2026-08-01 17:59:20",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-25 14:50:16 UTC",
+        "lastUpdate": "26-02-25 14:55:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［3／32］",
+        "channelName": "🖥️┃server-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
         "map": "Syria",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 12:48:57",
+        "missionDate": "2025-07-01 12:53:57",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -241,7 +241,8 @@
         },
         "playerList": [
           "101 \\- Asil Turq \\[1919\\]",
-          "101\\-Shadow\\[1881\\]"
+          "101\\-Shadow\\[1881\\]",
+          "101\\-SKY"
         ],
         "playerDetails": [
           {
@@ -251,6 +252,10 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-SKY",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -265,7 +270,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-SKY",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -321,7 +331,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-25 14:50:17 UTC",
+        "lastUpdate": "26-02-25 14:55:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -336,7 +346,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:04:41",
+      "missionDate": "2026-04-21 14:09:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -437,11 +447,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-25 14:50:16 UTC",
+      "lastUpdate": "26-02-25 14:55:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-25T14:50:25.606Z"
+    "lastUpdated": "2026-02-25T14:55:19.535Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -522,7 +532,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 25.02.2026 17:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-25T14:50:25.784Z"
+    "lastUpdated": "2026-02-25T14:55:19.671Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2564,11 +2574,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-25T14:50:26.320Z",
+    "lastUpdated": "2026-02-25T14:55:20.182Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-25T14:50:26.321Z",
+    "fetchedAt": "2026-02-25T14:55:20.183Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
