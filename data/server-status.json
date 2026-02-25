@@ -1,45 +1,40 @@
 {
   "servers": [
     {
-      "online": false,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "online": true,
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 3,
+      "serverIP": "88.247.164.234:10308",
+      "mission": "101_Hunter_SQN_v9_5",
+      "map": "Caucasus",
+      "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
-      "playerList": [
-        "101\\-Yidobaba\\[0098\\]",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "--"
+      "missionDate": "2026-04-21 08:19:39",
+      "weather": {
+        "temperature": "5.4°C",
+        "qnh": "1013 hPa",
+        "clouds": "Two Layer Scattered/",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "281° / 2 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 134
         },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "--"
+        "red": {
+          "used": 0,
+          "total": 16
         }
-      ],
+      },
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "--"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -48,8 +43,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
-            "red": 14
+            "blue": 7,
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -75,7 +70,7 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -95,23 +90,39 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-02-25 15:05:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10309",
+      "mission": "101_Hunter_SQN_SURIYE_v3_7",
+      "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionDate": "2026-08-01 12:09:32",
+      "weather": {
+        "temperature": "20.0°C",
+        "qnh": "1013 hPa",
+        "clouds": "Few Scattered Clouds",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "198° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 12
+        },
+        "red": {
+          "used": 0,
+          "total": 9
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -173,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-02-25 15:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 12:58:56",
+      "missionDate": "2025-07-01 07:03:45",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -198,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -207,23 +218,23 @@
         }
       },
       "playerList": [
-        "101\\-Shadow\\[1881\\]"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Shadow\\[1881\\]",
-          "unit": "F-16C_50"
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -279,51 +290,46 @@
           }
         }
       },
-      "lastUpdate": "26-02-25 15:00:17 UTC",
+      "lastUpdate": "26-02-25 15:05:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
-    "online": false,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "online": true,
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": null,
-    "mission": "--",
-    "map": "--",
-    "players": 3,
+    "serverIP": "88.247.164.234:10308",
+    "mission": "101_Hunter_SQN_v9_5",
+    "map": "Caucasus",
+    "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": null,
-    "weather": null,
-    "slots": null,
-    "playerList": [
-      "101\\-Yidobaba\\[0098\\]",
-      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
-    ],
-    "playerDetails": [
-      {
-        "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "--"
+    "missionDate": "2026-04-21 08:19:39",
+    "weather": {
+      "temperature": "5.4°C",
+      "qnh": "1013 hPa",
+      "clouds": "Two Layer Scattered/",
+      "cloudbase": "--",
+      "visibility": "10 km / 6 SM (+)",
+      "wind": "281° / 2 kts"
+    },
+    "slots": {
+      "blue": {
+        "used": 0,
+        "total": 134
       },
-      {
-        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "unit": "--"
+      "red": {
+        "used": 0,
+        "total": 16
       }
-    ],
+    },
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "--"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -332,8 +338,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
-          "red": 14
+          "blue": 7,
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -359,7 +365,7 @@
         },
         "Killed Planes": {
           "blue": 0,
-          "red": 1
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -379,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": null,
+    "lastUpdate": "26-02-25 15:05:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-25T15:00:35.563Z"
+  "lastUpdated": "2026-02-25T15:05:19.464Z"
 }
