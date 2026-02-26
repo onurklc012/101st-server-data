@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:24:00",
+      "missionDate": "2026-04-21 08:29:00",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 21:10:17 UTC",
+      "lastUpdate": "26-02-26 21:15:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:13:35",
+      "missionDate": "2026-08-01 12:18:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 21:10:16 UTC",
+      "lastUpdate": "26-02-26 21:15:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 07:08:03",
+      "missionDate": "2025-07-01 07:13:03",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 122
         },
         "red": {
@@ -221,7 +221,7 @@
         "101ArmOn1453",
         "101\\-HotelTango",
         "101\\-Shadow\\[1881\\]",
-        "PENÇE"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -237,8 +237,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "PENÇE",
-          "unit": "F-16C_50"
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -254,14 +254,15 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "PENÇE",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -317,7 +318,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 21:10:17 UTC",
+      "lastUpdate": "26-02-26 21:15:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -332,7 +333,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:24:00",
+    "missionDate": "2026-04-21 08:29:00",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -412,9 +413,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-26 21:10:17 UTC",
+    "lastUpdate": "26-02-26 21:15:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-26T21:10:19.400Z"
+  "lastUpdated": "2026-02-26T21:15:20.968Z"
 }
