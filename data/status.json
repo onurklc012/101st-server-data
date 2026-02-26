@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［1／32］",
+        "channelName": "🖥️┃server-caucasus［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:44:50",
+        "missionDate": "2026-04-21 08:49:50",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -30,22 +30,10 @@
             "total": 16
           }
         },
-        "playerList": [
-          "Shadow 0\\-1 John Wick"
-        ],
-        "playerDetails": [
-          {
-            "name": "Shadow 0\\-1 John Wick",
-            "unit": "UH-60L_DAP"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "Shadow 0\\-1 John Wick",
-              "unit": "UH-60L_DAP"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -60,7 +48,7 @@
               "red": 18
             },
             "Helicopters": {
-              "blue": 2,
+              "blue": 3,
               "red": 2
             },
             "Ground Units": {
@@ -103,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 15:30:16 UTC",
+        "lastUpdate": "26-02-26 15:35:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -117,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:34:45",
+        "missionDate": "2026-08-01 12:39:45",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 15:30:16 UTC",
+        "lastUpdate": "26-02-26 15:35:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +199,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:28:54",
+        "missionDate": "2025-07-01 07:33:54",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -291,22 +279,22 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 15:30:17 UTC",
+        "lastUpdate": "26-02-26 15:35:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:44:50",
+      "missionDate": "2026-04-21 08:49:50",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -325,22 +313,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "Shadow 0\\-1 John Wick"
-      ],
-      "playerDetails": [
-        {
-          "name": "Shadow 0\\-1 John Wick",
-          "unit": "UH-60L_DAP"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Shadow 0\\-1 John Wick",
-            "unit": "UH-60L_DAP"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -355,7 +331,7 @@
             "red": 18
           },
           "Helicopters": {
-            "blue": 2,
+            "blue": 3,
             "red": 2
           },
           "Ground Units": {
@@ -398,11 +374,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 15:30:16 UTC",
+      "lastUpdate": "26-02-26 15:35:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-26T15:30:29.329Z"
+    "lastUpdated": "2026-02-26T15:35:19.225Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -483,7 +459,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 26.02.2026 18:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-26T15:30:29.477Z"
+    "lastUpdated": "2026-02-26T15:35:19.530Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2525,11 +2501,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-26T15:30:30.165Z",
+    "lastUpdated": "2026-02-26T15:35:20.573Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-26T15:30:30.166Z",
+    "fetchedAt": "2026-02-26T15:35:20.574Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
