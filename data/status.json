@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:44:00",
+        "missionDate": "2026-04-21 08:49:00",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 21:30:16 UTC",
+        "lastUpdate": "26-02-26 21:35:17 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:33:35",
+        "missionDate": "2026-08-01 12:38:35",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 21:30:16 UTC",
+        "lastUpdate": "26-02-26 21:35:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:28:03",
+        "missionDate": "2025-07-01 07:33:03",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 122
           },
           "red": {
@@ -219,17 +219,13 @@
           }
         },
         "playerList": [
-          "101ArmOn1453",
           "101\\-HotelTango",
           "101\\-Shadow\\[1881\\]",
           "PENÇE",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101ArmOn1453"
         ],
         "playerDetails": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
           {
             "name": "101\\-HotelTango",
             "unit": "F-16C_50"
@@ -245,14 +241,14 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
-            {
-              "name": "101ArmOn1453",
-              "unit": "F-16C_50"
-            },
             {
               "name": "101\\-HotelTango",
               "unit": "F-16C_50"
@@ -271,7 +267,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -327,7 +328,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-26 21:30:17 UTC",
+        "lastUpdate": "26-02-26 21:35:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -342,7 +343,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:44:00",
+      "missionDate": "2026-04-21 08:49:00",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -422,11 +423,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 21:30:16 UTC",
+      "lastUpdate": "26-02-26 21:35:17 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-26T21:30:27.299Z"
+    "lastUpdated": "2026-02-26T21:35:18.091Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -507,7 +508,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 27.02.2026 00:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-26T21:30:28.102Z"
+    "lastUpdated": "2026-02-26T21:35:18.291Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2549,11 +2550,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-26T21:30:28.612Z",
+    "lastUpdated": "2026-02-26T21:35:18.908Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-26T21:30:28.613Z",
+    "fetchedAt": "2026-02-26T21:35:18.909Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
