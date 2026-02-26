@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:15:00",
+      "missionDate": "2026-04-21 08:18:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -43,8 +43,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
-            "red": 14
+            "blue": 7,
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -69,7 +69,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
+            "blue": 0,
             "red": 0
           },
           "Downed Helicopters": {
@@ -90,23 +90,39 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 09:00:26 UTC",
+      "lastUpdate": "26-02-26 09:04:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10309",
+      "mission": "101_Hunter_SQN_SURIYE_v3_7",
+      "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionDate": "2026-08-01 12:09:43",
+      "weather": {
+        "temperature": "20.0°C",
+        "qnh": "1013 hPa",
+        "clouds": "Few Scattered Clouds",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "198° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 12
+        },
+        "red": {
+          "used": 0,
+          "total": 9
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -122,7 +138,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 26
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -168,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-02-26 09:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -182,7 +198,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 12:58:31",
+      "missionDate": "2025-07-01 07:02:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -212,19 +228,19 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 38,
-            "red": 43
+            "red": 42
           },
           "Planes": {
-            "blue": 8,
-            "red": 11
+            "blue": 2,
+            "red": 1
           },
           "Helicopters": {
-            "blue": 1,
-            "red": 3
+            "blue": 0,
+            "red": 0
           },
           "Ground Units": {
-            "blue": 206,
-            "red": 1261
+            "blue": 195,
+            "red": 1209
           },
           "Ships": {
             "blue": 19,
@@ -241,15 +257,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 1
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -262,7 +278,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-26 09:00:22 UTC",
+      "lastUpdate": "26-02-26 09:04:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -277,7 +293,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:15:00",
+    "missionDate": "2026-04-21 08:18:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -310,8 +326,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
-          "red": 14
+          "blue": 7,
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -336,7 +352,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 1,
+          "blue": 0,
           "red": 0
         },
         "Downed Helicopters": {
@@ -357,9 +373,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-26 09:00:26 UTC",
+    "lastUpdate": "26-02-26 09:04:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-26T09:00:35.282Z"
+  "lastUpdated": "2026-02-26T09:05:15.893Z"
 }
