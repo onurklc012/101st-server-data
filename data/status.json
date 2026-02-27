@@ -11,7 +11,7 @@
         "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 09:18:47",
+        "missionDate": "2026-04-21 09:24:47",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 0,
             "total": 134
           },
           "red": {
@@ -30,22 +30,10 @@
             "total": 16
           }
         },
-        "playerList": [
-          "101\\-Yidobaba\\[0098\\]"
-        ],
-        "playerDetails": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Su-30SM"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -103,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 22:04:17 UTC",
+        "lastUpdate": "26-02-27 22:10:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -117,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 13:09:42",
+        "missionDate": "2026-08-01 13:14:42",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 22:05:16 UTC",
+        "lastUpdate": "26-02-27 22:10:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -211,7 +199,7 @@
         "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 08:02:40",
+        "missionDate": "2025-07-01 08:08:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -238,7 +226,8 @@
           "PENÇE",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "132 \\| kobuleti meydan",
-          "CapitanVader \\- KataPool"
+          "CapitanVader \\- KataPool",
+          "ozkan"
         ],
         "playerDetails": [
           {
@@ -272,6 +261,10 @@
           {
             "name": "CapitanVader \\- KataPool",
             "unit": "F-14B"
+          },
+          {
+            "name": "ozkan",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -311,7 +304,12 @@
               "unit": "F-14B"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "ozkan",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -367,7 +365,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 22:04:17 UTC",
+        "lastUpdate": "26-02-27 22:10:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -382,7 +380,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:18:47",
+      "missionDate": "2026-04-21 09:24:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -393,7 +391,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -401,22 +399,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "101\\-Yidobaba\\[0098\\]"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -474,11 +460,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 22:04:17 UTC",
+      "lastUpdate": "26-02-27 22:10:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-27T22:05:16.248Z"
+    "lastUpdated": "2026-02-27T22:10:18.905Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -513,12 +499,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 15335,
-          "totalPlayers": 27,
+          "totalCredits": 15235,
+          "totalPlayers": 28,
           "activePilots": "5",
           "highestScore": 3972
         },
-        "lastUpdate": "🕒 Son guncelleme: 28.02.2026 01:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 28.02.2026 01:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -552,14 +538,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 15335,
-        "totalPlayers": 27,
+        "totalCredits": 15235,
+        "totalPlayers": 28,
         "activePilots": "5",
         "highestScore": 3972
       },
-      "lastUpdate": "🕒 Son guncelleme: 28.02.2026 01:00  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 28.02.2026 01:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-27T22:05:16.559Z"
+    "lastUpdated": "2026-02-27T22:10:19.067Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2632,11 +2618,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-27T22:05:17.279Z",
+    "lastUpdated": "2026-02-27T22:10:19.591Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-27T22:05:17.280Z",
+    "fetchedAt": "2026-02-27T22:10:19.592Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
