@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 14:09:38",
+        "missionDate": "2026-04-21 14:11:38",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:55:16 UTC",
+        "lastUpdate": "26-02-27 20:57:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:59:28",
+        "missionDate": "2026-08-01 18:01:27",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:55:16 UTC",
+        "lastUpdate": "26-02-27 20:57:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 12:53:34",
+        "missionDate": "2025-07-01 12:55:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 6,
             "total": 122
           },
           "red": {
@@ -249,7 +249,7 @@
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "_ _"
+            "unit": "FA-18C_hornet"
           }
         ],
         "activePlayers": {
@@ -273,15 +273,14 @@
             {
               "name": "Kuzex",
               "unit": "F-15C"
+            },
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -337,7 +336,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:55:17 UTC",
+        "lastUpdate": "26-02-27 20:57:18 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -352,7 +351,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:09:38",
+      "missionDate": "2026-04-21 14:11:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -432,11 +431,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 20:55:16 UTC",
+      "lastUpdate": "26-02-27 20:57:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-27T20:55:16.392Z"
+    "lastUpdated": "2026-02-27T20:57:20.305Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -517,7 +516,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 27.02.2026 23:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-27T20:55:16.574Z"
+    "lastUpdated": "2026-02-27T20:57:20.486Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2590,11 +2589,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-27T20:55:17.367Z",
+    "lastUpdated": "2026-02-27T20:57:21.173Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-27T20:55:17.368Z",
+    "fetchedAt": "2026-02-27T20:57:21.229Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
