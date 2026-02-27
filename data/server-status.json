@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:49:38",
+      "missionDate": "2026-04-21 10:54:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 17:35:17 UTC",
+      "lastUpdate": "26-02-27 17:40:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:39:27",
+      "missionDate": "2026-08-01 14:44:27",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 17:35:16 UTC",
+      "lastUpdate": "26-02-27 17:40:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［7／32］",
+      "channelName": "🖥️┃server-dynamic［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 7,
+      "players": 9,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:33:34",
+      "missionDate": "2025-07-01 09:38:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 122
         },
         "red": {
@@ -232,10 +232,12 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-Shadow\\[1881\\]",
+        "Birazzhırs",
         "Eclair",
         "Viper1\\-1 \\| Rejdzi",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-EffBee\\[0010\\]"
+        "✯101\\-EffBee\\[0010\\]",
+        "101\\-zeshka\\[0035\\]"
       ],
       "playerDetails": [
         {
@@ -245,6 +247,10 @@
         {
           "name": "101\\-Shadow\\[1881\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Birazzhırs",
+          "unit": "F-4E-45MC"
         },
         {
           "name": "Eclair",
@@ -261,6 +267,10 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -272,6 +282,10 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Birazzhırs",
+            "unit": "F-4E-45MC"
           },
           {
             "name": "Eclair",
@@ -291,7 +305,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -347,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 17:35:17 UTC",
+      "lastUpdate": "26-02-27 17:40:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -362,7 +381,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:49:38",
+    "missionDate": "2026-04-21 10:54:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -454,9 +473,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 17:35:17 UTC",
+    "lastUpdate": "26-02-27 17:40:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T17:35:18.066Z"
+  "lastUpdated": "2026-02-27T17:40:20.500Z"
 }
