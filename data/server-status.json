@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:04:38",
+      "missionDate": "2026-04-21 13:09:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:50:16 UTC",
+      "lastUpdate": "26-02-27 19:55:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:54:28",
+      "missionDate": "2026-08-01 16:59:28",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:50:16 UTC",
+      "lastUpdate": "26-02-27 19:55:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［7／32］",
+      "channelName": "🖥️┃server-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 11:48:34",
+      "missionDate": "2025-07-01 11:53:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -244,7 +244,8 @@
         "101\\-EMRE \\[0444\\]",
         "HadTR",
         "Kuzex",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101\\-Shadow\\[1881\\]"
       ],
       "playerDetails": [
         {
@@ -270,6 +271,10 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "UH-60L"
+        },
+        {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -300,7 +305,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -310,11 +320,11 @@
           },
           "Planes": {
             "blue": 15,
-            "red": 6
+            "red": 8
           },
           "Helicopters": {
             "blue": 2,
-            "red": 4
+            "red": 3
           },
           "Ground Units": {
             "blue": 167,
@@ -339,7 +349,7 @@
             "red": 15
           },
           "Downed Helicopters": {
-            "blue": 1,
+            "blue": 2,
             "red": 0
           },
           "Ground Shacks": {
@@ -356,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:50:17 UTC",
+      "lastUpdate": "26-02-27 19:55:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -371,7 +381,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:04:38",
+    "missionDate": "2026-04-21 13:09:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -472,9 +482,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 19:50:16 UTC",
+    "lastUpdate": "26-02-27 19:55:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T19:50:20.327Z"
+  "lastUpdated": "2026-02-27T19:55:21.205Z"
 }
