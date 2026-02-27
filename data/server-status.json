@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:44:38",
+      "missionDate": "2026-04-21 12:49:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,11 +30,16 @@
         }
       },
       "playerList": [
-        "CanAda"
+        "CanAda",
+        "KAAN VİPER"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "KAAN VİPER",
           "unit": "F-16C_50"
         }
       ],
@@ -42,6 +47,10 @@
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "KAAN VİPER",
             "unit": "F-16C_50"
           }
         ],
@@ -102,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:30:16 UTC",
+      "lastUpdate": "26-02-27 19:35:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:34:28",
+      "missionDate": "2026-08-01 16:39:28",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:30:16 UTC",
+      "lastUpdate": "26-02-27 19:35:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［8／32］",
+      "channelName": "🖥️┃server-dynamic［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 8,
+      "players": 9,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 11:28:34",
+      "missionDate": "2025-07-01 11:33:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -236,7 +245,8 @@
         "101\\-zeshka\\[0035\\]",
         "HadTR",
         "Kuzex",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101\\-Shadow\\[1881\\]"
       ],
       "playerDetails": [
         {
@@ -266,6 +276,10 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -300,7 +314,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -356,7 +375,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:30:17 UTC",
+      "lastUpdate": "26-02-27 19:35:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -371,7 +390,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:44:38",
+    "missionDate": "2026-04-21 12:49:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -382,7 +401,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -391,11 +410,16 @@
       }
     },
     "playerList": [
-      "CanAda"
+      "CanAda",
+      "KAAN VİPER"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "KAAN VİPER",
         "unit": "F-16C_50"
       }
     ],
@@ -403,6 +427,10 @@
       "blue": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "KAAN VİPER",
           "unit": "F-16C_50"
         }
       ],
@@ -463,9 +491,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 19:30:16 UTC",
+    "lastUpdate": "26-02-27 19:35:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T19:30:24.067Z"
+  "lastUpdated": "2026-02-27T19:35:17.168Z"
 }
