@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:19:47",
+      "missionDate": "2026-04-21 08:24:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,21 +90,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 21:05:16 UTC",
+      "lastUpdate": "26-02-27 21:10:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:09:42",
+      "missionDate": "2026-08-01 12:14:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 21:05:16 UTC",
+      "lastUpdate": "26-02-27 21:10:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［5／32］",
+      "channelName": "🖥️┃server-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 5,
+      "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 07:03:40",
+      "missionDate": "2025-07-01 07:08:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 5,
           "total": 122
         },
         "red": {
@@ -219,8 +219,10 @@
       },
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
-        "101\\-Shadow\\[1881\\]",
+        "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
+        "101\\-Shadow\\[1881\\]",
+        "HadTR",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
@@ -229,16 +231,24 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Shadow\\[1881\\]",
+          "name": "101ArmOn1453",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-EMRE \\[0444\\]",
-          "unit": "--"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "HadTR",
+          "unit": "F-14B"
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -248,19 +258,27 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "HadTR",
+            "unit": "F-14B"
           }
         ],
         "red": [],
         "neutral": [
           {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "--"
-          },
-          {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -318,7 +336,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 21:05:17 UTC",
+      "lastUpdate": "26-02-27 21:10:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -333,7 +351,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:19:47",
+    "missionDate": "2026-04-21 08:24:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -413,9 +431,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 21:05:16 UTC",
+    "lastUpdate": "26-02-27 21:10:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T21:05:18.848Z"
+  "lastUpdated": "2026-02-27T21:10:18.841Z"
 }
