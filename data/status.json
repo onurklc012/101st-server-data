@@ -11,7 +11,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 12:59:38",
+        "missionDate": "2026-04-21 13:02:38",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 19:45:16 UTC",
+        "lastUpdate": "26-02-27 19:48:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -126,7 +126,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 16:49:28",
+        "missionDate": "2026-08-01 16:52:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,7 +206,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 19:45:16 UTC",
+        "lastUpdate": "26-02-27 19:48:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -220,7 +220,7 @@
         "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 11:43:34",
+        "missionDate": "2025-07-01 11:46:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -231,7 +231,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 7,
             "total": 122
           },
           "red": {
@@ -243,6 +243,7 @@
           "101 \\- Asil Turq \\[1919\\]",
           "101ArmOn1453",
           "101\\-EMRE \\[0444\\]",
+          "101\\-Shadow\\[1881\\]",
           "HadTR",
           "Kuzex",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
@@ -261,6 +262,10 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "HadTR",
             "unit": "F-14B"
           },
@@ -270,7 +275,7 @@
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "FA-18C_hornet"
+            "unit": "UH-60L"
           }
         ],
         "activePlayers": {
@@ -288,6 +293,10 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "101\\-Shadow\\[1881\\]",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "HadTR",
               "unit": "F-14B"
             },
@@ -297,7 +306,7 @@
             },
             {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "FA-18C_hornet"
+              "unit": "UH-60L"
             }
           ],
           "red": [],
@@ -357,7 +366,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 19:45:17 UTC",
+        "lastUpdate": "26-02-27 19:48:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -372,7 +381,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:59:38",
+      "missionDate": "2026-04-21 13:02:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -473,11 +482,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 19:45:16 UTC",
+      "lastUpdate": "26-02-27 19:48:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-27T19:45:19.329Z"
+    "lastUpdated": "2026-02-27T19:48:48.915Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -558,7 +567,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 27.02.2026 22:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-27T19:45:19.496Z"
+    "lastUpdated": "2026-02-27T19:48:49.089Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2600,11 +2609,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-27T19:45:20.004Z",
+    "lastUpdated": "2026-02-27T19:48:49.800Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-27T19:45:20.005Z",
+    "fetchedAt": "2026-02-27T19:48:49.801Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
