@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:49:47",
+        "missionDate": "2026-04-21 08:54:47",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 21:35:16 UTC",
+        "lastUpdate": "26-02-27 21:40:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:39:42",
+        "missionDate": "2026-08-01 12:44:42",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 21:35:16 UTC",
+        "lastUpdate": "26-02-27 21:40:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［10／32］",
+        "channelName": "🖥️┃server-dynamic［9／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
         "map": "Syria",
-        "players": 10,
+        "players": 9,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:33:40",
+        "missionDate": "2025-07-01 07:38:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 5,
             "total": 122
           },
           "red": {
@@ -221,12 +221,12 @@
         "playerList": [
           "101ArmOn1453",
           "101\\-EMRE \\[0444\\]",
-          "101\\-Shadow\\[1881\\]",
           "Falcon Pilot YT",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "ismo",
           "132 \\| kobuleti meydan",
-          "CapitanVader \\- KataPool"
+          "CapitanVader \\- KataPool",
+          "101 \\- Asil Turq \\[1919\\]"
         ],
         "playerDetails": [
           {
@@ -235,10 +235,6 @@
           },
           {
             "name": "101\\-EMRE \\[0444\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
           },
           {
@@ -260,6 +256,10 @@
           {
             "name": "CapitanVader \\- KataPool",
             "unit": "J-11A"
+          },
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -270,10 +270,6 @@
             },
             {
               "name": "101\\-EMRE \\[0444\\]",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "101\\-Shadow\\[1881\\]",
               "unit": "F-16C_50"
             },
             {
@@ -299,7 +295,12 @@
               "unit": "J-11A"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -355,7 +356,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 21:35:17 UTC",
+        "lastUpdate": "26-02-27 21:40:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -370,7 +371,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:49:47",
+      "missionDate": "2026-04-21 08:54:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -450,11 +451,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 21:35:16 UTC",
+      "lastUpdate": "26-02-27 21:40:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-27T21:35:21.447Z"
+    "lastUpdated": "2026-02-27T21:40:20.357Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -470,7 +471,7 @@
           {
             "rank": 2,
             "name": "101ArmOn1453",
-            "credits": 2879
+            "credits": 2779
           },
           {
             "rank": 3,
@@ -489,12 +490,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 15705,
-          "totalPlayers": 25,
+          "totalCredits": 15635,
+          "totalPlayers": 26,
           "activePilots": "5",
           "highestScore": 3972
         },
-        "lastUpdate": "🕒 Son guncelleme: 28.02.2026 00:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 28.02.2026 00:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -509,7 +510,7 @@
         {
           "rank": 2,
           "name": "101ArmOn1453",
-          "credits": 2879
+          "credits": 2779
         },
         {
           "rank": 3,
@@ -528,14 +529,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 15705,
-        "totalPlayers": 25,
+        "totalCredits": 15635,
+        "totalPlayers": 26,
         "activePilots": "5",
         "highestScore": 3972
       },
-      "lastUpdate": "🕒 Son guncelleme: 28.02.2026 00:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 28.02.2026 00:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-27T21:35:21.754Z"
+    "lastUpdated": "2026-02-27T21:40:20.581Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2608,11 +2609,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-27T21:35:22.572Z",
+    "lastUpdated": "2026-02-27T21:40:21.447Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-27T21:35:22.574Z",
+    "fetchedAt": "2026-02-27T21:40:21.448Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
