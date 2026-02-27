@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 14:04:38",
+        "missionDate": "2026-04-21 14:09:38",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:50:16 UTC",
+        "lastUpdate": "26-02-27 20:55:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:54:27",
+        "missionDate": "2026-08-01 17:59:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -151,7 +151,7 @@
             },
             "Ships": {
               "blue": 4,
-              "red": 8
+              "red": 6
             },
             "Structures": {
               "blue": 28,
@@ -185,21 +185,21 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:50:16 UTC",
+        "lastUpdate": "26-02-27 20:55:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［6／32］",
+        "channelName": "🖥️┃server-dynamic［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
         "map": "Syria",
-        "players": 6,
+        "players": 7,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 12:48:34",
+        "missionDate": "2025-07-01 12:53:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -223,7 +223,8 @@
           "101ArmOn1453",
           "101\\-EMRE \\[0444\\]",
           "101\\-Shadow\\[1881\\]",
-          "Kuzex"
+          "Kuzex",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -245,6 +246,10 @@
           {
             "name": "Kuzex",
             "unit": "F-15C"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -271,7 +276,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -281,15 +291,15 @@
             },
             "Planes": {
               "blue": 15,
-              "red": 9
+              "red": 8
             },
             "Helicopters": {
               "blue": 1,
-              "red": 4
+              "red": 6
             },
             "Ground Units": {
               "blue": 167,
-              "red": 1213
+              "red": 1214
             },
             "Ships": {
               "blue": 21,
@@ -306,8 +316,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 20,
-              "red": 20
+              "blue": 21,
+              "red": 24
             },
             "Downed Helicopters": {
               "blue": 2,
@@ -327,7 +337,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-27 20:50:17 UTC",
+        "lastUpdate": "26-02-27 20:55:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -342,7 +352,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:04:38",
+      "missionDate": "2026-04-21 14:09:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -422,11 +432,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 20:50:16 UTC",
+      "lastUpdate": "26-02-27 20:55:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-27T20:50:20.408Z"
+    "lastUpdated": "2026-02-27T20:55:16.392Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -507,7 +517,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 27.02.2026 23:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-27T20:50:20.677Z"
+    "lastUpdated": "2026-02-27T20:55:16.574Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2580,11 +2590,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-27T20:50:21.239Z",
+    "lastUpdated": "2026-02-27T20:55:17.367Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-27T20:50:21.240Z",
+    "fetchedAt": "2026-02-27T20:55:17.368Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
