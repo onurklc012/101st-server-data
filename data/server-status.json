@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:44:38",
+      "missionDate": "2026-04-21 13:49:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 20:30:16 UTC",
+      "lastUpdate": "26-02-27 20:35:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:34:28",
+      "missionDate": "2026-08-01 17:39:28",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 20:30:16 UTC",
+      "lastUpdate": "26-02-27 20:35:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 7,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 12:28:34",
+      "missionDate": "2025-07-01 12:33:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 4,
           "total": 122
         },
         "red": {
@@ -221,9 +221,8 @@
         "101 \\- Asil Turq \\[1919\\]",
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
-        "101\\-Shadow\\[1881\\]",
         "Kuzex",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "101\\-Shadow\\[1881\\]"
       ],
       "playerDetails": [
         {
@@ -239,16 +238,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Shadow\\[1881\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "Kuzex",
           "unit": "F-16C_50"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "UH-60L"
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -266,20 +261,17 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "Kuzex",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "UH-60L"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -288,8 +280,8 @@
             "red": 39
           },
           "Planes": {
-            "blue": 13,
-            "red": 5
+            "blue": 15,
+            "red": 9
           },
           "Helicopters": {
             "blue": 1,
@@ -297,7 +289,7 @@
           },
           "Ground Units": {
             "blue": 167,
-            "red": 1212
+            "red": 1213
           },
           "Ships": {
             "blue": 21,
@@ -335,7 +327,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 20:30:17 UTC",
+      "lastUpdate": "26-02-27 20:35:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -350,7 +342,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:44:38",
+    "missionDate": "2026-04-21 13:49:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -430,9 +422,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 20:30:16 UTC",
+    "lastUpdate": "26-02-27 20:35:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T20:30:31.554Z"
+  "lastUpdated": "2026-02-27T20:35:18.132Z"
 }
