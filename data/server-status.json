@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:14:38",
+      "missionDate": "2026-04-21 11:19:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 18:00:16 UTC",
+      "lastUpdate": "26-02-27 18:05:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +125,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:04:27",
+      "missionDate": "2026-08-01 15:09:27",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 18:00:16 UTC",
+      "lastUpdate": "26-02-27 18:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［11／32］",
+      "channelName": "🖥️┃server-dynamic［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 11,
+      "players": 10,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:58:34",
+      "missionDate": "2025-07-01 10:03:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -242,13 +242,12 @@
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
         "101\\-Shadow\\[1881\\]",
+        "101\\-Yidobaba\\[0098\\]",
         "101\\-zeshka\\[0035\\]",
-        "Birazzhırs",
         "Eclair",
         "Viper1\\-1 \\| Rejdzi",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-EffBee\\[0010\\]",
-        "101\\-Yidobaba\\[0098\\]"
+        "✯101\\-EffBee\\[0010\\]"
       ],
       "playerDetails": [
         {
@@ -264,12 +263,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-zeshka\\[0035\\]",
-          "unit": "MiG-29S"
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "EA-18G"
         },
         {
-          "name": "Birazzhırs",
-          "unit": "F-4E-45MC"
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "MiG-29S"
         },
         {
           "name": "Eclair",
@@ -286,10 +285,6 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -307,12 +302,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "MiG-29S"
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "EA-18G"
           },
           {
-            "name": "Birazzhırs",
-            "unit": "F-4E-45MC"
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "MiG-29S"
           },
           {
             "name": "Eclair",
@@ -332,12 +327,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -346,8 +336,8 @@
             "red": 39
           },
           "Planes": {
-            "blue": 14,
-            "red": 8
+            "blue": 17,
+            "red": 5
           },
           "Helicopters": {
             "blue": 0,
@@ -372,15 +362,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 0
+            "blue": 5,
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Sunken Ships": {
@@ -393,7 +383,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 18:00:17 UTC",
+      "lastUpdate": "26-02-27 18:05:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -408,7 +398,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:14:38",
+    "missionDate": "2026-04-21 11:19:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -509,9 +499,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 18:00:16 UTC",
+    "lastUpdate": "26-02-27 18:05:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T18:00:43.295Z"
+  "lastUpdated": "2026-02-27T18:05:18.681Z"
 }
