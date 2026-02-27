@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:59:47",
+      "missionDate": "2026-04-21 10:04:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 22:45:16 UTC",
+      "lastUpdate": "26-02-27 22:50:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:49:42",
+      "missionDate": "2026-08-01 13:54:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 22:45:16 UTC",
+      "lastUpdate": "26-02-27 22:50:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［5／32］",
+      "channelName": "🖥️┃server-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:43:40",
+      "missionDate": "2025-07-01 08:48:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,25 +221,20 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 122
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 7
         }
       },
       "playerList": [
-        "101ArmOn1453",
         "Clausewitz",
         "PENÇE",
-        "132 \\| kobuleti meydan"
+        "EA\\-18Growler"
       ],
       "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        },
         {
           "name": "Clausewitz",
           "unit": "JF-17"
@@ -249,16 +244,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "132 \\| kobuleti meydan",
-          "unit": "F-16C_50"
+          "name": "EA\\-18Growler",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
           {
             "name": "Clausewitz",
             "unit": "JF-17"
@@ -268,13 +259,13 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [
+        "red": [],
+        "neutral": [
           {
-            "name": "132 \\| kobuleti meydan",
-            "unit": "F-16C_50"
+            "name": "EA\\-18Growler",
+            "unit": "_ _"
           }
-        ],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -330,7 +321,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-27 22:45:17 UTC",
+      "lastUpdate": "26-02-27 22:50:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -345,7 +336,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:59:47",
+    "missionDate": "2026-04-21 10:04:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -425,9 +416,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-27 22:45:16 UTC",
+    "lastUpdate": "26-02-27 22:50:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-27T22:45:18.942Z"
+  "lastUpdated": "2026-02-27T22:50:24.804Z"
 }
