@@ -124,12 +124,24 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-EMRE \\[0444\\]"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-EMRE \\[0444\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -185,7 +197,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-28 21:55:16 UTC",
+        "lastUpdate": "26-02-28 21:55:26 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -221,7 +233,8 @@
         "playerList": [
           "132 \\| kobuleti meydan",
           "Bora\\_Kolsuz\\_Avcısı",
-          "EA\\-18Growler"
+          "EA\\-18Growler",
+          "101ArmOn1453"
         ],
         "playerDetails": [
           {
@@ -235,6 +248,10 @@
           {
             "name": "EA\\-18Growler",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -253,7 +270,12 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -309,7 +331,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-28 21:55:17 UTC",
+        "lastUpdate": "26-02-28 21:55:46 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -408,7 +430,7 @@
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-28T21:55:19.839Z"
+    "lastUpdated": "2026-02-28T21:55:46.043Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -489,7 +511,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 01.03.2026 00:50  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-28T21:55:19.961Z"
+    "lastUpdated": "2026-02-28T21:55:46.260Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2562,11 +2584,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-28T21:55:20.569Z",
+    "lastUpdated": "2026-02-28T21:55:46.905Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-28T21:55:20.570Z",
+    "fetchedAt": "2026-02-28T21:55:46.906Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
