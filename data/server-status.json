@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:39:49",
+      "missionDate": "2026-04-21 13:44:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -29,22 +29,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "KAAN VİPER"
-      ],
-      "playerDetails": [
-        {
-          "name": "KAAN VİPER",
-          "unit": "FA-18C_hornet"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "KAAN VİPER",
-            "unit": "FA-18C_hornet"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -102,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 20:25:16 UTC",
+      "lastUpdate": "26-02-28 20:30:26 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:29:43",
+      "missionDate": "2026-08-01 17:34:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 20:25:16 UTC",
+      "lastUpdate": "26-02-28 20:30:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:06:04",
+      "missionDate": "2025-07-01 09:11:04",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 122
         },
         "red": {
@@ -231,29 +219,39 @@
       },
       "playerList": [
         "101ArmOn1453",
+        "Kuzex",
         "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
         {
           "name": "101ArmOn1453",
-          "unit": "--"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Kuzex",
+          "unit": "F-16C_50"
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Kuzex",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": [
           {
-            "name": "101ArmOn1453",
-            "unit": "--"
-          },
-          {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -311,7 +309,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 20:25:17 UTC",
+      "lastUpdate": "26-02-28 20:30:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -326,7 +324,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:39:49",
+    "missionDate": "2026-04-21 13:44:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -337,7 +335,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 0,
         "total": 134
       },
       "red": {
@@ -345,22 +343,10 @@
         "total": 16
       }
     },
-    "playerList": [
-      "KAAN VİPER"
-    ],
-    "playerDetails": [
-      {
-        "name": "KAAN VİPER",
-        "unit": "FA-18C_hornet"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "KAAN VİPER",
-          "unit": "FA-18C_hornet"
-        }
-      ],
+      "blue": [],
       "red": [],
       "neutral": []
     },
@@ -418,9 +404,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 20:25:16 UTC",
+    "lastUpdate": "26-02-28 20:30:26 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T20:25:17.532Z"
+  "lastUpdated": "2026-02-28T20:30:26.026Z"
 }
