@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:19:49",
+      "missionDate": "2026-04-21 08:24:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 15:05:16 UTC",
+      "lastUpdate": "26-02-28 15:10:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:09:44",
+      "missionDate": "2026-08-01 12:14:44",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 15:05:16 UTC",
+      "lastUpdate": "26-02-28 15:10:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -198,7 +198,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 07:03:50",
+      "missionDate": "2025-07-01 07:08:50",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -218,14 +218,15 @@
         }
       },
       "playerList": [
-        "101\\-MrMercans",
+        "101\\-HotelTango",
         "101\\-Yidobaba\\[0098\\]",
-        "✯101\\-EffBee\\[0010\\]"
+        "✯101\\-EffBee\\[0010\\]",
+        "101\\-zeshka\\[0035\\]"
       ],
       "playerDetails": [
         {
-          "name": "101\\-MrMercans",
-          "unit": "AH-64D_BLK_II (crew)"
+          "name": "101\\-HotelTango",
+          "unit": "CH-47Fbl1"
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
@@ -234,13 +235,17 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-MrMercans",
-            "unit": "AH-64D_BLK_II (crew)"
+            "name": "101\\-HotelTango",
+            "unit": "CH-47Fbl1"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
@@ -252,7 +257,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -308,7 +318,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 15:05:17 UTC",
+      "lastUpdate": "26-02-28 15:10:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -323,7 +333,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 08:19:49",
+    "missionDate": "2026-04-21 08:24:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -403,9 +413,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 15:05:16 UTC",
+    "lastUpdate": "26-02-28 15:10:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T15:05:17.855Z"
+  "lastUpdated": "2026-02-28T15:10:18.392Z"
 }
