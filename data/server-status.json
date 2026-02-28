@@ -10,7 +10,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:14:49",
+      "missionDate": "2026-04-21 11:19:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "surgeon"
+        "surgeon",
+        "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
         {
           "name": "surgeon",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -46,7 +51,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -55,8 +65,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 8,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -102,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 18:00:16 UTC",
+      "lastUpdate": "26-02-28 18:05:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -116,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:04:43",
+      "missionDate": "2026-08-01 15:09:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +206,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 18:00:16 UTC",
+      "lastUpdate": "26-02-28 18:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［8／32］",
+      "channelName": "🖥️┃server-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 8,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:55:20",
+      "missionDate": "2025-07-01 10:00:11",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +231,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 5,
           "total": 122
         },
         "red": {
@@ -233,10 +243,8 @@
         "101 \\- Asil Turq \\[1919\\]",
         "101\\-EMRE \\[0444\\]",
         "101\\-MrMercans",
-        "101\\-Yidobaba\\[0098\\]",
         "Sniperzz\\_00",
-        "eXitus",
-        "101\\-HotelTango"
+        "eXitus"
       ],
       "playerDetails": [
         {
@@ -252,20 +260,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "AH-64D_BLK_II"
-        },
-        {
           "name": "Sniperzz\\_00",
           "unit": "F-16C_50"
         },
         {
           "name": "eXitus",
           "unit": "A-10C_2"
-        },
-        {
-          "name": "101\\-HotelTango",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -283,10 +283,6 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "AH-64D_BLK_II"
-          },
-          {
             "name": "Sniperzz\\_00",
             "unit": "F-16C_50"
           },
@@ -296,12 +292,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -314,12 +305,12 @@
             "red": 16
           },
           "Helicopters": {
-            "blue": 1,
-            "red": 3
+            "blue": 0,
+            "red": 4
           },
           "Ground Units": {
             "blue": 328,
-            "red": 1225
+            "red": 1224
           },
           "Ships": {
             "blue": 22,
@@ -344,7 +335,7 @@
             "red": 2
           },
           "Ground Shacks": {
-            "blue": 77,
+            "blue": 78,
             "red": 1
           },
           "Sunken Ships": {
@@ -357,7 +348,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 17:58:51 UTC",
+      "lastUpdate": "26-02-28 18:03:46 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -372,7 +363,7 @@
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:14:49",
+    "missionDate": "2026-04-21 11:19:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -392,12 +383,17 @@
       }
     },
     "playerList": [
-      "surgeon"
+      "surgeon",
+      "101\\-Yidobaba\\[0098\\]"
     ],
     "playerDetails": [
       {
         "name": "surgeon",
         "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "101\\-Yidobaba\\[0098\\]",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -408,7 +404,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -417,8 +418,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
-          "red": 18
+          "blue": 8,
+          "red": 16
         },
         "Helicopters": {
           "blue": 2,
@@ -464,9 +465,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 18:00:16 UTC",
+    "lastUpdate": "26-02-28 18:05:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T18:00:27.863Z"
+  "lastUpdated": "2026-02-28T18:05:18.065Z"
 }
