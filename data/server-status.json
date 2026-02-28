@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:39:38",
+      "missionDate": "2026-04-21 10:44:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 23:25:16 UTC",
+      "lastUpdate": "26-02-28 23:30:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:29:26",
+      "missionDate": "2026-08-01 14:34:26",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 23:25:16 UTC",
+      "lastUpdate": "26-02-28 23:30:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［6／32］",
+      "channelName": "🖥️┃server-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 6,
+      "players": 8,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:23:15",
+      "missionDate": "2025-07-01 09:28:15",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 122
         },
         "red": {
@@ -222,6 +222,8 @@
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
         "101\\-HotelTango",
+        "PENÇE",
+        "Omry",
         "✯101\\-EffBee\\[0010\\]"
       ],
       "playerDetails": [
@@ -242,8 +244,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "PENÇE",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Omry",
+          "unit": "--"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]",
-          "unit": "_ _"
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -263,13 +273,21 @@
           {
             "name": "101\\-HotelTango",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "PENÇE",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
         "neutral": [
           {
+            "name": "Omry",
+            "unit": "--"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]",
-            "unit": "_ _"
+            "unit": "--"
           }
         ]
       },
@@ -327,7 +345,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 23:25:17 UTC",
+      "lastUpdate": "26-02-28 23:30:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -342,7 +360,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:39:38",
+    "missionDate": "2026-04-21 10:44:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -422,9 +440,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 23:25:16 UTC",
+    "lastUpdate": "26-02-28 23:30:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T23:25:18.969Z"
+  "lastUpdated": "2026-02-28T23:30:24.432Z"
 }
