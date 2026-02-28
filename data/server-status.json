@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:49:38",
+      "missionDate": "2026-04-21 09:54:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 22:35:16 UTC",
+      "lastUpdate": "26-02-28 22:40:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:39:26",
+      "missionDate": "2026-08-01 13:44:26",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 22:35:16 UTC",
+      "lastUpdate": "26-02-28 22:40:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:33:15",
+      "missionDate": "2025-07-01 08:38:15",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -230,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -238,10 +238,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101ArmOn1453"
+      ],
+      "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -299,7 +311,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 22:35:17 UTC",
+      "lastUpdate": "26-02-28 22:40:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -314,7 +326,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:49:38",
+    "missionDate": "2026-04-21 09:54:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -394,9 +406,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 22:35:16 UTC",
+    "lastUpdate": "26-02-28 22:40:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T22:35:18.102Z"
+  "lastUpdated": "2026-02-28T22:40:19.949Z"
 }
