@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:34:47",
+      "missionDate": "2026-04-21 11:38:47",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 00:20:17 UTC",
+      "lastUpdate": "26-02-28 00:24:17 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:24:41",
+      "missionDate": "2026-08-01 15:28:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -115,7 +115,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 12
         },
         "red": {
@@ -124,30 +124,31 @@
         }
       },
       "playerList": [
-        "101\\-EMRE \\[0444\\]",
-        "PENÇE"
+        "PENÇE",
+        "101\\-EMRE \\[0444\\]"
       ],
       "playerDetails": [
         {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "--"
+          "name": "PENÇE",
+          "unit": "F-16C_50"
         },
         {
-          "name": "PENÇE",
-          "unit": "--"
+          "name": "101\\-EMRE \\[0444\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "PENÇE",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": [
           {
             "name": "101\\-EMRE \\[0444\\]",
-            "unit": "--"
-          },
-          {
-            "name": "PENÇE",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -205,7 +206,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 00:20:16 UTC",
+      "lastUpdate": "26-02-28 00:24:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,7 +220,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 10:18:40",
+      "missionDate": "2025-07-01 10:22:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -299,7 +300,7 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 00:20:17 UTC",
+      "lastUpdate": "26-02-28 00:24:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -314,7 +315,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:34:47",
+    "missionDate": "2026-04-21 11:38:47",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -394,9 +395,9 @@
         }
       }
     },
-    "lastUpdate": "26-02-28 00:20:17 UTC",
+    "lastUpdate": "26-02-28 00:24:17 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-02-28T00:20:22.190Z"
+  "lastUpdated": "2026-02-28T00:25:14.389Z"
 }
