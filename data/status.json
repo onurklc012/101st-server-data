@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 08:44:49",
+        "missionDate": "2026-04-21 08:49:49",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-28 15:30:16 UTC",
+        "lastUpdate": "26-02-28 15:35:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 12:34:44",
+        "missionDate": "2026-08-01 12:39:44",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-28 15:30:16 UTC",
+        "lastUpdate": "26-02-28 15:35:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 07:28:50",
+        "missionDate": "2025-07-01 07:33:50",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 122
           },
           "red": {
@@ -220,10 +220,10 @@
         },
         "playerList": [
           "101\\-HotelTango",
-          "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
           "101\\-zeshka\\[0035\\]",
-          "✯101\\-EffBee\\[0010\\]"
+          "✯101\\-EffBee\\[0010\\]",
+          "101\\-MrMercans"
         ],
         "playerDetails": [
           {
@@ -231,20 +231,20 @@
             "unit": "CH-47Fbl1"
           },
           {
-            "name": "101\\-MrMercans",
-            "unit": "AH-64D_BLK_II (crew)"
-          },
-          {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "AH-64D_BLK_II"
           },
           {
             "name": "101\\-zeshka\\[0035\\]",
-            "unit": "JF-17"
+            "unit": "F-16C_50"
           },
           {
             "name": "✯101\\-EffBee\\[0010\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-MrMercans",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -254,16 +254,12 @@
               "unit": "CH-47Fbl1"
             },
             {
-              "name": "101\\-MrMercans",
-              "unit": "AH-64D_BLK_II (crew)"
-            },
-            {
               "name": "101\\-Yidobaba\\[0098\\]",
               "unit": "AH-64D_BLK_II"
             },
             {
               "name": "101\\-zeshka\\[0035\\]",
-              "unit": "JF-17"
+              "unit": "F-16C_50"
             },
             {
               "name": "✯101\\-EffBee\\[0010\\]",
@@ -271,7 +267,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-MrMercans",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -280,16 +281,16 @@
               "red": 43
             },
             "Planes": {
-              "blue": 4,
-              "red": 1
+              "blue": 5,
+              "red": 3
             },
             "Helicopters": {
               "blue": 2,
               "red": 0
             },
             "Ground Units": {
-              "blue": 163,
-              "red": 1249
+              "blue": 164,
+              "red": 1241
             },
             "Ships": {
               "blue": 19,
@@ -307,14 +308,14 @@
             },
             "Killed Planes": {
               "blue": 0,
-              "red": 0
+              "red": 1
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 0,
+              "blue": 8,
               "red": 0
             },
             "Sunken Ships": {
@@ -327,7 +328,7 @@
             }
           }
         },
-        "lastUpdate": "26-02-28 15:30:17 UTC",
+        "lastUpdate": "26-02-28 15:35:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -342,7 +343,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 08:44:49",
+      "missionDate": "2026-04-21 08:49:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -422,11 +423,11 @@
           }
         }
       },
-      "lastUpdate": "26-02-28 15:30:16 UTC",
+      "lastUpdate": "26-02-28 15:35:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-02-28T15:30:26.830Z"
+    "lastUpdated": "2026-02-28T15:35:17.567Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -507,7 +508,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 28.02.2026 18:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-02-28T15:30:27.029Z"
+    "lastUpdated": "2026-02-28T15:35:17.794Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2580,11 +2581,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-02-28T15:30:28.016Z",
+    "lastUpdated": "2026-02-28T15:35:18.718Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-02-28T15:30:28.017Z",
+    "fetchedAt": "2026-02-28T15:35:18.719Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
