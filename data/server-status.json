@@ -10,7 +10,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:24:41",
+      "missionDate": "2026-04-21 12:29:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -30,26 +30,16 @@
         }
       },
       "playerList": [
-        "Tğm\\.Denizci",
         "ErwinSmith"
       ],
       "playerDetails": [
-        {
-          "name": "Tğm\\.Denizci",
-          "unit": "F-16C_50"
-        },
         {
           "name": "ErwinSmith",
           "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Tğm\\.Denizci",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [
           {
             "name": "ErwinSmith",
@@ -112,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:10:16 UTC",
+      "lastUpdate": "26-03-01 19:15:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -126,7 +116,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:14:34",
+      "missionDate": "2026-08-01 16:19:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:10:16 UTC",
+      "lastUpdate": "26-03-01 19:15:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -220,7 +210,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 11:08:34",
+      "missionDate": "2025-07-01 11:13:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 122
         },
         "red": {
@@ -242,8 +232,8 @@
       "playerList": [
         "101\\-EMRE \\[0444\\]",
         "101\\-zeshka\\[0035\\]",
-        "Colbert",
-        "Gustav"
+        "Gustav",
+        "Colbert"
       ],
       "playerDetails": [
         {
@@ -255,12 +245,12 @@
           "unit": "JF-17"
         },
         {
-          "name": "Colbert",
-          "unit": "F-16C_50"
+          "name": "Gustav",
+          "unit": "A-10C_2"
         },
         {
-          "name": "Gustav",
-          "unit": "_ _"
+          "name": "Colbert",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -272,6 +262,10 @@
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "JF-17"
+          },
+          {
+            "name": "Gustav",
+            "unit": "A-10C_2"
           }
         ],
         "red": [
@@ -280,12 +274,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "Gustav",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -341,7 +330,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:10:17 UTC",
+      "lastUpdate": "26-03-01 19:15:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -356,7 +345,7 @@
     "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:24:41",
+    "missionDate": "2026-04-21 12:29:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -367,7 +356,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 0,
         "total": 134
       },
       "red": {
@@ -376,26 +365,16 @@
       }
     },
     "playerList": [
-      "Tğm\\.Denizci",
       "ErwinSmith"
     ],
     "playerDetails": [
-      {
-        "name": "Tğm\\.Denizci",
-        "unit": "F-16C_50"
-      },
       {
         "name": "ErwinSmith",
         "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "Tğm\\.Denizci",
-          "unit": "F-16C_50"
-        }
-      ],
+      "blue": [],
       "red": [
         {
           "name": "ErwinSmith",
@@ -458,9 +437,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 19:10:16 UTC",
+    "lastUpdate": "26-03-01 19:15:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T19:10:20.775Z"
+  "lastUpdated": "2026-03-01T19:15:19.067Z"
 }
