@@ -10,7 +10,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:34:40",
+      "missionDate": "2026-04-21 09:39:40",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,10 +30,15 @@
         }
       },
       "playerList": [
+        "101\\-Brakelesss",
         "101\\-Maskot\\(0019\\)",
         "Brawe"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "UH-1H"
@@ -45,6 +50,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Brakelesss",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "UH-1H"
@@ -64,20 +73,20 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
+            "blue": 9,
             "red": 18
           },
           "Helicopters": {
-            "blue": 2,
+            "blue": 3,
             "red": 2
           },
           "Ground Units": {
             "blue": 52,
-            "red": 308
+            "red": 305
           },
           "Ships": {
             "blue": 10,
-            "red": 21
+            "red": 20
           },
           "Structures": {
             "blue": 134,
@@ -98,11 +107,11 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Demolished Structures": {
@@ -111,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:20:16 UTC",
+      "lastUpdate": "26-03-01 22:25:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,7 +134,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:24:34",
+      "missionDate": "2026-08-01 13:29:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,21 +214,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:20:16 UTC",
+      "lastUpdate": "26-03-01 22:25:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［5／32］",
+      "channelName": "🖥️┃server-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:18:37",
+      "missionDate": "2025-07-01 08:23:37",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -234,7 +243,7 @@
           "total": 122
         },
         "red": {
-          "used": 1,
+          "used": 2,
           "total": 7
         }
       },
@@ -242,7 +251,8 @@
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
         "✯101\\-EffBee\\[0010\\]",
-        "Colbert"
+        "Colbert",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -259,6 +269,10 @@
         },
         {
           "name": "Colbert",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
         }
       ],
@@ -281,6 +295,10 @@
           {
             "name": "Colbert",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
           }
         ],
         "neutral": []
@@ -292,7 +310,7 @@
             "red": 42
           },
           "Planes": {
-            "blue": 7,
+            "blue": 6,
             "red": 9
           },
           "Helicopters": {
@@ -319,7 +337,7 @@
           },
           "Killed Planes": {
             "blue": 3,
-            "red": 2
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -339,7 +357,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:20:17 UTC",
+      "lastUpdate": "26-03-01 22:25:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -354,7 +372,7 @@
     "players": 4,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:34:40",
+    "missionDate": "2026-04-21 09:39:40",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -365,7 +383,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -374,10 +392,15 @@
       }
     },
     "playerList": [
+      "101\\-Brakelesss",
       "101\\-Maskot\\(0019\\)",
       "Brawe"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-Brakelesss",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101\\-Maskot\\(0019\\)",
         "unit": "UH-1H"
@@ -389,6 +412,10 @@
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "UH-1H"
@@ -408,20 +435,20 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
+          "blue": 9,
           "red": 18
         },
         "Helicopters": {
-          "blue": 2,
+          "blue": 3,
           "red": 2
         },
         "Ground Units": {
           "blue": 52,
-          "red": 308
+          "red": 305
         },
         "Ships": {
           "blue": 10,
-          "red": 21
+          "red": 20
         },
         "Structures": {
           "blue": 134,
@@ -442,11 +469,11 @@
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Sunken Ships": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Demolished Structures": {
@@ -455,9 +482,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 22:20:16 UTC",
+    "lastUpdate": "26-03-01 22:25:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T22:20:19.994Z"
+  "lastUpdated": "2026-03-01T22:25:16.679Z"
 }
