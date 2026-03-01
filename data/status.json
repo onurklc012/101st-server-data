@@ -11,7 +11,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 13:24:41",
+        "missionDate": "2026-04-21 13:29:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 20:10:16 UTC",
+        "lastUpdate": "26-03-01 20:15:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -105,7 +105,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 17:14:34",
+        "missionDate": "2026-08-01 17:19:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 20:10:16 UTC",
+        "lastUpdate": "26-03-01 20:15:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -199,7 +199,7 @@
         "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 12:08:34",
+        "missionDate": "2025-07-01 12:13:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -210,7 +210,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 122
           },
           "red": {
@@ -221,8 +221,8 @@
         "playerList": [
           "101ArmOn1453",
           "Gustav",
-          "Colbert",
-          "PENÇE"
+          "PENÇE",
+          "Colbert"
         ],
         "playerDetails": [
           {
@@ -234,12 +234,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Colbert",
+            "name": "PENÇE",
             "unit": "F-16C_50"
           },
           {
-            "name": "PENÇE",
-            "unit": "_ _"
+            "name": "Colbert",
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -251,6 +251,10 @@
             {
               "name": "Gustav",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "PENÇE",
+              "unit": "F-16C_50"
             }
           ],
           "red": [
@@ -259,12 +263,7 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "PENÇE",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -320,7 +319,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 20:10:17 UTC",
+        "lastUpdate": "26-03-01 20:15:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -335,7 +334,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:24:41",
+      "missionDate": "2026-04-21 13:29:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -415,11 +414,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:10:16 UTC",
+      "lastUpdate": "26-03-01 20:15:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-01T20:10:20.672Z"
+    "lastUpdated": "2026-03-01T20:15:19.344Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -500,7 +499,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 01.03.2026 23:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-01T20:10:20.847Z"
+    "lastUpdated": "2026-03-01T20:15:19.480Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2611,11 +2610,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-01T20:10:21.412Z",
+    "lastUpdated": "2026-03-01T20:15:19.890Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-01T20:10:21.413Z",
+    "fetchedAt": "2026-03-01T20:15:19.891Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
