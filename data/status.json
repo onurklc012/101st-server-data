@@ -11,7 +11,7 @@
         "players": 6,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 10:14:41",
+        "missionDate": "2026-04-21 10:19:40",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -35,12 +35,13 @@
           "Brawe",
           "GhostEagle",
           "MajorTan",
-          "SeargentUyar"
+          "SeargentUyar",
+          "✯101\\-EffBee\\[0010\\]"
         ],
         "playerDetails": [
           {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "UH-1H"
+            "unit": "F-16C_50"
           },
           {
             "name": "Brawe",
@@ -57,13 +58,17 @@
           {
             "name": "SeargentUyar",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101\\-Maskot\\(0019\\)",
-              "unit": "UH-1H"
+              "unit": "F-16C_50"
             },
             {
               "name": "Brawe",
@@ -84,7 +89,12 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "✯101\\-EffBee\\[0010\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -140,21 +150,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 23:00:16 UTC",
+        "lastUpdate": "26-03-01 23:05:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［1／32］",
+        "channelName": "🖥️┃server-syria［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 14:04:34",
+        "missionDate": "2026-08-01 14:09:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -165,7 +175,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 12
           },
           "red": {
@@ -173,10 +183,22 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        ],
+        "playerDetails": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -234,21 +256,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 23:00:16 UTC",
+        "lastUpdate": "26-03-01 23:05:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［3／32］",
+        "channelName": "🖥️┃server-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
         "map": "Syria",
-        "players": 3,
+        "players": 2,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 08:58:37",
+        "missionDate": "2025-07-01 09:03:37",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -259,7 +281,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 1,
             "total": 122
           },
           "red": {
@@ -268,22 +290,12 @@
           }
         },
         "playerList": [
-          "101ArmOn1453",
-          "101\\-EMRE \\[0444\\]",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "101ArmOn1453"
         ],
         "playerDetails": [
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -291,19 +303,10 @@
             {
               "name": "101ArmOn1453",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "101\\-EMRE \\[0444\\]",
-              "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -312,16 +315,16 @@
               "red": 42
             },
             "Planes": {
-              "blue": 7,
-              "red": 12
+              "blue": 5,
+              "red": 10
             },
             "Helicopters": {
               "blue": 0,
-              "red": 5
+              "red": 6
             },
             "Ground Units": {
-              "blue": 148,
-              "red": 1225
+              "blue": 146,
+              "red": 1232
             },
             "Ships": {
               "blue": 20,
@@ -338,8 +341,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 5,
-              "red": 8
+              "blue": 7,
+              "red": 9
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -359,7 +362,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 23:00:26 UTC",
+        "lastUpdate": "26-03-01 23:05:17 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -374,7 +377,7 @@
       "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:14:41",
+      "missionDate": "2026-04-21 10:19:40",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -398,12 +401,13 @@
         "Brawe",
         "GhostEagle",
         "MajorTan",
-        "SeargentUyar"
+        "SeargentUyar",
+        "✯101\\-EffBee\\[0010\\]"
       ],
       "playerDetails": [
         {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "UH-1H"
+          "unit": "F-16C_50"
         },
         {
           "name": "Brawe",
@@ -420,13 +424,17 @@
         {
           "name": "SeargentUyar",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "UH-1H"
+            "unit": "F-16C_50"
           },
           {
             "name": "Brawe",
@@ -447,7 +455,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -503,11 +516,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 23:00:16 UTC",
+      "lastUpdate": "26-03-01 23:05:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-01T23:00:30.995Z"
+    "lastUpdated": "2026-03-01T23:05:21.308Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -588,7 +601,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 02.03.2026 02:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-01T23:00:31.141Z"
+    "lastUpdated": "2026-03-01T23:05:21.497Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2737,11 +2750,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-01T23:00:31.680Z",
+    "lastUpdated": "2026-03-01T23:05:22.089Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-01T23:00:31.681Z",
+    "fetchedAt": "2026-03-01T23:05:22.090Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
