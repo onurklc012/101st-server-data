@@ -10,7 +10,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:14:41",
+      "missionDate": "2026-04-21 11:19:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -32,7 +32,8 @@
       "playerList": [
         "M\\.BerkHalis",
         "Mobius 1\\-1 \\| Traden",
-        "OmnisV \\| Bob1\\-1"
+        "OmnisV \\| Bob1\\-1",
+        "Ursus maritimus"
       ],
       "playerDetails": [
         {
@@ -41,11 +42,15 @@
         },
         {
           "name": "Mobius 1\\-1 \\| Traden",
-          "unit": "F-15C"
+          "unit": "Su-27"
         },
         {
           "name": "OmnisV \\| Bob1\\-1",
-          "unit": "Su-30MKI"
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "Ursus maritimus",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -56,16 +61,21 @@
           },
           {
             "name": "Mobius 1\\-1 \\| Traden",
-            "unit": "F-15C"
+            "unit": "Su-27"
           }
         ],
         "red": [
           {
             "name": "OmnisV \\| Bob1\\-1",
-            "unit": "Su-30MKI"
+            "unit": "Su-30SM"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Ursus maritimus",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -74,8 +84,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 9,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -100,8 +110,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 1,
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -121,7 +131,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:00:16 UTC",
+      "lastUpdate": "26-03-01 18:05:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -135,7 +145,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:04:34",
+      "missionDate": "2026-08-01 15:09:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,21 +225,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:00:16 UTC",
+      "lastUpdate": "26-03-01 18:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:58:34",
+      "missionDate": "2025-07-01 10:03:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -244,13 +254,14 @@
           "total": 122
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 7
         }
       },
       "playerList": [
         "101\\-zeshka\\[0035\\]",
-        "mertuykur"
+        "mertuykur",
+        "Colbert"
       ],
       "playerDetails": [
         {
@@ -259,7 +270,11 @@
         },
         {
           "name": "mertuykur",
-          "unit": "FA-18C_hornet"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Colbert",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -270,10 +285,15 @@
           },
           {
             "name": "mertuykur",
-            "unit": "FA-18C_hornet"
+            "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "Colbert",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -330,7 +350,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:00:17 UTC",
+      "lastUpdate": "26-03-01 18:05:18 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -345,7 +365,7 @@
     "players": 4,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:14:41",
+    "missionDate": "2026-04-21 11:19:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -367,7 +387,8 @@
     "playerList": [
       "M\\.BerkHalis",
       "Mobius 1\\-1 \\| Traden",
-      "OmnisV \\| Bob1\\-1"
+      "OmnisV \\| Bob1\\-1",
+      "Ursus maritimus"
     ],
     "playerDetails": [
       {
@@ -376,11 +397,15 @@
       },
       {
         "name": "Mobius 1\\-1 \\| Traden",
-        "unit": "F-15C"
+        "unit": "Su-27"
       },
       {
         "name": "OmnisV \\| Bob1\\-1",
-        "unit": "Su-30MKI"
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "Ursus maritimus",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -391,16 +416,21 @@
         },
         {
           "name": "Mobius 1\\-1 \\| Traden",
-          "unit": "F-15C"
+          "unit": "Su-27"
         }
       ],
       "red": [
         {
           "name": "OmnisV \\| Bob1\\-1",
-          "unit": "Su-30MKI"
+          "unit": "Su-30SM"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Ursus maritimus",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -409,8 +439,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
-          "red": 18
+          "blue": 9,
+          "red": 16
         },
         "Helicopters": {
           "blue": 2,
@@ -435,8 +465,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
-          "red": 0
+          "blue": 1,
+          "red": 2
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -456,9 +486,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 18:00:16 UTC",
+    "lastUpdate": "26-03-01 18:05:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T18:00:27.752Z"
+  "lastUpdated": "2026-03-01T18:05:20.349Z"
 }
