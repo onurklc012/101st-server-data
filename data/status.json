@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［4／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 4,
+        "players": 5,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-04-21 11:54:41",
+        "missionDate": "2026-04-21 11:59:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -33,7 +33,8 @@
         "playerList": [
           "101\\-EMRE \\[0444\\]",
           "M\\.BerkHalis",
-          "Tğm\\.Denizci"
+          "Tğm\\.Denizci",
+          "VADENTA"
         ],
         "playerDetails": [
           {
@@ -47,6 +48,10 @@
           {
             "name": "Tğm\\.Denizci",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "VADENTA",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -65,7 +70,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "VADENTA",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -121,7 +131,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 18:40:16 UTC",
+        "lastUpdate": "26-03-01 18:45:16 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -135,7 +145,7 @@
         "players": 1,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2026-08-01 15:44:34",
+        "missionDate": "2026-08-01 15:49:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -215,7 +225,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 18:40:16 UTC",
+        "lastUpdate": "26-03-01 18:45:16 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,7 +239,7 @@
         "players": 3,
         "maxPlayers": 32,
         "missionTime": "--:--",
-        "missionDate": "2025-07-01 10:38:34",
+        "missionDate": "2025-07-01 10:43:32",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -331,22 +341,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-01 18:40:17 UTC",
+        "lastUpdate": "26-03-01 18:45:20 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:54:41",
+      "missionDate": "2026-04-21 11:59:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -368,7 +378,8 @@
       "playerList": [
         "101\\-EMRE \\[0444\\]",
         "M\\.BerkHalis",
-        "Tğm\\.Denizci"
+        "Tğm\\.Denizci",
+        "VADENTA"
       ],
       "playerDetails": [
         {
@@ -382,6 +393,10 @@
         {
           "name": "Tğm\\.Denizci",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "VADENTA",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -400,7 +415,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "VADENTA",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -456,11 +476,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:40:16 UTC",
+      "lastUpdate": "26-03-01 18:45:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-01T18:40:20.343Z"
+    "lastUpdated": "2026-03-01T18:45:20.280Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -541,7 +561,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 01.03.2026 21:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-01T18:40:20.474Z"
+    "lastUpdated": "2026-03-01T18:45:20.484Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2652,11 +2672,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-01T18:40:20.968Z",
+    "lastUpdated": "2026-03-01T18:45:21.017Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-01T18:40:20.969Z",
+    "fetchedAt": "2026-03-01T18:45:21.018Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
