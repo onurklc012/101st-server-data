@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:15:41",
+      "missionDate": "2026-04-21 12:19:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,15 +30,10 @@
         }
       },
       "playerList": [
-        "101\\-Maskot\\(0019\\)",
         "Tğm\\.Denizci",
         "ErwinSmith"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
         {
           "name": "Tğm\\.Denizci",
           "unit": "F-16C_50"
@@ -50,10 +45,6 @@
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
           {
             "name": "Tğm\\.Denizci",
             "unit": "F-16C_50"
@@ -74,8 +65,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
-            "red": 15
+            "blue": 8,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -121,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:01:16 UTC",
+      "lastUpdate": "26-03-01 19:05:17 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -135,7 +126,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 16:05:34",
+      "missionDate": "2026-08-01 16:09:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,21 +206,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:01:16 UTC",
+      "lastUpdate": "26-03-01 19:05:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［5／32］",
+      "channelName": "🖥️┃server-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 10:59:34",
+      "missionDate": "2025-07-01 11:03:33",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -240,7 +231,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 122
         },
         "red": {
@@ -249,11 +240,15 @@
         }
       },
       "playerList": [
+        "101\\-EMRE \\[0444\\]",
         "101\\-zeshka\\[0035\\]",
-        "Colbert",
-        "101\\-EMRE \\[0444\\]"
+        "Colbert"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-EMRE \\[0444\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "JF-17"
@@ -261,14 +256,14 @@
         {
           "name": "Colbert",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "JF-17"
@@ -280,12 +275,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -341,22 +331,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 19:01:17 UTC",
+      "lastUpdate": "26-03-01 19:05:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:15:41",
+    "missionDate": "2026-04-21 12:19:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -367,7 +357,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -376,15 +366,10 @@
       }
     },
     "playerList": [
-      "101\\-Maskot\\(0019\\)",
       "Tğm\\.Denizci",
       "ErwinSmith"
     ],
     "playerDetails": [
-      {
-        "name": "101\\-Maskot\\(0019\\)",
-        "unit": "F-16C_50"
-      },
       {
         "name": "Tğm\\.Denizci",
         "unit": "F-16C_50"
@@ -396,10 +381,6 @@
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
         {
           "name": "Tğm\\.Denizci",
           "unit": "F-16C_50"
@@ -420,8 +401,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
-          "red": 15
+          "blue": 8,
+          "red": 16
         },
         "Helicopters": {
           "blue": 2,
@@ -467,9 +448,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 19:01:16 UTC",
+    "lastUpdate": "26-03-01 19:05:17 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T19:01:32.313Z"
+  "lastUpdated": "2026-03-01T19:05:20.790Z"
 }
