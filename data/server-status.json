@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:04:40",
+      "missionDate": "2026-04-21 09:09:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -41,11 +41,11 @@
         },
         {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "Brawe",
-          "unit": "--"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -53,19 +53,18 @@
           {
             "name": "101\\-Brakelesss",
             "unit": "F-16C_50"
-          }
-        ],
-        "red": [],
-        "neutral": [
+          },
           {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "Brawe",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -121,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 21:50:16 UTC",
+      "lastUpdate": "26-03-01 21:55:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -135,7 +134,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 12:54:34",
+      "missionDate": "2026-08-01 12:59:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,21 +214,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 21:50:16 UTC",
+      "lastUpdate": "26-03-01 21:55:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 07:48:36",
+      "missionDate": "2025-07-01 07:53:37",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -240,17 +239,19 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 122
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 7
         }
       },
       "playerList": [
         "101ArmOn1453",
-        "101\\-EMRE \\[0444\\]"
+        "101\\-EMRE \\[0444\\]",
+        "✯101\\-EffBee\\[0010\\]",
+        "Colbert"
       ],
       "playerDetails": [
         {
@@ -259,6 +260,14 @@
         },
         {
           "name": "101\\-EMRE \\[0444\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Colbert",
           "unit": "F-16C_50"
         }
       ],
@@ -271,9 +280,18 @@
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "Colbert",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -330,22 +348,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 21:50:22 UTC",
+      "lastUpdate": "26-03-01 21:55:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:04:40",
+    "missionDate": "2026-04-21 09:09:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -356,7 +374,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -376,11 +394,11 @@
       },
       {
         "name": "101\\-Maskot\\(0019\\)",
-        "unit": "--"
+        "unit": "F-16C_50"
       },
       {
         "name": "Brawe",
-        "unit": "--"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -388,19 +406,18 @@
         {
           "name": "101\\-Brakelesss",
           "unit": "F-16C_50"
-        }
-      ],
-      "red": [],
-      "neutral": [
+        },
         {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "Brawe",
-          "unit": "--"
+          "unit": "F-16C_50"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -456,9 +473,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 21:50:16 UTC",
+    "lastUpdate": "26-03-01 21:55:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T21:50:21.308Z"
+  "lastUpdated": "2026-03-01T21:55:18.115Z"
 }
