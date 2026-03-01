@@ -10,7 +10,7 @@
       "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:09:40",
+      "missionDate": "2026-04-21 10:14:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -30,22 +30,27 @@
         }
       },
       "playerList": [
-        "101\\-Brakelesss",
         "101\\-Maskot\\(0019\\)",
         "Brawe",
+        "GhostEagle",
+        "MajorTan",
         "SeargentUyar"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Brakelesss",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "UH-1H"
         },
         {
           "name": "Brawe",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "GhostEagle",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "MajorTan",
           "unit": "F-16C_50"
         },
         {
@@ -56,15 +61,19 @@
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Brakelesss",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "UH-1H"
           },
           {
             "name": "Brawe",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "GhostEagle",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "MajorTan",
             "unit": "F-16C_50"
           }
         ],
@@ -83,8 +92,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
-            "red": 20
+            "blue": 10,
+            "red": 19
           },
           "Helicopters": {
             "blue": 3,
@@ -130,7 +139,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:55:16 UTC",
+      "lastUpdate": "26-03-01 23:00:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -144,7 +153,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:59:34",
+      "missionDate": "2026-08-01 14:04:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -224,21 +233,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:55:16 UTC",
+      "lastUpdate": "26-03-01 23:00:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［5／32］",
+      "channelName": "🖥️┃server-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 5,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:53:37",
+      "missionDate": "2025-07-01 08:58:37",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -249,19 +258,18 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 122
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 7
         }
       },
       "playerList": [
         "101ArmOn1453",
         "101\\-EMRE \\[0444\\]",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "Colbert"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -274,11 +282,7 @@
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Colbert",
-          "unit": "F-16C_50"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -290,19 +294,15 @@
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
-          },
+          }
+        ],
+        "red": [],
+        "neutral": [
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "FA-18C_hornet"
+            "unit": "_ _"
           }
-        ],
-        "red": [
-          {
-            "name": "Colbert",
-            "unit": "F-16C_50"
-          }
-        ],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -358,7 +358,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:55:17 UTC",
+      "lastUpdate": "26-03-01 23:00:26 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -373,7 +373,7 @@
     "players": 6,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:09:40",
+    "missionDate": "2026-04-21 10:14:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -384,7 +384,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -393,22 +393,27 @@
       }
     },
     "playerList": [
-      "101\\-Brakelesss",
       "101\\-Maskot\\(0019\\)",
       "Brawe",
+      "GhostEagle",
+      "MajorTan",
       "SeargentUyar"
     ],
     "playerDetails": [
-      {
-        "name": "101\\-Brakelesss",
-        "unit": "F-16C_50"
-      },
       {
         "name": "101\\-Maskot\\(0019\\)",
         "unit": "UH-1H"
       },
       {
         "name": "Brawe",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "GhostEagle",
+        "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "MajorTan",
         "unit": "F-16C_50"
       },
       {
@@ -419,15 +424,19 @@
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Brakelesss",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "UH-1H"
         },
         {
           "name": "Brawe",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "GhostEagle",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "MajorTan",
           "unit": "F-16C_50"
         }
       ],
@@ -446,8 +455,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
-          "red": 20
+          "blue": 10,
+          "red": 19
         },
         "Helicopters": {
           "blue": 3,
@@ -493,9 +502,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 22:55:16 UTC",
+    "lastUpdate": "26-03-01 23:00:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T22:55:19.671Z"
+  "lastUpdated": "2026-03-01T23:00:30.995Z"
 }
