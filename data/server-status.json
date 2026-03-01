@@ -10,7 +10,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 11:02:41",
+      "missionDate": "2026-04-21 11:04:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -131,7 +131,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 17:48:16 UTC",
+      "lastUpdate": "26-03-01 17:50:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -145,7 +145,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 14:52:34",
+      "missionDate": "2026-08-01 14:54:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -225,7 +225,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 17:48:16 UTC",
+      "lastUpdate": "26-03-01 17:50:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -239,7 +239,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 09:46:34",
+      "missionDate": "2025-07-01 09:48:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -250,7 +250,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 122
         },
         "red": {
@@ -260,8 +260,8 @@
       },
       "playerList": [
         "101\\-zeshka\\[0035\\]",
-        "Colbert",
-        "mertuykur"
+        "mertuykur",
+        "Colbert"
       ],
       "playerDetails": [
         {
@@ -269,12 +269,12 @@
           "unit": "JF-17"
         },
         {
-          "name": "Colbert",
-          "unit": "F-16C_50"
+          "name": "mertuykur",
+          "unit": "FA-18C_hornet"
         },
         {
-          "name": "mertuykur",
-          "unit": "_ _"
+          "name": "Colbert",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -282,6 +282,10 @@
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "JF-17"
+          },
+          {
+            "name": "mertuykur",
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [
@@ -290,12 +294,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "mertuykur",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -351,7 +350,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 17:48:26 UTC",
+      "lastUpdate": "26-03-01 17:50:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -366,7 +365,7 @@
     "players": 5,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 11:02:41",
+    "missionDate": "2026-04-21 11:04:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -487,9 +486,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 17:48:16 UTC",
+    "lastUpdate": "26-03-01 17:50:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T17:49:13.221Z"
+  "lastUpdated": "2026-03-01T17:50:20.521Z"
 }
