@@ -1,52 +1,36 @@
 {
   "servers": [
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 14:09:41",
-      "weather": {
-        "temperature": "5.4°C",
-        "qnh": "1013 hPa",
-        "clouds": "Two Layer Scattered/",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "281° / 2 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 1,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "KAAN VİPER"
       ],
       "playerDetails": [
         {
           "name": "KAAN VİPER",
-          "unit": "F-16C_50"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [
+        "blue": [],
+        "red": [],
+        "neutral": [
           {
             "name": "KAAN VİPER",
-            "unit": "F-16C_50"
+            "unit": "_ _"
           }
-        ],
-        "red": [],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -102,39 +86,23 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:55:16 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10309",
-      "mission": "101_Hunter_SQN_SURIYE_v3_7",
-      "map": "Syria",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:59:34",
-      "weather": {
-        "temperature": "20.0°C",
-        "qnh": "1013 hPa",
-        "clouds": "Few Scattered Clouds",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "198° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 12
-        },
-        "red": {
-          "used": 0,
-          "total": 9
-        }
-      },
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -196,7 +164,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:55:16 UTC",
+      "lastUpdate": null,
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -210,7 +178,7 @@
       "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 12:53:34",
+      "missionDate": "2025-07-01 12:58:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -321,58 +289,42 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:55:17 UTC",
+      "lastUpdate": "26-03-01 21:00:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
+    "online": false,
     "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
     "players": 2,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 14:09:41",
-    "weather": {
-      "temperature": "5.4°C",
-      "qnh": "1013 hPa",
-      "clouds": "Two Layer Scattered/",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "281° / 2 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 1,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
     "playerList": [
       "KAAN VİPER"
     ],
     "playerDetails": [
       {
         "name": "KAAN VİPER",
-        "unit": "F-16C_50"
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
-      "blue": [
+      "blue": [],
+      "red": [],
+      "neutral": [
         {
           "name": "KAAN VİPER",
-          "unit": "F-16C_50"
+          "unit": "_ _"
         }
-      ],
-      "red": [],
-      "neutral": []
+      ]
     },
     "missionStats": {
       "situation": {
@@ -428,9 +380,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 20:55:16 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T20:55:20.052Z"
+  "lastUpdated": "2026-03-01T21:00:28.462Z"
 }
