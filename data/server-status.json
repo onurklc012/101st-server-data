@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:04:41",
+      "missionDate": "2026-04-21 12:09:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -31,13 +31,19 @@
       },
       "playerList": [
         "101\\-EMRE \\[0444\\]",
+        "101\\-Maskot\\(0019\\)",
         "Tğm\\.Denizci",
-        "VADENTA"
+        "VADENTA",
+        "ErwinSmith"
       ],
       "playerDetails": [
         {
           "name": "101\\-EMRE \\[0444\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "UH-1H"
         },
         {
           "name": "Tğm\\.Denizci",
@@ -46,6 +52,10 @@
         {
           "name": "VADENTA",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "ErwinSmith",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -53,6 +63,10 @@
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "UH-1H"
           },
           {
             "name": "Tğm\\.Denizci",
@@ -64,7 +78,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "ErwinSmith",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -120,7 +139,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:50:16 UTC",
+      "lastUpdate": "26-03-01 18:55:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,7 +153,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:54:34",
+      "missionDate": "2026-08-01 15:59:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -214,7 +233,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:50:16 UTC",
+      "lastUpdate": "26-03-01 18:55:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -228,7 +247,7 @@
       "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 10:48:34",
+      "missionDate": "2025-07-01 10:53:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -283,16 +302,16 @@
             "red": 42
           },
           "Planes": {
-            "blue": 12,
-            "red": 10
+            "blue": 11,
+            "red": 12
           },
           "Helicopters": {
-            "blue": 3,
-            "red": 1
+            "blue": 2,
+            "red": 2
           },
           "Ground Units": {
-            "blue": 187,
-            "red": 1241
+            "blue": 171,
+            "red": 1239
           },
           "Ships": {
             "blue": 22,
@@ -309,16 +328,16 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 5,
-            "red": 3
+            "blue": 7,
+            "red": 6
           },
           "Downed Helicopters": {
-            "blue": 0,
-            "red": 0
+            "blue": 2,
+            "red": 1
           },
           "Ground Shacks": {
             "blue": 13,
-            "red": 24
+            "red": 37
           },
           "Sunken Ships": {
             "blue": 0,
@@ -330,22 +349,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:50:17 UTC",
+      "lastUpdate": "26-03-01 18:55:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:04:41",
+    "missionDate": "2026-04-21 12:09:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -356,7 +375,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -366,13 +385,19 @@
     },
     "playerList": [
       "101\\-EMRE \\[0444\\]",
+      "101\\-Maskot\\(0019\\)",
       "Tğm\\.Denizci",
-      "VADENTA"
+      "VADENTA",
+      "ErwinSmith"
     ],
     "playerDetails": [
       {
         "name": "101\\-EMRE \\[0444\\]",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "101\\-Maskot\\(0019\\)",
+        "unit": "UH-1H"
       },
       {
         "name": "Tğm\\.Denizci",
@@ -381,6 +406,10 @@
       {
         "name": "VADENTA",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "ErwinSmith",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -388,6 +417,10 @@
         {
           "name": "101\\-EMRE \\[0444\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "UH-1H"
         },
         {
           "name": "Tğm\\.Denizci",
@@ -399,7 +432,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "ErwinSmith",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -455,9 +493,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 18:50:16 UTC",
+    "lastUpdate": "26-03-01 18:55:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T18:50:17.501Z"
+  "lastUpdated": "2026-03-01T18:55:17.946Z"
 }
