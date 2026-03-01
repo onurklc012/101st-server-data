@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 3,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 10:09:41",
+      "missionDate": "2026-04-21 10:14:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,19 +21,41 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Mobius 1\\-1 \\| Traden",
+        "OmnisV \\| Bob1\\-1"
+      ],
+      "playerDetails": [
+        {
+          "name": "Mobius 1\\-1 \\| Traden",
+          "unit": "Su-27"
+        },
+        {
+          "name": "OmnisV \\| Bob1\\-1",
+          "unit": "Su-30MKI"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
+        "blue": [
+          {
+            "name": "Mobius 1\\-1 \\| Traden",
+            "unit": "Su-27"
+          }
+        ],
+        "red": [
+          {
+            "name": "OmnisV \\| Bob1\\-1",
+            "unit": "Su-30MKI"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -90,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 16:55:16 UTC",
+      "lastUpdate": "26-03-01 17:00:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +126,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:59:34",
+      "missionDate": "2026-08-01 14:04:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,7 +218,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 16:55:16 UTC",
+      "lastUpdate": "26-03-01 17:00:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -210,7 +232,7 @@
       "players": 2,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:53:33",
+      "missionDate": "2025-07-01 08:58:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +243,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -235,18 +257,18 @@
       "playerDetails": [
         {
           "name": "101\\-zeshka\\[0035\\]",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-zeshka\\[0035\\]",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -302,22 +324,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 16:55:17 UTC",
+      "lastUpdate": "26-03-01 17:00:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 3,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 10:09:41",
+    "missionDate": "2026-04-21 10:14:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -328,19 +350,41 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Mobius 1\\-1 \\| Traden",
+      "OmnisV \\| Bob1\\-1"
+    ],
+    "playerDetails": [
+      {
+        "name": "Mobius 1\\-1 \\| Traden",
+        "unit": "Su-27"
+      },
+      {
+        "name": "OmnisV \\| Bob1\\-1",
+        "unit": "Su-30MKI"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
+      "blue": [
+        {
+          "name": "Mobius 1\\-1 \\| Traden",
+          "unit": "Su-27"
+        }
+      ],
+      "red": [
+        {
+          "name": "OmnisV \\| Bob1\\-1",
+          "unit": "Su-30MKI"
+        }
+      ],
       "neutral": []
     },
     "missionStats": {
@@ -397,9 +441,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 16:55:16 UTC",
+    "lastUpdate": "26-03-01 17:00:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T16:55:56.439Z"
+  "lastUpdated": "2026-03-01T17:00:31.008Z"
 }
