@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 4,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 12:09:41",
+      "missionDate": "2026-04-21 12:14:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,69 +21,51 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 2,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
-        "101\\-EMRE \\[0444\\]",
         "101\\-Maskot\\(0019\\)",
         "Tğm\\.Denizci",
-        "VADENTA",
         "ErwinSmith"
       ],
       "playerDetails": [
         {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "UH-1H"
+          "unit": "F-16C_50"
         },
         {
           "name": "Tğm\\.Denizci",
           "unit": "F-16C_50"
         },
         {
-          "name": "VADENTA",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "ErwinSmith",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-EMRE \\[0444\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "UH-1H"
+            "unit": "F-16C_50"
           },
           {
             "name": "Tğm\\.Denizci",
             "unit": "F-16C_50"
-          },
+          }
+        ],
+        "red": [
           {
-            "name": "VADENTA",
+            "name": "ErwinSmith",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": [
-          {
-            "name": "ErwinSmith",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -139,7 +121,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:55:16 UTC",
+      "lastUpdate": "26-03-01 19:00:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -153,7 +135,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 15:59:34",
+      "missionDate": "2026-08-01 16:04:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -233,21 +215,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:55:16 UTC",
+      "lastUpdate": "26-03-01 19:00:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 10:53:34",
+      "missionDate": "2025-07-01 10:58:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -268,7 +250,8 @@
       },
       "playerList": [
         "101\\-zeshka\\[0035\\]",
-        "Colbert"
+        "Colbert",
+        "101\\-EMRE \\[0444\\]"
       ],
       "playerDetails": [
         {
@@ -278,6 +261,10 @@
         {
           "name": "Colbert",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-EMRE \\[0444\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -293,7 +280,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-EMRE \\[0444\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -303,15 +295,15 @@
           },
           "Planes": {
             "blue": 11,
-            "red": 12
+            "red": 10
           },
           "Helicopters": {
             "blue": 2,
-            "red": 2
+            "red": 3
           },
           "Ground Units": {
             "blue": 171,
-            "red": 1239
+            "red": 1242
           },
           "Ships": {
             "blue": 22,
@@ -349,22 +341,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 18:55:17 UTC",
+      "lastUpdate": "26-03-01 19:00:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［6／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 6,
+    "players": 4,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 12:09:41",
+    "missionDate": "2026-04-21 12:14:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -375,69 +367,51 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 2,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
-      "101\\-EMRE \\[0444\\]",
       "101\\-Maskot\\(0019\\)",
       "Tğm\\.Denizci",
-      "VADENTA",
       "ErwinSmith"
     ],
     "playerDetails": [
       {
-        "name": "101\\-EMRE \\[0444\\]",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "101\\-Maskot\\(0019\\)",
-        "unit": "UH-1H"
+        "unit": "F-16C_50"
       },
       {
         "name": "Tğm\\.Denizci",
         "unit": "F-16C_50"
       },
       {
-        "name": "VADENTA",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "ErwinSmith",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-EMRE \\[0444\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "UH-1H"
+          "unit": "F-16C_50"
         },
         {
           "name": "Tğm\\.Denizci",
           "unit": "F-16C_50"
-        },
+        }
+      ],
+      "red": [
         {
-          "name": "VADENTA",
+          "name": "ErwinSmith",
           "unit": "F-16C_50"
         }
       ],
-      "red": [],
-      "neutral": [
-        {
-          "name": "ErwinSmith",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -493,9 +467,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 18:55:16 UTC",
+    "lastUpdate": "26-03-01 19:00:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T18:55:17.946Z"
+  "lastUpdated": "2026-03-01T19:00:32.795Z"
 }
