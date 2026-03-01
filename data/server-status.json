@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 6,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 09:54:41",
+      "missionDate": "2026-04-21 09:59:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -25,14 +25,16 @@
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 2,
           "total": 16
         }
       },
       "playerList": [
         "101\\-Brakelesss",
         "101\\-Maskot\\(0019\\)",
-        "Brawe"
+        "Brawe",
+        "MajorTan",
+        "SeargentUyar"
       ],
       "playerDetails": [
         {
@@ -45,6 +47,14 @@
         },
         {
           "name": "Brawe",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "MajorTan",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "SeargentUyar",
           "unit": "F-16C_50"
         }
       ],
@@ -63,7 +73,16 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "MajorTan",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "SeargentUyar",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -120,21 +139,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:40:16 UTC",
+      "lastUpdate": "26-03-01 22:45:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 13:44:34",
+      "missionDate": "2026-08-01 13:49:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -153,24 +172,12 @@
           "total": 9
         }
       },
-      "playerList": [
-        "PENÇE"
-      ],
-      "playerDetails": [
-        {
-          "name": "PENÇE",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "PENÇE",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -179,7 +186,7 @@
             "red": 8
           },
           "Planes": {
-            "blue": 9,
+            "blue": 10,
             "red": 28
           },
           "Helicopters": {
@@ -192,7 +199,7 @@
           },
           "Ships": {
             "blue": 4,
-            "red": 8
+            "red": 7
           },
           "Structures": {
             "blue": 28,
@@ -226,7 +233,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:40:16 UTC",
+      "lastUpdate": "26-03-01 22:45:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -240,7 +247,7 @@
       "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 08:38:37",
+      "missionDate": "2025-07-01 08:43:37",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -340,7 +347,7 @@
           },
           "Killed Planes": {
             "blue": 4,
-            "red": 4
+            "red": 6
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -360,22 +367,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 22:40:17 UTC",
+      "lastUpdate": "26-03-01 22:45:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 6,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 09:54:41",
+    "missionDate": "2026-04-21 09:59:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -390,14 +397,16 @@
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 2,
         "total": 16
       }
     },
     "playerList": [
       "101\\-Brakelesss",
       "101\\-Maskot\\(0019\\)",
-      "Brawe"
+      "Brawe",
+      "MajorTan",
+      "SeargentUyar"
     ],
     "playerDetails": [
       {
@@ -410,6 +419,14 @@
       },
       {
         "name": "Brawe",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "MajorTan",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "SeargentUyar",
         "unit": "F-16C_50"
       }
     ],
@@ -428,7 +445,16 @@
           "unit": "F-16C_50"
         }
       ],
-      "red": [],
+      "red": [
+        {
+          "name": "MajorTan",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "SeargentUyar",
+          "unit": "F-16C_50"
+        }
+      ],
       "neutral": []
     },
     "missionStats": {
@@ -485,9 +511,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 22:40:16 UTC",
+    "lastUpdate": "26-03-01 22:45:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T22:40:17.890Z"
+  "lastUpdated": "2026-03-01T22:45:16.992Z"
 }
