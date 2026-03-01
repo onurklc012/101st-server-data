@@ -10,7 +10,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-04-21 13:19:41",
+      "missionDate": "2026-04-21 13:24:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:05:16 UTC",
+      "lastUpdate": "26-03-01 20:10:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -104,7 +104,7 @@
       "players": 1,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2026-08-01 17:09:34",
+      "missionDate": "2026-08-01 17:14:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:05:16 UTC",
+      "lastUpdate": "26-03-01 20:10:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
       "missionTime": "--:--",
-      "missionDate": "2025-07-01 12:03:34",
+      "missionDate": "2025-07-01 12:08:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 122
         },
         "red": {
@@ -218,10 +218,16 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "Gustav",
-        "Colbert"
+        "Colbert",
+        "PENÇE"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Gustav",
           "unit": "F-16C_50"
@@ -229,10 +235,18 @@
         {
           "name": "Colbert",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "PENÇE",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Gustav",
             "unit": "F-16C_50"
@@ -244,7 +258,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "PENÇE",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -253,16 +272,16 @@
             "red": 42
           },
           "Planes": {
-            "blue": 13,
-            "red": 14
+            "blue": 15,
+            "red": 17
           },
           "Helicopters": {
-            "blue": 3,
-            "red": 3
+            "blue": 2,
+            "red": 4
           },
           "Ground Units": {
-            "blue": 171,
-            "red": 1247
+            "blue": 164,
+            "red": 1266
           },
           "Ships": {
             "blue": 20,
@@ -280,15 +299,15 @@
           },
           "Killed Planes": {
             "blue": 11,
-            "red": 9
+            "red": 10
           },
           "Downed Helicopters": {
             "blue": 2,
-            "red": 1
+            "red": 2
           },
           "Ground Shacks": {
             "blue": 17,
-            "red": 41
+            "red": 50
           },
           "Sunken Ships": {
             "blue": 0,
@@ -300,7 +319,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-01 20:05:17 UTC",
+      "lastUpdate": "26-03-01 20:10:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -315,7 +334,7 @@
     "players": 1,
     "maxPlayers": 32,
     "missionTime": "--:--",
-    "missionDate": "2026-04-21 13:19:41",
+    "missionDate": "2026-04-21 13:24:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -395,9 +414,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-01 20:05:16 UTC",
+    "lastUpdate": "26-03-01 20:10:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-01T20:05:16.492Z"
+  "lastUpdated": "2026-03-01T20:10:20.672Z"
 }
