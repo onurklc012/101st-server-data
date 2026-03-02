@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:46:29",
-      "missionDate": "2026-04-21 12:01:29",
+      "missionTime": "3:51:29",
+      "missionDate": "2026-04-21 12:06:29",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,17 +30,12 @@
         }
       },
       "playerList": [
-        "KAAN VİPER",
-        "MajorTan"
+        "KAAN VİPER"
       ],
       "playerDetails": [
         {
           "name": "KAAN VİPER",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "MajorTan",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -48,10 +43,6 @@
           {
             "name": "KAAN VİPER",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "MajorTan",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -64,7 +55,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
+            "blue": 9,
             "red": 18
           },
           "Helicopters": {
@@ -111,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 19:45:10 UTC",
+      "lastUpdate": "26-03-02 19:50:10 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +115,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:39:08",
-      "missionDate": "2026-08-01 15:44:08",
+      "missionTime": "3:44:08",
+      "missionDate": "2026-08-01 15:49:08",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -136,7 +127,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 12
         },
         "red": {
@@ -146,7 +137,7 @@
       },
       "playerList": [
         "101\\-Tunay",
-        "101chemisTR61"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -154,8 +145,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101chemisTR61",
-          "unit": "F-16C_50"
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -163,14 +154,15 @@
           {
             "name": "101\\-Tunay",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101chemisTR61",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -226,7 +218,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 19:45:09 UTC",
+      "lastUpdate": "26-03-02 19:50:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -239,8 +231,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:33:49",
-      "missionDate": "2025-07-01 10:33:49",
+      "missionTime": "3:38:49",
+      "missionDate": "2025-07-01 10:38:49",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -342,22 +334,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 19:45:10 UTC",
+      "lastUpdate": "26-03-02 19:50:10 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "3:46:29",
-    "missionDate": "2026-04-21 12:01:29",
+    "missionTime": "3:51:29",
+    "missionDate": "2026-04-21 12:06:29",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -377,17 +369,12 @@
       }
     },
     "playerList": [
-      "KAAN VİPER",
-      "MajorTan"
+      "KAAN VİPER"
     ],
     "playerDetails": [
       {
         "name": "KAAN VİPER",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "MajorTan",
-        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -395,10 +382,6 @@
         {
           "name": "KAAN VİPER",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "MajorTan",
-          "unit": "F-16C_50"
         }
       ],
       "red": [],
@@ -411,7 +394,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
+          "blue": 9,
           "red": 18
         },
         "Helicopters": {
@@ -458,9 +441,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-02 19:45:10 UTC",
+    "lastUpdate": "26-03-02 19:50:10 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-02T19:45:21.355Z"
+  "lastUpdated": "2026-03-02T19:50:21.213Z"
 }
