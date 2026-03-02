@@ -501,7 +501,7 @@ async function fetchMembers() {
 }
 // ─── Chat Messages ────────────────────────────────────
 
-const CHAT_CHANNEL_PATTERNS = ['genel', 'general', 'chat', 'sohbet', 'app-chat'];
+const CHAT_CHANNEL_PATTERNS = ['mesaj', 'acedemy-mesaj', 'genel', 'general', 'chat', 'sohbet', 'app-chat'];
 
 async function fetchChatMessages(channels) {
     const chatChannels = channels.filter(ch =>
