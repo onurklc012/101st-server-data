@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:44:16",
-      "missionDate": "2026-04-21 08:59:16",
+      "missionTime": "0:26:35",
+      "missionDate": "2026-04-21 08:41:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 15:45:31 UTC",
+      "lastUpdate": "26-03-02 16:25:10 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:41:36",
-      "missionDate": "2026-08-01 12:46:36",
+      "missionTime": "0:19:13",
+      "missionDate": "2026-08-01 12:24:13",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -138,7 +138,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 27
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 15:45:30 UTC",
+      "lastUpdate": "26-03-02 16:25:09 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +197,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:34:47",
-      "missionDate": "2025-07-01 07:34:47",
+      "missionTime": "0:13:54",
+      "missionDate": "2025-07-01 07:13:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,18 +209,30 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
-          "total": 122
+          "used": 1,
+          "total": 123
         },
         "red": {
           "used": 0,
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-zeshka\\[0035\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -228,19 +240,19 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 26,
-            "red": 42
+            "red": 41
           },
           "Planes": {
-            "blue": 6,
-            "red": 3
+            "blue": 3,
+            "red": 1
           },
           "Helicopters": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Ground Units": {
             "blue": 47,
-            "red": 329
+            "red": 324
           },
           "Ships": {
             "blue": 15,
@@ -248,7 +260,7 @@
           },
           "Structures": {
             "blue": 47,
-            "red": 69
+            "red": 68
           }
         },
         "achievements": {
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 15:45:30 UTC",
+      "lastUpdate": "26-03-02 16:25:10 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -292,8 +304,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:44:16",
-    "missionDate": "2026-04-21 08:59:16",
+    "missionTime": "0:26:35",
+    "missionDate": "2026-04-21 08:41:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-02 15:45:31 UTC",
+    "lastUpdate": "26-03-02 16:25:10 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-02T16:20:31.302Z"
+  "lastUpdated": "2026-03-02T16:25:21.305Z"
 }
