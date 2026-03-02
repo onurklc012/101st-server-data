@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:54:51",
-      "missionDate": "2026-04-21 09:09:51",
+      "missionTime": "0:59:51",
+      "missionDate": "2026-04-21 09:14:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 09:55:16 UTC",
+      "lastUpdate": "26-03-02 10:00:16 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:54:44",
-      "missionDate": "2026-08-01 12:59:44",
+      "missionTime": "0:59:44",
+      "missionDate": "2026-08-01 13:04:44",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 09:55:16 UTC",
+      "lastUpdate": "26-03-02 10:00:16 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:53:56",
-      "missionDate": "2025-07-01 07:53:56",
+      "missionTime": "0:58:56",
+      "missionDate": "2025-07-01 07:58:56",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -217,12 +217,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Shadow\\[1881\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 09:55:17 UTC",
+      "lastUpdate": "26-03-02 10:00:17 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -292,8 +304,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:54:51",
-    "missionDate": "2026-04-21 09:09:51",
+    "missionTime": "0:59:51",
+    "missionDate": "2026-04-21 09:14:51",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-02 09:55:16 UTC",
+    "lastUpdate": "26-03-02 10:00:16 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-02T09:55:19.259Z"
+  "lastUpdated": "2026-03-02T10:00:37.192Z"
 }
