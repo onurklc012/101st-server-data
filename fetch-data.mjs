@@ -149,6 +149,7 @@ function parseServerInfoEmbed(embed) {
         for (const field of embed.fields) {
             const name = field.name.trim();
             const value = field.value.trim();
+            console.log(`    📋 Field: "${name}" → "${value.substring(0, 80).replace(/\n/g, ' | ')}${value.length > 80 ? '...' : ''}"`);
 
             if (name === 'Server-IP / Port') {
                 result.serverIP = value;
@@ -161,11 +162,22 @@ function parseServerInfoEmbed(embed) {
                     blue: { used: blueSlots ? parseInt(blueSlots[1]) : 0, total: blueSlots ? parseInt(blueSlots[2]) : 0 },
                     red: { used: redSlots ? parseInt(redSlots[1]) : 0, total: redSlots ? parseInt(redSlots[2]) : 0 },
                 };
-            } else if (name === 'Date / Time in Mission') {
+            } else if (name === 'Date / Time in Mission' || name.includes('Date') || name.includes('Runtime') || name.includes('Mission Time')) {
                 const lines = value.split('\n');
                 result.missionDate = lines[0].trim();
-                const runtimeMatch = value.match(/\*{0,2}Runtime\*{0,2}[\n\r\s]+([\d]+:[\d]+:?[\d]*)/);
-                if (runtimeMatch) result.runtime = runtimeMatch[1];
+                // Try multiple patterns for runtime extraction
+                const runtimePatterns = [
+                    /\*{0,2}Runtime\*{0,2}[\s\S]*?([\d]+:[\d]+:?[\d]*)/i,
+                    /Runtime[:\s]+(\d+:\d+(?::\d+)?)/i,
+                    /(\d+:\d+:\d+)\s*$/m,
+                    /(\d{1,3}:\d{2}:\d{2})/,
+                    /(\d{1,3}:\d{2})/,
+                ];
+                for (const pat of runtimePatterns) {
+                    const m = value.match(pat);
+                    if (m) { result.runtime = m[1]; break; }
+                }
+                console.log(`    ⏱️ Date/Time field: "${value.replace(/\n/g, ' | ')}" → runtime: ${result.runtime}`);
             } else if (name === 'Temperature') {
                 const tempMatch = value.match(/([\d.]+)\s*°C/);
                 const qnhMatch = value.match(/(\d+)\s*hPa/);
