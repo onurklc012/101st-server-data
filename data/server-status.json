@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:11:35",
-      "missionDate": "2026-04-21 09:26:35",
+      "missionTime": "1:16:35",
+      "missionDate": "2026-04-21 09:31:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,24 +29,12 @@
           "total": 16
         }
       },
-      "playerList": [
-        "101\\-Berserk"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Berserk",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Berserk",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -102,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 17:10:10 UTC",
+      "lastUpdate": "26-03-02 17:15:10 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:04:13",
-      "missionDate": "2026-08-01 13:09:13",
+      "missionTime": "1:09:13",
+      "missionDate": "2026-08-01 13:14:13",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -135,12 +123,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Maskot\\(0019\\)"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 17:10:09 UTC",
+      "lastUpdate": "26-03-02 17:15:09 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Dynamic Campaign",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:58:54",
-      "missionDate": "2025-07-01 07:58:54",
+      "missionTime": "1:03:54",
+      "missionDate": "2025-07-01 08:03:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 123
         },
         "red": {
@@ -229,10 +229,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "THE HİTMAN"
+      ],
+      "playerDetails": [
+        {
+          "name": "THE HİTMAN",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "THE HİTMAN",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -290,7 +302,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 17:10:10 UTC",
+      "lastUpdate": "26-03-02 17:15:09 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -304,8 +316,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:11:35",
-    "missionDate": "2026-04-21 09:26:35",
+    "missionTime": "1:16:35",
+    "missionDate": "2026-04-21 09:31:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -324,24 +336,12 @@
         "total": 16
       }
     },
-    "playerList": [
-      "101\\-Berserk"
-    ],
-    "playerDetails": [
-      {
-        "name": "101\\-Berserk",
-        "unit": "_ _"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Berserk",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -397,9 +397,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-02 17:10:10 UTC",
+    "lastUpdate": "26-03-02 17:15:10 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-02T17:10:33.862Z"
+  "lastUpdated": "2026-03-02T17:15:48.679Z"
 }
