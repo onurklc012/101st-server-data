@@ -501,19 +501,25 @@ async function fetchMembers() {
 }
 // ─── Chat Messages ────────────────────────────────────
 
-const CHAT_CHANNEL_PATTERNS = ['mesaj', 'acedemy-mesaj', 'genel', 'general', 'chat', 'sohbet', 'app-chat'];
+const CHAT_CHANNEL_PATTERNS = ['acedemy-mesaj', 'academy-mesaj', 'app-chat'];
 
 async function fetchChatMessages(channels) {
-    const chatChannels = channels.filter(ch =>
+    // First try exact pattern match (priority channels)
+    let channel = channels.find(ch =>
         CHAT_CHANNEL_PATTERNS.some(p => ch.name.toLowerCase().includes(p))
     );
 
-    console.log(`💬 Found ${chatChannels.length} chat channels`);
-
-    // Use the first matching channel
-    const channel = chatChannels[0];
+    // Fallback: try general chat channels
     if (!channel) {
-        console.log('  ⚠️ No chat channel found');
+        const fallbackPatterns = ['mesaj', 'genel', 'general', 'chat'];
+        channel = channels.find(ch =>
+            fallbackPatterns.some(p => ch.name.toLowerCase().includes(p))
+        );
+    }
+
+    console.log(`💬 Chat channel: ${channel ? '#' + channel.name : 'not found'}`);
+
+    if (!channel) {
         return { messages: [], channelName: null, lastUpdated: new Date().toISOString() };
     }
 
