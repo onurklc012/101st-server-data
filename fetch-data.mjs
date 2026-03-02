@@ -499,6 +499,61 @@ async function fetchMembers() {
         source: 'rest-api',
     };
 }
+// ─── Chat Messages ────────────────────────────────────
+
+const CHAT_CHANNEL_PATTERNS = ['genel', 'general', 'chat', 'sohbet', 'app-chat'];
+
+async function fetchChatMessages(channels) {
+    const chatChannels = channels.filter(ch =>
+        CHAT_CHANNEL_PATTERNS.some(p => ch.name.toLowerCase().includes(p))
+    );
+
+    console.log(`💬 Found ${chatChannels.length} chat channels`);
+
+    // Use the first matching channel
+    const channel = chatChannels[0];
+    if (!channel) {
+        console.log('  ⚠️ No chat channel found');
+        return { messages: [], channelName: null, lastUpdated: new Date().toISOString() };
+    }
+
+    try {
+        const rawMessages = await discordGet(`/channels/${channel.id}/messages?limit=100`);
+
+        // Parse messages — filter out bot embeds, keep text messages
+        const messages = rawMessages
+            .filter(msg => msg.content && msg.content.trim())
+            .map(msg => {
+                const avatarHash = msg.author.avatar;
+                const avatar = avatarHash
+                    ? `https://cdn.discordapp.com/avatars/${msg.author.id}/${avatarHash}.png?size=64`
+                    : null;
+
+                return {
+                    id: msg.id,
+                    author: msg.author.global_name || msg.author.username,
+                    authorId: msg.author.id,
+                    avatar,
+                    content: msg.content,
+                    timestamp: msg.timestamp,
+                    isBot: msg.author.bot || false,
+                };
+            })
+            .reverse(); // oldest first
+
+        console.log(`  ✅ Got ${messages.length} chat messages from #${channel.name}`);
+
+        return {
+            messages,
+            channelId: channel.id,
+            channelName: channel.name,
+            lastUpdated: new Date().toISOString(),
+        };
+    } catch (err) {
+        console.log(`  ⚠️ Could not read #${channel.name}: ${err.message}`);
+        return { messages: [], channelName: channel.name, lastUpdated: new Date().toISOString() };
+    }
+}
 
 // ─── Main ─────────────────────────────────────────────
 
@@ -540,12 +595,17 @@ async function main() {
         console.log(`  ⚠️ Members fetch failed: ${err.message}`);
     }
 
+    // Fetch chat messages
+    console.log('\n─── Chat Messages ───');
+    const chatData = await fetchChatMessages(channels);
+
     // Write JSON files
     writeFileSync('data/server-status.json', JSON.stringify(serverStatus, null, 2));
     writeFileSync('data/leaderboard.json', JSON.stringify(leaderboard, null, 2));
     if (membersData) {
         writeFileSync('data/members.json', JSON.stringify(membersData, null, 2));
     }
+    writeFileSync('data/chat.json', JSON.stringify(chatData, null, 2));
 
     // Also write a combined status file
     const combined = {
@@ -564,6 +624,7 @@ async function main() {
     console.log('  → data/server-status.json');
     console.log('  → data/leaderboard.json');
     if (membersData) console.log('  → data/members.json');
+    console.log('  → data/chat.json');
     console.log('  → data/status.json');
 }
 
