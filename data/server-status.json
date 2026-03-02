@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:45:35",
-      "missionDate": "2026-04-21 11:00:35",
+      "missionTime": "2:50:35",
+      "missionDate": "2026-04-21 11:05:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 18:44:19 UTC",
+      "lastUpdate": "26-03-02 18:49:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:38:13",
-      "missionDate": "2026-08-01 14:43:13",
+      "missionTime": "2:43:13",
+      "missionDate": "2026-08-01 14:48:13",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 18:44:09 UTC",
+      "lastUpdate": "26-03-02 18:49:09 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -209,8 +209,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:32:54",
-      "missionDate": "2025-07-01 09:32:54",
+      "missionTime": "2:37:54",
+      "missionDate": "2025-07-01 09:37:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,25 +221,20 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 123
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 7
         }
       },
       "playerList": [
-        "101\\-Shadow\\[1881\\]",
         "101\\-zeshka\\[0035\\]",
         "THE HİTMAN",
         "Colbert"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Shadow\\[1881\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "F-16C_50"
@@ -250,15 +245,11 @@
         },
         {
           "name": "Colbert",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "F-16C_50"
-          },
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "F-16C_50"
@@ -268,13 +259,13 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": [
+        "red": [
           {
             "name": "Colbert",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -283,7 +274,7 @@
             "red": 41
           },
           "Planes": {
-            "blue": 6,
+            "blue": 7,
             "red": 6
           },
           "Helicopters": {
@@ -292,7 +283,7 @@
           },
           "Ground Units": {
             "blue": 47,
-            "red": 328
+            "red": 329
           },
           "Ships": {
             "blue": 15,
@@ -330,7 +321,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-02 18:44:59 UTC",
+      "lastUpdate": "26-03-02 18:49:32 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -344,8 +335,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "2:45:35",
-    "missionDate": "2026-04-21 11:00:35",
+    "missionTime": "2:50:35",
+    "missionDate": "2026-04-21 11:05:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -437,9 +428,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-02 18:44:19 UTC",
+    "lastUpdate": "26-03-02 18:49:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-02T18:45:20.930Z"
+  "lastUpdated": "2026-03-02T18:50:22.291Z"
 }
