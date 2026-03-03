@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［8／32］",
+        "channelName": "🖥️┃server-caucasus［11／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 8,
+        "players": 11,
         "maxPlayers": 32,
-        "missionTime": "4:03:38",
-        "missionDate": "2026-04-21 12:18:38",
+        "missionTime": "4:13:38",
+        "missionDate": "2026-04-21 12:28:38",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,23 +22,31 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 7,
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 2,
             "total": 16
           }
         },
         "playerList": [
+          "101\\-Brakelesss",
           "101\\-EMRE \\[0444\\]",
           "101\\-Maskot\\(0019\\)",
-          "101\\-Yidobaba\\[0098\\]",
           "101chemisTR61",
           "CapitanVader \\- KataPool",
-          "✯101\\-EffBee\\[0010\\]"
+          "Maestro",
+          "✯101\\-EffBee\\[0010\\]",
+          "101\\-Yidobaba\\[0098\\]",
+          "132 \\| kobuleti meydan",
+          "101\\-Tunay \\[5555\\]"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-Brakelesss",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
@@ -46,10 +54,6 @@
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
           },
           {
             "name": "101chemisTR61",
@@ -60,12 +64,32 @@
             "unit": "F-15C"
           },
           {
+            "name": "Maestro",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "132 \\| kobuleti meydan",
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-Brakelesss",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-EMRE \\[0444\\]",
               "unit": "F-16C_50"
@@ -73,10 +97,6 @@
             {
               "name": "101\\-Maskot\\(0019\\)",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Su-30SM"
             },
             {
               "name": "101chemisTR61",
@@ -87,12 +107,30 @@
               "unit": "F-15C"
             },
             {
+              "name": "Maestro",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "✯101\\-EffBee\\[0010\\]",
               "unit": "F-16C_50"
             }
           ],
-          "red": [],
-          "neutral": []
+          "red": [
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "Su-30SM"
+            },
+            {
+              "name": "132 \\| kobuleti meydan",
+              "unit": "Su-30SM"
+            }
+          ],
+          "neutral": [
+            {
+              "name": "101\\-Tunay \\[5555\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -148,7 +186,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-03 19:04:27 UTC",
+        "lastUpdate": "26-03-03 19:14:27 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -161,8 +199,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:03:29",
-        "missionDate": "2026-08-01 16:08:29",
+        "missionTime": "4:13:29",
+        "missionDate": "2026-08-01 16:18:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -242,7 +280,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-03 19:04:28 UTC",
+        "lastUpdate": "26-03-03 19:14:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -255,8 +293,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:02:54",
-        "missionDate": "2025-07-01 22:02:54",
+        "missionTime": "4:12:54",
+        "missionDate": "2025-07-01 22:12:54",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -348,22 +386,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-03 19:04:28 UTC",
+        "lastUpdate": "26-03-03 19:14:28 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［11／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 11,
       "maxPlayers": 32,
-      "missionTime": "4:03:38",
-      "missionDate": "2026-04-21 12:18:38",
+      "missionTime": "4:13:38",
+      "missionDate": "2026-04-21 12:28:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -374,23 +412,31 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 2,
           "total": 16
         }
       },
       "playerList": [
+        "101\\-Brakelesss",
         "101\\-EMRE \\[0444\\]",
         "101\\-Maskot\\(0019\\)",
-        "101\\-Yidobaba\\[0098\\]",
         "101chemisTR61",
         "CapitanVader \\- KataPool",
-        "✯101\\-EffBee\\[0010\\]"
+        "Maestro",
+        "✯101\\-EffBee\\[0010\\]",
+        "101\\-Yidobaba\\[0098\\]",
+        "132 \\| kobuleti meydan",
+        "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-EMRE \\[0444\\]",
           "unit": "F-16C_50"
@@ -398,10 +444,6 @@
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
         },
         {
           "name": "101chemisTR61",
@@ -412,12 +454,32 @@
           "unit": "F-15C"
         },
         {
+          "name": "Maestro",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "132 \\| kobuleti meydan",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Brakelesss",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-EMRE \\[0444\\]",
             "unit": "F-16C_50"
@@ -425,10 +487,6 @@
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
           },
           {
             "name": "101chemisTR61",
@@ -439,12 +497,30 @@
             "unit": "F-15C"
           },
           {
+            "name": "Maestro",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": []
+        "red": [
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "132 \\| kobuleti meydan",
+            "unit": "Su-30SM"
+          }
+        ],
+        "neutral": [
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -500,11 +576,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-03 19:04:27 UTC",
+      "lastUpdate": "26-03-03 19:14:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-03T19:05:24.995Z"
+    "lastUpdated": "2026-03-03T19:15:21.050Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -544,7 +620,7 @@
           "activePilots": "5",
           "highestScore": 4497
         },
-        "lastUpdate": "🕒 Son guncelleme: 03.03.2026 22:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 03.03.2026 22:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -583,9 +659,9 @@
         "activePilots": "5",
         "highestScore": 4497
       },
-      "lastUpdate": "🕒 Son guncelleme: 03.03.2026 22:00  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 03.03.2026 22:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-03T19:05:25.249Z"
+    "lastUpdated": "2026-03-03T19:15:21.195Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2741,11 +2817,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-03T19:05:25.889Z",
+    "lastUpdated": "2026-03-03T19:15:21.662Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-03T19:05:26.073Z",
+    "fetchedAt": "2026-03-03T19:15:21.755Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
