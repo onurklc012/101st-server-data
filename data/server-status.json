@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［9／32］",
+      "channelName": "🖥️┃server-caucasus［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 9,
+      "players": 10,
       "maxPlayers": 32,
-      "missionTime": "3:23:38",
-      "missionDate": "2026-04-21 11:38:38",
+      "missionTime": "3:28:38",
+      "missionDate": "2026-04-21 11:43:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -37,7 +37,8 @@
         "101\\-Yidobaba\\[0098\\]",
         "101chemisTR61",
         "132 \\| kobuleti meydan",
-        "✯101\\-EffBee\\[0010\\]"
+        "✯101\\-EffBee\\[0010\\]",
+        "binder"
       ],
       "playerDetails": [
         {
@@ -71,6 +72,10 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "binder",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -109,7 +114,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "binder",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -165,7 +175,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-03 18:24:27 UTC",
+      "lastUpdate": "26-03-03 18:30:07 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -178,8 +188,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:23:29",
-      "missionDate": "2026-08-01 15:28:29",
+      "missionTime": "3:28:29",
+      "missionDate": "2026-08-01 15:33:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -259,7 +269,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-03 18:24:27 UTC",
+      "lastUpdate": "26-03-03 18:29:27 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -272,8 +282,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:22:54",
-      "missionDate": "2025-07-01 21:22:54",
+      "missionTime": "3:27:54",
+      "missionDate": "2025-07-01 21:27:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -365,22 +375,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-03 18:24:28 UTC",
+      "lastUpdate": "26-03-03 18:29:28 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［9／32］",
+    "channelName": "🖥️┃server-caucasus［10／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 9,
+    "players": 10,
     "maxPlayers": 32,
-    "missionTime": "3:23:38",
-    "missionDate": "2026-04-21 11:38:38",
+    "missionTime": "3:28:38",
+    "missionDate": "2026-04-21 11:43:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -407,7 +417,8 @@
       "101\\-Yidobaba\\[0098\\]",
       "101chemisTR61",
       "132 \\| kobuleti meydan",
-      "✯101\\-EffBee\\[0010\\]"
+      "✯101\\-EffBee\\[0010\\]",
+      "binder"
     ],
     "playerDetails": [
       {
@@ -441,6 +452,10 @@
       {
         "name": "✯101\\-EffBee\\[0010\\]",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "binder",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -479,7 +494,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "binder",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -535,9 +555,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-03 18:24:27 UTC",
+    "lastUpdate": "26-03-03 18:30:07 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-03T18:25:22.432Z"
+  "lastUpdated": "2026-03-03T18:30:28.112Z"
 }
