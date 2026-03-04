@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:28:49",
-      "missionDate": "2026-04-21 10:43:49",
+      "missionTime": "2:33:49",
+      "missionDate": "2026-04-21 10:48:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -112,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 23:29:27 UTC",
+      "lastUpdate": "26-03-04 23:34:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +125,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:28:47",
-      "missionDate": "2026-08-01 14:33:47",
+      "missionTime": "2:33:47",
+      "missionDate": "2026-08-01 14:38:47",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +206,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 23:29:27 UTC",
+      "lastUpdate": "26-03-04 23:34:27 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,8 +219,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:28:14",
-      "missionDate": "2025-07-01 16:58:14",
+      "missionTime": "2:33:14",
+      "missionDate": "2025-07-01 17:03:14",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,7 +231,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 122
         },
         "red": {
@@ -240,12 +240,22 @@
         }
       },
       "playerList": [
-        "101ArmOn1453"
+        "101ArmOn1453",
+        "✯101\\-EffBee\\[0010\\]",
+        "Machinegun817"
       ],
       "playerDetails": [
         {
           "name": "101ArmOn1453",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Machinegun817",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -253,10 +263,19 @@
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Machinegun817",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -312,7 +331,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 23:29:28 UTC",
+      "lastUpdate": "26-03-04 23:34:28 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -326,8 +345,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "2:28:49",
-    "missionDate": "2026-04-21 10:43:49",
+    "missionTime": "2:33:49",
+    "missionDate": "2026-04-21 10:48:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -429,9 +448,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-04 23:29:27 UTC",
+    "lastUpdate": "26-03-04 23:34:27 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-04T23:30:26.159Z"
+  "lastUpdated": "2026-03-04T23:35:18.067Z"
 }
