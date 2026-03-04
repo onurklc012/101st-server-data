@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:18:50",
-        "missionDate": "2026-04-21 12:33:50",
+        "missionTime": "4:23:50",
+        "missionDate": "2026-04-21 12:38:50",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -32,7 +32,9 @@
         },
         "playerList": [
           "KAAN VİPER",
-          "VenamisS"
+          "VenamisS",
+          "PAİN",
+          "SOLOTURK"
         ],
         "playerDetails": [
           {
@@ -42,6 +44,14 @@
           {
             "name": "VenamisS",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "PAİN",
+            "unit": "--"
+          },
+          {
+            "name": "SOLOTURK",
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -56,7 +66,16 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "PAİN",
+              "unit": "--"
+            },
+            {
+              "name": "SOLOTURK",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -112,7 +131,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-04 19:19:27 UTC",
+        "lastUpdate": "26-03-04 19:24:37 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -125,8 +144,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:18:47",
-        "missionDate": "2026-08-01 16:23:47",
+        "missionTime": "4:23:47",
+        "missionDate": "2026-08-01 16:28:47",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,7 +225,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-04 19:19:28 UTC",
+        "lastUpdate": "26-03-04 19:24:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -219,8 +238,8 @@
         "map": "Syria",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "4:18:20",
-        "missionDate": "2025-07-01 18:48:20",
+        "missionTime": "4:23:20",
+        "missionDate": "2025-07-01 18:53:20",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -231,7 +250,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 122
           },
           "red": {
@@ -240,11 +259,16 @@
           }
         },
         "playerList": [
+          "101ArmOn1453",
           "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
           "Vader 1\\-1 \\| RafetBro"
         ],
         "playerDetails": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-MrMercans",
             "unit": "F-16C_50"
@@ -260,6 +284,10 @@
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-MrMercans",
               "unit": "F-16C_50"
@@ -283,7 +311,7 @@
               "red": 43
             },
             "Planes": {
-              "blue": 12,
+              "blue": 11,
               "red": 3
             },
             "Helicopters": {
@@ -330,7 +358,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-04 19:20:17 UTC",
+        "lastUpdate": "26-03-04 19:24:28 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -344,8 +372,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:18:50",
-      "missionDate": "2026-04-21 12:33:50",
+      "missionTime": "4:23:50",
+      "missionDate": "2026-04-21 12:38:50",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -366,7 +394,9 @@
       },
       "playerList": [
         "KAAN VİPER",
-        "VenamisS"
+        "VenamisS",
+        "PAİN",
+        "SOLOTURK"
       ],
       "playerDetails": [
         {
@@ -376,6 +406,14 @@
         {
           "name": "VenamisS",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "PAİN",
+          "unit": "--"
+        },
+        {
+          "name": "SOLOTURK",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -390,7 +428,16 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "PAİN",
+            "unit": "--"
+          },
+          {
+            "name": "SOLOTURK",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -446,11 +493,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 19:19:27 UTC",
+      "lastUpdate": "26-03-04 19:24:37 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-04T19:20:25.514Z"
+    "lastUpdated": "2026-03-04T19:25:21.830Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -531,7 +578,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 04.03.2026 22:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-04T19:20:25.664Z"
+    "lastUpdated": "2026-03-04T19:25:22.345Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2788,11 +2835,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-04T19:20:26.327Z",
+    "lastUpdated": "2026-03-04T19:25:22.826Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-04T19:20:26.417Z",
+    "fetchedAt": "2026-03-04T19:25:22.974Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
