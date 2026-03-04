@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:23:50",
-      "missionDate": "2026-04-21 12:38:50",
+      "missionTime": "4:29:50",
+      "missionDate": "2026-04-21 12:44:50",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -31,9 +31,8 @@
       },
       "playerList": [
         "KAAN VİPER",
-        "VenamisS",
-        "PAİN",
-        "SOLOTURK"
+        "SOLOTURK",
+        "VenamisS"
       ],
       "playerDetails": [
         {
@@ -41,16 +40,12 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "SOLOTURK",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "VenamisS",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "PAİN",
-          "unit": "--"
-        },
-        {
-          "name": "SOLOTURK",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -60,21 +55,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "SOLOTURK",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "VenamisS",
             "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "PAİN",
-            "unit": "--"
-          },
-          {
-            "name": "SOLOTURK",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -84,7 +74,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 16
+            "red": 11
           },
           "Helicopters": {
             "blue": 2,
@@ -109,7 +99,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 9,
             "red": 0
           },
           "Downed Helicopters": {
@@ -130,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 19:24:37 UTC",
+      "lastUpdate": "26-03-04 19:30:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -143,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:23:47",
-      "missionDate": "2026-08-01 16:28:47",
+      "missionTime": "4:29:47",
+      "missionDate": "2026-08-01 16:34:47",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -224,7 +214,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 19:24:27 UTC",
+      "lastUpdate": "26-03-04 19:30:27 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -237,8 +227,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:23:20",
-      "missionDate": "2025-07-01 18:53:20",
+      "missionTime": "4:29:20",
+      "missionDate": "2025-07-01 18:59:20",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -249,7 +239,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 122
         },
         "red": {
@@ -260,8 +250,7 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-MrMercans",
-        "101\\-Yidobaba\\[0098\\]",
-        "Vader 1\\-1 \\| RafetBro"
+        "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
         {
@@ -275,10 +264,6 @@
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Vader 1\\-1 \\| RafetBro",
-          "unit": "Su-30SM"
         }
       ],
       "activePlayers": {
@@ -294,10 +279,6 @@
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "Vader 1\\-1 \\| RafetBro",
-            "unit": "Su-30SM"
           }
         ],
         "red": [],
@@ -311,14 +292,14 @@
           },
           "Planes": {
             "blue": 11,
-            "red": 3
+            "red": 4
           },
           "Helicopters": {
             "blue": 1,
             "red": 1
           },
           "Ground Units": {
-            "blue": 160,
+            "blue": 161,
             "red": 1286
           },
           "Ships": {
@@ -357,22 +338,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-04 19:24:28 UTC",
+      "lastUpdate": "26-03-04 19:30:28 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "4:23:50",
-    "missionDate": "2026-04-21 12:38:50",
+    "missionTime": "4:29:50",
+    "missionDate": "2026-04-21 12:44:50",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -383,7 +364,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -393,9 +374,8 @@
     },
     "playerList": [
       "KAAN VİPER",
-      "VenamisS",
-      "PAİN",
-      "SOLOTURK"
+      "SOLOTURK",
+      "VenamisS"
     ],
     "playerDetails": [
       {
@@ -403,16 +383,12 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "SOLOTURK",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "VenamisS",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "PAİN",
-        "unit": "--"
-      },
-      {
-        "name": "SOLOTURK",
-        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -422,21 +398,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "SOLOTURK",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "VenamisS",
           "unit": "FA-18C_hornet"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "PAİN",
-          "unit": "--"
-        },
-        {
-          "name": "SOLOTURK",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -446,7 +417,7 @@
         },
         "Planes": {
           "blue": 9,
-          "red": 16
+          "red": 11
         },
         "Helicopters": {
           "blue": 2,
@@ -471,7 +442,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 9,
           "red": 0
         },
         "Downed Helicopters": {
@@ -492,9 +463,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-04 19:24:37 UTC",
+    "lastUpdate": "26-03-04 19:30:27 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-04T19:25:21.830Z"
+  "lastUpdated": "2026-03-04T19:30:29.075Z"
 }
