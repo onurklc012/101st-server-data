@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:58:46",
-      "missionDate": "2026-04-21 14:13:46",
+      "missionTime": "0:03:39",
+      "missionDate": "2026-04-21 08:18:39",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -43,11 +43,11 @@
             "red": 23
           },
           "Planes": {
-            "blue": 5,
-            "red": 13
+            "blue": 7,
+            "red": 18
           },
           "Helicopters": {
-            "blue": 0,
+            "blue": 2,
             "red": 2
           },
           "Ground Units": {
@@ -69,8 +69,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 6,
-            "red": 1
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 20:59:33 UTC",
+      "lastUpdate": "26-03-05 21:04:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:58:38",
-      "missionDate": "2026-08-01 18:03:38",
+      "missionTime": "0:03:35",
+      "missionDate": "2026-08-01 12:08:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -134,11 +134,11 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 7,
-            "red": 6
+            "red": 8
           },
           "Planes": {
             "blue": 9,
-            "red": 24
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -150,7 +150,7 @@
           },
           "Ships": {
             "blue": 4,
-            "red": 6
+            "red": 8
           },
           "Structures": {
             "blue": 28,
@@ -184,35 +184,63 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 20:59:33 UTC",
+      "lastUpdate": "26-03-05 21:04:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
-      "online": false,
-      "channelName": "🖥️┃server-dynamic［-］",
+      "online": true,
+      "channelName": "🖥️┃server-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 0,
+      "serverIP": "88.247.164.234:10310",
+      "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
+      "map": "Syria",
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
-      "playerList": [],
-      "playerDetails": [],
+      "missionTime": "0:03:20",
+      "missionDate": "2025-07-01 18:03:20",
+      "weather": {
+        "temperature": "20.0°C",
+        "qnh": "1016 hPa",
+        "clouds": "Clear",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "233° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 4,
+          "total": 122
+        },
+        "red": {
+          "used": 0,
+          "total": 7
+        }
+      },
+      "playerList": [
+        "Triename"
+      ],
+      "playerDetails": [
+        {
+          "name": "Triename",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Triename",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 25,
-            "red": 40
+            "blue": 33,
+            "red": 41
           },
           "Planes": {
             "blue": 2,
@@ -223,16 +251,16 @@
             "red": 0
           },
           "Ground Units": {
-            "blue": 10,
-            "red": 336
+            "blue": 152,
+            "red": 1268
           },
           "Ships": {
-            "blue": 15,
+            "blue": 23,
             "red": 0
           },
           "Structures": {
             "blue": 17,
-            "red": 68
+            "red": 116
           }
         },
         "achievements": {
@@ -262,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-05 21:04:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -276,8 +304,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "5:58:46",
-    "missionDate": "2026-04-21 14:13:46",
+    "missionTime": "0:03:39",
+    "missionDate": "2026-04-21 08:18:39",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -310,11 +338,11 @@
           "red": 23
         },
         "Planes": {
-          "blue": 5,
-          "red": 13
+          "blue": 7,
+          "red": 18
         },
         "Helicopters": {
-          "blue": 0,
+          "blue": 2,
           "red": 2
         },
         "Ground Units": {
@@ -336,8 +364,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 6,
-          "red": 1
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -357,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-05 20:59:33 UTC",
+    "lastUpdate": "26-03-05 21:04:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-05T21:00:31.987Z"
+  "lastUpdated": "2026-03-05T21:05:22.690Z"
 }
