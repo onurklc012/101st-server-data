@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:03:49",
-      "missionDate": "2026-04-21 11:18:49",
+      "missionTime": "3:08:49",
+      "missionDate": "2026-04-21 11:23:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,10 +30,15 @@
         }
       },
       "playerList": [
+        "Domination",
         "MajorTan",
         "SeargentUyar"
       ],
       "playerDetails": [
+        {
+          "name": "Domination",
+          "unit": "Su-33"
+        },
         {
           "name": "MajorTan",
           "unit": "F-16C_50"
@@ -45,6 +50,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "Domination",
+            "unit": "Su-33"
+          },
           {
             "name": "MajorTan",
             "unit": "F-16C_50"
@@ -112,7 +121,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 00:05:07 UTC",
+      "lastUpdate": "26-03-05 00:09:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +134,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:03:47",
-      "missionDate": "2026-08-01 15:08:47",
+      "missionTime": "3:08:47",
+      "missionDate": "2026-08-01 15:13:47",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +215,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 00:04:27 UTC",
+      "lastUpdate": "26-03-05 00:09:27 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,8 +228,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:03:14",
-      "missionDate": "2025-07-01 17:33:14",
+      "missionTime": "3:08:14",
+      "missionDate": "2025-07-01 17:38:14",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,7 +240,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -239,22 +248,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "101ArmOn1453"
-      ],
-      "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -312,7 +309,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 00:04:28 UTC",
+      "lastUpdate": "26-03-05 00:09:28 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -326,8 +323,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "3:03:49",
-    "missionDate": "2026-04-21 11:18:49",
+    "missionTime": "3:08:49",
+    "missionDate": "2026-04-21 11:23:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -338,7 +335,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -347,10 +344,15 @@
       }
     },
     "playerList": [
+      "Domination",
       "MajorTan",
       "SeargentUyar"
     ],
     "playerDetails": [
+      {
+        "name": "Domination",
+        "unit": "Su-33"
+      },
       {
         "name": "MajorTan",
         "unit": "F-16C_50"
@@ -362,6 +364,10 @@
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "Domination",
+          "unit": "Su-33"
+        },
         {
           "name": "MajorTan",
           "unit": "F-16C_50"
@@ -429,9 +435,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-05 00:05:07 UTC",
+    "lastUpdate": "26-03-05 00:09:27 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-05T00:05:17.853Z"
+  "lastUpdated": "2026-03-05T00:10:23.349Z"
 }
