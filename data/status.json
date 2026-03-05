@@ -2,30 +2,61 @@
   "serverStatus": {
     "servers": [
       {
-        "online": false,
+        "online": true,
         "channelName": "🖥️┃server-caucasus［6／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
+        "serverIP": "88.247.164.234:10308",
+        "mission": "101_Hunter_SQN_v9_5",
+        "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:03:40",
+        "missionDate": "2026-04-21 08:18:40",
+        "weather": {
+          "temperature": "5.4°C",
+          "qnh": "1013 hPa",
+          "clouds": "Two Layer Scattered/",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "281° / 2 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 4,
+            "total": 134
+          },
+          "red": {
+            "used": 0,
+            "total": 16
+          }
+        },
         "playerList": [
           "101\\-Maskot\\(0019\\)",
           "Albert",
+          "Den\\_Sneki",
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "AnatolianFighter96",
           "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "Albert",
+            "unit": "Su-25T"
+          },
+          {
+            "name": "Den\\_Sneki",
+            "unit": "UH-60L"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "AnatolianFighter96",
             "unit": "--"
           },
           {
@@ -34,15 +65,28 @@
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "101\\-Maskot\\(0019\\)",
-              "unit": "--"
+              "unit": "F-16C_50"
             },
             {
               "name": "Albert",
+              "unit": "Su-25T"
+            },
+            {
+              "name": "Den\\_Sneki",
+              "unit": "UH-60L"
+            },
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "F-16C_50"
+            }
+          ],
+          "red": [],
+          "neutral": [
+            {
+              "name": "AnatolianFighter96",
               "unit": "--"
             },
             {
@@ -58,8 +102,8 @@
               "red": 23
             },
             "Planes": {
-              "blue": 9,
-              "red": 13
+              "blue": 10,
+              "red": 18
             },
             "Helicopters": {
               "blue": 3,
@@ -84,7 +128,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 5,
+              "blue": 0,
               "red": 0
             },
             "Downed Helicopters": {
@@ -105,23 +149,39 @@
             }
           }
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-03-05 15:04:27 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
-        "online": false,
+        "online": true,
         "channelName": "🖥️┃server-syria［1／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
+        "serverIP": "88.247.164.234:10309",
+        "mission": "101_Hunter_SQN_SURIYE_v3_7",
+        "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:03:32",
+        "missionDate": "2026-08-01 12:08:32",
+        "weather": {
+          "temperature": "20.0°C",
+          "qnh": "1013 hPa",
+          "clouds": "Few Scattered Clouds",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "198° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 0,
+            "total": 12
+          },
+          "red": {
+            "used": 0,
+            "total": 9
+          }
+        },
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -183,7 +243,7 @@
             }
           }
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-03-05 15:04:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -196,8 +256,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:58:20",
-        "missionDate": "2025-07-01 20:28:20",
+        "missionTime": "0:02:59",
+        "missionDate": "2025-07-01 14:32:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -239,19 +299,19 @@
           "situation": {
             "Airbases / FARPs": {
               "blue": 39,
-              "red": 44
+              "red": 42
             },
             "Planes": {
-              "blue": 5,
-              "red": 5
+              "blue": 2,
+              "red": 1
             },
             "Helicopters": {
               "blue": 0,
-              "red": 1
+              "red": 0
             },
             "Ground Units": {
-              "blue": 158,
-              "red": 1289
+              "blue": 157,
+              "red": 1286
             },
             "Ships": {
               "blue": 20,
@@ -268,15 +328,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 2,
-              "red": 2
+              "blue": 0,
+              "red": 0
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 3,
+              "blue": 0,
               "red": 0
             },
             "Sunken Ships": {
@@ -289,36 +349,67 @@
             }
           }
         },
-        "lastUpdate": "26-03-05 14:59:28 UTC",
+        "lastUpdate": "26-03-05 15:04:28 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10308",
+      "mission": "101_Hunter_SQN_v9_5",
+      "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionTime": "0:03:40",
+      "missionDate": "2026-04-21 08:18:40",
+      "weather": {
+        "temperature": "5.4°C",
+        "qnh": "1013 hPa",
+        "clouds": "Two Layer Scattered/",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "281° / 2 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 4,
+          "total": 134
+        },
+        "red": {
+          "used": 0,
+          "total": 16
+        }
+      },
       "playerList": [
         "101\\-Maskot\\(0019\\)",
         "Albert",
+        "Den\\_Sneki",
+        "✯101\\-Emrecan\\[0444\\]✯",
+        "AnatolianFighter96",
         "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
           "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "Albert",
+          "unit": "Su-25T"
+        },
+        {
+          "name": "Den\\_Sneki",
+          "unit": "UH-60L"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "AnatolianFighter96",
           "unit": "--"
         },
         {
@@ -327,15 +418,28 @@
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "Albert",
+            "unit": "Su-25T"
+          },
+          {
+            "name": "Den\\_Sneki",
+            "unit": "UH-60L"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-16C_50"
+          }
+        ],
+        "red": [],
+        "neutral": [
+          {
+            "name": "AnatolianFighter96",
             "unit": "--"
           },
           {
@@ -351,8 +455,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
-            "red": 13
+            "blue": 10,
+            "red": 18
           },
           "Helicopters": {
             "blue": 3,
@@ -377,7 +481,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 5,
+            "blue": 0,
             "red": 0
           },
           "Downed Helicopters": {
@@ -398,11 +502,11 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-05 15:04:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-05T15:00:31.693Z"
+    "lastUpdated": "2026-03-05T15:05:23.763Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -483,7 +587,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 05.03.2026 18:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-05T15:00:31.824Z"
+    "lastUpdated": "2026-03-05T15:05:23.958Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2740,11 +2844,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-05T15:00:32.375Z",
+    "lastUpdated": "2026-03-05T15:05:24.644Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-05T15:00:32.461Z",
+    "fetchedAt": "2026-03-05T15:05:24.964Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
