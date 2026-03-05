@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:53:40",
-      "missionDate": "2026-04-21 13:08:40",
+      "missionTime": "4:59:40",
+      "missionDate": "2026-04-21 13:14:40",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -40,7 +40,7 @@
         },
         {
           "name": "101\\-Tango\\[0001\\]",
-          "unit": "_ _"
+          "unit": "F-14B"
         }
       ],
       "activePlayers": {
@@ -48,15 +48,14 @@
           {
             "name": "101\\-Brakelesss",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Tango\\[0001\\]",
+            "unit": "F-14B"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Tango\\[0001\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -112,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 19:54:47 UTC",
+      "lastUpdate": "26-03-05 20:00:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:32",
-      "missionDate": "2026-08-01 16:58:32",
+      "missionTime": "4:59:32",
+      "missionDate": "2026-08-01 17:04:32",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 19:54:27 UTC",
+      "lastUpdate": "26-03-05 20:00:28 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［7／32］",
+      "channelName": "🖥️┃server-dynamic［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 7,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "4:52:59",
-      "missionDate": "2025-07-01 19:22:59",
+      "missionTime": "4:57:59",
+      "missionDate": "2025-07-01 19:27:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -366,22 +365,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 19:54:28 UTC",
+      "lastUpdate": "26-03-05 20:00:07 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "4:53:40",
-    "missionDate": "2026-04-21 13:08:40",
+    "missionTime": "4:59:40",
+    "missionDate": "2026-04-21 13:14:40",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -392,7 +391,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -411,7 +410,7 @@
       },
       {
         "name": "101\\-Tango\\[0001\\]",
-        "unit": "_ _"
+        "unit": "F-14B"
       }
     ],
     "activePlayers": {
@@ -419,15 +418,14 @@
         {
           "name": "101\\-Brakelesss",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Tango\\[0001\\]",
+          "unit": "F-14B"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Tango\\[0001\\]",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -483,9 +481,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-05 19:54:47 UTC",
+    "lastUpdate": "26-03-05 20:00:27 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-05T19:55:20.733Z"
+  "lastUpdated": "2026-03-05T20:00:30.416Z"
 }
