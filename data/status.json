@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［6／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 6,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "5:33:40",
-        "missionDate": "2026-04-21 13:48:40",
+        "missionTime": "5:38:40",
+        "missionDate": "2026-04-21 13:53:40",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 2,
             "total": 134
           },
           "red": {
@@ -32,8 +32,7 @@
         },
         "playerList": [
           "101\\-Brakelesss",
-          "101\\-Maskot\\(0019\\)",
-          "Brawe"
+          "MaxBlax"
         ],
         "playerDetails": [
           {
@@ -41,11 +40,7 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Brawe",
+            "name": "MaxBlax",
             "unit": "F-16C_50"
           }
         ],
@@ -56,11 +51,7 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "101\\-Maskot\\(0019\\)",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "Brawe",
+              "name": "MaxBlax",
               "unit": "F-16C_50"
             }
           ],
@@ -121,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-05 20:34:27 UTC",
+        "lastUpdate": "26-03-05 20:40:07 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -134,8 +125,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:33:32",
-        "missionDate": "2026-08-01 17:38:32",
+        "missionTime": "5:38:32",
+        "missionDate": "2026-08-01 17:43:32",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -215,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-05 20:34:27 UTC",
+        "lastUpdate": "26-03-05 20:39:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［9／32］",
+        "channelName": "🖥️┃server-dynamic［11／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 9,
+        "players": 11,
         "maxPlayers": 32,
-        "missionTime": "5:32:59",
-        "missionDate": "2025-07-01 20:02:59",
+        "missionTime": "5:37:59",
+        "missionDate": "2025-07-01 20:07:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -248,24 +239,12 @@
             "total": 7
           }
         },
-        "playerList": [
-          "HadTR"
-        ],
-        "playerDetails": [
-          {
-            "name": "HadTR",
-            "unit": "_ _"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": [
-            {
-              "name": "HadTR",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -274,16 +253,16 @@
               "red": 42
             },
             "Planes": {
-              "blue": 7,
-              "red": 10
+              "blue": 14,
+              "red": 11
             },
             "Helicopters": {
               "blue": 0,
               "red": 1
             },
             "Ground Units": {
-              "blue": 157,
-              "red": 1283
+              "blue": 159,
+              "red": 1286
             },
             "Ships": {
               "blue": 20,
@@ -300,15 +279,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 1,
-              "red": 2
+              "blue": 3,
+              "red": 6
             },
             "Downed Helicopters": {
               "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 2,
+              "blue": 9,
               "red": 0
             },
             "Sunken Ships": {
@@ -321,22 +300,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-05 20:34:28 UTC",
+        "lastUpdate": "26-03-05 20:39:28 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:33:40",
-      "missionDate": "2026-04-21 13:48:40",
+      "missionTime": "5:38:40",
+      "missionDate": "2026-04-21 13:53:40",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -347,7 +326,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -357,8 +336,7 @@
       },
       "playerList": [
         "101\\-Brakelesss",
-        "101\\-Maskot\\(0019\\)",
-        "Brawe"
+        "MaxBlax"
       ],
       "playerDetails": [
         {
@@ -366,11 +344,7 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Brawe",
+          "name": "MaxBlax",
           "unit": "F-16C_50"
         }
       ],
@@ -381,11 +355,7 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Brawe",
+            "name": "MaxBlax",
             "unit": "F-16C_50"
           }
         ],
@@ -446,11 +416,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-05 20:34:27 UTC",
+      "lastUpdate": "26-03-05 20:40:07 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-05T20:35:23.759Z"
+    "lastUpdated": "2026-03-05T20:40:21.978Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -485,12 +455,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 23163,
+          "totalCredits": 23063,
           "totalPlayers": 40,
           "activePilots": "5",
           "highestScore": 4497
         },
-        "lastUpdate": "🕒 Son guncelleme: 05.03.2026 23:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 05.03.2026 23:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -524,14 +494,14 @@
         }
       ],
       "stats": {
-        "totalCredits": 23163,
+        "totalCredits": 23063,
         "totalPlayers": 40,
         "activePilots": "5",
         "highestScore": 4497
       },
-      "lastUpdate": "🕒 Son guncelleme: 05.03.2026 23:30  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 05.03.2026 23:40  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-05T20:35:23.941Z"
+    "lastUpdated": "2026-03-05T20:40:22.136Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2788,11 +2758,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-05T20:35:24.642Z",
+    "lastUpdated": "2026-03-05T20:40:22.662Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-05T20:35:24.794Z",
+    "fetchedAt": "2026-03-05T20:40:22.760Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
