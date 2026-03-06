@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:28:32",
-      "missionDate": "2026-04-21 09:43:32",
+      "missionTime": "1:33:32",
+      "missionDate": "2026-04-21 09:48:32",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -31,6 +31,7 @@
       },
       "playerList": [
         "101\\-Berserk",
+        "CanAda",
         "Den\\_Sneki",
         "F16Pilotu"
       ],
@@ -40,12 +41,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Den\\_Sneki",
           "unit": "UH-60L"
         },
         {
           "name": "F16Pilotu",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -55,17 +60,20 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Den\\_Sneki",
             "unit": "UH-60L"
+          },
+          {
+            "name": "F16Pilotu",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "F16Pilotu",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -74,7 +82,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
+            "blue": 9,
             "red": 18
           },
           "Helicopters": {
@@ -121,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 16:30:13 UTC",
+      "lastUpdate": "26-03-06 16:34:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,8 +142,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:28:22",
-      "missionDate": "2026-08-01 13:33:22",
+      "missionTime": "1:33:22",
+      "missionDate": "2026-08-01 13:38:22",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -227,7 +235,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 16:29:33 UTC",
+      "lastUpdate": "26-03-06 16:34:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -240,8 +248,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:27:51",
-      "missionDate": "2025-07-01 19:27:51",
+      "missionTime": "1:32:51",
+      "missionDate": "2025-07-01 19:32:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -342,22 +350,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 16:29:34 UTC",
+      "lastUpdate": "26-03-06 16:34:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "1:28:32",
-    "missionDate": "2026-04-21 09:43:32",
+    "missionTime": "1:33:32",
+    "missionDate": "2026-04-21 09:48:32",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -368,7 +376,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -378,6 +386,7 @@
     },
     "playerList": [
       "101\\-Berserk",
+      "CanAda",
       "Den\\_Sneki",
       "F16Pilotu"
     ],
@@ -387,12 +396,16 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "CanAda",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "Den\\_Sneki",
         "unit": "UH-60L"
       },
       {
         "name": "F16Pilotu",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -402,17 +415,20 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Den\\_Sneki",
           "unit": "UH-60L"
+        },
+        {
+          "name": "F16Pilotu",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "F16Pilotu",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -421,7 +437,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
+          "blue": 9,
           "red": 18
         },
         "Helicopters": {
@@ -468,9 +484,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-06 16:30:13 UTC",
+    "lastUpdate": "26-03-06 16:34:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-06T16:30:26.046Z"
+  "lastUpdated": "2026-03-06T16:35:21.290Z"
 }
