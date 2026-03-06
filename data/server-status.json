@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:58:32",
-      "missionDate": "2026-04-21 14:13:32",
+      "missionTime": "0:03:32",
+      "missionDate": "2026-04-21 08:18:32",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,41 +21,40 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 16
         }
       },
       "playerList": [
-        "WiRaN",
-        "Shadow 0\\-1 John Wick"
+        "Shadow 0\\-1 John Wick",
+        "WiRaN"
       ],
       "playerDetails": [
         {
-          "name": "WiRaN",
-          "unit": "Su-30SM"
-        },
-        {
           "name": "Shadow 0\\-1 John Wick",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "WiRaN",
+          "unit": "Su-30SM"
         }
       ],
       "activePlayers": {
         "blue": [
           {
+            "name": "Shadow 0\\-1 John Wick",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "WiRaN",
             "unit": "Su-30SM"
           }
         ],
-        "red": [
-          {
-            "name": "Shadow 0\\-1 John Wick",
-            "unit": "F-16C_50"
-          }
-        ],
+        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -65,8 +64,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
-            "red": 13
+            "blue": 7,
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -91,8 +90,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 12
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -112,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 20:59:33 UTC",
+      "lastUpdate": "26-03-06 21:04:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:58:22",
-      "missionDate": "2026-08-01 18:03:22",
+      "missionTime": "0:03:30",
+      "missionDate": "2026-08-01 12:08:30",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -159,7 +158,7 @@
             "red": 8
           },
           "Planes": {
-            "blue": 10,
+            "blue": 9,
             "red": 28
           },
           "Helicopters": {
@@ -206,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 20:59:33 UTC",
+      "lastUpdate": "26-03-06 21:04:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［3／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:57:51",
-      "missionDate": "2025-07-01 23:57:51",
+      "missionTime": "0:00:42",
+      "missionDate": "2025-07-01 18:00:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -240,50 +239,41 @@
         }
       },
       "playerList": [
-        "101\\-Tunay \\[5555\\]",
         "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "F-16C_50"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          },
+        "blue": [],
+        "red": [],
+        "neutral": [
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-16C_50"
+            "unit": "_ _"
           }
-        ],
-        "red": [],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
             "blue": 39,
-            "red": 42
+            "red": 43
           },
           "Planes": {
-            "blue": 8,
-            "red": 7
+            "blue": 2,
+            "red": 1
           },
           "Helicopters": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Ground Units": {
-            "blue": 165,
-            "red": 1302
+            "blue": 157,
+            "red": 1299
           },
           "Ships": {
             "blue": 20,
@@ -300,15 +290,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 3,
-            "red": 7
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 6,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -321,7 +311,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 20:59:34 UTC",
+      "lastUpdate": "26-03-06 21:04:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -335,8 +325,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "5:58:32",
-    "missionDate": "2026-04-21 14:13:32",
+    "missionTime": "0:03:32",
+    "missionDate": "2026-04-21 08:18:32",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -347,41 +337,40 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
-        "used": 1,
+        "used": 0,
         "total": 16
       }
     },
     "playerList": [
-      "WiRaN",
-      "Shadow 0\\-1 John Wick"
+      "Shadow 0\\-1 John Wick",
+      "WiRaN"
     ],
     "playerDetails": [
       {
-        "name": "WiRaN",
-        "unit": "Su-30SM"
-      },
-      {
         "name": "Shadow 0\\-1 John Wick",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "WiRaN",
+        "unit": "Su-30SM"
       }
     ],
     "activePlayers": {
       "blue": [
         {
+          "name": "Shadow 0\\-1 John Wick",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "WiRaN",
           "unit": "Su-30SM"
         }
       ],
-      "red": [
-        {
-          "name": "Shadow 0\\-1 John Wick",
-          "unit": "F-16C_50"
-        }
-      ],
+      "red": [],
       "neutral": []
     },
     "missionStats": {
@@ -391,8 +380,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
-          "red": 13
+          "blue": 7,
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -417,8 +406,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 9,
-          "red": 12
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -438,9 +427,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-06 20:59:33 UTC",
+    "lastUpdate": "26-03-06 21:04:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-06T21:00:32.058Z"
+  "lastUpdated": "2026-03-06T21:05:17.632Z"
 }
