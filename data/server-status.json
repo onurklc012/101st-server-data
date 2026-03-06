@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:18:32",
-      "missionDate": "2026-04-21 12:33:32",
+      "missionTime": "4:23:32",
+      "missionDate": "2026-04-21 12:38:32",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,18 +21,19 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "LuftWaffe",
+        "WiRaN",
         "\\[\\-101\\-\\]KAAN VİPER",
-        "WiRaN"
+        "Shadow 0\\-1 John Wick"
       ],
       "playerDetails": [
         {
@@ -40,12 +41,16 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "WiRaN",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "\\[\\-101\\-\\]KAAN VİPER",
           "unit": "F-16C_50"
         },
         {
-          "name": "WiRaN",
-          "unit": "_ _"
+          "name": "Shadow 0\\-1 John Wick",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -55,17 +60,21 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "WiRaN",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "\\[\\-101\\-\\]KAAN VİPER",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": [
+        "red": [
           {
-            "name": "WiRaN",
-            "unit": "_ _"
+            "name": "Shadow 0\\-1 John Wick",
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -121,7 +130,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 19:20:13 UTC",
+      "lastUpdate": "26-03-06 19:24:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,8 +143,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:18:22",
-      "missionDate": "2026-08-01 16:23:22",
+      "missionTime": "4:23:22",
+      "missionDate": "2026-08-01 16:28:22",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,7 +224,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 19:19:33 UTC",
+      "lastUpdate": "26-03-06 19:24:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -228,8 +237,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:17:51",
-      "missionDate": "2025-07-01 22:17:51",
+      "missionTime": "4:22:51",
+      "missionDate": "2025-07-01 22:22:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -330,22 +339,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 19:19:34 UTC",
+      "lastUpdate": "26-03-06 19:24:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "4:18:32",
-    "missionDate": "2026-04-21 12:33:32",
+    "missionTime": "4:23:32",
+    "missionDate": "2026-04-21 12:38:32",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -356,18 +365,19 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
       "LuftWaffe",
+      "WiRaN",
       "\\[\\-101\\-\\]KAAN VİPER",
-      "WiRaN"
+      "Shadow 0\\-1 John Wick"
     ],
     "playerDetails": [
       {
@@ -375,12 +385,16 @@
         "unit": "FA-18C_hornet"
       },
       {
+        "name": "WiRaN",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "\\[\\-101\\-\\]KAAN VİPER",
         "unit": "F-16C_50"
       },
       {
-        "name": "WiRaN",
-        "unit": "_ _"
+        "name": "Shadow 0\\-1 John Wick",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -390,17 +404,21 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "WiRaN",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "\\[\\-101\\-\\]KAAN VİPER",
           "unit": "F-16C_50"
         }
       ],
-      "red": [],
-      "neutral": [
+      "red": [
         {
-          "name": "WiRaN",
-          "unit": "_ _"
+          "name": "Shadow 0\\-1 John Wick",
+          "unit": "F-16C_50"
         }
-      ]
+      ],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -456,9 +474,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-06 19:20:13 UTC",
+    "lastUpdate": "26-03-06 19:24:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-06T19:20:23.861Z"
+  "lastUpdated": "2026-03-06T19:25:19.597Z"
 }
