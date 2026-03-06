@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:13:35",
-      "missionDate": "2026-04-21 13:28:35",
+      "missionTime": "5:18:35",
+      "missionDate": "2026-04-21 13:33:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -31,32 +31,40 @@
       },
       "playerList": [
         "101\\-Yidobaba\\[0098\\]",
+        "Raksmade13",
         "TheHunter396"
       ],
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "MH-6J"
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "Raksmade13",
+          "unit": "F-16C_50"
         },
         {
           "name": "TheHunter396",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "MH-6J"
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "Raksmade13",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "TheHunter396",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "TheHunter396",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -65,7 +73,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
+            "blue": 10,
             "red": 16
           },
           "Helicopters": {
@@ -91,7 +99,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -112,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 14:15:13 UTC",
+      "lastUpdate": "26-03-06 14:19:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:13:26",
-      "missionDate": "2026-08-01 17:18:26",
+      "missionTime": "5:18:26",
+      "missionDate": "2026-08-01 17:23:26",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,7 +214,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 14:14:33 UTC",
+      "lastUpdate": "26-03-06 14:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,8 +227,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:12:52",
-      "missionDate": "2025-07-01 23:12:52",
+      "missionTime": "5:17:52",
+      "missionDate": "2025-07-01 23:17:52",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -262,7 +270,7 @@
           },
           "Ground Units": {
             "blue": 162,
-            "red": 1299
+            "red": 1302
           },
           "Ships": {
             "blue": 20,
@@ -300,22 +308,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 14:14:34 UTC",
+      "lastUpdate": "26-03-06 14:19:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "5:13:35",
-    "missionDate": "2026-04-21 13:28:35",
+    "missionTime": "5:18:35",
+    "missionDate": "2026-04-21 13:33:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -326,7 +334,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -336,32 +344,40 @@
     },
     "playerList": [
       "101\\-Yidobaba\\[0098\\]",
+      "Raksmade13",
       "TheHunter396"
     ],
     "playerDetails": [
       {
         "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "MH-6J"
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "Raksmade13",
+        "unit": "F-16C_50"
       },
       {
         "name": "TheHunter396",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "MH-6J"
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "Raksmade13",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "TheHunter396",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "TheHunter396",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -370,7 +386,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
+          "blue": 10,
           "red": 16
         },
         "Helicopters": {
@@ -396,7 +412,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Downed Helicopters": {
@@ -417,9 +433,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-06 14:15:13 UTC",
+    "lastUpdate": "26-03-06 14:19:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-06T14:15:28.352Z"
+  "lastUpdated": "2026-03-06T14:20:32.422Z"
 }
