@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［2／32］",
+        "channelName": "🖥️┃server-caucasus［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 2,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:18:32",
-        "missionDate": "2026-04-21 08:33:32",
+        "missionTime": "0:23:32",
+        "missionDate": "2026-04-21 08:38:32",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -30,24 +30,12 @@
             "total": 16
           }
         },
-        "playerList": [
-          "yyzmahss"
-        ],
-        "playerDetails": [
-          {
-            "name": "yyzmahss",
-            "unit": "_ _"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": [
-            {
-              "name": "yyzmahss",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -103,21 +91,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-06 15:19:33 UTC",
+        "lastUpdate": "26-03-06 15:24:33 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［2／32］",
+        "channelName": "🖥️┃server-syria［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 2,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "0:18:22",
-        "missionDate": "2026-08-01 12:23:22",
+        "missionTime": "0:23:22",
+        "missionDate": "2026-08-01 12:28:22",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -128,7 +116,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 12
           },
           "red": {
@@ -137,9 +125,14 @@
           }
         },
         "playerList": [
+          "101\\-WOLF \\[0033\\]",
           "101\\-Yidobaba\\[0098\\]"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-WOLF \\[0033\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Su-30SM"
@@ -147,6 +140,10 @@
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-WOLF \\[0033\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
               "unit": "Su-30SM"
@@ -209,7 +206,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-06 15:19:33 UTC",
+        "lastUpdate": "26-03-06 15:24:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -222,8 +219,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:17:51",
-        "missionDate": "2025-07-01 18:17:51",
+        "missionTime": "0:22:51",
+        "missionDate": "2025-07-01 18:22:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -303,22 +300,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-06 15:19:34 UTC",
+        "lastUpdate": "26-03-06 15:24:34 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:18:32",
-      "missionDate": "2026-04-21 08:33:32",
+      "missionTime": "0:23:32",
+      "missionDate": "2026-04-21 08:38:32",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -337,24 +334,12 @@
           "total": 16
         }
       },
-      "playerList": [
-        "yyzmahss"
-      ],
-      "playerDetails": [
-        {
-          "name": "yyzmahss",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "yyzmahss",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -410,11 +395,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-06 15:19:33 UTC",
+      "lastUpdate": "26-03-06 15:24:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-06T15:20:20.872Z"
+    "lastUpdated": "2026-03-06T15:25:21.810Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -495,7 +480,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 06.03.2026 18:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-06T15:20:21.045Z"
+    "lastUpdated": "2026-03-06T15:25:22.037Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2752,11 +2737,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-06T15:20:21.645Z",
+    "lastUpdated": "2026-03-06T15:25:22.688Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-06T15:20:21.767Z",
+    "fetchedAt": "2026-03-06T15:25:22.923Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
