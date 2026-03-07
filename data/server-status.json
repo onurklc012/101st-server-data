@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:23:32",
-      "missionDate": "2026-04-21 13:38:32",
+      "missionTime": "5:28:32",
+      "missionDate": "2026-04-21 13:43:32",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 02:24:33 UTC",
+      "lastUpdate": "26-03-07 02:29:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:23:30",
-      "missionDate": "2026-08-01 17:28:30",
+      "missionTime": "5:28:30",
+      "missionDate": "2026-08-01 17:33:30",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 02:24:33 UTC",
+      "lastUpdate": "26-03-07 02:29:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:20:42",
-      "missionDate": "2025-07-01 23:20:42",
+      "missionTime": "5:25:42",
+      "missionDate": "2025-07-01 23:25:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -217,10 +217,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "✯101\\-Emrecan\\[0444\\]✯"
+      ],
+      "playerDetails": [
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -231,8 +243,8 @@
             "red": 42
           },
           "Planes": {
-            "blue": 8,
-            "red": 17
+            "blue": 6,
+            "red": 16
           },
           "Helicopters": {
             "blue": 1,
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 02:24:34 UTC",
+      "lastUpdate": "26-03-07 02:29:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -292,8 +304,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "5:23:32",
-    "missionDate": "2026-04-21 13:38:32",
+    "missionTime": "5:28:32",
+    "missionDate": "2026-04-21 13:43:32",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-07 02:24:33 UTC",
+    "lastUpdate": "26-03-07 02:29:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-07T02:25:19.984Z"
+  "lastUpdated": "2026-03-07T02:30:30.116Z"
 }
