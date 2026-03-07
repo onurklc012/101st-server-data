@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:53:39",
-      "missionDate": "2026-04-21 14:08:39",
+      "missionTime": "5:58:39",
+      "missionDate": "2026-04-21 14:13:39",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -81,7 +81,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -102,21 +102,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 08:54:33 UTC",
+      "lastUpdate": "26-03-07 08:59:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:53:25",
-      "missionDate": "2026-08-01 17:58:25",
+      "missionTime": "5:58:25",
+      "missionDate": "2026-08-01 18:03:25",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -127,7 +127,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -135,22 +135,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "✯101\\-Emrecan\\[0444\\]✯"
-      ],
-      "playerDetails": [
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -208,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 08:54:33 UTC",
+      "lastUpdate": "26-03-07 08:59:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:52:53",
-      "missionDate": "2025-07-01 23:52:53",
+      "missionTime": "5:57:53",
+      "missionDate": "2025-07-01 23:57:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -241,12 +229,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Volkan"
+      ],
+      "playerDetails": [
+        {
+          "name": "Volkan",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Volkan",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -264,7 +264,7 @@
           },
           "Ground Units": {
             "blue": 163,
-            "red": 1307
+            "red": 1303
           },
           "Ships": {
             "blue": 20,
@@ -302,7 +302,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 08:54:34 UTC",
+      "lastUpdate": "26-03-07 08:59:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -316,8 +316,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "5:53:39",
-    "missionDate": "2026-04-21 14:08:39",
+    "missionTime": "5:58:39",
+    "missionDate": "2026-04-21 14:13:39",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -388,7 +388,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Downed Helicopters": {
@@ -409,9 +409,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-07 08:54:33 UTC",
+    "lastUpdate": "26-03-07 08:59:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-07T08:55:19.831Z"
+  "lastUpdated": "2026-03-07T09:00:15.934Z"
 }
