@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:08:43",
-        "missionDate": "2026-04-21 12:23:43",
+        "missionTime": "4:13:43",
+        "missionDate": "2026-04-21 12:28:43",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -103,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-07 19:09:33 UTC",
+        "lastUpdate": "26-03-07 19:14:33 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -116,8 +116,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:08:35",
-        "missionDate": "2026-08-01 16:13:35",
+        "missionTime": "4:13:35",
+        "missionDate": "2026-08-01 16:18:35",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,21 +197,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-07 19:09:33 UTC",
+        "lastUpdate": "26-03-07 19:14:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-dynamic［3／32］",
+        "channelName": "🖥️┃server-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "4:08:21",
-        "missionDate": "2025-07-01 22:08:21",
+        "missionTime": "4:13:21",
+        "missionDate": "2025-07-01 22:13:21",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -232,7 +232,8 @@
         },
         "playerList": [
           "101\\-Tunay \\[5555\\]",
-          "THE HİTMAN"
+          "StormbringeR",
+          "101\\-zeshka\\[0035\\]"
         ],
         "playerDetails": [
           {
@@ -240,8 +241,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "THE HİTMAN",
+            "name": "StormbringeR",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -251,12 +256,17 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "THE HİTMAN",
+              "name": "StormbringeR",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-zeshka\\[0035\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -312,7 +322,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-07 19:09:34 UTC",
+        "lastUpdate": "26-03-07 19:14:34 UTC",
         "mapId": "dynamic",
         "friendlyName": "Dynamic"
       }
@@ -326,8 +336,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:08:43",
-      "missionDate": "2026-04-21 12:23:43",
+      "missionTime": "4:13:43",
+      "missionDate": "2026-04-21 12:28:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -419,11 +429,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 19:09:33 UTC",
+      "lastUpdate": "26-03-07 19:14:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-07T19:10:21.559Z"
+    "lastUpdated": "2026-03-07T19:15:21.225Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -504,7 +514,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 07.03.2026 22:10  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-07T19:10:21.703Z"
+    "lastUpdated": "2026-03-07T19:15:21.411Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2761,11 +2771,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-07T19:10:22.328Z",
+    "lastUpdated": "2026-03-07T19:15:21.979Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-07T19:10:22.433Z",
+    "fetchedAt": "2026-03-07T19:15:22.138Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
