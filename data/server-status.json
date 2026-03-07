@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:13:50",
-      "missionDate": "2026-04-21 09:28:50",
+      "missionTime": "1:18:50",
+      "missionDate": "2026-04-21 09:33:50",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 10:14:35 UTC",
+      "lastUpdate": "26-03-07 10:19:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:13:42",
-      "missionDate": "2026-08-01 13:18:42",
+      "missionTime": "1:18:42",
+      "missionDate": "2026-08-01 13:23:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 10:14:33 UTC",
+      "lastUpdate": "26-03-07 10:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［1／32］",
+      "channelName": "🖥️┃server-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:13:19",
-      "missionDate": "2025-07-01 19:13:19",
+      "missionTime": "1:18:19",
+      "missionDate": "2025-07-01 19:18:19",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -217,10 +217,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-zeshka\\[0035\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "JF-17"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "JF-17"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -240,7 +252,7 @@
           },
           "Ground Units": {
             "blue": 157,
-            "red": 1297
+            "red": 1298
           },
           "Ships": {
             "blue": 20,
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 10:14:35 UTC",
+      "lastUpdate": "26-03-07 10:19:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -292,8 +304,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:13:50",
-    "missionDate": "2026-04-21 09:28:50",
+    "missionTime": "1:18:50",
+    "missionDate": "2026-04-21 09:33:50",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -373,9 +385,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-07 10:14:35 UTC",
+    "lastUpdate": "26-03-07 10:19:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-07T10:15:22.608Z"
+  "lastUpdated": "2026-03-07T10:20:18.392Z"
 }
