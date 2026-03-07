@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:13:43",
-      "missionDate": "2026-04-21 12:28:43",
+      "missionTime": "4:18:43",
+      "missionDate": "2026-04-21 12:33:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 19:14:33 UTC",
+      "lastUpdate": "26-03-07 19:19:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:13:35",
-      "missionDate": "2026-08-01 16:18:35",
+      "missionTime": "4:18:36",
+      "missionDate": "2026-08-01 16:23:36",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 19:14:33 UTC",
+      "lastUpdate": "26-03-07 19:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-dynamic［4／32］",
+      "channelName": "🖥️┃server-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:13:21",
-      "missionDate": "2025-07-01 22:13:21",
+      "missionTime": "4:18:21",
+      "missionDate": "2025-07-01 22:18:21",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 122
         },
         "red": {
@@ -231,8 +231,9 @@
       },
       "playerList": [
         "101\\-Tunay \\[5555\\]",
+        "101\\-zeshka\\[0035\\]",
         "StormbringeR",
-        "101\\-zeshka\\[0035\\]"
+        "perfect"
       ],
       "playerDetails": [
         {
@@ -240,12 +241,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "JF-17"
+        },
+        {
           "name": "StormbringeR",
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-zeshka\\[0035\\]",
-          "unit": "_ _"
+          "name": "perfect",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -255,17 +260,20 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "JF-17"
+          },
+          {
             "name": "StormbringeR",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "perfect",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -321,7 +329,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-07 19:14:34 UTC",
+      "lastUpdate": "26-03-07 19:19:34 UTC",
       "mapId": "dynamic",
       "friendlyName": "Dynamic"
     }
@@ -335,8 +343,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "4:13:43",
-    "missionDate": "2026-04-21 12:28:43",
+    "missionTime": "4:18:43",
+    "missionDate": "2026-04-21 12:33:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -428,9 +436,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-07 19:14:33 UTC",
+    "lastUpdate": "26-03-07 19:19:33 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-07T19:15:21.225Z"
+  "lastUpdated": "2026-03-07T19:20:22.357Z"
 }
