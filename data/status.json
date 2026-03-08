@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 8,
         "maxPlayers": 32,
-        "missionTime": "4:58:37",
-        "missionDate": "2026-04-21 13:13:37",
+        "missionTime": "5:03:37",
+        "missionDate": "2026-04-21 13:18:37",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,26 +22,34 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 6,
             "total": 134
           },
           "red": {
-            "used": 2,
+            "used": 0,
             "total": 16
           }
         },
         "playerList": [
           "CanAda",
+          "EGE09",
+          "EMİRHAN",
           "K0ka1NN",
           "\\[\\-101\\-\\]KAAN VİPER",
-          "✯101\\-EffBee\\[0010\\]✯",
           "✯101\\-Emrecan\\[0444\\]✯",
-          "EGE09",
-          "mohamd"
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "EGE09",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "EMİRHAN",
             "unit": "F-16C_50"
           },
           {
@@ -53,26 +61,26 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-4E-45MC (crew)"
-          },
-          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-4E-45MC"
           },
           {
-            "name": "EGE09",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "mohamd",
-            "unit": "F-16C_50"
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "CanAda",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "EGE09",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "EMİRHAN",
               "unit": "F-16C_50"
             },
             {
@@ -84,25 +92,17 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "F-4E-45MC (crew)"
-            },
-            {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
               "unit": "F-4E-45MC"
             }
           ],
-          "red": [
+          "red": [],
+          "neutral": [
             {
-              "name": "EGE09",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "mohamd",
-              "unit": "F-16C_50"
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "_ _"
             }
-          ],
-          "neutral": []
+          ]
         },
         "missionStats": {
           "situation": {
@@ -111,8 +111,8 @@
               "red": 23
             },
             "Planes": {
-              "blue": 11,
-              "red": 17
+              "blue": 13,
+              "red": 16
             },
             "Helicopters": {
               "blue": 2,
@@ -138,7 +138,7 @@
             },
             "Killed Planes": {
               "blue": 22,
-              "red": 1
+              "red": 3
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -158,7 +158,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 19:59:34 UTC",
+        "lastUpdate": "26-03-08 20:04:34 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -171,8 +171,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:58:29",
-        "missionDate": "2026-08-01 17:03:29",
+        "missionTime": "5:03:29",
+        "missionDate": "2026-08-01 17:08:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -252,7 +252,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 19:59:33 UTC",
+        "lastUpdate": "26-03-08 20:04:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -265,8 +265,8 @@
         "map": "Syria",
         "players": 8,
         "maxPlayers": 32,
-        "missionTime": "2:05:59",
-        "missionDate": "2025-07-01 20:05:59",
+        "missionTime": "2:10:59",
+        "missionDate": "2025-07-01 20:10:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -412,7 +412,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 19:59:35 UTC",
+        "lastUpdate": "26-03-08 20:04:36 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -425,14 +425,14 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:58:12",
-        "missionDate": "2024-10-31 20:23:12",
+        "missionTime": "5:03:13",
+        "missionDate": "2024-10-31 20:28:13",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
           "clouds": "Two Layers Scattered Large Clouds High Ceiling",
           "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
+          "visibility": "24,862 m / 15.45 SM",
           "wind": "50° / 4 kts"
         },
         "slots": {
@@ -506,7 +506,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 19:59:34 UTC",
+        "lastUpdate": "26-03-08 20:04:35 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -520,8 +520,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:58:37",
-      "missionDate": "2026-04-21 13:13:37",
+      "missionTime": "5:03:37",
+      "missionDate": "2026-04-21 13:18:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -532,26 +532,34 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 6,
           "total": 134
         },
         "red": {
-          "used": 2,
+          "used": 0,
           "total": 16
         }
       },
       "playerList": [
         "CanAda",
+        "EGE09",
+        "EMİRHAN",
         "K0ka1NN",
         "\\[\\-101\\-\\]KAAN VİPER",
-        "✯101\\-EffBee\\[0010\\]✯",
         "✯101\\-Emrecan\\[0444\\]✯",
-        "EGE09",
-        "mohamd"
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "EGE09",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "EMİRHAN",
           "unit": "F-16C_50"
         },
         {
@@ -563,26 +571,26 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "F-4E-45MC (crew)"
-        },
-        {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-4E-45MC"
         },
         {
-          "name": "EGE09",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "mohamd",
-          "unit": "F-16C_50"
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "EGE09",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "EMİRHAN",
             "unit": "F-16C_50"
           },
           {
@@ -594,25 +602,17 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-4E-45MC (crew)"
-          },
-          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-4E-45MC"
           }
         ],
-        "red": [
+        "red": [],
+        "neutral": [
           {
-            "name": "EGE09",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "mohamd",
-            "unit": "F-16C_50"
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "_ _"
           }
-        ],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -621,8 +621,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 11,
-            "red": 17
+            "blue": 13,
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -648,7 +648,7 @@
           },
           "Killed Planes": {
             "blue": 22,
-            "red": 1
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -668,11 +668,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 19:59:34 UTC",
+      "lastUpdate": "26-03-08 20:04:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-08T20:00:28.989Z"
+    "lastUpdated": "2026-03-08T20:05:17.664Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -751,7 +751,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 08.03.2026 23:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-08T20:00:29.151Z"
+    "lastUpdated": "2026-03-08T20:05:17.846Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3008,11 +3008,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-08T20:00:34.075Z",
+    "lastUpdated": "2026-03-08T20:05:18.441Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-08T20:00:34.659Z",
+    "fetchedAt": "2026-03-08T20:05:18.945Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
