@@ -662,16 +662,18 @@ function parseFlightHoursMessages(messages, channelName) {
         for (const embed of msg.embeds) {
             const title = embed.title || '';
             const desc = embed.description || '';
-            const combined = title + ' ' + desc;
+            const fieldsText = (embed.fields || []).map(f => `${f.name} ${f.value}`).join(' ');
+            const combined = title + ' ' + desc + ' ' + fieldsText;
 
             console.log(`  📋 Embed title: "${title.substring(0, 80)}"`);
-            console.log(`  📋 Embed desc length: ${desc.length}, first 80: "${desc.substring(0, 80)}"`);
+            console.log(`  📋 Embed desc length: ${desc.length}, first 100: "${desc.substring(0, 100)}"`);
+            if (embed.fields) console.log(`  📋 Embed has ${embed.fields.length} fields`);
 
-            // Check if this embed is about flight hours (check BOTH title and description)
-            const isFlightEmbed = combined.includes('Ucus') || combined.includes('ucus') ||
-                combined.includes('Flight') || combined.includes('flight') ||
-                combined.includes('saat') || combined.includes('Saat') ||
-                desc.match(/\d+s\s+\d+dk/);
+            // Check if this embed is about flight hours (Turkish + English + patterns)
+            const isFlightEmbed = /[Uu][cç][uü][sş]/i.test(combined) ||
+                /flight/i.test(combined) ||
+                /saat/i.test(combined) ||
+                /\d+s\s+\d+dk/.test(combined);
 
             if (!isFlightEmbed) {
                 console.log(`  ⏭️ Skipping embed — no flight keywords found`);
@@ -680,12 +682,22 @@ function parseFlightHoursMessages(messages, channelName) {
             console.log(`  ✅ Found flight hours embed!`);
 
             const pilots = [];
-            const lines = desc.split('\n');
+
+            // Collect ALL text from description + fields
+            let allText = desc;
+            if (embed.fields) {
+                for (const field of embed.fields) {
+                    allText += '\n' + field.name + '\n' + field.value;
+                }
+            }
+
+            const lines = allText.split('\n');
+            console.log(`  📝 Total lines to parse: ${lines.length}`);
 
             for (const line of lines) {
-                // Match patterns like: 1. 101-Hunter[0101] | ✈️ 852s 17dk
-                // or: 4. 101-Tunay [5555]      | 99s 54dk
-                const match = line.match(/(\d+)\.\s*(.+?)\s*[|│┃]\s*(?:✈️\s*)?(?:🛩️\s*)?(\d+)s\s*(\d+)dk/);
+                // Very permissive regex: number. name | Xs Ydk
+                const cleanLine = line.replace(/[\u200B\u200C\u200D\uFEFF]/g, '').trim();
+                const match = cleanLine.match(/(\d+)\.\s*(.+?)\s*[|│┃]\s*(?:.*?)(\d+)s\s+(\d+)dk/);
                 if (match) {
                     const rank = parseInt(match[1]);
                     const name = match[2].trim()
@@ -699,7 +711,14 @@ function parseFlightHoursMessages(messages, channelName) {
                 }
             }
 
-            if (pilots.length === 0) continue;
+            console.log(`  👨‍✈️ Parsed ${pilots.length} pilots`);
+            if (pilots.length === 0) {
+                // Debug: show sample lines
+                const sampleLines = lines.filter(l => l.trim().length > 5).slice(0, 5);
+                console.log(`  🔍 Sample lines:`);
+                sampleLines.forEach(l => console.log(`    "${l.trim().substring(0, 100)}"`));
+                continue;
+            }
 
             // Parse stats from embed fields
             let totalFlightTime = null;
@@ -709,38 +728,40 @@ function parseFlightHoursMessages(messages, channelName) {
 
             if (embed.fields) {
                 for (const field of embed.fields) {
-                    const fname = field.name.toLowerCase();
-                    const fval = field.value.trim().replace(/```/g, '').trim();
+                    const fname = (field.name || '').toLowerCase();
+                    const fval = (field.value || '').trim().replace(/```/g, '').trim();
 
-                    if (fname.includes('toplam') && fname.includes('ucus') || fname.includes('flight')) {
+                    if (/toplam.*u[cç]/i.test(fname) || /flight/i.test(fname)) {
                         totalFlightTime = fval;
                     }
-                    if (fname.includes('pilot') && fname.includes('sayisi') || fname.includes('count')) {
+                    if (/pilot.*say/i.test(fname) || /count/i.test(fname)) {
                         const m = fval.match(/(\d+)/);
                         if (m) pilotCount = parseInt(m[1]);
                     }
-                    if (fname.includes('kill') || fname.includes('toplam kill')) {
+                    if (/kill/i.test(fname) || /av/i.test(fname)) {
                         const m = fval.match(/([\d,]+)/);
                         if (m) totalKills = parseInt(m[1].replace(/,/g, ''));
                     }
                 }
             }
 
-            // Also try to parse stats from description
-            const totalFlightMatch = desc.match(/Toplam\s*Ucus[\s:]*([\d]+s\s*\d+dk)/i);
+            // Also try to parse stats from all text
+            const totalFlightMatch = allText.match(/Toplam\s*[Uu][cç][uü][sş][\s:]*(\d+s\s*\d+dk)/i);
             if (totalFlightMatch && !totalFlightTime) totalFlightTime = totalFlightMatch[1];
 
-            const pilotCountMatch = desc.match(/Pilot\s*Sayisi[\s:]*(\d+)/i);
-            if (pilotCountMatch && !pilotCount) pilotCount = parseInt(pilotCountMatch[1]);
+            const pilotCountMatch = allText.match(/Pilot\s*Say[iı]s[iı][\s:]*(\d+)/i);
+            if (pilotCountMatch) pilotCount = parseInt(pilotCountMatch[1]);
 
-            const killMatch = desc.match(/Toplam\s*Kill[\s:]*([\d,]+)/i);
+            const killMatch = allText.match(/Toplam\s*Kill[\s:]*([\d,]+)/i);
             if (killMatch && !totalKills) totalKills = parseInt(killMatch[1].replace(/,/g, ''));
+
+            console.log(`  📊 Stats: totalFlight=${totalFlightTime}, pilots=${pilotCount}, kills=${totalKills}`);
 
             if (embed.footer?.text) lastUpdate = embed.footer.text;
 
             return {
                 channelName,
-                title: '101 Hunters SQN — Ucus Saatleri',
+                title: '101 Hunters SQN — Uçuş Saatleri',
                 pilots: pilots.sort((a, b) => a.rank - b.rank),
                 stats: {
                     totalFlightTime: totalFlightTime || `${Math.floor(pilots.reduce((s, p) => s + p.totalMinutes, 0) / 60)}s ${pilots.reduce((s, p) => s + p.totalMinutes, 0) % 60}dk`,
