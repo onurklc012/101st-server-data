@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［5／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 5,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "1:18:37",
-        "missionDate": "2026-04-21 09:33:37",
+        "missionTime": "1:23:37",
+        "missionDate": "2026-04-21 09:38:37",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 134
           },
           "red": {
@@ -33,8 +33,7 @@
         "playerList": [
           "CanAda",
           "Omer",
-          "✯101\\-EffBee\\[0010\\]✯",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "figlo66"
         ],
         "playerDetails": [
           {
@@ -46,12 +45,8 @@
             "unit": "Su-25T"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-4E-45MC (crew)"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-4E-45MC"
+            "name": "figlo66",
+            "unit": "FA-18C_hornet"
           }
         ],
         "activePlayers": {
@@ -65,12 +60,8 @@
               "unit": "Su-25T"
             },
             {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "F-4E-45MC (crew)"
-            },
-            {
-              "name": "✯101\\-Emrecan\\[0444\\]✯",
-              "unit": "F-4E-45MC"
+              "name": "figlo66",
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
@@ -130,7 +121,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 16:19:34 UTC",
+        "lastUpdate": "26-03-08 16:24:34 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -143,8 +134,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:18:29",
-        "missionDate": "2026-08-01 13:23:29",
+        "missionTime": "1:23:29",
+        "missionDate": "2026-08-01 13:28:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -224,21 +215,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 16:19:33 UTC",
+        "lastUpdate": "26-03-08 16:24:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "channelName": "🖥️┃syria-dynamic［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 1,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "1:18:02",
-        "missionDate": "2025-07-01 19:18:02",
+        "missionTime": "1:23:02",
+        "missionDate": "2025-07-01 19:23:02",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -249,7 +240,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 122
           },
           "red": {
@@ -257,12 +248,34 @@
             "total": 7
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-Nos",
+          "✯101\\-Emrecan\\[0444\\]✯"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-Nos",
+            "unit": "C-130J-30"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-Nos",
+              "unit": "C-130J-30"
+            }
+          ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -318,7 +331,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 16:19:35 UTC",
+        "lastUpdate": "26-03-08 16:24:36 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -331,8 +344,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:18:13",
-        "missionDate": "2024-10-31 16:43:13",
+        "missionTime": "1:23:13",
+        "missionDate": "2024-10-31 16:48:13",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -412,22 +425,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 16:19:35 UTC",
+        "lastUpdate": "26-03-08 16:24:35 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:18:37",
-      "missionDate": "2026-04-21 09:33:37",
+      "missionTime": "1:23:37",
+      "missionDate": "2026-04-21 09:38:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -438,7 +451,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -449,8 +462,7 @@
       "playerList": [
         "CanAda",
         "Omer",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "figlo66"
       ],
       "playerDetails": [
         {
@@ -462,12 +474,8 @@
           "unit": "Su-25T"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "F-4E-45MC (crew)"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "F-4E-45MC"
+          "name": "figlo66",
+          "unit": "FA-18C_hornet"
         }
       ],
       "activePlayers": {
@@ -481,12 +489,8 @@
             "unit": "Su-25T"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-4E-45MC (crew)"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-4E-45MC"
+            "name": "figlo66",
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
@@ -546,11 +550,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 16:19:34 UTC",
+      "lastUpdate": "26-03-08 16:24:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-08T16:20:24.313Z"
+    "lastUpdated": "2026-03-08T16:25:16.826Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -629,7 +633,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 08.03.2026 19:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-08T16:20:24.521Z"
+    "lastUpdated": "2026-03-08T16:25:16.930Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2886,11 +2890,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-08T16:20:25.116Z",
+    "lastUpdated": "2026-03-08T16:25:17.753Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-08T16:20:25.560Z",
+    "fetchedAt": "2026-03-08T16:25:19.614Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
