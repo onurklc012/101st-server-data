@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "2:08:37",
-      "missionDate": "2026-04-21 10:23:37",
+      "missionTime": "2:11:37",
+      "missionDate": "2026-04-21 10:26:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,14 +30,24 @@
         }
       },
       "playerList": [
+        "BARBARANAN",
         "✯101\\-EffBee\\[0010\\]✯",
+        "MiracHD",
         "melihipci",
         "the\\_werT"
       ],
       "playerDetails": [
         {
+          "name": "BARBARANAN",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "F-4E-45MC"
+        },
+        {
+          "name": "MiracHD",
+          "unit": "--"
         },
         {
           "name": "melihipci",
@@ -51,12 +61,20 @@
       "activePlayers": {
         "blue": [
           {
+            "name": "BARBARANAN",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "F-4E-45MC"
           }
         ],
         "red": [],
         "neutral": [
+          {
+            "name": "MiracHD",
+            "unit": "--"
+          },
           {
             "name": "melihipci",
             "unit": "--"
@@ -121,21 +139,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 17:09:53 UTC",
+      "lastUpdate": "26-03-08 17:12:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:08:29",
-      "missionDate": "2026-08-01 14:13:29",
+      "missionTime": "2:11:29",
+      "missionDate": "2026-08-01 14:16:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -146,7 +164,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -154,22 +172,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "101ArmOn1453"
-      ],
-      "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -227,7 +233,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 17:09:33 UTC",
+      "lastUpdate": "26-03-08 17:12:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -240,8 +246,8 @@
       "map": "Syria",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:08:02",
-      "missionDate": "2025-07-01 20:08:02",
+      "missionTime": "2:11:02",
+      "missionDate": "2025-07-01 20:11:02",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -360,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 17:09:35 UTC",
+      "lastUpdate": "26-03-08 17:12:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -373,8 +379,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:08:13",
-      "missionDate": "2024-10-31 17:33:13",
+      "missionTime": "2:11:13",
+      "missionDate": "2024-10-31 17:36:13",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -454,22 +460,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 17:09:35 UTC",
+      "lastUpdate": "26-03-08 17:12:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "2:08:37",
-    "missionDate": "2026-04-21 10:23:37",
+    "missionTime": "2:11:37",
+    "missionDate": "2026-04-21 10:26:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -480,7 +486,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -489,14 +495,24 @@
       }
     },
     "playerList": [
+      "BARBARANAN",
       "✯101\\-EffBee\\[0010\\]✯",
+      "MiracHD",
       "melihipci",
       "the\\_werT"
     ],
     "playerDetails": [
       {
+        "name": "BARBARANAN",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "✯101\\-EffBee\\[0010\\]✯",
         "unit": "F-4E-45MC"
+      },
+      {
+        "name": "MiracHD",
+        "unit": "--"
       },
       {
         "name": "melihipci",
@@ -510,12 +526,20 @@
     "activePlayers": {
       "blue": [
         {
+          "name": "BARBARANAN",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "F-4E-45MC"
         }
       ],
       "red": [],
       "neutral": [
+        {
+          "name": "MiracHD",
+          "unit": "--"
+        },
         {
           "name": "melihipci",
           "unit": "--"
@@ -580,9 +604,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 17:09:53 UTC",
+    "lastUpdate": "26-03-08 17:12:34 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T17:10:20.461Z"
+  "lastUpdated": "2026-03-08T17:13:20.339Z"
 }
