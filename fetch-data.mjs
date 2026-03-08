@@ -43,9 +43,10 @@ async function getTextChannels() {
 // ─── Server Status ────────────────────────────────────
 
 async function fetchServerStatus(channels) {
-    const statusChannels = channels.filter(ch =>
-        ch.name.toLowerCase().includes('server-')
-    );
+    const statusChannels = channels.filter(ch => {
+        const name = ch.name.toLowerCase();
+        return name.includes('server-') || name.includes('-dynamic');
+    });
 
     console.log(`📡 Found ${statusChannels.length} server status channels`);
     const servers = [];
@@ -53,15 +54,32 @@ async function fetchServerStatus(channels) {
     for (const channel of statusChannels) {
         try {
             const messages = await discordGet(`/channels/${channel.id}/messages?limit=10`);
-            const mapName = channel.name
-                .replace(/.*server-/i, '')
-                .replace(/[\[\]（）［］\d\/／\s\-]/g, '')
-                .trim();
-            const friendlyName = mapName.charAt(0).toUpperCase() + mapName.slice(1);
+            const chName = channel.name.toLowerCase();
+            let friendlyName;
+            let mapId;
+
+            if (chName.includes('-dynamic')) {
+                // e.g. syria-dynamic or caucasus-dynamic
+                const baseName = chName
+                    .replace(/.*┃/g, '')
+                    .replace(/[[\]（）［］\d\/／\s]/g, '')
+                    .replace(/-dynamic.*/, '')
+                    .trim();
+                mapId = baseName;
+                friendlyName = baseName.charAt(0).toUpperCase() + baseName.slice(1) + ' Dynamic';
+            } else {
+                // e.g. server-caucasus, server-syria
+                const mapName = chName
+                    .replace(/.*server-/i, '')
+                    .replace(/[[\]（）［］\d\/／\s\-]/g, '')
+                    .trim();
+                mapId = mapName;
+                friendlyName = mapName.charAt(0).toUpperCase() + mapName.slice(1);
+            }
 
             const serverData = parseServerEmbeds(messages, channel.name);
             if (serverData) {
-                serverData.mapId = mapName.toLowerCase();
+                serverData.mapId = mapId.toLowerCase();
                 serverData.friendlyName = friendlyName;
                 servers.push(serverData);
             }
