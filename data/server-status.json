@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:18:37",
-      "missionDate": "2026-04-21 13:33:37",
+      "missionTime": "5:23:37",
+      "missionDate": "2026-04-21 13:38:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -32,9 +32,7 @@
       "playerList": [
         "CanAda",
         "EGE09",
-        "\\[\\-101\\-\\]KAAN VİPER",
-        "mutabıg",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "ysfddit"
       ],
       "playerDetails": [
         {
@@ -46,16 +44,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\[\\-101\\-\\]KAAN VİPER",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "mutabıg",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "F-4E-45MC"
+          "name": "ysfddit",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -67,22 +57,15 @@
           {
             "name": "EGE09",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "\\[\\-101\\-\\]KAAN VİPER",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "mutabıg",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-4E-45MC"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "ysfddit",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -138,7 +121,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:19:53 UTC",
+      "lastUpdate": "26-03-08 20:25:03 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -151,8 +134,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:18:29",
-      "missionDate": "2026-08-01 17:23:29",
+      "missionTime": "5:23:29",
+      "missionDate": "2026-08-01 17:28:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -232,7 +215,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:19:33 UTC",
+      "lastUpdate": "26-03-08 20:24:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -245,8 +228,8 @@
       "map": "Syria",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "2:25:59",
-      "missionDate": "2025-07-01 20:25:59",
+      "missionTime": "2:30:59",
+      "missionDate": "2025-07-01 20:30:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -257,7 +240,7 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 5,
           "total": 122
         },
         "red": {
@@ -268,10 +251,8 @@
       "playerList": [
         "101 \\- Asil Turq \\[1919\\]",
         "101ArmOn1453",
-        "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "Blind0",
-        "GhostEagle",
         "weconn"
       ],
       "playerDetails": [
@@ -284,20 +265,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Nos",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
         },
         {
           "name": "Blind0",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "GhostEagle",
-          "unit": "Su-25T"
         },
         {
           "name": "weconn",
@@ -315,20 +288,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Nos",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           },
           {
             "name": "Blind0",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "GhostEagle",
-            "unit": "Su-25T"
           },
           {
             "name": "weconn",
@@ -346,15 +311,15 @@
           },
           "Planes": {
             "blue": 11,
-            "red": 11
+            "red": 10
           },
           "Helicopters": {
             "blue": 1,
             "red": 4
           },
           "Ground Units": {
-            "blue": 194,
-            "red": 1361
+            "blue": 196,
+            "red": 1373
           },
           "Ships": {
             "blue": 20,
@@ -371,15 +336,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 14,
-            "red": 12
+            "blue": 20,
+            "red": 15
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 10,
+            "blue": 16,
             "red": 0
           },
           "Sunken Ships": {
@@ -392,7 +357,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:19:35 UTC",
+      "lastUpdate": "26-03-08 20:24:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -405,8 +370,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:18:12",
-      "missionDate": "2024-10-31 20:43:12",
+      "missionTime": "5:23:12",
+      "missionDate": "2024-10-31 20:48:12",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -486,22 +451,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:19:34 UTC",
+      "lastUpdate": "26-03-08 20:24:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "5:18:37",
-    "missionDate": "2026-04-21 13:33:37",
+    "missionTime": "5:23:37",
+    "missionDate": "2026-04-21 13:38:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -512,7 +477,7 @@
     },
     "slots": {
       "blue": {
-        "used": 5,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -523,9 +488,7 @@
     "playerList": [
       "CanAda",
       "EGE09",
-      "\\[\\-101\\-\\]KAAN VİPER",
-      "mutabıg",
-      "✯101\\-Emrecan\\[0444\\]✯"
+      "ysfddit"
     ],
     "playerDetails": [
       {
@@ -537,16 +500,8 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "\\[\\-101\\-\\]KAAN VİPER",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "mutabıg",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "✯101\\-Emrecan\\[0444\\]✯",
-        "unit": "F-4E-45MC"
+        "name": "ysfddit",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -558,22 +513,15 @@
         {
           "name": "EGE09",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "\\[\\-101\\-\\]KAAN VİPER",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "mutabıg",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "F-4E-45MC"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "ysfddit",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -629,9 +577,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 20:19:53 UTC",
+    "lastUpdate": "26-03-08 20:25:03 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T20:20:22.795Z"
+  "lastUpdated": "2026-03-08T20:25:17.654Z"
 }
