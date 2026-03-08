@@ -320,8 +320,10 @@ async function fetchLeaderboard(channels) {
     for (const channel of lbChannels) {
         try {
             const messages = await discordGet(`/channels/${channel.id}/messages?limit=50`);
-            const lbData = parseLeaderboardMessages(messages, channel.name);
-            if (lbData) leaderboards.push(lbData);
+            const lbDataList = parseLeaderboardMessages(messages, channel.name);
+            for (const lb of lbDataList) {
+                leaderboards.push(lb);
+            }
         } catch (err) {
             console.log(`  ⚠️ Could not read ${channel.name}: ${err.message}`);
         }
@@ -335,14 +337,8 @@ async function fetchLeaderboard(channels) {
 }
 
 function parseLeaderboardMessages(messages, channelName) {
-    let title = '';
-    let pilots = [];
-    let totalCredits = 0;
-    let totalPlayers = 0;
-    let activePilots = '';
-    let highestScore = 0;
-    let lastUpdate = null;
-    let found = false;
+    // Group embeds by their campaign title (Caucasus vs Syria etc.)
+    const leaderboardMap = {};
 
     for (const msg of messages) {
         if (!msg.embeds) continue;
@@ -353,12 +349,31 @@ function parseLeaderboardMessages(messages, channelName) {
             if (desc.includes('LEADERBOARD') || desc.includes('TOP') ||
                 embedTitle.includes('LEADERBOARD') || embedTitle.includes('Leaderboard') ||
                 desc.includes('credits') || desc.includes('#1')) {
-                found = true;
 
+                // Extract title to identify which server this belongs to
+                let title = '';
                 const titleMatch = desc.match(/🏆\s*(.+?)(?:\n|$)/);
                 if (titleMatch) title = titleMatch[1].trim();
                 if (!title && embedTitle) title = embedTitle;
+                if (!title) title = 'Leaderboard';
 
+                // Use title as key to group
+                const key = title;
+                if (!leaderboardMap[key]) {
+                    leaderboardMap[key] = {
+                        title,
+                        pilots: [],
+                        totalCredits: 0,
+                        totalPlayers: 0,
+                        activePilots: '',
+                        highestScore: 0,
+                        lastUpdate: null,
+                    };
+                }
+
+                const lb = leaderboardMap[key];
+
+                // Parse pilot entries
                 const lines = desc.split('\n');
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
@@ -371,7 +386,7 @@ function parseLeaderboardMessages(messages, channelName) {
                             .replace(/\*(.+?)\*/g, '$1')
                             .replace(/~~(.+?)~~/g, '$1')
                             .replace(/`(.+?)`/g, '$1')
-                            .replace(/\*+/g, '')  // strip any remaining asterisks
+                            .replace(/\*+/g, '')
                             .trim();
 
                         let credits = 0;
@@ -389,10 +404,11 @@ function parseLeaderboardMessages(messages, channelName) {
                             }
                         }
 
-                        pilots.push({ rank, name: pilotName, credits });
+                        lb.pilots.push({ rank, name: pilotName, credits });
                     }
                 }
 
+                // Parse stats from fields
                 if (embed.fields) {
                     for (const field of embed.fields) {
                         const fname = field.name.toLowerCase();
@@ -400,50 +416,61 @@ function parseLeaderboardMessages(messages, channelName) {
 
                         if ((fname.includes('oyuncu') || fname.includes('player')) && (fname.includes('toplam') || fname.includes('total'))) {
                             const m = fval.match(/([\d,]+)/);
-                            if (m) totalPlayers = parseInt(m[1].replace(/,/g, ''));
+                            if (m) lb.totalPlayers = parseInt(m[1].replace(/,/g, ''));
                         } else if ((fname.includes('toplam') || fname.includes('total')) && (fname.includes('credit') || !fname.includes('oyuncu'))) {
                             const m = fval.match(/([\d,]+)/);
-                            if (m) totalCredits = parseInt(m[1].replace(/,/g, ''));
+                            if (m) lb.totalCredits = parseInt(m[1].replace(/,/g, ''));
                         }
                         if (fname.includes('aktif') || fname.includes('active') || fname.includes('pilot')) {
-                            activePilots = fval;
+                            lb.activePilots = fval;
                         }
                         if (fname.includes('yuksek') || fname.includes('highest') || fname.includes('puan') || fname.includes('score')) {
                             const m = fval.match(/([\d,]+)/);
-                            if (m) highestScore = parseInt(m[1].replace(/,/g, ''));
+                            if (m) lb.highestScore = parseInt(m[1].replace(/,/g, ''));
                         }
                     }
                 }
 
+                // Parse stats from description
                 const totalMatch = desc.match(/Toplam\s*(?:Credits?)?[:\s]*([\d,]+)/i);
-                if (totalMatch && !totalCredits) totalCredits = parseInt(totalMatch[1].replace(/,/g, ''));
+                if (totalMatch && !lb.totalCredits) lb.totalCredits = parseInt(totalMatch[1].replace(/,/g, ''));
 
                 const activeMatch = desc.match(/(\d+\s*\/\s*\d+)/);
-                if (activeMatch && !activePilots) activePilots = activeMatch[1];
+                if (activeMatch && !lb.activePilots) lb.activePilots = activeMatch[1];
 
                 const highMatch = desc.match(/(?:En\s*Yuksek|Highest)\s*(?:Puan|Score)?[:\s]*([\d,]+)/i);
-                if (highMatch && !highestScore) highestScore = parseInt(highMatch[1].replace(/,/g, ''));
+                if (highMatch && !lb.highestScore) lb.highestScore = parseInt(highMatch[1].replace(/,/g, ''));
 
-                if (embed.footer?.text) lastUpdate = embed.footer.text.replace(/10\s*dk/g, '5 dk');
+                if (embed.footer?.text) lb.lastUpdate = embed.footer.text.replace(/10\s*dk/g, '5 dk');
             }
         }
     }
 
-    if (!found) return null;
+    // Convert map to array
+    const results = [];
+    for (const key of Object.keys(leaderboardMap)) {
+        const lb = leaderboardMap[key];
+        lb.pilots.sort((a, b) => a.rank - b.rank);
 
-    pilots.sort((a, b) => a.rank - b.rank);
+        if (!lb.totalCredits && lb.pilots.length > 0) lb.totalCredits = lb.pilots.reduce((sum, p) => sum + p.credits, 0);
+        if (!lb.activePilots && lb.pilots.length > 0) lb.activePilots = String(lb.pilots.length);
+        if (!lb.highestScore && lb.pilots.length > 0) lb.highestScore = Math.max(...lb.pilots.map(p => p.credits));
 
-    if (!totalCredits && pilots.length > 0) totalCredits = pilots.reduce((sum, p) => sum + p.credits, 0);
-    if (!activePilots && pilots.length > 0) activePilots = String(pilots.length);
-    if (!highestScore && pilots.length > 0) highestScore = Math.max(...pilots.map(p => p.credits));
+        results.push({
+            channelName,
+            title: lb.title || 'Leaderboard',
+            pilots: lb.pilots,
+            stats: {
+                totalCredits: lb.totalCredits,
+                totalPlayers: lb.totalPlayers || lb.pilots.length,
+                activePilots: lb.activePilots,
+                highestScore: lb.highestScore,
+            },
+            lastUpdate: lb.lastUpdate,
+        });
+    }
 
-    return {
-        channelName,
-        title: title || 'Leaderboard',
-        pilots,
-        stats: { totalCredits, totalPlayers: totalPlayers || pilots.length, activePilots, highestScore },
-        lastUpdate,
-    };
+    return results;
 }
 
 // ─── Members ──────────────────────────────────────────
