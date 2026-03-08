@@ -623,11 +623,23 @@ async function fetchChatMessages(channels) {
 const FLIGHT_HOURS_PATTERNS = ['flight-hours', 'ucus-saat', 'flight_hours'];
 
 async function fetchFlightHours(channels) {
-    const fhChannels = channels.filter(ch =>
+    // Also get ALL guild channels (flight-hours might not be type 0)
+    let allChannels;
+    try {
+        allChannels = await discordGet(`/guilds/${GUILD_ID}/channels`);
+    } catch (err) {
+        console.log(`  ⚠️ Could not get all channels: ${err.message}`);
+        allChannels = channels;
+    }
+
+    const fhChannels = allChannels.filter(ch =>
         FLIGHT_HOURS_PATTERNS.some(p => ch.name.toLowerCase().includes(p))
     );
 
     console.log(`✈️ Found ${fhChannels.length} flight hours channels`);
+    if (fhChannels.length > 0) {
+        fhChannels.forEach(ch => console.log(`  📡 ${ch.name} (type: ${ch.type}, id: ${ch.id})`));
+    }
     if (fhChannels.length === 0) return null;
 
     for (const channel of fhChannels) {
