@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［10／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 10,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "3:13:37",
-      "missionDate": "2026-04-21 11:28:37",
+      "missionTime": "3:18:37",
+      "missionDate": "2026-04-21 11:33:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,30 +21,25 @@
       },
       "slots": {
         "blue": {
-          "used": 8,
+          "used": 6,
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 16
         }
       },
       "playerList": [
-        "HcHloqe",
         "IARDI",
         "Lanurens",
         "MiracHD",
+        "Omer",
         "SİKKİCİ1",
         "melihipci",
         "the\\_werT",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "OmnisV \\| Bob1\\-1"
+        "K0ka1NN"
       ],
       "playerDetails": [
-        {
-          "name": "HcHloqe",
-          "unit": "Su-25T"
-        },
         {
           "name": "IARDI",
           "unit": "F-16C_50"
@@ -55,6 +50,10 @@
         },
         {
           "name": "MiracHD",
+          "unit": "TF-51D"
+        },
+        {
+          "name": "Omer",
           "unit": "Su-25T"
         },
         {
@@ -70,20 +69,12 @@
           "unit": "Su-25T"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "F-4E-45MC"
-        },
-        {
-          "name": "OmnisV \\| Bob1\\-1",
-          "unit": "Su-30MKI"
+          "name": "K0ka1NN",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "HcHloqe",
-            "unit": "Su-25T"
-          },
           {
             "name": "IARDI",
             "unit": "F-16C_50"
@@ -94,6 +85,10 @@
           },
           {
             "name": "MiracHD",
+            "unit": "TF-51D"
+          },
+          {
+            "name": "Omer",
             "unit": "Su-25T"
           },
           {
@@ -107,19 +102,15 @@
           {
             "name": "the\\_werT",
             "unit": "Su-25T"
-          },
-          {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-4E-45MC"
           }
         ],
-        "red": [
+        "red": [],
+        "neutral": [
           {
-            "name": "OmnisV \\| Bob1\\-1",
-            "unit": "Su-30MKI"
+            "name": "K0ka1NN",
+            "unit": "_ _"
           }
-        ],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -128,8 +119,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 15,
-            "red": 16
+            "blue": 11,
+            "red": 14
           },
           "Helicopters": {
             "blue": 2,
@@ -175,7 +166,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 18:14:43 UTC",
+      "lastUpdate": "26-03-08 18:19:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -188,8 +179,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:13:29",
-      "missionDate": "2026-08-01 15:18:29",
+      "missionTime": "3:18:30",
+      "missionDate": "2026-08-01 15:23:30",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -269,21 +260,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 18:14:33 UTC",
+      "lastUpdate": "26-03-08 18:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［8／32］",
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 8,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "0:21:00",
-      "missionDate": "2025-07-01 18:21:00",
+      "missionTime": "0:26:00",
+      "missionDate": "2025-07-01 18:26:00",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -294,7 +285,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 7,
           "total": 122
         },
         "red": {
@@ -308,6 +299,7 @@
         "101\\-Rabik",
         "ATAMER",
         "BNB\\.Caner",
+        "✯101\\-EffBee\\[0010\\]✯",
         "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
@@ -332,8 +324,12 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "F-4E-45MC (crew)"
+        },
+        {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "_ _"
+          "unit": "F-4E-45MC"
         }
       ],
       "activePlayers": {
@@ -357,33 +353,36 @@
           {
             "name": "BNB\\.Caner",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "F-4E-45MC (crew)"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-4E-45MC"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
             "blue": 40,
-            "red": 43
+            "red": 42
           },
           "Planes": {
-            "blue": 7,
-            "red": 9
+            "blue": 8,
+            "red": 6
           },
           "Helicopters": {
             "blue": 0,
-            "red": 0
+            "red": 3
           },
           "Ground Units": {
-            "blue": 192,
-            "red": 1307
+            "blue": 177,
+            "red": 1290
           },
           "Ships": {
             "blue": 20,
@@ -400,15 +399,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 5,
-            "red": 3
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 13,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -421,7 +420,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 18:14:35 UTC",
+      "lastUpdate": "26-03-08 18:19:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -434,8 +433,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:13:13",
-      "missionDate": "2024-10-31 18:38:13",
+      "missionTime": "3:18:13",
+      "missionDate": "2024-10-31 18:43:13",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -515,22 +514,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 18:14:34 UTC",
+      "lastUpdate": "26-03-08 18:19:35 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［10／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 10,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "3:13:37",
-    "missionDate": "2026-04-21 11:28:37",
+    "missionTime": "3:18:37",
+    "missionDate": "2026-04-21 11:33:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -541,30 +540,25 @@
     },
     "slots": {
       "blue": {
-        "used": 8,
+        "used": 6,
         "total": 134
       },
       "red": {
-        "used": 1,
+        "used": 0,
         "total": 16
       }
     },
     "playerList": [
-      "HcHloqe",
       "IARDI",
       "Lanurens",
       "MiracHD",
+      "Omer",
       "SİKKİCİ1",
       "melihipci",
       "the\\_werT",
-      "✯101\\-EffBee\\[0010\\]✯",
-      "OmnisV \\| Bob1\\-1"
+      "K0ka1NN"
     ],
     "playerDetails": [
-      {
-        "name": "HcHloqe",
-        "unit": "Su-25T"
-      },
       {
         "name": "IARDI",
         "unit": "F-16C_50"
@@ -575,6 +569,10 @@
       },
       {
         "name": "MiracHD",
+        "unit": "TF-51D"
+      },
+      {
+        "name": "Omer",
         "unit": "Su-25T"
       },
       {
@@ -590,20 +588,12 @@
         "unit": "Su-25T"
       },
       {
-        "name": "✯101\\-EffBee\\[0010\\]✯",
-        "unit": "F-4E-45MC"
-      },
-      {
-        "name": "OmnisV \\| Bob1\\-1",
-        "unit": "Su-30MKI"
+        "name": "K0ka1NN",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "HcHloqe",
-          "unit": "Su-25T"
-        },
         {
           "name": "IARDI",
           "unit": "F-16C_50"
@@ -614,6 +604,10 @@
         },
         {
           "name": "MiracHD",
+          "unit": "TF-51D"
+        },
+        {
+          "name": "Omer",
           "unit": "Su-25T"
         },
         {
@@ -627,19 +621,15 @@
         {
           "name": "the\\_werT",
           "unit": "Su-25T"
-        },
-        {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "F-4E-45MC"
         }
       ],
-      "red": [
+      "red": [],
+      "neutral": [
         {
-          "name": "OmnisV \\| Bob1\\-1",
-          "unit": "Su-30MKI"
+          "name": "K0ka1NN",
+          "unit": "_ _"
         }
-      ],
-      "neutral": []
+      ]
     },
     "missionStats": {
       "situation": {
@@ -648,8 +638,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 15,
-          "red": 16
+          "blue": 11,
+          "red": 14
         },
         "Helicopters": {
           "blue": 2,
@@ -695,9 +685,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 18:14:43 UTC",
+    "lastUpdate": "26-03-08 18:19:34 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T18:15:19.787Z"
+  "lastUpdated": "2026-03-08T18:20:19.008Z"
 }
