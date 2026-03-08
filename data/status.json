@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "3:53:37",
-        "missionDate": "2026-04-21 12:08:37",
+        "missionTime": "3:58:37",
+        "missionDate": "2026-04-21 12:13:37",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 2,
             "total": 134
           },
           "red": {
@@ -32,8 +32,7 @@
         },
         "playerList": [
           "K0ka1NN",
-          "Lanurens",
-          "Omer"
+          "Lanurens"
         ],
         "playerDetails": [
           {
@@ -43,10 +42,6 @@
           {
             "name": "Lanurens",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "Omer",
-            "unit": "Su-25T"
           }
         ],
         "activePlayers": {
@@ -58,10 +53,6 @@
             {
               "name": "Lanurens",
               "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "Omer",
-              "unit": "Su-25T"
             }
           ],
           "red": [],
@@ -121,7 +112,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 18:54:34 UTC",
+        "lastUpdate": "26-03-08 19:00:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -134,8 +125,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:53:29",
-        "missionDate": "2026-08-01 15:58:29",
+        "missionTime": "3:58:29",
+        "missionDate": "2026-08-01 16:03:29",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -215,21 +206,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 18:54:33 UTC",
+        "lastUpdate": "26-03-08 18:59:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［9／32］",
+        "channelName": "🖥️┃syria-dynamic［10／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 9,
+        "players": 10,
         "maxPlayers": 32,
-        "missionTime": "1:00:59",
-        "missionDate": "2025-07-01 19:00:59",
+        "missionTime": "1:05:59",
+        "missionDate": "2025-07-01 19:05:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -240,7 +231,7 @@
         },
         "slots": {
           "blue": {
-            "used": 8,
+            "used": 9,
             "total": 122
           },
           "red": {
@@ -249,6 +240,7 @@
           }
         },
         "playerList": [
+          "101 \\- Asil Turq \\[1919\\]",
           "101ArmOn1453",
           "101\\-Maskot\\(0019\\)",
           "101\\-Nos",
@@ -256,10 +248,13 @@
           "BNB\\.Caner",
           "Somon",
           "✯101\\-EffBee\\[0010\\]✯",
-          "✯101\\-Emrecan\\[0444\\]✯",
-          "101 \\- Asil Turq \\[1919\\]"
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
@@ -291,14 +286,14 @@
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-4E-45MC"
-          },
-          {
-            "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101 \\- Asil Turq \\[1919\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101ArmOn1453",
               "unit": "F-16C_50"
@@ -333,12 +328,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101 \\- Asil Turq \\[1919\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -394,7 +384,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 18:54:53 UTC",
+        "lastUpdate": "26-03-08 18:59:35 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -407,8 +397,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:53:12",
-        "missionDate": "2024-10-31 19:18:12",
+        "missionTime": "3:58:12",
+        "missionDate": "2024-10-31 19:23:12",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -488,7 +478,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-08 18:54:35 UTC",
+        "lastUpdate": "26-03-08 18:59:35 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -502,8 +492,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:53:37",
-      "missionDate": "2026-04-21 12:08:37",
+      "missionTime": "3:58:37",
+      "missionDate": "2026-04-21 12:13:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -514,7 +504,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -524,8 +514,7 @@
       },
       "playerList": [
         "K0ka1NN",
-        "Lanurens",
-        "Omer"
+        "Lanurens"
       ],
       "playerDetails": [
         {
@@ -535,10 +524,6 @@
         {
           "name": "Lanurens",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Omer",
-          "unit": "Su-25T"
         }
       ],
       "activePlayers": {
@@ -550,10 +535,6 @@
           {
             "name": "Lanurens",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "Omer",
-            "unit": "Su-25T"
           }
         ],
         "red": [],
@@ -613,11 +594,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 18:54:34 UTC",
+      "lastUpdate": "26-03-08 19:00:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-08T18:55:16.958Z"
+    "lastUpdated": "2026-03-08T19:00:30.060Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -637,7 +618,7 @@
           "activePilots": "1",
           "highestScore": 170
         },
-        "lastUpdate": "🕒 Son guncelleme: 08.03.2026 21:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 08.03.2026 22:00  |  Her 5 dk guncellenir"
       },
       {
         "channelName": "👑┃leaderboard🌟",
@@ -670,12 +651,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 27722,
+          "totalCredits": 27642,
           "totalPlayers": 49,
           "activePilots": "5",
           "highestScore": 4797
         },
-        "lastUpdate": "🕒 Son guncelleme: 08.03.2026 21:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 08.03.2026 22:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -694,9 +675,9 @@
         "activePilots": "1",
         "highestScore": 170
       },
-      "lastUpdate": "🕒 Son guncelleme: 08.03.2026 21:50  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 08.03.2026 22:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-08T18:55:17.203Z"
+    "lastUpdated": "2026-03-08T19:00:30.300Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2953,11 +2934,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-08T18:55:17.788Z",
+    "lastUpdated": "2026-03-08T19:00:30.784Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-08T18:55:18.255Z",
+    "fetchedAt": "2026-03-08T19:00:31.252Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
