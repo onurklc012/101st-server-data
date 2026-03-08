@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "0:03:37",
-      "missionDate": "2026-04-21 08:18:37",
+      "missionTime": "0:08:37",
+      "missionDate": "2026-04-21 08:23:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -30,29 +30,42 @@
         }
       },
       "playerList": [
-        "BARBARANAN",
-        "wwwphru",
-        "Night Falcon"
+        "Night Falcon",
+        "Omer",
+        "bbbnbbnb",
+        "wwwphru"
       ],
       "playerDetails": [
         {
-          "name": "BARBARANAN",
-          "unit": "F-16C_50"
+          "name": "Night Falcon",
+          "unit": "F-15C"
+        },
+        {
+          "name": "Omer",
+          "unit": "Su-25T"
+        },
+        {
+          "name": "bbbnbbnb",
+          "unit": "F-5E-3"
         },
         {
           "name": "wwwphru",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Night Falcon",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "BARBARANAN",
-            "unit": "F-16C_50"
+            "name": "Night Falcon",
+            "unit": "F-15C"
+          },
+          {
+            "name": "Omer",
+            "unit": "Su-25T"
+          },
+          {
+            "name": "bbbnbbnb",
+            "unit": "F-5E-3"
           },
           {
             "name": "wwwphru",
@@ -60,12 +73,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Night Falcon",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -121,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 15:05:03 UTC",
+      "lastUpdate": "26-03-08 15:09:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,8 +142,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:03:29",
-      "missionDate": "2026-08-01 12:08:29",
+      "missionTime": "0:08:29",
+      "missionDate": "2026-08-01 12:13:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,7 +223,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 15:04:33 UTC",
+      "lastUpdate": "26-03-08 15:09:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -228,8 +236,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:03:02",
-      "missionDate": "2025-07-01 18:03:02",
+      "missionTime": "0:08:02",
+      "missionDate": "2025-07-01 18:08:02",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -309,7 +317,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 15:04:35 UTC",
+      "lastUpdate": "26-03-08 15:09:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -322,8 +330,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:03:13",
-      "missionDate": "2024-10-31 15:28:13",
+      "missionTime": "0:08:13",
+      "missionDate": "2024-10-31 15:33:13",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -403,22 +411,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 15:04:35 UTC",
+      "lastUpdate": "26-03-08 15:09:35 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "0:03:37",
-    "missionDate": "2026-04-21 08:18:37",
+    "missionTime": "0:08:37",
+    "missionDate": "2026-04-21 08:23:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -429,7 +437,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -438,29 +446,42 @@
       }
     },
     "playerList": [
-      "BARBARANAN",
-      "wwwphru",
-      "Night Falcon"
+      "Night Falcon",
+      "Omer",
+      "bbbnbbnb",
+      "wwwphru"
     ],
     "playerDetails": [
       {
-        "name": "BARBARANAN",
-        "unit": "F-16C_50"
+        "name": "Night Falcon",
+        "unit": "F-15C"
+      },
+      {
+        "name": "Omer",
+        "unit": "Su-25T"
+      },
+      {
+        "name": "bbbnbbnb",
+        "unit": "F-5E-3"
       },
       {
         "name": "wwwphru",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "Night Falcon",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "BARBARANAN",
-          "unit": "F-16C_50"
+          "name": "Night Falcon",
+          "unit": "F-15C"
+        },
+        {
+          "name": "Omer",
+          "unit": "Su-25T"
+        },
+        {
+          "name": "bbbnbbnb",
+          "unit": "F-5E-3"
         },
         {
           "name": "wwwphru",
@@ -468,12 +489,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Night Falcon",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -529,9 +545,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 15:05:03 UTC",
+    "lastUpdate": "26-03-08 15:09:43 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T15:05:17.693Z"
+  "lastUpdated": "2026-03-08T15:10:18.942Z"
 }
