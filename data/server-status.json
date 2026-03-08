@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:28:20",
-      "missionDate": "2026-04-21 10:43:20",
+      "missionTime": "2:33:20",
+      "missionDate": "2026-04-21 10:48:20",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 23:29:34 UTC",
+      "lastUpdate": "26-03-08 23:34:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:28:05",
-      "missionDate": "2026-08-01 14:33:05",
+      "missionTime": "2:33:05",
+      "missionDate": "2026-08-01 14:38:05",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 23:29:33 UTC",
+      "lastUpdate": "26-03-08 23:34:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +197,8 @@
       "map": "Syria",
       "players": 9,
       "maxPlayers": 32,
-      "missionTime": "2:27:43",
-      "missionDate": "2025-07-01 20:27:43",
+      "missionTime": "2:32:43",
+      "missionDate": "2025-07-01 20:32:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -218,21 +218,15 @@
         }
       },
       "playerList": [
-        "101 \\- Asil Turq \\[1919\\]",
         "101ArmOn1453",
         "101\\-Rabik",
         "101\\-Tunay \\[5555\\]",
-        "CanAda",
         "Kirwee",
+        "PENÇE",
         "THE HİTMAN",
-        "✯101\\-Emrecan\\[0444\\]✯",
-        "PENÇE"
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
-        {
-          "name": "101 \\- Asil Turq \\[1919\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101ArmOn1453",
           "unit": "F-16C_50"
@@ -246,11 +240,11 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "CanAda",
+          "name": "Kirwee",
           "unit": "F-16C_50"
         },
         {
-          "name": "Kirwee",
+          "name": "PENÇE",
           "unit": "F-16C_50"
         },
         {
@@ -260,18 +254,10 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "PENÇE",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101 \\- Asil Turq \\[1919\\]",
-            "unit": "F-16C_50"
-          },
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
@@ -285,11 +271,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "CanAda",
+            "name": "Kirwee",
             "unit": "F-16C_50"
           },
           {
-            "name": "Kirwee",
+            "name": "PENÇE",
             "unit": "F-16C_50"
           },
           {
@@ -302,12 +288,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "PENÇE",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -317,18 +298,18 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 13
+            "red": 7
           },
           "Helicopters": {
             "blue": 2,
             "red": 2
           },
           "Ground Units": {
-            "blue": 194,
-            "red": 1459
+            "blue": 196,
+            "red": 1453
           },
           "Ships": {
-            "blue": 22,
+            "blue": 21,
             "red": 0
           },
           "Structures": {
@@ -342,19 +323,19 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 13,
-            "red": 9
+            "blue": 20,
+            "red": 12
           },
           "Downed Helicopters": {
             "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 39,
+            "blue": 46,
             "red": 0
           },
           "Sunken Ships": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Demolished Structures": {
@@ -363,7 +344,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 23:29:35 UTC",
+      "lastUpdate": "26-03-08 23:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -376,8 +357,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:27:55",
-      "missionDate": "2024-10-31 17:52:55",
+      "missionTime": "2:32:55",
+      "missionDate": "2024-10-31 17:57:55",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -431,7 +412,7 @@
           },
           "Ground Units": {
             "blue": 15,
-            "red": 1123
+            "red": 1128
           },
           "Ships": {
             "blue": 8,
@@ -449,7 +430,7 @@
           },
           "Killed Planes": {
             "blue": 3,
-            "red": 10
+            "red": 11
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -469,7 +450,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 23:29:34 UTC",
+      "lastUpdate": "26-03-08 23:34:35 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -483,8 +464,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "2:28:20",
-    "missionDate": "2026-04-21 10:43:20",
+    "missionTime": "2:33:20",
+    "missionDate": "2026-04-21 10:48:20",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -564,9 +545,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 23:29:34 UTC",
+    "lastUpdate": "26-03-08 23:34:34 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T23:30:23.663Z"
+  "lastUpdated": "2026-03-08T23:35:18.050Z"
 }
