@@ -618,6 +618,113 @@ async function fetchChatMessages(channels) {
     }
 }
 
+// ─── Flight Hours ─────────────────────────────────────
+
+const FLIGHT_HOURS_PATTERNS = ['flight-hours', 'ucus-saat', 'flight_hours'];
+
+async function fetchFlightHours(channels) {
+    const fhChannels = channels.filter(ch =>
+        FLIGHT_HOURS_PATTERNS.some(p => ch.name.toLowerCase().includes(p))
+    );
+
+    console.log(`✈️ Found ${fhChannels.length} flight hours channels`);
+    if (fhChannels.length === 0) return null;
+
+    for (const channel of fhChannels) {
+        try {
+            const messages = await discordGet(`/channels/${channel.id}/messages?limit=10`);
+            const data = parseFlightHoursMessages(messages, channel.name);
+            if (data) return data;
+        } catch (err) {
+            console.log(`  ⚠️ Could not read ${channel.name}: ${err.message}`);
+        }
+    }
+    return null;
+}
+
+function parseFlightHoursMessages(messages, channelName) {
+    for (const msg of messages) {
+        if (!msg.embeds) continue;
+        for (const embed of msg.embeds) {
+            const desc = embed.description || '';
+            if (!desc.includes('Ucus') && !desc.includes('Flight') && !desc.includes('saat')) continue;
+
+            const pilots = [];
+            const lines = desc.split('\n');
+
+            for (const line of lines) {
+                // Match patterns like: 1. 101-Hunter[0101] | ✈️ 852s 17dk
+                // or: 4. 101-Tunay [5555]      | 99s 54dk
+                const match = line.match(/(\d+)\.\s*(.+?)\s*[|│┃]\s*(?:✈️\s*)?(?:🛩️\s*)?(\d+)s\s*(\d+)dk/);
+                if (match) {
+                    const rank = parseInt(match[1]);
+                    const name = match[2].trim()
+                        .replace(/\*\*(.+?)\*\*/g, '$1')
+                        .replace(/\*(.+?)\*/g, '$1')
+                        .replace(/\*+/g, '')
+                        .trim();
+                    const hours = parseInt(match[3]);
+                    const minutes = parseInt(match[4]);
+                    pilots.push({ rank, name, hours, minutes, totalMinutes: hours * 60 + minutes });
+                }
+            }
+
+            if (pilots.length === 0) continue;
+
+            // Parse stats from embed fields
+            let totalFlightTime = null;
+            let pilotCount = pilots.length;
+            let totalKills = 0;
+            let lastUpdate = null;
+
+            if (embed.fields) {
+                for (const field of embed.fields) {
+                    const fname = field.name.toLowerCase();
+                    const fval = field.value.trim().replace(/```/g, '').trim();
+
+                    if (fname.includes('toplam') && fname.includes('ucus') || fname.includes('flight')) {
+                        totalFlightTime = fval;
+                    }
+                    if (fname.includes('pilot') && fname.includes('sayisi') || fname.includes('count')) {
+                        const m = fval.match(/(\d+)/);
+                        if (m) pilotCount = parseInt(m[1]);
+                    }
+                    if (fname.includes('kill') || fname.includes('toplam kill')) {
+                        const m = fval.match(/([\d,]+)/);
+                        if (m) totalKills = parseInt(m[1].replace(/,/g, ''));
+                    }
+                }
+            }
+
+            // Also try to parse stats from description
+            const totalFlightMatch = desc.match(/Toplam\s*Ucus[\s:]*([\d]+s\s*\d+dk)/i);
+            if (totalFlightMatch && !totalFlightTime) totalFlightTime = totalFlightMatch[1];
+
+            const pilotCountMatch = desc.match(/Pilot\s*Sayisi[\s:]*(\d+)/i);
+            if (pilotCountMatch && !pilotCount) pilotCount = parseInt(pilotCountMatch[1]);
+
+            const killMatch = desc.match(/Toplam\s*Kill[\s:]*([\d,]+)/i);
+            if (killMatch && !totalKills) totalKills = parseInt(killMatch[1].replace(/,/g, ''));
+
+            if (embed.footer?.text) lastUpdate = embed.footer.text;
+
+            return {
+                channelName,
+                title: '101 Hunters SQN — Ucus Saatleri',
+                pilots: pilots.sort((a, b) => a.rank - b.rank),
+                stats: {
+                    totalFlightTime: totalFlightTime || `${Math.floor(pilots.reduce((s, p) => s + p.totalMinutes, 0) / 60)}s ${pilots.reduce((s, p) => s + p.totalMinutes, 0) % 60}dk`,
+                    pilotCount,
+                    totalKills,
+                },
+                lastUpdate,
+                lastUpdated: new Date().toISOString(),
+            };
+        }
+    }
+    return null;
+}
+
 // ─── Main ─────────────────────────────────────────────
 
 async function main() {
@@ -658,6 +765,20 @@ async function main() {
         console.log(`  ⚠️ Members fetch failed: ${err.message}`);
     }
 
+    // Fetch flight hours
+    console.log('\n─── Flight Hours ───');
+    let flightHoursData = null;
+    try {
+        flightHoursData = await fetchFlightHours(channels);
+        if (flightHoursData) {
+            console.log(`  ✅ Got flight hours: ${flightHoursData.pilots.length} pilots`);
+        } else {
+            console.log('  ⚠️ No flight hours data found');
+        }
+    } catch (err) {
+        console.log(`  ⚠️ Flight hours fetch failed: ${err.message}`);
+    }
+
     // Fetch chat messages
     console.log('\n─── Chat Messages ───');
     const chatData = await fetchChatMessages(channels);
@@ -667,6 +788,9 @@ async function main() {
     writeFileSync('data/leaderboard.json', JSON.stringify(leaderboard, null, 2));
     if (membersData) {
         writeFileSync('data/members.json', JSON.stringify(membersData, null, 2));
+    }
+    if (flightHoursData) {
+        writeFileSync('data/flight-hours.json', JSON.stringify(flightHoursData, null, 2));
     }
     writeFileSync('data/chat.json', JSON.stringify(chatData, null, 2));
 
@@ -687,6 +811,7 @@ async function main() {
     console.log('  → data/server-status.json');
     console.log('  → data/leaderboard.json');
     if (membersData) console.log('  → data/members.json');
+    if (flightHoursData) console.log('  → data/flight-hours.json');
     console.log('  → data/chat.json');
     console.log('  → data/status.json');
 }
