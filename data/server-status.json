@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:58:25",
-      "missionDate": "2026-04-21 14:13:25",
+      "missionTime": "0:03:37",
+      "missionDate": "2026-04-21 08:18:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "BARBARANAN",
-        "DrCr3ate"
+        "wwwphru",
+        "Night Falcon"
       ],
       "playerDetails": [
         {
@@ -39,8 +40,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "DrCr3ate",
-          "unit": "F-16C_50"
+          "name": "wwwphru",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "Night Falcon",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -50,12 +55,17 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "DrCr3ate",
-            "unit": "F-16C_50"
+            "name": "wwwphru",
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Night Falcon",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -64,8 +74,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
-            "red": 15
+            "blue": 7,
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -73,7 +83,7 @@
           },
           "Ground Units": {
             "blue": 52,
-            "red": 304
+            "red": 308
           },
           "Ships": {
             "blue": 10,
@@ -90,15 +100,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 3,
-            "red": 1
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 4,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -111,7 +121,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 14:59:34 UTC",
+      "lastUpdate": "26-03-08 15:05:03 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +134,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:58:06",
-      "missionDate": "2026-08-01 18:03:06",
+      "missionTime": "0:03:29",
+      "missionDate": "2026-08-01 12:08:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -158,8 +168,8 @@
             "red": 8
           },
           "Planes": {
-            "blue": 10,
-            "red": 25
+            "blue": 9,
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -171,7 +181,7 @@
           },
           "Ships": {
             "blue": 4,
-            "red": 7
+            "red": 8
           },
           "Structures": {
             "blue": 28,
@@ -205,7 +215,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 14:59:33 UTC",
+      "lastUpdate": "26-03-08 15:04:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -218,8 +228,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:57:48",
-      "missionDate": "2025-07-01 23:57:48",
+      "missionTime": "0:03:02",
+      "missionDate": "2025-07-01 18:03:02",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -249,19 +259,19 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 39,
-            "red": 43
+            "red": 44
           },
           "Planes": {
-            "blue": 4,
-            "red": 5
+            "blue": 2,
+            "red": 1
           },
           "Helicopters": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Ground Units": {
-            "blue": 162,
-            "red": 1317
+            "blue": 157,
+            "red": 1302
           },
           "Ships": {
             "blue": 20,
@@ -278,15 +288,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
-            "red": 4
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -299,7 +309,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 14:59:35 UTC",
+      "lastUpdate": "26-03-08 15:04:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,14 +322,14 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:57:59",
-      "missionDate": "2024-10-31 21:22:59",
+      "missionTime": "0:03:13",
+      "missionDate": "2024-10-31 15:28:13",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
         "clouds": "Two Layers Scattered Large Clouds High Ceiling",
         "cloudbase": "--",
-        "visibility": "12,023 m / 7.47 SM",
+        "visibility": "10 km / 6 SM (+)",
         "wind": "50° / 4 kts"
       },
       "slots": {
@@ -393,7 +403,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 14:59:35 UTC",
+      "lastUpdate": "26-03-08 15:04:35 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -407,8 +417,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "5:58:25",
-    "missionDate": "2026-04-21 14:13:25",
+    "missionTime": "0:03:37",
+    "missionDate": "2026-04-21 08:18:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -429,7 +439,8 @@
     },
     "playerList": [
       "BARBARANAN",
-      "DrCr3ate"
+      "wwwphru",
+      "Night Falcon"
     ],
     "playerDetails": [
       {
@@ -437,8 +448,12 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "DrCr3ate",
-        "unit": "F-16C_50"
+        "name": "wwwphru",
+        "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "Night Falcon",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -448,12 +463,17 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "DrCr3ate",
-          "unit": "F-16C_50"
+          "name": "wwwphru",
+          "unit": "FA-18C_hornet"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Night Falcon",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -462,8 +482,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
-          "red": 15
+          "blue": 7,
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -471,7 +491,7 @@
         },
         "Ground Units": {
           "blue": 52,
-          "red": 304
+          "red": 308
         },
         "Ships": {
           "blue": 10,
@@ -488,15 +508,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 3,
-          "red": 1
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 4,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -509,9 +529,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 14:59:34 UTC",
+    "lastUpdate": "26-03-08 15:05:03 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T15:00:30.010Z"
+  "lastUpdated": "2026-03-08T15:05:17.693Z"
 }
