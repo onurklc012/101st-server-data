@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:28:37",
-      "missionDate": "2026-04-21 13:43:37",
+      "missionTime": "5:33:37",
+      "missionDate": "2026-04-21 13:48:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -40,7 +40,7 @@
         },
         {
           "name": "ysfddit",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -48,15 +48,14 @@
           {
             "name": "CanAda",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "ysfddit",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "ysfddit",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -112,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:29:34 UTC",
+      "lastUpdate": "26-03-08 20:34:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:28:29",
-      "missionDate": "2026-08-01 17:33:29",
+      "missionTime": "5:33:29",
+      "missionDate": "2026-08-01 17:38:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -206,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:29:33 UTC",
+      "lastUpdate": "26-03-08 20:34:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "2:35:59",
-      "missionDate": "2025-07-01 20:35:59",
+      "missionTime": "2:40:59",
+      "missionDate": "2025-07-01 20:40:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 6,
           "total": 122
         },
         "red": {
@@ -244,7 +243,9 @@
         "101ArmOn1453",
         "101\\-Tunay \\[5555\\]",
         "Blind0",
-        "weconn"
+        "PENÇE",
+        "weconn",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
@@ -264,8 +265,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "PENÇE",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "weconn",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -287,12 +296,21 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "PENÇE",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "weconn",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -306,7 +324,7 @@
           },
           "Helicopters": {
             "blue": 1,
-            "red": 4
+            "red": 5
           },
           "Ground Units": {
             "blue": 196,
@@ -348,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:29:35 UTC",
+      "lastUpdate": "26-03-08 20:34:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -361,8 +379,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:28:12",
-      "missionDate": "2024-10-31 20:53:12",
+      "missionTime": "5:33:12",
+      "missionDate": "2024-10-31 20:58:12",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -407,7 +425,7 @@
             "red": 36
           },
           "Planes": {
-            "blue": 1,
+            "blue": 4,
             "red": 2
           },
           "Helicopters": {
@@ -454,7 +472,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-08 20:29:35 UTC",
+      "lastUpdate": "26-03-08 20:34:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -468,8 +486,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "5:28:37",
-    "missionDate": "2026-04-21 13:43:37",
+    "missionTime": "5:33:37",
+    "missionDate": "2026-04-21 13:48:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -480,7 +498,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -499,7 +517,7 @@
       },
       {
         "name": "ysfddit",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -507,15 +525,14 @@
         {
           "name": "CanAda",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "ysfddit",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "ysfddit",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -571,9 +588,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-08 20:29:34 UTC",
+    "lastUpdate": "26-03-08 20:34:34 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-08T20:30:23.060Z"
+  "lastUpdated": "2026-03-08T20:35:16.809Z"
 }
