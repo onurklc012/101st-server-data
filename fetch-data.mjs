@@ -655,11 +655,29 @@ async function fetchFlightHours(channels) {
 }
 
 function parseFlightHoursMessages(messages, channelName) {
+    console.log(`  🔍 Parsing ${messages.length} messages from ${channelName}`);
     for (const msg of messages) {
-        if (!msg.embeds) continue;
+        if (!msg.embeds || msg.embeds.length === 0) continue;
+        console.log(`  📃 Message has ${msg.embeds.length} embeds`);
         for (const embed of msg.embeds) {
+            const title = embed.title || '';
             const desc = embed.description || '';
-            if (!desc.includes('Ucus') && !desc.includes('Flight') && !desc.includes('saat')) continue;
+            const combined = title + ' ' + desc;
+
+            console.log(`  📋 Embed title: "${title.substring(0, 80)}"`);
+            console.log(`  📋 Embed desc length: ${desc.length}, first 80: "${desc.substring(0, 80)}"`);
+
+            // Check if this embed is about flight hours (check BOTH title and description)
+            const isFlightEmbed = combined.includes('Ucus') || combined.includes('ucus') ||
+                combined.includes('Flight') || combined.includes('flight') ||
+                combined.includes('saat') || combined.includes('Saat') ||
+                desc.match(/\d+s\s+\d+dk/);
+
+            if (!isFlightEmbed) {
+                console.log(`  ⏭️ Skipping embed — no flight keywords found`);
+                continue;
+            }
+            console.log(`  ✅ Found flight hours embed!`);
 
             const pilots = [];
             const lines = desc.split('\n');
