@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:12:35",
-      "missionDate": "2026-04-21 08:27:35",
+      "missionTime": "0:17:35",
+      "missionDate": "2026-04-21 08:32:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,24 +29,12 @@
           "total": 16
         }
       },
-      "playerList": [
-        "Me1e27"
-      ],
-      "playerDetails": [
-        {
-          "name": "Me1e27",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "Me1e27",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -102,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 15:15:23 UTC",
+      "lastUpdate": "26-03-09 15:19:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +103,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:12:32",
-      "missionDate": "2026-08-01 12:17:32",
+      "missionTime": "0:17:32",
+      "missionDate": "2026-08-01 12:22:32",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -208,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 15:14:33 UTC",
+      "lastUpdate": "26-03-09 15:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -291,18 +279,34 @@
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": false,
-      "channelName": "🖥️┃caucasus-dynamic［-］",
+      "online": true,
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 0,
+      "serverIP": "88.247.164.234:10311",
+      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
+      "map": "Caucasus",
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionTime": "0:02:05",
+      "missionDate": "2024-10-31 15:27:05",
+      "weather": {
+        "temperature": "6.6°C",
+        "qnh": "1022 hPa",
+        "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "50° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 69
+        },
+        "red": {
+          "used": 0,
+          "total": 2
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -313,16 +317,16 @@
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 17,
-            "red": 36
+            "blue": 14,
+            "red": 34
           },
           "Planes": {
-            "blue": 2,
-            "red": 2
+            "blue": 1,
+            "red": 0
           },
           "Helicopters": {
             "blue": 0,
-            "red": 1
+            "red": 0
           },
           "Ground Units": {
             "blue": 14,
@@ -364,7 +368,7 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-09 15:19:35 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -378,8 +382,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:12:35",
-    "missionDate": "2026-04-21 08:27:35",
+    "missionTime": "0:17:35",
+    "missionDate": "2026-04-21 08:32:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -398,24 +402,12 @@
         "total": 16
       }
     },
-    "playerList": [
-      "Me1e27"
-    ],
-    "playerDetails": [
-      {
-        "name": "Me1e27",
-        "unit": "_ _"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": [
-        {
-          "name": "Me1e27",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -471,9 +463,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-09 15:15:23 UTC",
+    "lastUpdate": "26-03-09 15:19:34 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-09T15:15:24.869Z"
+  "lastUpdated": "2026-03-09T15:20:26.091Z"
 }
