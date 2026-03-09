@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:42:30",
-      "missionDate": "2026-04-21 11:57:30",
+      "missionTime": "3:47:30",
+      "missionDate": "2026-04-21 12:02:30",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,21 +90,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 19:09:53 UTC",
+      "lastUpdate": "26-03-09 19:14:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［10／32］",
+      "channelName": "🖥️┃server-syria［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 10,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "3:28:44",
-      "missionDate": "2026-08-01 15:33:44",
+      "missionTime": "3:33:44",
+      "missionDate": "2026-08-01 15:38:44",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -124,17 +124,20 @@
         }
       },
       "playerList": [
+        "101\\-HotelTango",
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "CanAda",
-        "Genova",
         "Omry",
         "\\#2 \\- VTS\\_Headbang",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-Emrecan\\[0444\\]✯",
-        "101\\-HotelTango"
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-HotelTango",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Nos",
           "unit": "F-16C_50"
@@ -145,10 +148,6 @@
         },
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Genova",
           "unit": "F-16C_50"
         },
         {
@@ -166,14 +165,14 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-HotelTango",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Nos",
             "unit": "F-16C_50"
@@ -184,10 +183,6 @@
           },
           {
             "name": "CanAda",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Genova",
             "unit": "F-16C_50"
           },
           {
@@ -208,12 +203,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -269,7 +259,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 19:10:13 UTC",
+      "lastUpdate": "26-03-09 19:14:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -282,8 +272,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:22:15",
-      "missionDate": "2025-07-01 21:22:15",
+      "missionTime": "3:27:15",
+      "missionDate": "2025-07-01 21:27:15",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -294,7 +284,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -303,42 +293,42 @@
         }
       },
       "playerList": [
-        "311Blade",
         "101\\-zeshka\\[0035\\]",
-        "NiKoTeiN"
+        "NiKoTeiN",
+        "311Blade"
       ],
       "playerDetails": [
         {
-          "name": "311Blade",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-zeshka\\[0035\\]",
-          "unit": "--"
+          "unit": "F-15C"
         },
         {
           "name": "NiKoTeiN",
-          "unit": "--"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "311Blade",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "F-15C"
+          },
+          {
+            "name": "NiKoTeiN",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [
           {
             "name": "311Blade",
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "--"
-          },
-          {
-            "name": "NiKoTeiN",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -394,7 +384,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 19:09:54 UTC",
+      "lastUpdate": "26-03-09 19:14:54 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -407,8 +397,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:57:33",
-      "missionDate": "2024-10-31 17:22:33",
+      "missionTime": "2:02:33",
+      "missionDate": "2024-10-31 17:27:33",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -488,7 +478,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 19:09:55 UTC",
+      "lastUpdate": "26-03-09 19:14:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -502,8 +492,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:42:30",
-    "missionDate": "2026-04-21 11:57:30",
+    "missionTime": "3:47:30",
+    "missionDate": "2026-04-21 12:02:30",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -583,9 +573,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-09 19:09:53 UTC",
+    "lastUpdate": "26-03-09 19:14:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-09T19:10:27.326Z"
+  "lastUpdated": "2026-03-09T19:15:26.814Z"
 }
