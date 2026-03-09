@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:22:30",
-      "missionDate": "2026-04-21 11:37:30",
+      "missionTime": "3:27:30",
+      "missionDate": "2026-04-21 11:42:30",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,21 +90,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 18:49:53 UTC",
+      "lastUpdate": "26-03-09 18:54:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:08:44",
-      "missionDate": "2026-08-01 15:13:44",
+      "missionTime": "3:13:44",
+      "missionDate": "2026-08-01 15:18:44",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -123,12 +123,52 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Nos",
+        "NiKoTeiN",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "✯101\\-Emrecan\\[0444\\]✯"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Nos",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "NiKoTeiN",
+          "unit": "--"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "--"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "--"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-Nos",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "NiKoTeiN",
+            "unit": "--"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "--"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -184,21 +224,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 18:49:53 UTC",
+      "lastUpdate": "26-03-09 18:54:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:02:15",
-      "missionDate": "2025-07-01 21:02:15",
+      "missionTime": "3:07:15",
+      "missionDate": "2025-07-01 21:07:15",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +249,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 122
         },
         "red": {
@@ -219,7 +259,6 @@
       },
       "playerList": [
         "101\\-HotelTango",
-        "101\\-Tunay \\[5555\\]",
         "CanAda",
         "Omry",
         "311Blade"
@@ -228,10 +267,6 @@
         {
           "name": "101\\-HotelTango",
           "unit": "CH-47Fbl1"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
         },
         {
           "name": "CanAda",
@@ -251,10 +286,6 @@
           {
             "name": "101\\-HotelTango",
             "unit": "CH-47Fbl1"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
           },
           {
             "name": "CanAda",
@@ -327,7 +358,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 18:49:54 UTC",
+      "lastUpdate": "26-03-09 18:54:54 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -340,8 +371,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:37:33",
-      "missionDate": "2024-10-31 17:02:33",
+      "missionTime": "1:42:33",
+      "missionDate": "2024-10-31 17:07:33",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -383,7 +414,7 @@
           },
           "Ground Units": {
             "blue": 21,
-            "red": 1081
+            "red": 1090
           },
           "Ships": {
             "blue": 8,
@@ -421,7 +452,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 18:49:55 UTC",
+      "lastUpdate": "26-03-09 18:54:55 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -435,8 +466,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:22:30",
-    "missionDate": "2026-04-21 11:37:30",
+    "missionTime": "3:27:30",
+    "missionDate": "2026-04-21 11:42:30",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -516,9 +547,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-09 18:49:53 UTC",
+    "lastUpdate": "26-03-09 18:54:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-09T18:50:20.247Z"
+  "lastUpdated": "2026-03-09T18:55:18.074Z"
 }
