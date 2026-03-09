@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:53:44",
-      "missionDate": "2026-04-21 14:08:44",
+      "missionTime": "5:58:31",
+      "missionDate": "2026-04-21 14:13:31",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 14:54:34 UTC",
+      "lastUpdate": "26-03-09 15:00:13 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:53:40",
-      "missionDate": "2026-08-01 17:58:40",
+      "missionTime": "5:58:19",
+      "missionDate": "2026-08-01 18:03:19",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 14:54:33 UTC",
+      "lastUpdate": "26-03-09 14:59:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:41:34",
-      "missionDate": "2025-07-01 12:41:34",
+      "missionTime": "5:47:25",
+      "missionDate": "2025-07-01 12:47:25",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +221,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -230,39 +230,21 @@
         }
       },
       "playerList": [
-        "101\\-HotelTango",
-        "101\\-Tunay \\[5555\\]",
         "Somon",
-        "101 \\- Asil Turq \\[1919\\]"
+        "101\\-zeshka\\[0035\\]"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-HotelTango",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "Somon",
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "101 \\- Asil Turq \\[1919\\]",
+          "name": "101\\-zeshka\\[0035\\]",
           "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          },
           {
             "name": "Somon",
             "unit": "FA-18C_hornet"
@@ -271,7 +253,7 @@
         "red": [],
         "neutral": [
           {
-            "name": "101 \\- Asil Turq \\[1919\\]",
+            "name": "101\\-zeshka\\[0035\\]",
             "unit": "_ _"
           }
         ]
@@ -330,21 +312,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 14:47:48 UTC",
+      "lastUpdate": "26-03-09 14:56:08 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:16:17",
-      "missionDate": "2024-10-31 08:11:17",
+      "missionTime": "0:21:16",
+      "missionDate": "2024-10-31 08:16:16",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -355,7 +337,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -363,10 +345,22 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101 \\- Asil Turq \\[1919\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101 \\- Asil Turq \\[1919\\]",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101 \\- Asil Turq \\[1919\\]",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -424,7 +418,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-09 14:54:35 UTC",
+      "lastUpdate": "26-03-09 14:59:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -438,8 +432,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "5:53:44",
-    "missionDate": "2026-04-21 14:08:44",
+    "missionTime": "5:58:31",
+    "missionDate": "2026-04-21 14:13:31",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -519,9 +513,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-09 14:54:34 UTC",
+    "lastUpdate": "26-03-09 15:00:13 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-09T14:55:20.517Z"
+  "lastUpdated": "2026-03-09T15:00:35.460Z"
 }
