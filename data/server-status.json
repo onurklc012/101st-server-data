@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:13:35",
-      "missionDate": "2026-04-21 12:28:35",
+      "missionTime": "4:18:35",
+      "missionDate": "2026-04-21 12:33:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -29,22 +29,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "Rocco"
-      ],
-      "playerDetails": [
-        {
-          "name": "Rocco",
-          "unit": "F-14A-135-GR"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Rocco",
-            "unit": "F-14A-135-GR"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -102,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-10 19:14:40 UTC",
+      "lastUpdate": "26-03-10 19:19:40 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:13:32",
-      "missionDate": "2026-08-01 16:18:32",
+      "missionTime": "4:18:32",
+      "missionDate": "2026-08-01 16:23:32",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,21 +184,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-10 19:14:41 UTC",
+      "lastUpdate": "26-03-10 19:19:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:13:13",
-      "missionDate": "2025-07-01 11:13:13",
+      "missionTime": "4:18:13",
+      "missionDate": "2025-07-01 11:18:13",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -221,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 126
         },
         "red": {
@@ -231,8 +219,8 @@
       },
       "playerList": [
         "101\\-AsilTurq",
-        "101\\-Tunay \\[5555\\]",
-        "101\\-Maskot\\(0019\\)"
+        "101\\-Maskot\\(0019\\)",
+        "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
         {
@@ -240,12 +228,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Tunay \\[5555\\]",
+          "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "_ _"
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -255,17 +243,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -321,7 +308,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-10 19:14:41 UTC",
+      "lastUpdate": "26-03-10 19:19:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -334,8 +321,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:13:30",
-      "missionDate": "2024-10-31 12:08:30",
+      "missionTime": "4:18:30",
+      "missionDate": "2024-10-31 12:13:30",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -436,22 +423,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-10 19:14:42 UTC",
+      "lastUpdate": "26-03-10 19:19:42 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "4:13:35",
-    "missionDate": "2026-04-21 12:28:35",
+    "missionTime": "4:18:35",
+    "missionDate": "2026-04-21 12:33:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -462,7 +449,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 0,
         "total": 134
       },
       "red": {
@@ -470,22 +457,10 @@
         "total": 16
       }
     },
-    "playerList": [
-      "Rocco"
-    ],
-    "playerDetails": [
-      {
-        "name": "Rocco",
-        "unit": "F-14A-135-GR"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "Rocco",
-          "unit": "F-14A-135-GR"
-        }
-      ],
+      "blue": [],
       "red": [],
       "neutral": []
     },
@@ -543,9 +518,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-10 19:14:40 UTC",
+    "lastUpdate": "26-03-10 19:19:40 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-10T19:15:22.022Z"
+  "lastUpdated": "2026-03-10T19:20:19.791Z"
 }
