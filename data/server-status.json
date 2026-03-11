@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:08:46",
-      "missionDate": "2026-04-21 09:23:46",
+      "missionTime": "1:13:46",
+      "missionDate": "2026-04-21 09:28:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 17:54:31 UTC",
+      "lastUpdate": "26-03-11 17:59:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:54:25",
-      "missionDate": "2026-08-01 12:59:25",
+      "missionTime": "0:59:25",
+      "missionDate": "2026-08-01 13:04:25",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -123,12 +123,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "CanAda"
+      ],
+      "playerDetails": [
+        {
+          "name": "CanAda",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "CanAda",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -184,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 17:54:32 UTC",
+      "lastUpdate": "26-03-11 17:59:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +209,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:27:42",
-      "missionDate": "2025-07-01 07:27:42",
+      "missionTime": "0:32:42",
+      "missionDate": "2025-07-01 07:32:42",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -231,12 +243,12 @@
             "red": 39
           },
           "Planes": {
-            "blue": 2,
-            "red": 3
+            "blue": 4,
+            "red": 5
           },
           "Helicopters": {
-            "blue": 1,
-            "red": 1
+            "blue": 2,
+            "red": 2
           },
           "Ground Units": {
             "blue": 268,
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 17:54:34 UTC",
+      "lastUpdate": "26-03-11 17:59:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -291,8 +303,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:02:00",
-      "missionDate": "2024-10-31 16:27:00",
+      "missionTime": "1:07:00",
+      "missionDate": "2024-10-31 16:32:00",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -372,7 +384,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 17:54:33 UTC",
+      "lastUpdate": "26-03-11 17:59:32 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -386,8 +398,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:08:46",
-    "missionDate": "2026-04-21 09:23:46",
+    "missionTime": "1:13:46",
+    "missionDate": "2026-04-21 09:28:46",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -467,9 +479,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-11 17:54:31 UTC",
+    "lastUpdate": "26-03-11 17:59:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-11T17:55:18.534Z"
+  "lastUpdated": "2026-03-11T18:00:32.953Z"
 }
