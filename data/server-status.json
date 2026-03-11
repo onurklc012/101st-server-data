@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:24",
-      "missionDate": "2026-04-21 08:15:24",
+      "missionTime": "0:03:24",
+      "missionDate": "2026-04-21 08:18:24",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 21:01:31 UTC",
+      "lastUpdate": "26-03-11 21:04:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:29",
-      "missionDate": "2026-08-01 12:05:29",
+      "missionTime": "0:03:29",
+      "missionDate": "2026-08-01 12:08:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 21:01:32 UTC",
+      "lastUpdate": "26-03-11 21:04:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +197,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:00:00",
-      "missionDate": "2025-07-01 07:00:00",
+      "missionTime": "0:03:11",
+      "missionDate": "2025-07-01 07:03:11",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 3,
           "total": 126
         },
         "red": {
@@ -219,31 +219,40 @@
       },
       "playerList": [
         "101\\-Nos",
-        "101\\-Tunay \\[5555\\]"
+        "101\\-Tunay \\[5555\\]",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
           "name": "101\\-Nos",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
-          "unit": "--"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-Nos",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
-            "unit": "--"
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -299,7 +308,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 21:01:21 UTC",
+      "lastUpdate": "26-03-11 21:04:34 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,8 +321,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:00",
-      "missionDate": "2024-10-31 15:25:00",
+      "missionTime": "0:03:16",
+      "missionDate": "2024-10-31 15:28:16",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -393,7 +402,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 21:01:11 UTC",
+      "lastUpdate": "26-03-11 21:04:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -407,8 +416,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:00:24",
-    "missionDate": "2026-04-21 08:15:24",
+    "missionTime": "0:03:24",
+    "missionDate": "2026-04-21 08:18:24",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -488,9 +497,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-11 21:01:31 UTC",
+    "lastUpdate": "26-03-11 21:04:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-11T21:01:33.817Z"
+  "lastUpdated": "2026-03-11T21:05:20.148Z"
 }
