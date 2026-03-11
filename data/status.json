@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:38:46",
-        "missionDate": "2026-04-21 08:53:46",
+        "missionTime": "0:43:46",
+        "missionDate": "2026-04-21 08:58:46",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-11 17:24:31 UTC",
+        "lastUpdate": "26-03-11 17:29:31 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -104,8 +104,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:24:25",
-        "missionDate": "2026-08-01 12:29:25",
+        "missionTime": "0:29:25",
+        "missionDate": "2026-08-01 12:34:25",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,23 +185,39 @@
             }
           }
         },
-        "lastUpdate": "26-03-11 17:24:32 UTC",
+        "lastUpdate": "26-03-11 17:29:32 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
-        "online": false,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "online": true,
+        "channelName": "🖥️┃syria-dynamic［-］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
-        "players": 1,
+        "serverIP": "88.247.164.234:10310",
+        "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
+        "map": "Syria",
+        "players": 0,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:02:42",
+        "missionDate": "2025-07-01 07:02:42",
+        "weather": {
+          "temperature": "20.0°C",
+          "qnh": "1016 hPa",
+          "clouds": "Clear",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "233° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 0,
+            "total": 126
+          },
+          "red": {
+            "used": 0,
+            "total": 7
+          }
+        },
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -212,8 +228,8 @@
         "missionStats": {
           "situation": {
             "Airbases / FARPs": {
-              "blue": 36,
-              "red": 36
+              "blue": 43,
+              "red": 39
             },
             "Planes": {
               "blue": 2,
@@ -225,10 +241,10 @@
             },
             "Ground Units": {
               "blue": 258,
-              "red": 1190
+              "red": 1205
             },
             "Ships": {
-              "blue": 25,
+              "blue": 22,
               "red": 0
             },
             "Structures": {
@@ -263,21 +279,21 @@
             }
           }
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-03-11 17:29:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［1／32］",
+        "channelName": "🖥️┃caucasus-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:32:00",
-        "missionDate": "2024-10-31 15:57:00",
+        "missionTime": "0:37:00",
+        "missionDate": "2024-10-31 16:02:00",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -288,7 +304,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 69
           },
           "red": {
@@ -296,10 +312,22 @@
             "total": 2
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-AsilTurq"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-AsilTurq",
+            "unit": "F-16C_50"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-AsilTurq",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -357,7 +385,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-11 17:24:33 UTC",
+        "lastUpdate": "26-03-11 17:29:33 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -371,8 +399,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:38:46",
-      "missionDate": "2026-04-21 08:53:46",
+      "missionTime": "0:43:46",
+      "missionDate": "2026-04-21 08:58:46",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -452,11 +480,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-11 17:24:31 UTC",
+      "lastUpdate": "26-03-11 17:29:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-11T17:25:22.344Z"
+    "lastUpdated": "2026-03-11T17:30:27.762Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -496,7 +524,7 @@
           "activePilots": "5",
           "highestScore": 2800
         },
-        "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:30  |  Her 5 dk guncellenir"
       },
       {
         "channelName": "👑┃leaderboard🌟",
@@ -534,7 +562,7 @@
           "activePilots": "5",
           "highestScore": 5757
         },
-        "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -573,9 +601,9 @@
         "activePilots": "5",
         "highestScore": 2800
       },
-      "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:20  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 11.03.2026 20:30  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-11T17:25:22.585Z"
+    "lastUpdated": "2026-03-11T17:30:27.929Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2615,11 +2643,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-11T17:25:23.253Z",
+    "lastUpdated": "2026-03-11T17:30:28.553Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-11T17:25:23.830Z",
+    "fetchedAt": "2026-03-11T17:30:29.317Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
