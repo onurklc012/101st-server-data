@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:38:49",
-      "missionDate": "2026-04-21 08:53:49",
+      "missionTime": "0:43:49",
+      "missionDate": "2026-04-21 08:58:49",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 15:39:31 UTC",
+      "lastUpdate": "26-03-12 15:44:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:38:46",
-      "missionDate": "2026-08-01 12:43:46",
+      "missionTime": "0:43:46",
+      "missionDate": "2026-08-01 12:48:46",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 15:39:32 UTC",
+      "lastUpdate": "26-03-12 15:44:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +197,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:38:13",
-      "missionDate": "2025-07-01 07:38:13",
+      "missionTime": "0:43:13",
+      "missionDate": "2025-07-01 07:43:13",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -243,15 +243,15 @@
             "red": 40
           },
           "Planes": {
-            "blue": 6,
-            "red": 7
+            "blue": 9,
+            "red": 13
           },
           "Helicopters": {
-            "blue": 1,
-            "red": 0
+            "blue": 2,
+            "red": 2
           },
           "Ground Units": {
-            "blue": 277,
+            "blue": 279,
             "red": 1151
           },
           "Ships": {
@@ -269,7 +269,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
+            "blue": 2,
             "red": 0
           },
           "Downed Helicopters": {
@@ -290,21 +290,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 15:39:33 UTC",
+      "lastUpdate": "26-03-12 15:44:35 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:38:38",
-      "missionDate": "2024-10-31 16:03:38",
+      "missionTime": "0:43:38",
+      "missionDate": "2024-10-31 16:08:38",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -323,12 +323,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "TOHSECIN"
+      ],
+      "playerDetails": [
+        {
+          "name": "TOHSECIN",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "TOHSECIN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -384,7 +396,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 15:39:33 UTC",
+      "lastUpdate": "26-03-12 15:44:32 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -398,8 +410,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:38:49",
-    "missionDate": "2026-04-21 08:53:49",
+    "missionTime": "0:43:49",
+    "missionDate": "2026-04-21 08:58:49",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -479,9 +491,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-12 15:39:31 UTC",
+    "lastUpdate": "26-03-12 15:44:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-12T15:40:24.217Z"
+  "lastUpdated": "2026-03-12T15:45:22.542Z"
 }
