@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:36:38",
-      "missionDate": "2026-04-21 10:51:38",
+      "missionTime": "2:41:38",
+      "missionDate": "2026-04-21 10:56:38",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,12 +29,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Omry"
+      ],
+      "playerDetails": [
+        {
+          "name": "Omry",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Omry",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -90,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 19:15:05 UTC",
+      "lastUpdate": "26-03-12 19:20:05 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:22:52",
-      "missionDate": "2026-08-01 14:27:52",
+      "missionTime": "2:27:52",
+      "missionDate": "2026-08-01 14:32:52",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -184,21 +196,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 19:15:04 UTC",
+      "lastUpdate": "26-03-12 19:20:04 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:15:35",
-      "missionDate": "2025-07-01 20:15:35",
+      "missionTime": "2:20:35",
+      "missionDate": "2025-07-01 20:20:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -213,15 +225,14 @@
           "total": 122
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 7
         }
       },
       "playerList": [
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
-        "Somon",
-        "311Blade"
+        "Somon"
       ],
       "playerDetails": [
         {
@@ -235,10 +246,6 @@
         {
           "name": "Somon",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "311Blade",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -256,12 +263,7 @@
             "unit": "FA-18C_hornet"
           }
         ],
-        "red": [
-          {
-            "name": "311Blade",
-            "unit": "F-16C_50"
-          }
-        ],
+        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -271,15 +273,15 @@
             "red": 35
           },
           "Planes": {
-            "blue": 10,
-            "red": 12
+            "blue": 7,
+            "red": 10
           },
           "Helicopters": {
             "blue": 6,
-            "red": 5
+            "red": 6
           },
           "Ground Units": {
-            "blue": 294,
+            "blue": 295,
             "red": 1164
           },
           "Ships": {
@@ -297,15 +299,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
-            "red": 8
+            "blue": 8,
+            "red": 9
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 16,
+            "blue": 18,
             "red": 0
           },
           "Sunken Ships": {
@@ -318,7 +320,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 19:15:06 UTC",
+      "lastUpdate": "26-03-12 19:20:06 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -331,8 +333,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:30:02",
-      "missionDate": "2024-10-31 17:55:02",
+      "missionTime": "2:35:02",
+      "missionDate": "2024-10-31 18:00:02",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -412,7 +414,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 19:15:05 UTC",
+      "lastUpdate": "26-03-12 19:20:05 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -426,8 +428,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "2:36:38",
-    "missionDate": "2026-04-21 10:51:38",
+    "missionTime": "2:41:38",
+    "missionDate": "2026-04-21 10:56:38",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -446,12 +448,24 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Omry"
+    ],
+    "playerDetails": [
+      {
+        "name": "Omry",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Omry",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -507,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-12 19:15:05 UTC",
+    "lastUpdate": "26-03-12 19:20:05 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-12T19:15:22.603Z"
+  "lastUpdated": "2026-03-12T19:20:22.836Z"
 }
