@@ -1,34 +1,18 @@
 {
   "servers": [
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:16:38",
-      "missionDate": "2026-04-21 12:31:38",
-      "weather": {
-        "temperature": "5.4°C",
-        "qnh": "1013 hPa",
-        "clouds": "Two Layer Scattered/",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "281° / 2 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -90,39 +74,23 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 20:55:05 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10309",
-      "mission": "101_Hunter_SQN_SURIYE_v3_7",
-      "map": "Syria",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:02:52",
-      "missionDate": "2026-08-01 16:07:52",
-      "weather": {
-        "temperature": "20.0°C",
-        "qnh": "1013 hPa",
-        "clouds": "Few Scattered Clouds",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "198° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 12
-        },
-        "red": {
-          "used": 0,
-          "total": 9
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -184,102 +152,69 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 20:55:04 UTC",
+      "lastUpdate": null,
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
-      "online": true,
-      "channelName": "🖥️┃syria-dynamic［8／32］",
+      "online": false,
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10310",
-      "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
-      "map": "Syria",
-      "players": 8,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "3:55:35",
-      "missionDate": "2025-07-01 21:55:35",
-      "weather": {
-        "temperature": "20.0°C",
-        "qnh": "1016 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "233° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 6,
-          "total": 122
-        },
-        "red": {
-          "used": 0,
-          "total": 7
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
-        "101ArmOn1453",
-        "101\\-Fish",
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "GhostEagle",
-        "PENÇE"
+        "\\[CFZ\\] Delta"
       ],
       "playerDetails": [
         {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Fish",
-          "unit": "F-14B"
-        },
-        {
           "name": "101\\-Nos",
-          "unit": "F-16C_50"
+          "unit": "C-130J-30"
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "GhostEagle",
-          "unit": "Su-25T"
+          "unit": "--"
         },
         {
-          "name": "PENÇE",
-          "unit": "F-16C_50"
+          "name": "\\[CFZ\\] Delta",
+          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Fish",
-            "unit": "F-14B"
-          },
-          {
             "name": "101\\-Nos",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "GhostEagle",
-            "unit": "Su-25T"
-          },
-          {
-            "name": "PENÇE",
-            "unit": "F-16C_50"
+            "unit": "C-130J-30"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "--"
+          },
+          {
+            "name": "GhostEagle",
+            "unit": "--"
+          },
+          {
+            "name": "\\[CFZ\\] Delta",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -288,8 +223,8 @@
             "red": 35
           },
           "Planes": {
-            "blue": 11,
-            "red": 10
+            "blue": 8,
+            "red": 14
           },
           "Helicopters": {
             "blue": 6,
@@ -297,7 +232,7 @@
           },
           "Ground Units": {
             "blue": 304,
-            "red": 1214
+            "red": 1207
           },
           "Ships": {
             "blue": 25,
@@ -314,15 +249,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 21,
-            "red": 19
+            "blue": 22,
+            "red": 20
           },
           "Downed Helicopters": {
             "blue": 2,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 27,
+            "blue": 34,
             "red": 0
           },
           "Sunken Ships": {
@@ -335,39 +270,23 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 20:55:06 UTC",
+      "lastUpdate": null,
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "online": false,
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10311",
-      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
-      "map": "Caucasus",
-      "players": 1,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:10:02",
-      "missionDate": "2024-10-31 19:35:02",
-      "weather": {
-        "temperature": "6.6°C",
-        "qnh": "1022 hPa",
-        "clouds": "Two Layers Scattered Large Clouds High Ceiling",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "50° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 69
-        },
-        "red": {
-          "used": 0,
-          "total": 2
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "victory55"
       ],
@@ -441,40 +360,24 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 20:55:05 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
+    "online": false,
     "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "4:16:38",
-    "missionDate": "2026-04-21 12:31:38",
-    "weather": {
-      "temperature": "5.4°C",
-      "qnh": "1013 hPa",
-      "clouds": "Two Layer Scattered/",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "281° / 2 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 0,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
+    "missionTime": "--:--",
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
     "playerList": [],
     "playerDetails": [],
     "activePlayers": {
@@ -536,9 +439,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-12 20:55:05 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-12T20:55:19.265Z"
+  "lastUpdated": "2026-03-12T21:00:31.290Z"
 }
