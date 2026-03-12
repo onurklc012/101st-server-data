@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:18:27",
-        "missionDate": "2026-04-21 13:33:27",
+        "missionTime": "5:23:27",
+        "missionDate": "2026-04-21 13:38:27",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-12 14:19:31 UTC",
+        "lastUpdate": "26-03-12 14:24:31 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -104,8 +104,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:18:25",
-        "missionDate": "2026-08-01 17:23:25",
+        "missionTime": "5:23:25",
+        "missionDate": "2026-08-01 17:28:25",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -185,7 +185,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-12 14:19:32 UTC",
+        "lastUpdate": "26-03-12 14:24:32 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -198,8 +198,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "5:17:55",
-        "missionDate": "2025-07-01 12:17:55",
+        "missionTime": "5:22:55",
+        "missionDate": "2025-07-01 12:22:55",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -220,7 +220,8 @@
         },
         "playerList": [
           "101\\-Tunay \\[5555\\]",
-          "weconn"
+          "weconn",
+          "NiKoTeiN"
         ],
         "playerDetails": [
           {
@@ -230,6 +231,10 @@
           {
             "name": "weconn",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "NiKoTeiN",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -244,7 +249,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "NiKoTeiN",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -300,7 +310,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-12 14:19:33 UTC",
+        "lastUpdate": "26-03-12 14:24:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -313,8 +323,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:18:02",
-        "missionDate": "2024-10-31 20:43:02",
+        "missionTime": "5:23:02",
+        "missionDate": "2024-10-31 20:48:02",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -394,7 +404,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-12 14:19:32 UTC",
+        "lastUpdate": "26-03-12 14:24:33 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -408,8 +418,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:18:27",
-      "missionDate": "2026-04-21 13:33:27",
+      "missionTime": "5:23:27",
+      "missionDate": "2026-04-21 13:38:27",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -489,11 +499,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-12 14:19:31 UTC",
+      "lastUpdate": "26-03-12 14:24:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-12T14:20:21.854Z"
+    "lastUpdated": "2026-03-12T14:25:21.080Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -612,7 +622,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 12.03.2026 17:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-12T14:20:22.001Z"
+    "lastUpdated": "2026-03-12T14:25:21.328Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2652,11 +2662,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-12T14:20:25.051Z",
+    "lastUpdated": "2026-03-12T14:25:21.986Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-12T14:20:25.594Z",
+    "fetchedAt": "2026-03-12T14:25:22.633Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
