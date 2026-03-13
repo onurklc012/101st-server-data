@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "4:28:04",
-        "missionDate": "2026-04-21 12:43:04",
+        "missionTime": "4:33:04",
+        "missionDate": "2026-04-21 12:48:04",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -26,7 +26,7 @@
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 1,
             "total": 16
           }
         },
@@ -46,7 +46,7 @@
           },
           {
             "name": "rte",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -60,13 +60,13 @@
               "unit": "F-16C_50"
             }
           ],
-          "red": [],
-          "neutral": [
+          "red": [
             {
               "name": "rte",
-              "unit": "_ _"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -75,8 +75,8 @@
               "red": 23
             },
             "Planes": {
-              "blue": 8,
-              "red": 16
+              "blue": 9,
+              "red": 15
             },
             "Helicopters": {
               "blue": 2,
@@ -101,7 +101,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Downed Helicopters": {
@@ -122,7 +122,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 19:29:41 UTC",
+        "lastUpdate": "26-03-13 19:34:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -135,8 +135,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:28:00",
-        "missionDate": "2026-08-01 16:33:00",
+        "missionTime": "4:33:00",
+        "missionDate": "2026-08-01 16:38:00",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -216,7 +216,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 19:29:42 UTC",
+        "lastUpdate": "26-03-13 19:34:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +229,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:27:35",
-        "missionDate": "2025-07-01 22:27:35",
+        "missionTime": "4:32:35",
+        "missionDate": "2025-07-01 22:32:35",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -241,7 +241,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 122
           },
           "red": {
@@ -250,33 +250,32 @@
           }
         },
         "playerList": [
-          "Somon",
-          "101\\-Tunay \\[5555\\]"
+          "101\\-Tunay \\[5555\\]",
+          "Somon"
         ],
         "playerDetails": [
           {
-            "name": "Somon",
-            "unit": "FA-18C_hornet"
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "_ _"
+            "name": "Somon",
+            "unit": "FA-18C_hornet"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-Tunay \\[5555\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "Somon",
               "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Tunay \\[5555\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -332,7 +331,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 19:30:01 UTC",
+        "lastUpdate": "26-03-13 19:34:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -345,8 +344,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:27:46",
-        "missionDate": "2024-10-31 19:52:46",
+        "missionTime": "4:32:46",
+        "missionDate": "2024-10-31 19:57:46",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -426,7 +425,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 19:29:43 UTC",
+        "lastUpdate": "26-03-13 19:34:43 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -440,8 +439,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:28:04",
-      "missionDate": "2026-04-21 12:43:04",
+      "missionTime": "4:33:04",
+      "missionDate": "2026-04-21 12:48:04",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -456,7 +455,7 @@
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
@@ -476,7 +475,7 @@
         },
         {
           "name": "rte",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -490,13 +489,13 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": [
+        "red": [
           {
             "name": "rte",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -505,8 +504,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
-            "red": 16
+            "blue": 9,
+            "red": 15
           },
           "Helicopters": {
             "blue": 2,
@@ -531,7 +530,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -552,11 +551,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-13 19:29:41 UTC",
+      "lastUpdate": "26-03-13 19:34:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-13T19:30:25.663Z"
+    "lastUpdated": "2026-03-13T19:35:19.304Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -675,7 +674,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-13T19:30:25.874Z"
+    "lastUpdated": "2026-03-13T19:35:19.451Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2715,11 +2714,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-13T19:30:26.415Z",
+    "lastUpdated": "2026-03-13T19:35:19.874Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-13T19:30:26.927Z",
+    "fetchedAt": "2026-03-13T19:35:20.296Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
