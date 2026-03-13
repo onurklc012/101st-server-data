@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 9,
         "maxPlayers": 32,
-        "missionTime": "0:03:06",
-        "missionDate": "2026-04-21 08:18:06",
+        "missionTime": "0:08:06",
+        "missionDate": "2026-04-21 08:23:06",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -26,7 +26,7 @@
             "total": 134
           },
           "red": {
-            "used": 1,
+            "used": 4,
             "total": 16
           }
         },
@@ -35,6 +35,7 @@
           "101\\-Tunay \\[5555\\]",
           "101chemisTR61",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "101ArmOn1453",
           "101\\-zeshka\\[0035\\]",
           "\\[RK\\] Falcon Pilot YT",
           "✯101\\-Emrecan\\[0444\\]✯"
@@ -57,16 +58,20 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "JF-17"
           },
           {
             "name": "\\[RK\\] Falcon Pilot YT",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -90,20 +95,23 @@
           ],
           "red": [
             {
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "101\\-zeshka\\[0035\\]",
               "unit": "JF-17"
-            }
-          ],
-          "neutral": [
+            },
             {
               "name": "\\[RK\\] Falcon Pilot YT",
-              "unit": "--"
+              "unit": "F-16C_50"
             },
             {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
-              "unit": "--"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -159,7 +167,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 21:04:51 UTC",
+        "lastUpdate": "26-03-13 21:09:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -172,8 +180,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:02:55",
-        "missionDate": "2026-08-01 12:07:55",
+        "missionTime": "0:07:55",
+        "missionDate": "2026-08-01 12:12:55",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -253,7 +261,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 21:04:41 UTC",
+        "lastUpdate": "26-03-13 21:09:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -266,8 +274,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:02:38",
-        "missionDate": "2025-07-01 18:02:38",
+        "missionTime": "0:07:37",
+        "missionDate": "2025-07-01 18:07:37",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -347,7 +355,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 21:04:42 UTC",
+        "lastUpdate": "26-03-13 21:09:43 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -360,14 +368,14 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:02:49",
-        "missionDate": "2024-10-31 15:27:49",
+        "missionTime": "0:07:49",
+        "missionDate": "2024-10-31 15:32:49",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
           "clouds": "Two Layers Scattered Large Clouds High Ceiling",
           "cloudbase": "--",
-          "visibility": "9,032 m / 5.61 SM",
+          "visibility": "10 km / 6 SM (+)",
           "wind": "50° / 4 kts"
         },
         "slots": {
@@ -441,7 +449,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-13 21:04:43 UTC",
+        "lastUpdate": "26-03-13 21:09:44 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -455,8 +463,8 @@
       "map": "Caucasus",
       "players": 9,
       "maxPlayers": 32,
-      "missionTime": "0:03:06",
-      "missionDate": "2026-04-21 08:18:06",
+      "missionTime": "0:08:06",
+      "missionDate": "2026-04-21 08:23:06",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -471,7 +479,7 @@
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 4,
           "total": 16
         }
       },
@@ -480,6 +488,7 @@
         "101\\-Tunay \\[5555\\]",
         "101chemisTR61",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101ArmOn1453",
         "101\\-zeshka\\[0035\\]",
         "\\[RK\\] Falcon Pilot YT",
         "✯101\\-Emrecan\\[0444\\]✯"
@@ -502,16 +511,20 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "JF-17"
         },
         {
           "name": "\\[RK\\] Falcon Pilot YT",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "--"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -535,20 +548,23 @@
         ],
         "red": [
           {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "JF-17"
-          }
-        ],
-        "neutral": [
+          },
           {
             "name": "\\[RK\\] Falcon Pilot YT",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -604,11 +620,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-13 21:04:51 UTC",
+      "lastUpdate": "26-03-13 21:09:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-13T21:05:21.378Z"
+    "lastUpdated": "2026-03-13T21:10:23.977Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -657,7 +673,7 @@
           {
             "rank": 1,
             "name": "101-Tunay [5555]",
-            "credits": 8019
+            "credits": 8419
           },
           {
             "rank": 2,
@@ -681,12 +697,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 54288,
+          "totalCredits": 55141,
           "totalPlayers": 61,
           "activePilots": "5",
-          "highestScore": 8019
+          "highestScore": 8419
         },
-        "lastUpdate": "🕒 Son guncelleme: 14.03.2026 00:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 14.03.2026 00:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -727,7 +743,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-13T21:05:21.611Z"
+    "lastUpdated": "2026-03-13T21:10:24.345Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2767,11 +2783,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-13T21:05:22.587Z",
+    "lastUpdated": "2026-03-13T21:10:25.282Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-13T21:05:23.238Z",
+    "fetchedAt": "2026-03-13T21:10:25.919Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
