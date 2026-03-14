@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "2:17:41",
-        "missionDate": "2026-04-21 10:32:41",
+        "missionTime": "2:22:41",
+        "missionDate": "2026-04-21 10:37:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -33,8 +33,8 @@
         "playerList": [
           "CanAda",
           "FatihEmin19",
+          "MeusProbremas",
           "Phantom2020",
-          "cagri",
           "f22"
         ],
         "playerDetails": [
@@ -47,11 +47,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Phantom2020",
-            "unit": "F-16C_50"
+            "name": "MeusProbremas",
+            "unit": "A-10A"
           },
           {
-            "name": "cagri",
+            "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
@@ -70,11 +70,11 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Phantom2020",
-              "unit": "F-16C_50"
+              "name": "MeusProbremas",
+              "unit": "A-10A"
             },
             {
-              "name": "cagri",
+              "name": "Phantom2020",
               "unit": "F-16C_50"
             },
             {
@@ -139,7 +139,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:19:41 UTC",
+        "lastUpdate": "26-03-14 23:24:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -152,8 +152,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:17:41",
-        "missionDate": "2026-08-01 14:22:41",
+        "missionTime": "2:22:41",
+        "missionDate": "2026-08-01 14:27:41",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -233,7 +233,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:19:41 UTC",
+        "lastUpdate": "26-03-14 23:24:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -246,8 +246,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "1:09:51",
-        "missionDate": "2025-07-01 19:09:51",
+        "missionTime": "1:14:51",
+        "missionDate": "2025-07-01 19:14:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -310,7 +310,7 @@
             },
             "Ground Units": {
               "blue": 289,
-              "red": 1159
+              "red": 1160
             },
             "Ships": {
               "blue": 22,
@@ -348,7 +348,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:19:42 UTC",
+        "lastUpdate": "26-03-14 23:24:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -361,8 +361,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:17:14",
-        "missionDate": "2024-10-31 17:42:14",
+        "missionTime": "2:22:14",
+        "missionDate": "2024-10-31 17:47:14",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -373,7 +373,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 69
           },
           "red": {
@@ -382,11 +382,15 @@
           }
         },
         "playerList": [
+          "Benjamin Netenyahu",
           "Yusuf",
-          "jeWisH",
-          "Benjamin Netenyahu"
+          "jeWisH"
         ],
         "playerDetails": [
+          {
+            "name": "Benjamin Netenyahu",
+            "unit": "F-15C"
+          },
           {
             "name": "Yusuf",
             "unit": "F-15C"
@@ -394,14 +398,14 @@
           {
             "name": "jeWisH",
             "unit": "F-15C"
-          },
-          {
-            "name": "Benjamin Netenyahu",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "Benjamin Netenyahu",
+              "unit": "F-15C"
+            },
             {
               "name": "Yusuf",
               "unit": "F-15C"
@@ -412,12 +416,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "Benjamin Netenyahu",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -473,7 +472,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:19:43 UTC",
+        "lastUpdate": "26-03-14 23:24:43 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -487,8 +486,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "2:17:41",
-      "missionDate": "2026-04-21 10:32:41",
+      "missionTime": "2:22:41",
+      "missionDate": "2026-04-21 10:37:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -510,8 +509,8 @@
       "playerList": [
         "CanAda",
         "FatihEmin19",
+        "MeusProbremas",
         "Phantom2020",
-        "cagri",
         "f22"
       ],
       "playerDetails": [
@@ -524,11 +523,11 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Phantom2020",
-          "unit": "F-16C_50"
+          "name": "MeusProbremas",
+          "unit": "A-10A"
         },
         {
-          "name": "cagri",
+          "name": "Phantom2020",
           "unit": "F-16C_50"
         },
         {
@@ -547,11 +546,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Phantom2020",
-            "unit": "F-16C_50"
+            "name": "MeusProbremas",
+            "unit": "A-10A"
           },
           {
-            "name": "cagri",
+            "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
@@ -616,11 +615,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 23:19:41 UTC",
+      "lastUpdate": "26-03-14 23:24:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-14T23:20:22.117Z"
+    "lastUpdated": "2026-03-14T23:25:18.813Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -739,7 +738,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-14T23:20:22.355Z"
+    "lastUpdated": "2026-03-14T23:25:18.949Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2685,11 +2684,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-14T23:20:23.165Z",
+    "lastUpdated": "2026-03-14T23:25:19.590Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-14T23:20:23.757Z",
+    "fetchedAt": "2026-03-14T23:25:20.119Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
