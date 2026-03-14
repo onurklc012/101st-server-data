@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:18:06",
-      "missionDate": "2026-04-21 12:33:06",
+      "missionTime": "4:23:06",
+      "missionDate": "2026-04-21 12:38:06",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,22 +30,12 @@
         }
       },
       "playerList": [
-        "Werder Brasil",
-        "POSEİDON",
-        "YEİS"
+        "Werder Brasil"
       ],
       "playerDetails": [
         {
           "name": "Werder Brasil",
           "unit": "F-15C"
-        },
-        {
-          "name": "POSEİDON",
-          "unit": "--"
-        },
-        {
-          "name": "YEİS",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -56,16 +46,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "POSEİDON",
-            "unit": "--"
-          },
-          {
-            "name": "YEİS",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -121,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 01:19:41 UTC",
+      "lastUpdate": "26-03-14 01:24:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -134,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:17:55",
-      "missionDate": "2026-08-01 16:22:55",
+      "missionTime": "4:22:55",
+      "missionDate": "2026-08-01 16:27:55",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -215,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 01:19:41 UTC",
+      "lastUpdate": "26-03-14 01:24:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -228,8 +209,8 @@
       "map": "Syria",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "0:43:34",
-      "missionDate": "2025-07-01 18:43:34",
+      "missionTime": "0:48:34",
+      "missionDate": "2025-07-01 18:48:34",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -375,21 +356,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 01:19:43 UTC",
+      "lastUpdate": "26-03-14 01:24:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:17:49",
-      "missionDate": "2024-10-31 19:42:49",
+      "missionTime": "4:22:49",
+      "missionDate": "2024-10-31 19:47:49",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -400,7 +381,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -408,10 +389,22 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "YEİS"
+      ],
+      "playerDetails": [
+        {
+          "name": "YEİS",
+          "unit": "Su-25T"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "YEİS",
+            "unit": "Su-25T"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -423,14 +416,14 @@
           },
           "Planes": {
             "blue": 4,
-            "red": 3
+            "red": 1
           },
           "Helicopters": {
             "blue": 1,
             "red": 1
           },
           "Ground Units": {
-            "blue": 38,
+            "blue": 42,
             "red": 1067
           },
           "Ships": {
@@ -469,22 +462,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 01:19:44 UTC",
+      "lastUpdate": "26-03-14 01:24:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "4:18:06",
-    "missionDate": "2026-04-21 12:33:06",
+    "missionTime": "4:23:06",
+    "missionDate": "2026-04-21 12:38:06",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -504,22 +497,12 @@
       }
     },
     "playerList": [
-      "Werder Brasil",
-      "POSEİDON",
-      "YEİS"
+      "Werder Brasil"
     ],
     "playerDetails": [
       {
         "name": "Werder Brasil",
         "unit": "F-15C"
-      },
-      {
-        "name": "POSEİDON",
-        "unit": "--"
-      },
-      {
-        "name": "YEİS",
-        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -530,16 +513,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "POSEİDON",
-          "unit": "--"
-        },
-        {
-          "name": "YEİS",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -595,9 +569,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-14 01:19:41 UTC",
+    "lastUpdate": "26-03-14 01:24:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-14T01:20:19.233Z"
+  "lastUpdated": "2026-03-14T01:25:18.494Z"
 }
