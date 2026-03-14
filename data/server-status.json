@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:37:41",
-      "missionDate": "2026-04-21 09:52:41",
+      "missionTime": "1:42:41",
+      "missionDate": "2026-04-21 09:57:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -31,11 +31,16 @@
       },
       "playerList": [
         "CanAda",
+        "Phantom2020",
         "cagri"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Phantom2020",
           "unit": "F-16C_50"
         },
         {
@@ -47,6 +52,10 @@
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
@@ -111,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 22:39:41 UTC",
+      "lastUpdate": "26-03-14 22:44:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:37:41",
-      "missionDate": "2026-08-01 13:42:41",
+      "missionTime": "1:42:41",
+      "missionDate": "2026-08-01 13:47:41",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +214,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 22:39:41 UTC",
+      "lastUpdate": "26-03-14 22:44:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -218,8 +227,8 @@
       "map": "Syria",
       "players": 9,
       "maxPlayers": 32,
-      "missionTime": "0:29:51",
-      "missionDate": "2025-07-01 18:29:51",
+      "missionTime": "0:34:49",
+      "missionDate": "2025-07-01 18:34:49",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -230,7 +239,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 8,
           "total": 122
         },
         "red": {
@@ -242,11 +251,11 @@
         "101\\-AsilTurq",
         "101\\-Tunay \\[5555\\]",
         "KAYAR",
-        "mertjuz",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "✯101\\-Emrecan\\[0444\\]✯",
         "SANTONA",
-        "ottoTR"
+        "mertjuz",
+        "ottoTR",
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
@@ -262,7 +271,15 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "SANTONA",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "mertjuz",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "ottoTR",
           "unit": "F-16C_50"
         },
         {
@@ -272,14 +289,6 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "SANTONA",
-          "unit": "--"
-        },
-        {
-          "name": "ottoTR",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -297,7 +306,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "SANTONA",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "mertjuz",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "ottoTR",
             "unit": "F-16C_50"
           },
           {
@@ -310,16 +327,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "SANTONA",
-            "unit": "--"
-          },
-          {
-            "name": "ottoTR",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -328,12 +336,12 @@
             "red": 38
           },
           "Planes": {
-            "blue": 11,
-            "red": 1
+            "blue": 14,
+            "red": 11
           },
           "Helicopters": {
             "blue": 1,
-            "red": 1
+            "red": 4
           },
           "Ground Units": {
             "blue": 289,
@@ -375,7 +383,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 22:39:42 UTC",
+      "lastUpdate": "26-03-14 22:44:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -388,8 +396,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:37:14",
-      "missionDate": "2024-10-31 17:02:14",
+      "missionTime": "1:42:14",
+      "missionDate": "2024-10-31 17:07:14",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -469,22 +477,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 22:39:43 UTC",
+      "lastUpdate": "26-03-14 22:44:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "1:37:41",
-    "missionDate": "2026-04-21 09:52:41",
+    "missionTime": "1:42:41",
+    "missionDate": "2026-04-21 09:57:41",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -495,7 +503,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -505,11 +513,16 @@
     },
     "playerList": [
       "CanAda",
+      "Phantom2020",
       "cagri"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "Phantom2020",
         "unit": "F-16C_50"
       },
       {
@@ -521,6 +534,10 @@
       "blue": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Phantom2020",
           "unit": "F-16C_50"
         },
         {
@@ -585,9 +602,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-14 22:39:41 UTC",
+    "lastUpdate": "26-03-14 22:44:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-14T22:40:22.006Z"
+  "lastUpdated": "2026-03-14T22:45:22.226Z"
 }
