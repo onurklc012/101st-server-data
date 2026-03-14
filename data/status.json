@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:03:06",
-        "missionDate": "2026-04-21 12:18:06",
+        "missionTime": "4:08:06",
+        "missionDate": "2026-04-21 12:23:06",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -103,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 01:04:41 UTC",
+        "lastUpdate": "26-03-14 01:09:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -116,8 +116,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:02:55",
-        "missionDate": "2026-08-01 16:07:55",
+        "missionTime": "4:07:55",
+        "missionDate": "2026-08-01 16:12:55",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -197,7 +197,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 01:04:41 UTC",
+        "lastUpdate": "26-03-14 01:09:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -210,8 +210,8 @@
         "map": "Syria",
         "players": 7,
         "maxPlayers": 32,
-        "missionTime": "0:28:33",
-        "missionDate": "2025-07-01 18:28:33",
+        "missionTime": "0:33:34",
+        "missionDate": "2025-07-01 18:33:34",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -222,7 +222,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 6,
             "total": 122
           },
           "red": {
@@ -233,10 +233,10 @@
         "playerList": [
           "101ArmOn1453",
           "101\\-HotelTango",
-          "MaestroTR21",
+          "101\\-Rabik",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "\\[RK\\] Falcon Pilot YT",
-          "✯101\\-Emrecan\\[0444\\]✯",
-          "101\\-Rabik"
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
           {
@@ -248,8 +248,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "MaestroTR21",
-            "unit": "F-16C_50"
+            "name": "101\\-Rabik",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "\\[RK\\] Falcon Pilot YT",
@@ -258,10 +262,6 @@
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -275,8 +275,12 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "MaestroTR21",
-              "unit": "F-16C_50"
+              "name": "101\\-Rabik",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "FA-18C_hornet"
             },
             {
               "name": "\\[RK\\] Falcon Pilot YT",
@@ -288,12 +292,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Rabik",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -302,16 +301,16 @@
               "red": 38
             },
             "Planes": {
-              "blue": 9,
-              "red": 5
+              "blue": 8,
+              "red": 9
             },
             "Helicopters": {
               "blue": 0,
-              "red": 1
+              "red": 2
             },
             "Ground Units": {
               "blue": 289,
-              "red": 1139
+              "red": 1144
             },
             "Ships": {
               "blue": 22,
@@ -329,14 +328,14 @@
             },
             "Killed Planes": {
               "blue": 0,
-              "red": 1
+              "red": 2
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 5,
+              "blue": 7,
               "red": 0
             },
             "Sunken Ships": {
@@ -349,7 +348,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 01:04:42 UTC",
+        "lastUpdate": "26-03-14 01:09:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -362,8 +361,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:02:49",
-        "missionDate": "2024-10-31 19:27:49",
+        "missionTime": "4:07:49",
+        "missionDate": "2024-10-31 19:32:49",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -443,7 +442,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 01:04:43 UTC",
+        "lastUpdate": "26-03-14 01:09:42 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -457,8 +456,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:03:06",
-      "missionDate": "2026-04-21 12:18:06",
+      "missionTime": "4:08:06",
+      "missionDate": "2026-04-21 12:23:06",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -550,11 +549,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 01:04:41 UTC",
+      "lastUpdate": "26-03-14 01:09:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-14T01:05:18.772Z"
+    "lastUpdated": "2026-03-14T01:10:22.799Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -618,7 +617,7 @@
           {
             "rank": 4,
             "name": "101ArmOn1453",
-            "credits": 5754
+            "credits": 5784
           },
           {
             "rank": 5,
@@ -627,12 +626,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 55161,
+          "totalCredits": 55191,
           "totalPlayers": 61,
           "activePilots": "5",
           "highestScore": 8419
         },
-        "lastUpdate": "🕒 Son guncelleme: 14.03.2026 04:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 14.03.2026 04:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -673,7 +672,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-14T01:05:18.985Z"
+    "lastUpdated": "2026-03-14T01:10:22.978Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2685,11 +2684,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-14T01:05:19.602Z",
+    "lastUpdated": "2026-03-14T01:10:23.527Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-14T01:05:20.038Z",
+    "fetchedAt": "2026-03-14T01:10:23.908Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
