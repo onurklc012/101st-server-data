@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "2:02:41",
-        "missionDate": "2026-04-21 10:17:41",
+        "missionTime": "2:07:41",
+        "missionDate": "2026-04-21 10:22:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 5,
             "total": 134
           },
           "red": {
@@ -32,14 +32,18 @@
         },
         "playerList": [
           "CanAda",
+          "FatihEmin19",
           "Phantom2020",
           "cagri",
-          "FatihEmin19",
           "f22"
         ],
         "playerDetails": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "FatihEmin19",
             "unit": "F-16C_50"
           },
           {
@@ -51,12 +55,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "FatihEmin19",
-            "unit": "--"
-          },
-          {
             "name": "f22",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -66,25 +66,24 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "FatihEmin19",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "Phantom2020",
               "unit": "F-16C_50"
             },
             {
               "name": "cagri",
               "unit": "F-16C_50"
-            }
-          ],
-          "red": [],
-          "neutral": [
-            {
-              "name": "FatihEmin19",
-              "unit": "--"
             },
             {
               "name": "f22",
-              "unit": "--"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -140,7 +139,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:04:51 UTC",
+        "lastUpdate": "26-03-14 23:09:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -153,8 +152,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:02:41",
-        "missionDate": "2026-08-01 14:07:41",
+        "missionTime": "2:07:41",
+        "missionDate": "2026-08-01 14:12:41",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -234,21 +233,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:04:41 UTC",
+        "lastUpdate": "26-03-14 23:09:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［7／32］",
+        "channelName": "🖥️┃syria-dynamic［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 7,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "0:52:42",
-        "missionDate": "2025-07-01 18:52:42",
+        "missionTime": "0:58:50",
+        "missionDate": "2025-07-01 18:58:50",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -259,7 +258,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 4,
             "total": 122
           },
           "red": {
@@ -268,18 +267,12 @@
           }
         },
         "playerList": [
-          "101\\-Tunay \\[5555\\]",
           "KAYAR",
           "SANTONA",
           "ottoTR",
-          "⍟101\\-Longec\\[0007\\]⍟",
           "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          },
           {
             "name": "KAYAR",
             "unit": "F-16C_50"
@@ -293,20 +286,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "⍟101\\-Longec\\[0007\\]⍟",
-            "unit": "AH-64D_BLK_II"
-          },
-          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
           "blue": [
-            {
-              "name": "101\\-Tunay \\[5555\\]",
-              "unit": "F-16C_50"
-            },
             {
               "name": "KAYAR",
               "unit": "F-16C_50"
@@ -318,10 +303,6 @@
             {
               "name": "ottoTR",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "⍟101\\-Longec\\[0007\\]⍟",
-              "unit": "AH-64D_BLK_II"
             },
             {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
@@ -338,16 +319,16 @@
               "red": 38
             },
             "Planes": {
-              "blue": 14,
-              "red": 11
+              "blue": 10,
+              "red": 19
             },
             "Helicopters": {
-              "blue": 1,
-              "red": 4
+              "blue": 0,
+              "red": 6
             },
             "Ground Units": {
               "blue": 289,
-              "red": 1134
+              "red": 1144
             },
             "Ships": {
               "blue": 22,
@@ -355,7 +336,7 @@
             },
             "Structures": {
               "blue": 17,
-              "red": 116
+              "red": 115
             }
           },
           "achievements": {
@@ -365,14 +346,14 @@
             },
             "Killed Planes": {
               "blue": 2,
-              "red": 0
+              "red": 2
             },
             "Downed Helicopters": {
               "blue": 0,
-              "red": 1
+              "red": 2
             },
             "Ground Shacks": {
-              "blue": 6,
+              "blue": 13,
               "red": 0
             },
             "Sunken Ships": {
@@ -385,7 +366,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:04:06 UTC",
+        "lastUpdate": "26-03-14 23:10:06 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -398,8 +379,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "2:02:14",
-        "missionDate": "2024-10-31 17:27:14",
+        "missionTime": "2:07:14",
+        "missionDate": "2024-10-31 17:32:14",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -500,7 +481,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-14 23:04:42 UTC",
+        "lastUpdate": "26-03-14 23:09:42 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -514,8 +495,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "2:02:41",
-      "missionDate": "2026-04-21 10:17:41",
+      "missionTime": "2:07:41",
+      "missionDate": "2026-04-21 10:22:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -526,7 +507,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -536,14 +517,18 @@
       },
       "playerList": [
         "CanAda",
+        "FatihEmin19",
         "Phantom2020",
         "cagri",
-        "FatihEmin19",
         "f22"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "FatihEmin19",
           "unit": "F-16C_50"
         },
         {
@@ -555,12 +540,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "FatihEmin19",
-          "unit": "--"
-        },
-        {
           "name": "f22",
-          "unit": "--"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -570,25 +551,24 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "FatihEmin19",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
             "name": "cagri",
             "unit": "F-16C_50"
-          }
-        ],
-        "red": [],
-        "neutral": [
-          {
-            "name": "FatihEmin19",
-            "unit": "--"
           },
           {
             "name": "f22",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -644,11 +624,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-14 23:04:51 UTC",
+      "lastUpdate": "26-03-14 23:09:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-14T23:05:18.964Z"
+    "lastUpdated": "2026-03-14T23:10:23.187Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -721,12 +701,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 59903,
+          "totalCredits": 59803,
           "totalPlayers": 64,
           "activePilots": "5",
           "highestScore": 8301
         },
-        "lastUpdate": "🕒 Son guncelleme: 15.03.2026 02:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 15.03.2026 02:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -767,7 +747,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-14T23:05:19.117Z"
+    "lastUpdated": "2026-03-14T23:10:23.381Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2713,11 +2693,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-14T23:05:19.611Z",
+    "lastUpdated": "2026-03-14T23:10:23.964Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-14T23:05:20.033Z",
+    "fetchedAt": "2026-03-14T23:10:24.884Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
