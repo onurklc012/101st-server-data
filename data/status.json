@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:27:41",
-        "missionDate": "2026-04-21 12:42:41",
+        "missionTime": "4:32:41",
+        "missionDate": "2026-04-21 12:47:41",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 1,
             "total": 134
           },
           "red": {
@@ -32,7 +32,7 @@
         },
         "playerList": [
           "FatihEmin19",
-          "selman"
+          "Hançer 2"
         ],
         "playerDetails": [
           {
@@ -40,8 +40,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "selman",
-            "unit": "F-15C"
+            "name": "Hançer 2",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -49,14 +49,15 @@
             {
               "name": "FatihEmin19",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "selman",
-              "unit": "F-15C"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Hançer 2",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -112,7 +113,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 01:29:41 UTC",
+        "lastUpdate": "26-03-15 01:34:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -125,8 +126,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:27:41",
-        "missionDate": "2026-08-01 16:32:41",
+        "missionTime": "4:32:41",
+        "missionDate": "2026-08-01 16:37:41",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -206,21 +207,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 01:29:42 UTC",
+        "lastUpdate": "26-03-15 01:34:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［5／32］",
+        "channelName": "🖥️┃syria-dynamic［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 5,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "3:19:48",
-        "missionDate": "2025-07-01 21:19:48",
+        "missionTime": "3:24:51",
+        "missionDate": "2025-07-01 21:24:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -231,7 +232,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 122
           },
           "red": {
@@ -242,8 +243,7 @@
         "playerList": [
           "101\\-HotelTango",
           "KAYAR",
-          "PENÇE",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "PENÇE"
         ],
         "playerDetails": [
           {
@@ -256,10 +256,6 @@
           },
           {
             "name": "PENÇE",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-16C_50"
           }
         ],
@@ -275,10 +271,6 @@
             },
             {
               "name": "PENÇE",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "✯101\\-Emrecan\\[0444\\]✯",
               "unit": "F-16C_50"
             }
           ],
@@ -339,7 +331,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 01:29:51 UTC",
+        "lastUpdate": "26-03-15 01:34:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -352,14 +344,14 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:27:14",
-        "missionDate": "2024-10-31 19:52:14",
+        "missionTime": "4:32:14",
+        "missionDate": "2024-10-31 19:57:14",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
           "clouds": "Two Layers Scattered Large Clouds High Ceiling",
           "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
+          "visibility": "28,101 m / 17.46 SM",
           "wind": "50° / 4 kts"
         },
         "slots": {
@@ -386,16 +378,16 @@
               "red": 35
             },
             "Planes": {
-              "blue": 6,
-              "red": 3
+              "blue": 3,
+              "red": 1
             },
             "Helicopters": {
               "blue": 0,
-              "red": 1
+              "red": 3
             },
             "Ground Units": {
               "blue": 43,
-              "red": 1065
+              "red": 1070
             },
             "Ships": {
               "blue": 8,
@@ -433,7 +425,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 01:29:42 UTC",
+        "lastUpdate": "26-03-15 01:34:43 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -447,8 +439,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:27:41",
-      "missionDate": "2026-04-21 12:42:41",
+      "missionTime": "4:32:41",
+      "missionDate": "2026-04-21 12:47:41",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -459,7 +451,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -469,7 +461,7 @@
       },
       "playerList": [
         "FatihEmin19",
-        "selman"
+        "Hançer 2"
       ],
       "playerDetails": [
         {
@@ -477,8 +469,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "selman",
-          "unit": "F-15C"
+          "name": "Hançer 2",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -486,14 +478,15 @@
           {
             "name": "FatihEmin19",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "selman",
-            "unit": "F-15C"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Hançer 2",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -549,11 +542,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 01:29:41 UTC",
+      "lastUpdate": "26-03-15 01:34:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-15T01:30:24.907Z"
+    "lastUpdated": "2026-03-15T01:35:17.783Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -672,7 +665,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-15T01:30:25.063Z"
+    "lastUpdated": "2026-03-15T01:35:17.911Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2618,11 +2611,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-15T01:30:25.983Z",
+    "lastUpdated": "2026-03-15T01:35:18.356Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-15T01:30:26.483Z",
+    "fetchedAt": "2026-03-15T01:35:18.741Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
