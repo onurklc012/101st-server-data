@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［7／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 7,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "0:58:08",
-        "missionDate": "2026-04-21 09:13:08",
+        "missionTime": "1:03:08",
+        "missionDate": "2026-04-21 09:18:08",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -36,8 +36,8 @@
           "cagri",
           "f22",
           "izmiraviation\\.offical",
-          "POSEİDON",
-          "YEİS"
+          "Furkanukc1",
+          "yzb\\.taha"
         ],
         "playerDetails": [
           {
@@ -61,11 +61,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "POSEİDON",
+            "name": "Furkanukc1",
             "unit": "--"
           },
           {
-            "name": "YEİS",
+            "name": "yzb\\.taha",
             "unit": "--"
           }
         ],
@@ -95,11 +95,11 @@
           "red": [],
           "neutral": [
             {
-              "name": "POSEİDON",
+              "name": "Furkanukc1",
               "unit": "--"
             },
             {
-              "name": "YEİS",
+              "name": "yzb\\.taha",
               "unit": "--"
             }
           ]
@@ -158,7 +158,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 22:00:01 UTC",
+        "lastUpdate": "26-03-15 22:04:51 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -171,8 +171,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:58:01",
-        "missionDate": "2026-08-01 13:03:01",
+        "missionTime": "1:03:01",
+        "missionDate": "2026-08-01 13:08:01",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -252,7 +252,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:59:41 UTC",
+        "lastUpdate": "26-03-15 22:04:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -265,8 +265,8 @@
         "map": "Syria",
         "players": 9,
         "maxPlayers": 32,
-        "missionTime": "0:57:43",
-        "missionDate": "2025-07-01 18:57:43",
+        "missionTime": "1:02:43",
+        "missionDate": "2025-07-01 19:02:43",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -277,7 +277,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 8,
             "total": 122
           },
           "red": {
@@ -288,12 +288,12 @@
         "playerList": [
           "101ArmOn1453",
           "101\\-HotelTango",
+          "101\\-Nos",
           "101\\-Tunay \\[5555\\]",
           "PENÇE",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "✯101\\-Emrecan\\[0444\\]✯",
-          "101\\-Nos",
-          "✯101\\-EffBee\\[0010\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
           {
@@ -302,7 +302,11 @@
           },
           {
             "name": "101\\-HotelTango",
-            "unit": "F-5E-3"
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Nos",
+            "unit": "F-16C_50"
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
@@ -317,16 +321,12 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "F-4E-45MC (crew)"
+          },
+          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-4E-45MC"
-          },
-          {
-            "name": "101\\-Nos",
-            "unit": "--"
-          },
-          {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -337,7 +337,11 @@
             },
             {
               "name": "101\\-HotelTango",
-              "unit": "F-5E-3"
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "101\\-Nos",
+              "unit": "F-16C_50"
             },
             {
               "name": "101\\-Tunay \\[5555\\]",
@@ -352,21 +356,16 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "F-4E-45MC (crew)"
+            },
+            {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
               "unit": "F-4E-45MC"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Nos",
-              "unit": "--"
-            },
-            {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -422,7 +421,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:59:42 UTC",
+        "lastUpdate": "26-03-15 22:04:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -435,8 +434,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:57:48",
-        "missionDate": "2024-10-31 16:22:48",
+        "missionTime": "1:02:48",
+        "missionDate": "2024-10-31 16:27:48",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -469,12 +468,12 @@
               "red": 35
             },
             "Planes": {
-              "blue": 4,
-              "red": 3
+              "blue": 5,
+              "red": 1
             },
             "Helicopters": {
               "blue": 1,
-              "red": 3
+              "red": 1
             },
             "Ground Units": {
               "blue": 37,
@@ -516,22 +515,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:59:43 UTC",
+        "lastUpdate": "26-03-15 22:04:42 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "0:58:08",
-      "missionDate": "2026-04-21 09:13:08",
+      "missionTime": "1:03:08",
+      "missionDate": "2026-04-21 09:18:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -556,8 +555,8 @@
         "cagri",
         "f22",
         "izmiraviation\\.offical",
-        "POSEİDON",
-        "YEİS"
+        "Furkanukc1",
+        "yzb\\.taha"
       ],
       "playerDetails": [
         {
@@ -581,11 +580,11 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "POSEİDON",
+          "name": "Furkanukc1",
           "unit": "--"
         },
         {
-          "name": "YEİS",
+          "name": "yzb\\.taha",
           "unit": "--"
         }
       ],
@@ -615,11 +614,11 @@
         "red": [],
         "neutral": [
           {
-            "name": "POSEİDON",
+            "name": "Furkanukc1",
             "unit": "--"
           },
           {
-            "name": "YEİS",
+            "name": "yzb\\.taha",
             "unit": "--"
           }
         ]
@@ -678,11 +677,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 22:00:01 UTC",
+      "lastUpdate": "26-03-15 22:04:51 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-15T22:00:28.263Z"
+    "lastUpdated": "2026-03-15T22:05:16.767Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -801,7 +800,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-15T22:00:28.458Z"
+    "lastUpdated": "2026-03-15T22:05:16.891Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2747,11 +2746,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-15T22:00:29.003Z",
+    "lastUpdated": "2026-03-15T22:05:19.359Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-15T22:00:29.490Z",
+    "fetchedAt": "2026-03-15T22:05:19.905Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
