@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:13:17",
-      "missionDate": "2026-04-21 09:28:17",
+      "missionTime": "1:18:17",
+      "missionDate": "2026-04-21 09:33:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -32,6 +32,7 @@
       "playerList": [
         "CanAda",
         "SKK asaf",
+        "cassaba",
         "jovia"
       ],
       "playerDetails": [
@@ -42,6 +43,10 @@
         {
           "name": "SKK asaf",
           "unit": "MB-339A"
+        },
+        {
+          "name": "cassaba",
+          "unit": "F-16C_50"
         },
         {
           "name": "jovia",
@@ -57,6 +62,10 @@
           {
             "name": "SKK asaf",
             "unit": "MB-339A"
+          },
+          {
+            "name": "cassaba",
+            "unit": "F-16C_50"
           },
           {
             "name": "jovia",
@@ -120,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:14:41 UTC",
+      "lastUpdate": "26-03-15 16:19:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -133,8 +142,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:12:59",
-      "missionDate": "2026-08-01 13:17:59",
+      "missionTime": "1:17:59",
+      "missionDate": "2026-08-01 13:22:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -214,21 +223,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:14:41 UTC",
+      "lastUpdate": "26-03-15 16:19:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:12:40",
-      "missionDate": "2025-07-01 19:12:40",
+      "missionTime": "1:17:40",
+      "missionDate": "2025-07-01 19:17:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -239,7 +248,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -247,22 +256,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "101\\-Tunay \\[5555\\]"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -273,16 +270,16 @@
             "red": 36
           },
           "Planes": {
-            "blue": 8,
+            "blue": 4,
             "red": 1
           },
           "Helicopters": {
-            "blue": 4,
+            "blue": 5,
             "red": 8
           },
           "Ground Units": {
-            "blue": 324,
-            "red": 1204
+            "blue": 325,
+            "red": 1205
           },
           "Ships": {
             "blue": 22,
@@ -300,7 +297,7 @@
           },
           "Killed Planes": {
             "blue": 8,
-            "red": 2
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -320,7 +317,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:14:42 UTC",
+      "lastUpdate": "26-03-15 16:19:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -333,8 +330,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:12:46",
-      "missionDate": "2024-10-31 16:37:46",
+      "missionTime": "1:17:46",
+      "missionDate": "2024-10-31 16:42:46",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -414,22 +411,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:14:43 UTC",
+      "lastUpdate": "26-03-15 16:19:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "1:13:17",
-    "missionDate": "2026-04-21 09:28:17",
+    "missionTime": "1:18:17",
+    "missionDate": "2026-04-21 09:33:17",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -451,6 +448,7 @@
     "playerList": [
       "CanAda",
       "SKK asaf",
+      "cassaba",
       "jovia"
     ],
     "playerDetails": [
@@ -461,6 +459,10 @@
       {
         "name": "SKK asaf",
         "unit": "MB-339A"
+      },
+      {
+        "name": "cassaba",
+        "unit": "F-16C_50"
       },
       {
         "name": "jovia",
@@ -476,6 +478,10 @@
         {
           "name": "SKK asaf",
           "unit": "MB-339A"
+        },
+        {
+          "name": "cassaba",
+          "unit": "F-16C_50"
         },
         {
           "name": "jovia",
@@ -539,9 +545,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 16:14:41 UTC",
+    "lastUpdate": "26-03-15 16:19:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T16:15:21.675Z"
+  "lastUpdated": "2026-03-15T16:20:25.065Z"
 }
