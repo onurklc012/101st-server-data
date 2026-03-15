@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:53:35",
-      "missionDate": "2026-04-21 12:08:35",
+      "missionTime": "3:58:35",
+      "missionDate": "2026-04-21 12:13:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -120,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 12:54:41 UTC",
+      "lastUpdate": "26-03-15 12:59:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -133,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:53:24",
-      "missionDate": "2026-08-01 15:58:24",
+      "missionTime": "3:58:24",
+      "missionDate": "2026-08-01 16:03:24",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -214,21 +214,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 12:54:41 UTC",
+      "lastUpdate": "26-03-15 12:59:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［4／32］",
+      "channelName": "🖥️┃syria-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:52:47",
-      "missionDate": "2025-07-01 21:52:47",
+      "missionTime": "3:57:47",
+      "missionDate": "2025-07-01 21:57:47",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -250,7 +250,8 @@
       "playerList": [
         "101\\-HotelTango",
         "101\\-Shadow\\[1881\\]",
-        "Omry"
+        "Omry",
+        "101\\-AsilTurq"
       ],
       "playerDetails": [
         {
@@ -264,6 +265,10 @@
         {
           "name": "Omry",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-AsilTurq",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -282,7 +287,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-AsilTurq",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -292,15 +302,15 @@
           },
           "Planes": {
             "blue": 8,
-            "red": 21
+            "red": 19
           },
           "Helicopters": {
             "blue": 1,
-            "red": 5
+            "red": 8
           },
           "Ground Units": {
             "blue": 290,
-            "red": 1130
+            "red": 1123
           },
           "Ships": {
             "blue": 22,
@@ -317,15 +327,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 6,
-            "red": 14
+            "blue": 10,
+            "red": 18
           },
           "Downed Helicopters": {
             "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 30,
+            "blue": 42,
             "red": 0
           },
           "Sunken Ships": {
@@ -338,7 +348,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 12:54:42 UTC",
+      "lastUpdate": "26-03-15 12:59:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -351,8 +361,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:53:22",
-      "missionDate": "2024-10-31 19:18:22",
+      "missionTime": "3:58:22",
+      "missionDate": "2024-10-31 19:23:22",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -432,7 +442,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 12:54:42 UTC",
+      "lastUpdate": "26-03-15 12:59:42 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -446,8 +456,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "3:53:35",
-    "missionDate": "2026-04-21 12:08:35",
+    "missionTime": "3:58:35",
+    "missionDate": "2026-04-21 12:13:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -557,9 +567,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 12:54:41 UTC",
+    "lastUpdate": "26-03-15 12:59:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T12:55:20.023Z"
+  "lastUpdated": "2026-03-15T13:00:28.066Z"
 }
