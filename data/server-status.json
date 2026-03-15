@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:18:17",
-      "missionDate": "2026-04-21 12:33:17",
+      "missionTime": "4:23:17",
+      "missionDate": "2026-04-21 12:38:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,59 +21,19 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 134
         },
         "red": {
-          "used": 2,
+          "used": 0,
           "total": 16
         }
       },
-      "playerList": [
-        "Phantom2020",
-        "Somon",
-        "Bandit",
-        "rte"
-      ],
-      "playerDetails": [
-        {
-          "name": "Phantom2020",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Somon",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Bandit",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "rte",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Phantom2020",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Somon",
-            "unit": "FA-18C_hornet"
-          }
-        ],
-        "red": [
-          {
-            "name": "Bandit",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "rte",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
+        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -130,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 19:19:41 UTC",
+      "lastUpdate": "26-03-15 19:25:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -143,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:17:59",
-      "missionDate": "2026-08-01 16:22:59",
+      "missionTime": "4:22:59",
+      "missionDate": "2026-08-01 16:27:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -224,7 +184,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 19:19:42 UTC",
+      "lastUpdate": "26-03-15 19:24:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -237,8 +197,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:17:40",
-      "missionDate": "2025-07-01 22:17:40",
+      "missionTime": "4:22:40",
+      "missionDate": "2025-07-01 22:22:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -292,16 +252,16 @@
             "red": 35
           },
           "Planes": {
-            "blue": 11,
-            "red": 17
+            "blue": 9,
+            "red": 19
           },
           "Helicopters": {
             "blue": 8,
             "red": 8
           },
           "Ground Units": {
-            "blue": 360,
-            "red": 1316
+            "blue": 358,
+            "red": 1315
           },
           "Ships": {
             "blue": 22,
@@ -326,7 +286,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 3,
+            "blue": 4,
             "red": 0
           },
           "Sunken Ships": {
@@ -339,7 +299,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 19:19:42 UTC",
+      "lastUpdate": "26-03-15 19:24:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -352,8 +312,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:17:46",
-      "missionDate": "2024-10-31 19:42:46",
+      "missionTime": "4:22:46",
+      "missionDate": "2024-10-31 19:47:46",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -386,12 +346,12 @@
             "red": 35
           },
           "Planes": {
-            "blue": 6,
-            "red": 1
+            "blue": 5,
+            "red": 2
           },
           "Helicopters": {
             "blue": 0,
-            "red": 0
+            "red": 1
           },
           "Ground Units": {
             "blue": 39,
@@ -433,22 +393,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 19:19:43 UTC",
+      "lastUpdate": "26-03-15 19:24:42 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "4:18:17",
-    "missionDate": "2026-04-21 12:33:17",
+    "missionTime": "4:23:17",
+    "missionDate": "2026-04-21 12:38:17",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -459,59 +419,19 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 0,
         "total": 134
       },
       "red": {
-        "used": 2,
+        "used": 0,
         "total": 16
       }
     },
-    "playerList": [
-      "Phantom2020",
-      "Somon",
-      "Bandit",
-      "rte"
-    ],
-    "playerDetails": [
-      {
-        "name": "Phantom2020",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Somon",
-        "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "Bandit",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "rte",
-        "unit": "F-16C_50"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "Phantom2020",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Somon",
-          "unit": "FA-18C_hornet"
-        }
-      ],
-      "red": [
-        {
-          "name": "Bandit",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "rte",
-          "unit": "F-16C_50"
-        }
-      ],
+      "blue": [],
+      "red": [],
       "neutral": []
     },
     "missionStats": {
@@ -568,9 +488,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 19:19:41 UTC",
+    "lastUpdate": "26-03-15 19:25:11 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T19:20:23.907Z"
+  "lastUpdated": "2026-03-15T19:25:20.958Z"
 }
