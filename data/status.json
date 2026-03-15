@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 10,
         "maxPlayers": 32,
-        "missionTime": "0:38:08",
-        "missionDate": "2026-04-21 08:53:08",
+        "missionTime": "0:43:08",
+        "missionDate": "2026-04-21 08:58:08",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 9,
+            "used": 8,
             "total": 134
           },
           "red": {
@@ -31,7 +31,6 @@
           }
         },
         "playerList": [
-          "Darkn",
           "FatihEmin19",
           "LastEagle",
           "Phantom2020",
@@ -39,13 +38,10 @@
           "cagri",
           "f22",
           "izmiraviation\\.offical",
-          "jovia"
+          "jovia",
+          "Furkanukc1"
         ],
         "playerDetails": [
-          {
-            "name": "Darkn",
-            "unit": "MB-339A"
-          },
           {
             "name": "FatihEmin19",
             "unit": "F-16C_50"
@@ -77,14 +73,14 @@
           {
             "name": "jovia",
             "unit": "MB-339A"
+          },
+          {
+            "name": "Furkanukc1",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
-            {
-              "name": "Darkn",
-              "unit": "MB-339A"
-            },
             {
               "name": "FatihEmin19",
               "unit": "F-16C_50"
@@ -119,7 +115,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Furkanukc1",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -175,7 +176,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:39:41 UTC",
+        "lastUpdate": "26-03-15 21:44:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -188,8 +189,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:38:01",
-        "missionDate": "2026-08-01 12:43:01",
+        "missionTime": "0:43:01",
+        "missionDate": "2026-08-01 12:48:01",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -269,21 +270,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:39:42 UTC",
+        "lastUpdate": "26-03-15 21:44:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［6／32］",
+        "channelName": "🖥️┃syria-dynamic［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
         "map": "Syria",
-        "players": 6,
+        "players": 7,
         "maxPlayers": 32,
-        "missionTime": "0:37:43",
-        "missionDate": "2025-07-01 18:37:43",
+        "missionTime": "0:42:43",
+        "missionDate": "2025-07-01 18:42:43",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -294,7 +295,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 122
           },
           "red": {
@@ -306,8 +307,9 @@
           "101ArmOn1453",
           "101\\-Tunay \\[5555\\]",
           "PENÇE",
-          "✯101\\-EffBee\\[0010\\]✯",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
@@ -323,11 +325,15 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "F-4E-45MC"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "--"
           },
           {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "--"
           }
         ],
@@ -344,16 +350,20 @@
             {
               "name": "PENÇE",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "F-4E-45MC"
             }
           ],
           "red": [],
           "neutral": [
             {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
               "unit": "--"
             },
             {
-              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "name": "✯101\\-EffBee\\[0010\\]✯",
               "unit": "--"
             }
           ]
@@ -365,16 +375,16 @@
               "red": 35
             },
             "Planes": {
-              "blue": 2,
-              "red": 1
+              "blue": 7,
+              "red": 8
             },
             "Helicopters": {
-              "blue": 0,
-              "red": 0
+              "blue": 1,
+              "red": 7
             },
             "Ground Units": {
               "blue": 355,
-              "red": 1052
+              "red": 1104
             },
             "Ships": {
               "blue": 22,
@@ -391,15 +401,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
-              "red": 0
+              "blue": 3,
+              "red": 1
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 0,
+              "blue": 13,
               "red": 0
             },
             "Sunken Ships": {
@@ -412,7 +422,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:39:42 UTC",
+        "lastUpdate": "26-03-15 21:44:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -425,8 +435,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:37:48",
-        "missionDate": "2024-10-31 16:02:48",
+        "missionTime": "0:42:48",
+        "missionDate": "2024-10-31 16:07:48",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -506,7 +516,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 21:39:43 UTC",
+        "lastUpdate": "26-03-15 21:44:43 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -520,8 +530,8 @@
       "map": "Caucasus",
       "players": 10,
       "maxPlayers": 32,
-      "missionTime": "0:38:08",
-      "missionDate": "2026-04-21 08:53:08",
+      "missionTime": "0:43:08",
+      "missionDate": "2026-04-21 08:58:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -532,7 +542,7 @@
       },
       "slots": {
         "blue": {
-          "used": 9,
+          "used": 8,
           "total": 134
         },
         "red": {
@@ -541,7 +551,6 @@
         }
       },
       "playerList": [
-        "Darkn",
         "FatihEmin19",
         "LastEagle",
         "Phantom2020",
@@ -549,13 +558,10 @@
         "cagri",
         "f22",
         "izmiraviation\\.offical",
-        "jovia"
+        "jovia",
+        "Furkanukc1"
       ],
       "playerDetails": [
-        {
-          "name": "Darkn",
-          "unit": "MB-339A"
-        },
         {
           "name": "FatihEmin19",
           "unit": "F-16C_50"
@@ -587,14 +593,14 @@
         {
           "name": "jovia",
           "unit": "MB-339A"
+        },
+        {
+          "name": "Furkanukc1",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "Darkn",
-            "unit": "MB-339A"
-          },
           {
             "name": "FatihEmin19",
             "unit": "F-16C_50"
@@ -629,7 +635,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Furkanukc1",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -685,11 +696,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 21:39:41 UTC",
+      "lastUpdate": "26-03-15 21:44:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-15T21:40:21.010Z"
+    "lastUpdated": "2026-03-15T21:45:23.764Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -808,7 +819,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-15T21:40:21.234Z"
+    "lastUpdated": "2026-03-15T21:45:24.018Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2754,11 +2765,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-15T21:40:21.909Z",
+    "lastUpdated": "2026-03-15T21:45:24.922Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-15T21:40:22.385Z",
+    "fetchedAt": "2026-03-15T21:45:25.582Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
