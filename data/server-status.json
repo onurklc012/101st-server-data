@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:48:17",
-      "missionDate": "2026-04-21 11:03:17",
+      "missionTime": "2:53:17",
+      "missionDate": "2026-04-21 11:08:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -31,13 +31,17 @@
       },
       "playerList": [
         "CanAda",
+        "cagri",
         "Somon",
-        "rte",
-        "cagri"
+        "rte"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "cagri",
           "unit": "F-16C_50"
         },
         {
@@ -47,16 +51,16 @@
         {
           "name": "rte",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "cagri",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "cagri",
             "unit": "F-16C_50"
           }
         ],
@@ -70,12 +74,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "cagri",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -131,7 +130,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:49:51 UTC",
+      "lastUpdate": "26-03-15 17:54:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -144,8 +143,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:47:59",
-      "missionDate": "2026-08-01 14:52:59",
+      "missionTime": "2:52:59",
+      "missionDate": "2026-08-01 14:57:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -225,21 +224,21 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:49:41 UTC",
+      "lastUpdate": "26-03-15 17:54:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Syria \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:47:40",
-      "missionDate": "2025-07-01 20:47:40",
+      "missionTime": "2:52:40",
+      "missionDate": "2025-07-01 20:52:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -258,12 +257,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Tunay \\[5555\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -319,7 +330,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:49:42 UTC",
+      "lastUpdate": "26-03-15 17:54:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -332,8 +343,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:47:46",
-      "missionDate": "2024-10-31 18:12:46",
+      "missionTime": "2:52:47",
+      "missionDate": "2024-10-31 18:17:47",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -413,7 +424,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:49:43 UTC",
+      "lastUpdate": "26-03-15 17:54:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -427,8 +438,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "2:48:17",
-    "missionDate": "2026-04-21 11:03:17",
+    "missionTime": "2:53:17",
+    "missionDate": "2026-04-21 11:08:17",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -439,7 +450,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -449,13 +460,17 @@
     },
     "playerList": [
       "CanAda",
+      "cagri",
       "Somon",
-      "rte",
-      "cagri"
+      "rte"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "cagri",
         "unit": "F-16C_50"
       },
       {
@@ -465,16 +480,16 @@
       {
         "name": "rte",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "cagri",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "cagri",
           "unit": "F-16C_50"
         }
       ],
@@ -488,12 +503,7 @@
           "unit": "F-16C_50"
         }
       ],
-      "neutral": [
-        {
-          "name": "cagri",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -549,9 +559,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 17:49:51 UTC",
+    "lastUpdate": "26-03-15 17:54:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T17:50:21.972Z"
+  "lastUpdated": "2026-03-15T17:55:20.262Z"
 }
