@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "5:58:17",
-      "missionDate": "2026-04-21 14:13:17",
+      "missionTime": "0:03:08",
+      "missionDate": "2026-04-21 08:18:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -35,7 +35,9 @@
         "SKK asaf",
         "eyo",
         "f22",
-        "jovia"
+        "jovia",
+        "Darkn",
+        "izmiraviation\\.offical"
       ],
       "playerDetails": [
         {
@@ -61,6 +63,14 @@
         {
           "name": "jovia",
           "unit": "MB-339A"
+        },
+        {
+          "name": "Darkn",
+          "unit": "--"
+        },
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -91,7 +101,16 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Darkn",
+            "unit": "--"
+          },
+          {
+            "name": "izmiraviation\\.offical",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -100,8 +119,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 15,
-            "red": 13
+            "blue": 13,
+            "red": 18
           },
           "Helicopters": {
             "blue": 2,
@@ -109,7 +128,7 @@
           },
           "Ground Units": {
             "blue": 52,
-            "red": 298
+            "red": 308
           },
           "Ships": {
             "blue": 10,
@@ -126,15 +145,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 10
+            "blue": 2,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 9,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -147,7 +166,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 20:59:41 UTC",
+      "lastUpdate": "26-03-15 21:04:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -160,8 +179,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:57:59",
-      "missionDate": "2026-08-01 18:02:59",
+      "missionTime": "0:03:01",
+      "missionDate": "2026-08-01 12:08:01",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -195,7 +214,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 23
+            "red": 28
           },
           "Helicopters": {
             "blue": 0,
@@ -207,7 +226,7 @@
           },
           "Ships": {
             "blue": 4,
-            "red": 7
+            "red": 8
           },
           "Structures": {
             "blue": 28,
@@ -241,7 +260,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 20:59:41 UTC",
+      "lastUpdate": "26-03-15 21:04:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -254,8 +273,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:57:40",
-      "missionDate": "2025-07-01 23:57:40",
+      "missionTime": "0:02:43",
+      "missionDate": "2025-07-01 18:02:43",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -266,7 +285,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 122
         },
         "red": {
@@ -281,26 +300,26 @@
       "playerDetails": [
         {
           "name": "101ArmOn1453",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
+          "unit": "--"
         }
       ],
       "activePlayers": {
-        "blue": [
+        "blue": [],
+        "red": [],
+        "neutral": [
           {
             "name": "101ArmOn1453",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
+            "unit": "--"
           }
-        ],
-        "red": [],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -309,16 +328,16 @@
             "red": 35
           },
           "Planes": {
-            "blue": 10,
-            "red": 11
+            "blue": 2,
+            "red": 1
           },
           "Helicopters": {
-            "blue": 6,
-            "red": 11
+            "blue": 0,
+            "red": 0
           },
           "Ground Units": {
-            "blue": 359,
-            "red": 1356
+            "blue": 355,
+            "red": 1052
           },
           "Ships": {
             "blue": 22,
@@ -335,15 +354,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 14,
-            "red": 10
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
-            "blue": 2,
+            "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 26,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -356,7 +375,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 20:59:42 UTC",
+      "lastUpdate": "26-03-15 21:04:43 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -369,14 +388,14 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:57:46",
-      "missionDate": "2024-10-31 21:22:46",
+      "missionTime": "0:02:48",
+      "missionDate": "2024-10-31 15:27:48",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
         "clouds": "Two Layers Scattered Large Clouds High Ceiling",
         "cloudbase": "--",
-        "visibility": "152 m / 0.09 SM",
+        "visibility": "10 km / 6 SM (+)",
         "wind": "50° / 4 kts"
       },
       "slots": {
@@ -450,22 +469,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 20:59:42 UTC",
+      "lastUpdate": "26-03-15 21:04:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［9／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 9,
     "maxPlayers": 32,
-    "missionTime": "5:58:17",
-    "missionDate": "2026-04-21 14:13:17",
+    "missionTime": "0:03:08",
+    "missionDate": "2026-04-21 08:18:08",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -490,7 +509,9 @@
       "SKK asaf",
       "eyo",
       "f22",
-      "jovia"
+      "jovia",
+      "Darkn",
+      "izmiraviation\\.offical"
     ],
     "playerDetails": [
       {
@@ -516,6 +537,14 @@
       {
         "name": "jovia",
         "unit": "MB-339A"
+      },
+      {
+        "name": "Darkn",
+        "unit": "--"
+      },
+      {
+        "name": "izmiraviation\\.offical",
+        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -546,7 +575,16 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Darkn",
+          "unit": "--"
+        },
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "--"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -555,8 +593,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 15,
-          "red": 13
+          "blue": 13,
+          "red": 18
         },
         "Helicopters": {
           "blue": 2,
@@ -564,7 +602,7 @@
         },
         "Ground Units": {
           "blue": 52,
-          "red": 298
+          "red": 308
         },
         "Ships": {
           "blue": 10,
@@ -581,15 +619,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 9,
-          "red": 10
+          "blue": 2,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 9,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -602,9 +640,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 20:59:41 UTC",
+    "lastUpdate": "26-03-15 21:04:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T21:00:29.588Z"
+  "lastUpdated": "2026-03-15T21:05:17.705Z"
 }
