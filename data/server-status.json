@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:53:35",
-      "missionDate": "2026-04-21 13:08:35",
+      "missionTime": "4:57:35",
+      "missionDate": "2026-04-21 13:12:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -55,7 +55,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
+            "blue": 7,
             "red": 17
           },
           "Helicopters": {
@@ -82,7 +82,7 @@
           },
           "Killed Planes": {
             "blue": 3,
-            "red": 0
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 13:54:41 UTC",
+      "lastUpdate": "26-03-15 13:58:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:24",
-      "missionDate": "2026-08-01 16:58:24",
+      "missionTime": "4:57:24",
+      "missionDate": "2026-08-01 17:02:24",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -196,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 13:54:42 UTC",
+      "lastUpdate": "26-03-15 13:58:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -209,8 +209,8 @@
       "map": "Syria",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "0:27:44",
-      "missionDate": "2025-07-01 18:27:44",
+      "missionTime": "0:31:44",
+      "missionDate": "2025-07-01 18:31:44",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -236,7 +236,8 @@
         "101\\-Shadow\\[1881\\]",
         "Omry",
         "PENÇE",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "Börü"
       ],
       "playerDetails": [
         {
@@ -266,6 +267,10 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "Börü",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -300,7 +305,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Börü",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -310,7 +320,7 @@
           },
           "Planes": {
             "blue": 11,
-            "red": 4
+            "red": 7
           },
           "Helicopters": {
             "blue": 2,
@@ -318,7 +328,7 @@
           },
           "Ground Units": {
             "blue": 289,
-            "red": 1085
+            "red": 1084
           },
           "Ships": {
             "blue": 25,
@@ -343,7 +353,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 5,
+            "blue": 6,
             "red": 0
           },
           "Sunken Ships": {
@@ -356,7 +366,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 13:54:42 UTC",
+      "lastUpdate": "26-03-15 13:58:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -369,8 +379,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:22",
-      "missionDate": "2024-10-31 20:18:22",
+      "missionTime": "4:57:22",
+      "missionDate": "2024-10-31 20:22:22",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -450,7 +460,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 13:54:43 UTC",
+      "lastUpdate": "26-03-15 13:58:42 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -464,8 +474,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "4:53:35",
-    "missionDate": "2026-04-21 13:08:35",
+    "missionTime": "4:57:35",
+    "missionDate": "2026-04-21 13:12:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -510,7 +520,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
+          "blue": 7,
           "red": 17
         },
         "Helicopters": {
@@ -537,7 +547,7 @@
         },
         "Killed Planes": {
           "blue": 3,
-          "red": 0
+          "red": 1
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -557,9 +567,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 13:54:41 UTC",
+    "lastUpdate": "26-03-15 13:58:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T13:55:18.853Z"
+  "lastUpdated": "2026-03-15T13:59:17.211Z"
 }
