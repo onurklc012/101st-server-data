@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［5／32］",
+        "channelName": "🖥️┃server-caucasus［6／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 5,
+        "players": 6,
         "maxPlayers": 32,
-        "missionTime": "3:48:17",
-        "missionDate": "2026-04-21 12:03:17",
+        "missionTime": "3:53:17",
+        "missionDate": "2026-04-21 12:08:17",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 134
           },
           "red": {
@@ -32,12 +32,18 @@
         },
         "playerList": [
           "Bandit",
+          "Phantom2020",
           "Somon",
-          "rte"
+          "rte",
+          "Omer"
         ],
         "playerDetails": [
           {
             "name": "Bandit",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
@@ -47,12 +53,20 @@
           {
             "name": "rte",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Omer",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "Bandit",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "Phantom2020",
               "unit": "F-16C_50"
             },
             {
@@ -66,7 +80,12 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Omer",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -122,7 +141,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 18:49:51 UTC",
+        "lastUpdate": "26-03-15 18:54:51 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -135,8 +154,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:47:59",
-        "missionDate": "2026-08-01 15:52:59",
+        "missionTime": "3:52:59",
+        "missionDate": "2026-08-01 15:57:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -216,7 +235,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 18:49:42 UTC",
+        "lastUpdate": "26-03-15 18:54:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +248,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "3:47:40",
-        "missionDate": "2025-07-01 21:47:40",
+        "missionTime": "3:52:40",
+        "missionDate": "2025-07-01 21:52:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -322,21 +341,21 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 18:49:42 UTC",
+        "lastUpdate": "26-03-15 18:54:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［3／32］",
+        "channelName": "🖥️┃caucasus-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 3,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:47:47",
-        "missionDate": "2024-10-31 19:12:47",
+        "missionTime": "3:52:47",
+        "missionDate": "2024-10-31 19:17:47",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -347,7 +366,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 0,
             "total": 69
           },
           "red": {
@@ -355,31 +374,10 @@
             "total": 2
           }
         },
-        "playerList": [
-          "DementeKatze \\| Cat 2\\-1",
-          "wvenv"
-        ],
-        "playerDetails": [
-          {
-            "name": "DementeKatze \\| Cat 2\\-1",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "wvenv",
-            "unit": "FA-18C_hornet"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "DementeKatze \\| Cat 2\\-1",
-              "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "wvenv",
-              "unit": "FA-18C_hornet"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -437,22 +435,22 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 18:49:43 UTC",
+        "lastUpdate": "26-03-15 18:54:42 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:48:17",
-      "missionDate": "2026-04-21 12:03:17",
+      "missionTime": "3:53:17",
+      "missionDate": "2026-04-21 12:08:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -463,7 +461,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -473,12 +471,18 @@
       },
       "playerList": [
         "Bandit",
+        "Phantom2020",
         "Somon",
-        "rte"
+        "rte",
+        "Omer"
       ],
       "playerDetails": [
         {
           "name": "Bandit",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Phantom2020",
           "unit": "F-16C_50"
         },
         {
@@ -488,12 +492,20 @@
         {
           "name": "rte",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Omer",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "Bandit",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
@@ -507,7 +519,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Omer",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -563,11 +580,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 18:49:51 UTC",
+      "lastUpdate": "26-03-15 18:54:51 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-15T18:50:20.619Z"
+    "lastUpdated": "2026-03-15T18:55:20.483Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -686,7 +703,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-15T18:50:20.750Z"
+    "lastUpdated": "2026-03-15T18:55:20.665Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2632,11 +2649,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-15T18:50:21.323Z",
+    "lastUpdated": "2026-03-15T18:55:21.305Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-15T18:50:21.775Z",
+    "fetchedAt": "2026-03-15T18:55:21.738Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
