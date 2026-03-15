@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "2:38:17",
-        "missionDate": "2026-04-21 10:53:17",
+        "missionTime": "2:43:17",
+        "missionDate": "2026-04-21 10:58:17",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,19 +22,19 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 2,
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 1,
             "total": 16
           }
         },
         "playerList": [
           "CanAda",
           "cassaba",
-          "rte",
-          "yigit"
+          "Somon",
+          "rte"
         ],
         "playerDetails": [
           {
@@ -46,11 +46,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "rte",
-            "unit": "F-16C_50"
+            "name": "Somon",
+            "unit": "FA-18C_hornet"
           },
           {
-            "name": "yigit",
+            "name": "rte",
             "unit": "F-16C_50"
           }
         ],
@@ -63,17 +63,18 @@
             {
               "name": "cassaba",
               "unit": "F-16C_50"
+            }
+          ],
+          "red": [
+            {
+              "name": "Somon",
+              "unit": "FA-18C_hornet"
             },
             {
               "name": "rte",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "yigit",
-              "unit": "F-16C_50"
             }
           ],
-          "red": [],
           "neutral": []
         },
         "missionStats": {
@@ -83,7 +84,7 @@
               "red": 23
             },
             "Planes": {
-              "blue": 12,
+              "blue": 9,
               "red": 17
             },
             "Helicopters": {
@@ -92,7 +93,7 @@
             },
             "Ground Units": {
               "blue": 52,
-              "red": 303
+              "red": 300
             },
             "Ships": {
               "blue": 10,
@@ -109,15 +110,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 2,
-              "red": 4
+              "blue": 3,
+              "red": 6
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 5,
+              "blue": 8,
               "red": 0
             },
             "Sunken Ships": {
@@ -130,7 +131,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 17:39:41 UTC",
+        "lastUpdate": "26-03-15 17:44:41 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -143,8 +144,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:37:58",
-        "missionDate": "2026-08-01 14:42:58",
+        "missionTime": "2:42:59",
+        "missionDate": "2026-08-01 14:47:59",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -224,7 +225,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 17:39:41 UTC",
+        "lastUpdate": "26-03-15 17:44:41 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -237,8 +238,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:37:40",
-        "missionDate": "2025-07-01 20:37:40",
+        "missionTime": "2:42:40",
+        "missionDate": "2025-07-01 20:42:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -271,15 +272,15 @@
               "red": 36
             },
             "Planes": {
-              "blue": 7,
-              "red": 7
+              "blue": 9,
+              "red": 9
             },
             "Helicopters": {
               "blue": 6,
               "red": 9
             },
             "Ground Units": {
-              "blue": 325,
+              "blue": 334,
               "red": 1222
             },
             "Ships": {
@@ -318,7 +319,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 17:39:42 UTC",
+        "lastUpdate": "26-03-15 17:44:42 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -331,8 +332,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:37:46",
-        "missionDate": "2024-10-31 18:02:46",
+        "missionTime": "2:42:46",
+        "missionDate": "2024-10-31 18:07:46",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -412,7 +413,7 @@
             }
           }
         },
-        "lastUpdate": "26-03-15 17:39:43 UTC",
+        "lastUpdate": "26-03-15 17:44:43 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -426,8 +427,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:38:17",
-      "missionDate": "2026-04-21 10:53:17",
+      "missionTime": "2:43:17",
+      "missionDate": "2026-04-21 10:58:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -438,19 +439,19 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 2,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "CanAda",
         "cassaba",
-        "rte",
-        "yigit"
+        "Somon",
+        "rte"
       ],
       "playerDetails": [
         {
@@ -462,11 +463,11 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "rte",
-          "unit": "F-16C_50"
+          "name": "Somon",
+          "unit": "FA-18C_hornet"
         },
         {
-          "name": "yigit",
+          "name": "rte",
           "unit": "F-16C_50"
         }
       ],
@@ -479,17 +480,18 @@
           {
             "name": "cassaba",
             "unit": "F-16C_50"
+          }
+        ],
+        "red": [
+          {
+            "name": "Somon",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "rte",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "yigit",
-            "unit": "F-16C_50"
           }
         ],
-        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -499,7 +501,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 12,
+            "blue": 9,
             "red": 17
           },
           "Helicopters": {
@@ -508,7 +510,7 @@
           },
           "Ground Units": {
             "blue": 52,
-            "red": 303
+            "red": 300
           },
           "Ships": {
             "blue": 10,
@@ -525,15 +527,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 4
+            "blue": 3,
+            "red": 6
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 5,
+            "blue": 8,
             "red": 0
           },
           "Sunken Ships": {
@@ -546,11 +548,11 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:39:41 UTC",
+      "lastUpdate": "26-03-15 17:44:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-15T17:40:25.218Z"
+    "lastUpdated": "2026-03-15T17:45:19.794Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -669,7 +671,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-15T17:40:25.513Z"
+    "lastUpdated": "2026-03-15T17:45:19.945Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2615,11 +2617,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-15T17:40:26.196Z",
+    "lastUpdated": "2026-03-15T17:45:20.531Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-15T17:40:26.736Z",
+    "fetchedAt": "2026-03-15T17:45:21.438Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
