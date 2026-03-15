@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:03:17",
-      "missionDate": "2026-04-21 09:18:17",
+      "missionTime": "1:08:17",
+      "missionDate": "2026-04-21 09:23:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,10 +30,15 @@
         }
       },
       "playerList": [
+        "CanAda",
         "SKK asaf",
         "jovia"
       ],
       "playerDetails": [
+        {
+          "name": "CanAda",
+          "unit": "F-16C_50"
+        },
         {
           "name": "SKK asaf",
           "unit": "MB-339A"
@@ -45,6 +50,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "CanAda",
+            "unit": "F-16C_50"
+          },
           {
             "name": "SKK asaf",
             "unit": "MB-339A"
@@ -111,7 +120,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:04:41 UTC",
+      "lastUpdate": "26-03-15 16:09:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:02:59",
-      "missionDate": "2026-08-01 13:07:59",
+      "missionTime": "1:07:59",
+      "missionDate": "2026-08-01 13:12:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +214,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:04:41 UTC",
+      "lastUpdate": "26-03-15 16:09:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -218,8 +227,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:02:40",
-      "missionDate": "2025-07-01 19:02:40",
+      "missionTime": "1:07:40",
+      "missionDate": "2025-07-01 19:07:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -230,7 +239,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 122
         },
         "red": {
@@ -239,17 +248,12 @@
         }
       },
       "playerList": [
-        "101\\-Tunay \\[5555\\]",
-        "101\\-zeshka\\[0035\\]"
+        "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
         {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-zeshka\\[0035\\]",
-          "unit": "Su-25T"
         }
       ],
       "activePlayers": {
@@ -257,10 +261,6 @@
           {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "Su-25T"
           }
         ],
         "red": [],
@@ -273,16 +273,16 @@
             "red": 36
           },
           "Planes": {
-            "blue": 5,
-            "red": 7
-          },
-          "Helicopters": {
-            "blue": 5,
+            "blue": 9,
             "red": 1
           },
+          "Helicopters": {
+            "blue": 4,
+            "red": 5
+          },
           "Ground Units": {
-            "blue": 323,
-            "red": 1137
+            "blue": 324,
+            "red": 1200
           },
           "Ships": {
             "blue": 22,
@@ -299,15 +299,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 0
+            "blue": 8,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Sunken Ships": {
@@ -320,7 +320,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:04:42 UTC",
+      "lastUpdate": "26-03-15 16:10:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -333,8 +333,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:02:47",
-      "missionDate": "2024-10-31 16:27:47",
+      "missionTime": "1:07:47",
+      "missionDate": "2024-10-31 16:32:47",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -375,7 +375,7 @@
             "red": 0
           },
           "Ground Units": {
-            "blue": 38,
+            "blue": 39,
             "red": 1067
           },
           "Ships": {
@@ -414,22 +414,22 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 16:04:43 UTC",
+      "lastUpdate": "26-03-15 16:09:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "1:03:17",
-    "missionDate": "2026-04-21 09:18:17",
+    "missionTime": "1:08:17",
+    "missionDate": "2026-04-21 09:23:17",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -440,7 +440,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -449,10 +449,15 @@
       }
     },
     "playerList": [
+      "CanAda",
       "SKK asaf",
       "jovia"
     ],
     "playerDetails": [
+      {
+        "name": "CanAda",
+        "unit": "F-16C_50"
+      },
       {
         "name": "SKK asaf",
         "unit": "MB-339A"
@@ -464,6 +469,10 @@
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "CanAda",
+          "unit": "F-16C_50"
+        },
         {
           "name": "SKK asaf",
           "unit": "MB-339A"
@@ -530,9 +539,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 16:04:41 UTC",
+    "lastUpdate": "26-03-15 16:09:41 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T16:05:17.947Z"
+  "lastUpdated": "2026-03-15T16:10:22.725Z"
 }
