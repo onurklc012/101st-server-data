@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:43:17",
-      "missionDate": "2026-04-21 10:58:17",
+      "missionTime": "2:48:17",
+      "missionDate": "2026-04-21 11:03:17",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,27 +21,23 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 2,
           "total": 16
         }
       },
       "playerList": [
         "CanAda",
-        "cassaba",
         "Somon",
-        "rte"
+        "rte",
+        "cagri"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "cassaba",
           "unit": "F-16C_50"
         },
         {
@@ -51,16 +47,16 @@
         {
           "name": "rte",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "cagri",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "CanAda",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "cassaba",
             "unit": "F-16C_50"
           }
         ],
@@ -74,7 +70,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "cagri",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -130,7 +131,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:44:41 UTC",
+      "lastUpdate": "26-03-15 17:49:51 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -143,8 +144,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:42:59",
-      "missionDate": "2026-08-01 14:47:59",
+      "missionTime": "2:47:59",
+      "missionDate": "2026-08-01 14:52:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -224,7 +225,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:44:41 UTC",
+      "lastUpdate": "26-03-15 17:49:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -237,8 +238,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:42:40",
-      "missionDate": "2025-07-01 20:42:40",
+      "missionTime": "2:47:40",
+      "missionDate": "2025-07-01 20:47:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -318,7 +319,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:44:42 UTC",
+      "lastUpdate": "26-03-15 17:49:42 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -331,8 +332,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:42:46",
-      "missionDate": "2024-10-31 18:07:46",
+      "missionTime": "2:47:46",
+      "missionDate": "2024-10-31 18:12:46",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -412,7 +413,7 @@
           }
         }
       },
-      "lastUpdate": "26-03-15 17:44:43 UTC",
+      "lastUpdate": "26-03-15 17:49:43 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -426,8 +427,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "2:43:17",
-    "missionDate": "2026-04-21 10:58:17",
+    "missionTime": "2:48:17",
+    "missionDate": "2026-04-21 11:03:17",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -438,27 +439,23 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
-        "used": 1,
+        "used": 2,
         "total": 16
       }
     },
     "playerList": [
       "CanAda",
-      "cassaba",
       "Somon",
-      "rte"
+      "rte",
+      "cagri"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "cassaba",
         "unit": "F-16C_50"
       },
       {
@@ -468,16 +465,16 @@
       {
         "name": "rte",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "cagri",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "cassaba",
           "unit": "F-16C_50"
         }
       ],
@@ -491,7 +488,12 @@
           "unit": "F-16C_50"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "cagri",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -547,9 +549,9 @@
         }
       }
     },
-    "lastUpdate": "26-03-15 17:44:41 UTC",
+    "lastUpdate": "26-03-15 17:49:51 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-15T17:45:19.794Z"
+  "lastUpdated": "2026-03-15T17:50:21.972Z"
 }
