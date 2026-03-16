@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:39:08",
-      "missionDate": "2026-04-21 11:54:08",
+      "missionTime": "3:40:08",
+      "missionDate": "2026-04-21 11:55:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:40:11 UTC",
+      "lastUpdate": "26-03-16 18:41:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:38:51",
-      "missionDate": "2026-08-01 15:43:51",
+      "missionTime": "3:39:51",
+      "missionDate": "2026-08-01 15:44:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:40:12 UTC",
+      "lastUpdate": "26-03-16 18:41:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:38:00",
-      "missionDate": "2025-07-01 10:38:00",
+      "missionTime": "3:39:30",
+      "missionDate": "2025-07-01 10:39:30",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -299,7 +299,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:40:21 UTC",
+      "lastUpdate": "26-03-16 18:42:01 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,8 +312,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:38:45",
-      "missionDate": "2024-10-31 19:03:45",
+      "missionTime": "3:39:45",
+      "missionDate": "2024-10-31 19:04:45",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -335,7 +335,8 @@
       "playerList": [
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
-        "TuAF 152 \\| Börü"
+        "TuAF 152 \\| Börü",
+        "rte"
       ],
       "playerDetails": [
         {
@@ -349,6 +350,10 @@
         {
           "name": "TuAF 152 \\| Börü",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "rte",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -367,7 +372,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "rte",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -422,7 +432,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:40:11 UTC",
+      "lastUpdate": "26-03-16 18:41:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -436,8 +446,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "3:39:08",
-    "missionDate": "2026-04-21 11:54:08",
+    "missionTime": "3:40:08",
+    "missionDate": "2026-04-21 11:55:08",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -528,9 +538,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-16 18:40:11 UTC",
+    "lastUpdate": "26-03-16 18:41:11 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-16T18:40:24.495Z"
+  "lastUpdated": "2026-03-16T18:42:07.402Z"
 }
