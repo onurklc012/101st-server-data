@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:29:08",
-      "missionDate": "2026-04-21 11:44:08",
+      "missionTime": "3:34:08",
+      "missionDate": "2026-04-21 11:49:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:30:11 UTC",
+      "lastUpdate": "26-03-16 18:35:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:28:51",
-      "missionDate": "2026-08-01 15:33:51",
+      "missionTime": "3:33:51",
+      "missionDate": "2026-08-01 15:38:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -182,21 +182,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:30:12 UTC",
+      "lastUpdate": "26-03-16 18:35:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:28:25",
-      "missionDate": "2025-07-01 10:28:25",
+      "missionTime": "3:32:27",
+      "missionDate": "2025-07-01 10:32:27",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -207,7 +207,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -221,18 +221,18 @@
       "playerDetails": [
         {
           "name": "101\\-Tunay \\[5555\\]",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-Tunay \\[5555\\]",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -287,21 +287,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:30:21 UTC",
+      "lastUpdate": "26-03-16 18:34:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［4／32］",
+      "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:28:45",
-      "missionDate": "2024-10-31 18:53:45",
+      "missionTime": "3:33:45",
+      "missionDate": "2024-10-31 18:58:45",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -323,7 +323,8 @@
       "playerList": [
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
-        "DementeKatze \\| Cat 2\\-1"
+        "TuAF 152 \\| Börü",
+        "FatihEmin19"
       ],
       "playerDetails": [
         {
@@ -332,11 +333,15 @@
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
+          "unit": "UH-60L"
         },
         {
-          "name": "DementeKatze \\| Cat 2\\-1",
-          "unit": "FA-18C_hornet"
+          "name": "TuAF 152 \\| Börü",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "FatihEmin19",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -347,15 +352,20 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
+            "unit": "UH-60L"
           },
           {
-            "name": "DementeKatze \\| Cat 2\\-1",
-            "unit": "FA-18C_hornet"
+            "name": "TuAF 152 \\| Börü",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "FatihEmin19",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -410,7 +420,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 18:30:11 UTC",
+      "lastUpdate": "26-03-16 18:35:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -424,8 +434,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:29:08",
-    "missionDate": "2026-04-21 11:44:08",
+    "missionTime": "3:34:08",
+    "missionDate": "2026-04-21 11:49:08",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -504,9 +514,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-16 18:30:11 UTC",
+    "lastUpdate": "26-03-16 18:35:11 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-16T18:30:34.901Z"
+  "lastUpdated": "2026-03-16T18:35:18.766Z"
 }
