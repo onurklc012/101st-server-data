@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:24:05",
-      "missionDate": "2026-04-21 09:39:05",
+      "missionTime": "1:29:05",
+      "missionDate": "2026-04-21 09:44:05",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 10:25:12 UTC",
+      "lastUpdate": "26-03-16 10:30:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:23:51",
-      "missionDate": "2026-08-01 13:28:51",
+      "missionTime": "1:28:51",
+      "missionDate": "2026-08-01 13:33:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 10:25:12 UTC",
+      "lastUpdate": "26-03-16 10:30:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:23:20",
-      "missionDate": "2025-07-01 08:23:20",
+      "missionTime": "1:28:19",
+      "missionDate": "2025-07-01 08:28:19",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -287,7 +287,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 10:25:13 UTC",
+      "lastUpdate": "26-03-16 10:30:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -300,8 +300,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:23:42",
-      "missionDate": "2024-10-31 16:48:42",
+      "missionTime": "1:28:41",
+      "missionDate": "2024-10-31 16:53:41",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -312,7 +312,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -321,11 +321,15 @@
         }
       },
       "playerList": [
+        "Furkanukc1",
         "Somon",
-        "Üs\\. Tğm\\. Tepe",
-        "Furkanukc1"
+        "Üs\\. Tğm\\. Tepe"
       ],
       "playerDetails": [
+        {
+          "name": "Furkanukc1",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Somon",
           "unit": "FA-18C_hornet"
@@ -333,14 +337,14 @@
         {
           "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-14A-135-GR"
-        },
-        {
-          "name": "Furkanukc1",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "Furkanukc1",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Somon",
             "unit": "FA-18C_hornet"
@@ -351,18 +355,13 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Furkanukc1",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
           "Hava Usleri / FARP'lar": {
-            "blue": 18,
-            "red": 35
+            "blue": 19,
+            "red": 34
           },
           "Ucaklar": {
             "blue": 0,
@@ -389,15 +388,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 2
+            "blue": 2,
+            "red": 4
           },
           "Downed Helicopters": {
             "blue": 2,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 17,
+            "blue": 23,
             "red": 0
           },
           "Sunken Ships": {
@@ -411,7 +410,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 10:25:11 UTC",
+      "lastUpdate": "26-03-16 10:30:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -425,8 +424,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:24:05",
-    "missionDate": "2026-04-21 09:39:05",
+    "missionTime": "1:29:05",
+    "missionDate": "2026-04-21 09:44:05",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -517,9 +516,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-16 10:25:12 UTC",
+    "lastUpdate": "26-03-16 10:30:11 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-16T10:25:19.317Z"
+  "lastUpdated": "2026-03-16T10:30:26.921Z"
 }
