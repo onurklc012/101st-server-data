@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:19:23",
-      "missionDate": "2026-04-21 08:34:23",
+      "missionTime": "0:24:23",
+      "missionDate": "2026-04-21 08:39:23",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "SKK asaf",
-        "Furkanukc1"
+        "Furkanukc1",
+        "izmiraviation\\.offical"
       ],
       "playerDetails": [
         {
@@ -40,7 +41,11 @@
         },
         {
           "name": "Furkanukc1",
-          "unit": "_ _"
+          "unit": "--"
+        },
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -54,7 +59,11 @@
         "neutral": [
           {
             "name": "Furkanukc1",
-            "unit": "_ _"
+            "unit": "--"
+          },
+          {
+            "name": "izmiraviation\\.offical",
+            "unit": "--"
           }
         ]
       },
@@ -111,7 +120,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 21:20:11 UTC",
+      "lastUpdate": "26-03-16 21:25:12 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +133,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:19:28",
-      "missionDate": "2026-08-01 12:24:28",
+      "missionTime": "0:24:28",
+      "missionDate": "2026-08-01 12:29:28",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -216,21 +225,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 21:20:12 UTC",
+      "lastUpdate": "26-03-16 21:25:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:17:40",
-      "missionDate": "2025-07-01 07:17:40",
+      "missionTime": "0:22:40",
+      "missionDate": "2025-07-01 07:22:40",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -241,7 +250,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 3,
           "total": 126
         },
         "red": {
@@ -252,6 +261,7 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-Fish\\[7906\\]",
+        "PENÇE",
         "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
@@ -261,11 +271,15 @@
         },
         {
           "name": "101\\-Fish\\[7906\\]",
-          "unit": "--"
+          "unit": "F-14B"
+        },
+        {
+          "name": "PENÇE",
+          "unit": "F-16C_50"
         },
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -273,17 +287,21 @@
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "F-14B"
+          },
+          {
+            "name": "PENÇE",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
         "neutral": [
           {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "--"
-          },
-          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -340,7 +358,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 21:20:12 UTC",
+      "lastUpdate": "26-03-16 21:25:13 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -353,8 +371,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:19:20",
-      "missionDate": "2024-10-31 15:44:20",
+      "missionTime": "0:24:20",
+      "missionDate": "2024-10-31 15:49:20",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -404,22 +422,22 @@
           },
           "Yapilar": {
             "blue": 8,
-            "red": 148
+            "red": 151
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 3,
-            "red": 3
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
-            "blue": 3,
+            "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 75,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -433,22 +451,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 21:20:11 UTC",
+      "lastUpdate": "26-03-16 21:25:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "0:19:23",
-    "missionDate": "2026-04-21 08:34:23",
+    "missionTime": "0:24:23",
+    "missionDate": "2026-04-21 08:39:23",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -469,7 +487,8 @@
     },
     "playerList": [
       "SKK asaf",
-      "Furkanukc1"
+      "Furkanukc1",
+      "izmiraviation\\.offical"
     ],
     "playerDetails": [
       {
@@ -478,7 +497,11 @@
       },
       {
         "name": "Furkanukc1",
-        "unit": "_ _"
+        "unit": "--"
+      },
+      {
+        "name": "izmiraviation\\.offical",
+        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -492,7 +515,11 @@
       "neutral": [
         {
           "name": "Furkanukc1",
-          "unit": "_ _"
+          "unit": "--"
+        },
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "--"
         }
       ]
     },
@@ -549,9 +576,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-16 21:20:11 UTC",
+    "lastUpdate": "26-03-16 21:25:12 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-16T21:20:21.128Z"
+  "lastUpdated": "2026-03-16T21:25:20.514Z"
 }
