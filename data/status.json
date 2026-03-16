@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:00",
-        "missionDate": "2026-04-21 08:15:00",
+        "missionTime": "0:04:23",
+        "missionDate": "2026-04-21 08:19:23",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -68,7 +68,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 12,
+              "blue": 0,
               "red": 0
             },
             "Downed Helicopters": {
@@ -76,7 +76,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 20,
+              "blue": 0,
               "red": 0
             },
             "Sunken Ships": {
@@ -90,7 +90,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 21:00:41 UTC",
+        "lastUpdate": "26-03-16 21:05:11 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -103,8 +103,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:00:00",
-        "missionDate": "2026-08-01 12:05:00",
+        "missionTime": "0:04:28",
+        "missionDate": "2026-08-01 12:09:28",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -195,21 +195,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 21:00:41 UTC",
+        "lastUpdate": "26-03-16 21:05:12 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "channelName": "🖥️┃syria-dynamic［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 1,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "5:54:58",
-        "missionDate": "2025-07-01 12:54:58",
+        "missionTime": "0:02:40",
+        "missionDate": "2025-07-01 07:02:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -220,7 +220,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 126
           },
           "red": {
@@ -228,17 +228,39 @@
             "total": 7
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101ArmOn1453",
+          "✯101\\-Emrecan\\[0444\\]✯"
+        ],
+        "playerDetails": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 43,
+              "blue": 44,
               "red": 33
             },
             "Ucaklar": {
@@ -267,14 +289,14 @@
             },
             "Killed Planes": {
               "blue": 0,
-              "red": 8
+              "red": 0
             },
             "Downed Helicopters": {
               "blue": 0,
-              "red": 1
+              "red": 0
             },
             "Ground Shacks": {
-              "blue": 16,
+              "blue": 0,
               "red": 0
             },
             "Sunken Ships": {
@@ -288,23 +310,39 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 20:58:51 UTC",
+        "lastUpdate": "26-03-16 21:05:14 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
-        "online": false,
+        "online": true,
         "channelName": "🖥️┃caucasus-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
+        "serverIP": "88.247.164.234:10311",
+        "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
+        "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:04:20",
+        "missionDate": "2024-10-31 15:29:20",
+        "weather": {
+          "temperature": "6.6°C",
+          "qnh": "1022 hPa",
+          "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "50° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 0,
+            "total": 69
+          },
+          "red": {
+            "used": 0,
+            "total": 2
+          }
+        },
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -365,7 +403,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-03-16 21:05:11 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -379,8 +417,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:00",
-      "missionDate": "2026-04-21 08:15:00",
+      "missionTime": "0:04:23",
+      "missionDate": "2026-04-21 08:19:23",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -437,7 +475,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 12,
+            "blue": 0,
             "red": 0
           },
           "Downed Helicopters": {
@@ -445,7 +483,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 20,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -459,11 +497,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 21:00:41 UTC",
+      "lastUpdate": "26-03-16 21:05:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-16T21:00:44.694Z"
+    "lastUpdated": "2026-03-16T21:05:21.032Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -582,7 +620,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-16T21:00:44.867Z"
+    "lastUpdated": "2026-03-16T21:05:21.207Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2566,11 +2604,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-16T21:00:45.359Z",
+    "lastUpdated": "2026-03-16T21:05:21.749Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-16T21:00:45.859Z",
+    "fetchedAt": "2026-03-16T21:05:22.272Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
