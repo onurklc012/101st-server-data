@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［3／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:14:08",
-        "missionDate": "2026-04-21 10:29:08",
+        "missionTime": "2:19:08",
+        "missionDate": "2026-04-21 10:34:08",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -32,7 +32,9 @@
         },
         "playerList": [
           "Lightning 1",
-          "Nopixs"
+          "Magenta",
+          "Nopixs",
+          "cpt\\.bronzewing"
         ],
         "playerDetails": [
           {
@@ -40,8 +42,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Magenta",
+            "unit": "C-130J-30"
+          },
+          {
             "name": "Nopixs",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "cpt\\.bronzewing",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -51,12 +61,21 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "Magenta",
+              "unit": "C-130J-30"
+            },
+            {
               "name": "Nopixs",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "cpt\\.bronzewing",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -111,7 +130,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 17:15:11 UTC",
+        "lastUpdate": "26-03-16 17:20:11 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -124,8 +143,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:13:51",
-        "missionDate": "2026-08-01 14:18:51",
+        "missionTime": "2:18:51",
+        "missionDate": "2026-08-01 14:23:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -216,7 +235,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 17:15:12 UTC",
+        "lastUpdate": "26-03-16 17:20:12 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +248,8 @@
         "map": "Syria",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "2:12:31",
-        "missionDate": "2025-07-01 09:12:31",
+        "missionTime": "2:18:09",
+        "missionDate": "2025-07-01 09:18:09",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -241,7 +260,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 2,
             "total": 126
           },
           "red": {
@@ -251,9 +270,7 @@
         },
         "playerList": [
           "101\\-Fish\\[7906\\]",
-          "101\\-Maskot\\(0019\\)",
-          "101\\-zeshka\\[0035\\]",
-          "TuAF 152 \\| Börü"
+          "101\\-Maskot\\(0019\\)"
         ],
         "playerDetails": [
           {
@@ -263,14 +280,6 @@
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "Ka-50_3"
-          },
-          {
-            "name": "TuAF 152 \\| Börü",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -282,19 +291,10 @@
             {
               "name": "101\\-Maskot\\(0019\\)",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "101\\-zeshka\\[0035\\]",
-              "unit": "Ka-50_3"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "TuAF 152 \\| Börü",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -349,7 +349,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 17:14:13 UTC",
+        "lastUpdate": "26-03-16 17:20:12 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -362,8 +362,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:13:45",
-        "missionDate": "2024-10-31 17:38:45",
+        "missionTime": "2:18:45",
+        "missionDate": "2024-10-31 17:43:45",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -454,22 +454,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-16 17:15:11 UTC",
+        "lastUpdate": "26-03-16 17:20:11 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:14:08",
-      "missionDate": "2026-04-21 10:29:08",
+      "missionTime": "2:19:08",
+      "missionDate": "2026-04-21 10:34:08",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -490,7 +490,9 @@
       },
       "playerList": [
         "Lightning 1",
-        "Nopixs"
+        "Magenta",
+        "Nopixs",
+        "cpt\\.bronzewing"
       ],
       "playerDetails": [
         {
@@ -498,8 +500,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Magenta",
+          "unit": "C-130J-30"
+        },
+        {
           "name": "Nopixs",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "cpt\\.bronzewing",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -509,12 +519,21 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Magenta",
+            "unit": "C-130J-30"
+          },
+          {
             "name": "Nopixs",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "cpt\\.bronzewing",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -569,11 +588,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-16 17:15:11 UTC",
+      "lastUpdate": "26-03-16 17:20:11 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-16T17:15:21.346Z"
+    "lastUpdated": "2026-03-16T17:20:24.572Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -646,12 +665,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 70892,
+          "totalCredits": 70692,
           "totalPlayers": 68,
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 16.03.2026 20:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 16.03.2026 20:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -692,7 +711,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-16T17:15:21.512Z"
+    "lastUpdated": "2026-03-16T17:20:24.777Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2676,11 +2695,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-16T17:15:22.121Z",
+    "lastUpdated": "2026-03-16T17:20:25.413Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-16T17:15:22.576Z",
+    "fetchedAt": "2026-03-16T17:20:26.029Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
