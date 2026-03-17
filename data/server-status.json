@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:00:54",
-      "missionDate": "2026-04-21 10:15:54",
+      "missionTime": "2:05:54",
+      "missionDate": "2026-04-21 10:20:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "CanAda",
-        "Phantom2020"
+        "Phantom2020",
+        "eyo"
       ],
       "playerDetails": [
         {
@@ -41,6 +42,10 @@
         {
           "name": "Phantom2020",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "eyo",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -55,7 +60,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "eyo",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -110,7 +120,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:09:48 UTC",
+      "lastUpdate": "26-03-17 17:14:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:47:51",
-      "missionDate": "2026-08-01 13:52:51",
+      "missionTime": "1:52:51",
+      "missionDate": "2026-08-01 13:57:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -203,7 +213,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:09:49 UTC",
+      "lastUpdate": "26-03-17 17:14:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -216,8 +226,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:42:04",
-      "missionDate": "2025-07-01 08:42:04",
+      "missionTime": "1:47:04",
+      "missionDate": "2025-07-01 08:47:04",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -228,7 +238,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -237,17 +247,12 @@
         }
       },
       "playerList": [
-        "101\\-Rabik",
-        "BNB\\.Caner"
+        "101\\-Rabik"
       ],
       "playerDetails": [
         {
           "name": "101\\-Rabik",
           "unit": "C-130J-30"
-        },
-        {
-          "name": "BNB\\.Caner",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -255,10 +260,6 @@
           {
             "name": "101\\-Rabik",
             "unit": "C-130J-30"
-          },
-          {
-            "name": "BNB\\.Caner",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -317,7 +318,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:09:50 UTC",
+      "lastUpdate": "26-03-17 17:14:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -330,8 +331,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:55:26",
-      "missionDate": "2024-10-31 17:20:26",
+      "missionTime": "2:00:26",
+      "missionDate": "2024-10-31 17:25:26",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -410,7 +411,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:09:48 UTC",
+      "lastUpdate": "26-03-17 17:14:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -424,8 +425,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "2:00:54",
-    "missionDate": "2026-04-21 10:15:54",
+    "missionTime": "2:05:54",
+    "missionDate": "2026-04-21 10:20:54",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -446,7 +447,8 @@
     },
     "playerList": [
       "CanAda",
-      "Phantom2020"
+      "Phantom2020",
+      "eyo"
     ],
     "playerDetails": [
       {
@@ -456,6 +458,10 @@
       {
         "name": "Phantom2020",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "eyo",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -470,7 +476,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "eyo",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -525,9 +536,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 17:09:48 UTC",
+    "lastUpdate": "26-03-17 17:14:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T17:10:25.210Z"
+  "lastUpdated": "2026-03-17T17:15:25.064Z"
 }
