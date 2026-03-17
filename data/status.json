@@ -87,8 +87,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:05:26",
-        "missionDate": "2026-08-01 12:10:26",
+        "missionTime": "0:10:26",
+        "missionDate": "2026-08-01 12:15:26",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -167,7 +167,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 00:49:24 UTC",
+        "lastUpdate": "26-03-17 00:54:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -180,8 +180,8 @@
         "map": "Syria",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "0:20:50",
-        "missionDate": "2025-07-01 07:20:50",
+        "missionTime": "0:25:50",
+        "missionDate": "2025-07-01 07:25:50",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -201,13 +201,18 @@
           }
         },
         "playerList": [
+          "101ArmOn1453",
           "101\\-Atmaca\\[3404\\]",
           "101\\-Fish\\[7906\\]",
           "LastEagle",
-          "PENÇE",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "PENÇE"
         ],
         "playerDetails": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Atmaca\\[3404\\]",
             "unit": "F-16C_50"
@@ -221,16 +226,20 @@
             "unit": "FA-18C_hornet"
           },
           {
-            "name": "PENÇE",
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-16C_50"
           },
           {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "F-16C_50"
+            "name": "PENÇE",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-Atmaca\\[3404\\]",
               "unit": "F-16C_50"
@@ -244,16 +253,17 @@
               "unit": "FA-18C_hornet"
             },
             {
-              "name": "PENÇE",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "PENÇE",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -308,7 +318,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 00:50:03 UTC",
+        "lastUpdate": "26-03-17 00:55:03 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -467,7 +477,7 @@
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-17T00:50:22.914Z"
+    "lastUpdated": "2026-03-17T00:55:18.968Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -586,7 +596,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-17T00:50:23.074Z"
+    "lastUpdated": "2026-03-17T00:55:19.222Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2570,11 +2580,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-17T00:50:25.424Z",
+    "lastUpdated": "2026-03-17T00:55:19.946Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-17T00:50:25.972Z",
+    "fetchedAt": "2026-03-17T00:55:20.412Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
