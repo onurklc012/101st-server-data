@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［6／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 6,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "5:30:54",
-        "missionDate": "2026-04-21 13:45:54",
+        "missionTime": "5:35:54",
+        "missionDate": "2026-04-21 13:50:54",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -34,6 +34,8 @@
           "101\\-SKY",
           "CanAda",
           "NAZGUL",
+          "Caner",
+          "harun",
           "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
@@ -50,8 +52,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Caner",
+            "unit": "--"
+          },
+          {
+            "name": "harun",
+            "unit": "--"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -72,8 +82,16 @@
           "red": [],
           "neutral": [
             {
+              "name": "Caner",
+              "unit": "--"
+            },
+            {
+              "name": "harun",
+              "unit": "--"
+            },
+            {
               "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "_ _"
+              "unit": "--"
             }
           ]
         },
@@ -130,7 +148,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 20:39:48 UTC",
+        "lastUpdate": "26-03-17 20:44:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -143,8 +161,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:17:51",
-        "missionDate": "2026-08-01 17:22:51",
+        "missionTime": "5:22:51",
+        "missionDate": "2026-08-01 17:27:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -223,7 +241,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 20:39:49 UTC",
+        "lastUpdate": "26-03-17 20:44:49 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -236,8 +254,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:57:17",
-        "missionDate": "2025-07-01 11:57:17",
+        "missionTime": "0:02:40",
+        "missionDate": "2025-07-01 07:02:40",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -257,30 +275,30 @@
           }
         },
         "playerList": [
-          "101\\-Fish\\[7906\\]",
-          "101ArmOn1453"
+          "101ArmOn1453",
+          "101\\-Fish\\[7906\\]"
         ],
         "playerDetails": [
           {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "C-130J-30"
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
           },
           {
-            "name": "101ArmOn1453",
+            "name": "101\\-Fish\\[7906\\]",
             "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
-              "name": "101\\-Fish\\[7906\\]",
-              "unit": "C-130J-30"
+              "name": "101ArmOn1453",
+              "unit": "F-16C_50"
             }
           ],
           "red": [],
           "neutral": [
             {
-              "name": "101ArmOn1453",
+              "name": "101\\-Fish\\[7906\\]",
               "unit": "_ _"
             }
           ]
@@ -288,8 +306,8 @@
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 39,
-              "red": 29
+              "blue": 44,
+              "red": 32
             },
             "Ucaklar": {
               "blue": 0,
@@ -309,22 +327,22 @@
             },
             "Yapilar": {
               "blue": 33,
-              "red": 113
+              "red": 116
             },
             "Base Captures": {
               "blue": 0,
               "red": 0
             },
             "Killed Planes": {
-              "blue": 13,
-              "red": 14
+              "blue": 0,
+              "red": 0
             },
             "Downed Helicopters": {
               "blue": 0,
-              "red": 4
+              "red": 0
             },
             "Ground Shacks": {
-              "blue": 52,
+              "blue": 0,
               "red": 0
             },
             "Sunken Ships": {
@@ -338,7 +356,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 20:33:13 UTC",
+        "lastUpdate": "26-03-17 20:44:49 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -351,8 +369,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:25:26",
-        "missionDate": "2024-10-31 20:50:26",
+        "missionTime": "5:30:26",
+        "missionDate": "2024-10-31 20:55:26",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -431,22 +449,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 20:39:48 UTC",
+        "lastUpdate": "26-03-17 20:44:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:30:54",
-      "missionDate": "2026-04-21 13:45:54",
+      "missionTime": "5:35:54",
+      "missionDate": "2026-04-21 13:50:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -469,6 +487,8 @@
         "101\\-SKY",
         "CanAda",
         "NAZGUL",
+        "Caner",
+        "harun",
         "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
@@ -485,8 +505,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Caner",
+          "unit": "--"
+        },
+        {
+          "name": "harun",
+          "unit": "--"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "_ _"
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -507,8 +535,16 @@
         "red": [],
         "neutral": [
           {
+            "name": "Caner",
+            "unit": "--"
+          },
+          {
+            "name": "harun",
+            "unit": "--"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "unit": "--"
           }
         ]
       },
@@ -565,11 +601,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 20:39:48 UTC",
+      "lastUpdate": "26-03-17 20:44:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-17T20:40:25.171Z"
+    "lastUpdated": "2026-03-17T20:45:24.641Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -688,7 +724,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-17T20:40:25.359Z"
+    "lastUpdated": "2026-03-17T20:45:24.790Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2769,11 +2805,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-17T20:40:26.199Z",
+    "lastUpdated": "2026-03-17T20:45:25.345Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-17T20:40:26.796Z",
+    "fetchedAt": "2026-03-17T20:45:25.790Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
