@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:30:54",
-      "missionDate": "2026-04-21 09:45:54",
+      "missionTime": "1:35:54",
+      "missionDate": "2026-04-21 09:50:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,12 +29,34 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Phantom2020",
+        "CanAda"
+      ],
+      "playerDetails": [
+        {
+          "name": "Phantom2020",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "CanAda",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "Phantom2020",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "CanAda",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -89,7 +111,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 16:40:08 UTC",
+      "lastUpdate": "26-03-17 16:44:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:17:51",
-      "missionDate": "2026-08-01 13:22:51",
+      "missionTime": "1:22:51",
+      "missionDate": "2026-08-01 13:27:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -182,7 +204,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 16:39:49 UTC",
+      "lastUpdate": "26-03-17 16:44:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +217,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:12:04",
-      "missionDate": "2025-07-01 08:12:04",
+      "missionTime": "1:17:04",
+      "missionDate": "2025-07-01 08:17:04",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -287,7 +309,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 16:39:50 UTC",
+      "lastUpdate": "26-03-17 16:44:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -300,8 +322,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:25:26",
-      "missionDate": "2024-10-31 16:50:26",
+      "missionTime": "1:30:26",
+      "missionDate": "2024-10-31 16:55:26",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -380,22 +402,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 16:39:48 UTC",
+      "lastUpdate": "26-03-17 16:44:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:30:54",
-    "missionDate": "2026-04-21 09:45:54",
+    "missionTime": "1:35:54",
+    "missionDate": "2026-04-21 09:50:54",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -414,12 +436,34 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Phantom2020",
+      "CanAda"
+    ],
+    "playerDetails": [
+      {
+        "name": "Phantom2020",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "CanAda",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "Phantom2020",
+          "unit": "F-16C_50"
+        }
+      ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "CanAda",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -474,9 +518,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 16:40:08 UTC",
+    "lastUpdate": "26-03-17 16:44:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T16:40:23.315Z"
+  "lastUpdated": "2026-03-17T16:45:23.907Z"
 }
