@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "2:20:54",
-      "missionDate": "2026-04-21 10:35:54",
+      "missionTime": "2:25:54",
+      "missionDate": "2026-04-21 10:40:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -33,13 +33,13 @@
         "101\\-HotelTango",
         "LastEagle",
         "Phantom2020",
-        "eyo",
-        "Somon"
+        "Somon",
+        "eyo"
       ],
       "playerDetails": [
         {
           "name": "101\\-HotelTango",
-          "unit": "MB-339A"
+          "unit": "F-16C_50"
         },
         {
           "name": "LastEagle",
@@ -50,19 +50,19 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "eyo",
-          "unit": "F-16C_50"
+          "name": "Somon",
+          "unit": "FA-18C_hornet"
         },
         {
-          "name": "Somon",
-          "unit": "_ _"
+          "name": "eyo",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-HotelTango",
-            "unit": "MB-339A"
+            "unit": "F-16C_50"
           },
           {
             "name": "LastEagle",
@@ -73,17 +73,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Somon",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "eyo",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Somon",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -138,7 +137,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:29:48 UTC",
+      "lastUpdate": "26-03-17 17:34:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -151,8 +150,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:07:51",
-      "missionDate": "2026-08-01 14:12:51",
+      "missionTime": "2:12:51",
+      "missionDate": "2026-08-01 14:17:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -231,7 +230,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:29:49 UTC",
+      "lastUpdate": "26-03-17 17:34:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -244,8 +243,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:02:04",
-      "missionDate": "2025-07-01 09:02:04",
+      "missionTime": "2:07:04",
+      "missionDate": "2025-07-01 09:07:04",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -315,14 +314,14 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 0
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
@@ -336,7 +335,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:29:49 UTC",
+      "lastUpdate": "26-03-17 17:34:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -349,8 +348,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:15:26",
-      "missionDate": "2024-10-31 17:40:26",
+      "missionTime": "2:20:26",
+      "missionDate": "2024-10-31 17:45:26",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -400,7 +399,7 @@
           },
           "Yapilar": {
             "blue": 8,
-            "red": 142
+            "red": 151
           },
           "Base Captures": {
             "blue": 0,
@@ -429,22 +428,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 17:29:48 UTC",
+      "lastUpdate": "26-03-17 17:34:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 8,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "2:20:54",
-    "missionDate": "2026-04-21 10:35:54",
+    "missionTime": "2:25:54",
+    "missionDate": "2026-04-21 10:40:54",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -455,7 +454,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -467,13 +466,13 @@
       "101\\-HotelTango",
       "LastEagle",
       "Phantom2020",
-      "eyo",
-      "Somon"
+      "Somon",
+      "eyo"
     ],
     "playerDetails": [
       {
         "name": "101\\-HotelTango",
-        "unit": "MB-339A"
+        "unit": "F-16C_50"
       },
       {
         "name": "LastEagle",
@@ -484,19 +483,19 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "eyo",
-        "unit": "F-16C_50"
+        "name": "Somon",
+        "unit": "FA-18C_hornet"
       },
       {
-        "name": "Somon",
-        "unit": "_ _"
+        "name": "eyo",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "101\\-HotelTango",
-          "unit": "MB-339A"
+          "unit": "F-16C_50"
         },
         {
           "name": "LastEagle",
@@ -507,17 +506,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Somon",
+          "unit": "FA-18C_hornet"
+        },
+        {
           "name": "eyo",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Somon",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -572,9 +570,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 17:29:48 UTC",
+    "lastUpdate": "26-03-17 17:34:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T17:30:26.930Z"
+  "lastUpdated": "2026-03-17T17:35:20.343Z"
 }
