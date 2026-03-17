@@ -2,12 +2,12 @@
   "servers": [
     {
       "online": false,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［-］",
       "serverName": "101st Hunter Squadron",
       "serverIP": null,
       "mission": "--",
       "map": "--",
-      "players": 1,
+      "players": 0,
       "maxPlayers": 32,
       "missionTime": "--:--",
       "missionDate": null,
@@ -79,12 +79,12 @@
     },
     {
       "online": false,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［-］",
       "serverName": "101st Hunter Squadron",
       "serverIP": null,
       "mission": "--",
       "map": "--",
-      "players": 1,
+      "players": 0,
       "maxPlayers": 32,
       "missionTime": "--:--",
       "missionDate": null,
@@ -156,44 +156,23 @@
     },
     {
       "online": false,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［-］",
       "serverName": "101st Hunter Squadron",
       "serverIP": null,
       "mission": "--",
       "map": "--",
-      "players": 3,
+      "players": 0,
       "maxPlayers": 32,
       "missionTime": "--:--",
       "missionDate": null,
       "weather": null,
       "slots": null,
-      "playerList": [
-        "101ArmOn1453",
-        "101\\-Shadow\\[1881\\]"
-      ],
-      "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Shadow\\[1881\\]",
-          "unit": "--"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -254,12 +233,12 @@
     },
     {
       "online": false,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［-］",
       "serverName": "101st Hunter Squadron",
       "serverIP": null,
       "mission": "--",
       "map": "--",
-      "players": 2,
+      "players": 0,
       "maxPlayers": 32,
       "missionTime": "--:--",
       "missionDate": null,
@@ -332,12 +311,12 @@
   ],
   "primaryServer": {
     "online": false,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［-］",
     "serverName": "101st Hunter Squadron",
     "serverIP": null,
     "mission": "--",
     "map": "--",
-    "players": 1,
+    "players": 0,
     "maxPlayers": 32,
     "missionTime": "--:--",
     "missionDate": null,
@@ -407,5 +386,5 @@
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T15:00:34.061Z"
+  "lastUpdated": "2026-03-17T15:05:21.850Z"
 }
