@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:34:37",
-      "missionDate": "2026-04-21 09:49:37",
+      "missionTime": "1:39:37",
+      "missionDate": "2026-04-21 09:54:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,42 +30,23 @@
         }
       },
       "playerList": [
-        "151 \\- Swef VR",
-        "K0ka1NN",
-        "101\\-Rabik"
+        "K0ka1NN"
       ],
       "playerDetails": [
         {
-          "name": "151 \\- Swef VR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "K0ka1NN",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "151 \\- Swef VR",
-            "unit": "F-16C_50"
-          },
           {
             "name": "K0ka1NN",
             "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -120,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 23:04:48 UTC",
+      "lastUpdate": "26-03-17 23:09:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -133,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:45:35",
-      "missionDate": "2026-08-01 13:50:35",
+      "missionTime": "1:50:35",
+      "missionDate": "2026-08-01 13:55:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -213,21 +194,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 23:04:49 UTC",
+      "lastUpdate": "26-03-17 23:09:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［8／32］",
+      "channelName": "🖥️┃syria-dynamic［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 8,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "1:39:07",
-      "missionDate": "2025-07-01 08:39:07",
+      "missionTime": "1:44:09",
+      "missionDate": "2025-07-01 08:44:09",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -253,7 +234,8 @@
         "101\\-Fish\\[7906\\]",
         "101\\-HotelTango",
         "101\\-SKY",
-        "Stealth"
+        "Stealth",
+        "101\\-Rabik"
       ],
       "playerDetails": [
         {
@@ -274,7 +256,7 @@
         },
         {
           "name": "101\\-HotelTango",
-          "unit": "Mi-24P"
+          "unit": "MB-339A"
         },
         {
           "name": "101\\-SKY",
@@ -282,7 +264,11 @@
         },
         {
           "name": "Stealth",
-          "unit": "FA-18C_hornet"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Rabik",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -305,7 +291,7 @@
           },
           {
             "name": "101\\-HotelTango",
-            "unit": "Mi-24P"
+            "unit": "MB-339A"
           },
           {
             "name": "101\\-SKY",
@@ -313,11 +299,16 @@
           },
           {
             "name": "Stealth",
-            "unit": "FA-18C_hornet"
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Rabik",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -372,7 +363,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 23:04:49 UTC",
+      "lastUpdate": "26-03-17 23:09:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -385,8 +376,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:53:04",
-      "missionDate": "2024-10-31 17:18:04",
+      "missionTime": "1:58:04",
+      "missionDate": "2024-10-31 17:23:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -465,22 +456,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 23:04:48 UTC",
+      "lastUpdate": "26-03-17 23:09:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:34:37",
-    "missionDate": "2026-04-21 09:49:37",
+    "missionTime": "1:39:37",
+    "missionDate": "2026-04-21 09:54:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -491,7 +482,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -500,42 +491,23 @@
       }
     },
     "playerList": [
-      "151 \\- Swef VR",
-      "K0ka1NN",
-      "101\\-Rabik"
+      "K0ka1NN"
     ],
     "playerDetails": [
       {
-        "name": "151 \\- Swef VR",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "K0ka1NN",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "101\\-Rabik",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "151 \\- Swef VR",
-          "unit": "F-16C_50"
-        },
         {
           "name": "K0ka1NN",
           "unit": "FA-18C_hornet"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Rabik",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -590,9 +562,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 23:04:48 UTC",
+    "lastUpdate": "26-03-17 23:09:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T23:05:18.813Z"
+  "lastUpdated": "2026-03-17T23:10:22.479Z"
 }
