@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［-］",
+        "channelName": "🖥️┃server-caucasus［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 0,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:21",
-        "missionDate": "2026-04-21 08:15:21",
+        "missionTime": "0:05:54",
+        "missionDate": "2026-04-21 08:20:54",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -90,7 +90,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 15:09:58 UTC",
+        "lastUpdate": "26-03-17 15:14:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -249,18 +249,34 @@
         "friendlyName": "Syria Dynamic"
       },
       {
-        "online": false,
+        "online": true,
         "channelName": "🖥️┃caucasus-dynamic［-］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
+        "serverIP": "88.247.164.234:10311",
+        "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
+        "map": "Caucasus",
         "players": 0,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:00:25",
+        "missionDate": "2024-10-31 15:25:25",
+        "weather": {
+          "temperature": "6.6°C",
+          "qnh": "1022 hPa",
+          "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "50° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 0,
+            "total": 69
+          },
+          "red": {
+            "used": 0,
+            "total": 2
+          }
+        },
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -321,22 +337,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-03-17 15:14:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［-］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 0,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:21",
-      "missionDate": "2026-04-21 08:15:21",
+      "missionTime": "0:05:54",
+      "missionDate": "2026-04-21 08:20:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -415,11 +431,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 15:09:58 UTC",
+      "lastUpdate": "26-03-17 15:14:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-17T15:10:27.255Z"
+    "lastUpdated": "2026-03-17T15:15:25.318Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -538,7 +554,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-17T15:10:27.416Z"
+    "lastUpdated": "2026-03-17T15:15:25.451Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2581,11 +2597,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-17T15:10:27.941Z",
+    "lastUpdated": "2026-03-17T15:15:26.162Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-17T15:10:28.532Z",
+    "fetchedAt": "2026-03-17T15:15:26.565Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
