@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:59",
-      "missionDate": "2026-04-21 13:08:59",
+      "missionTime": "4:58:59",
+      "missionDate": "2026-04-21 13:13:59",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 135
         },
         "red": {
@@ -30,23 +30,33 @@
         }
       },
       "playerList": [
-        "101\\-Yidobaba\\[0098\\]"
+        "jovia",
+        "izmiraviation\\.offical"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "F-5E-3_FC"
+          "name": "jovia",
+          "unit": "MB-339A"
+        },
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "F-5E-3_FC"
+            "name": "jovia",
+            "unit": "MB-339A"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "izmiraviation\\.offical",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -101,7 +111,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 13:54:48 UTC",
+      "lastUpdate": "26-03-17 14:00:08 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:53",
-      "missionDate": "2026-08-01 16:58:53",
+      "missionTime": "4:58:53",
+      "missionDate": "2026-08-01 17:03:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -134,12 +144,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "SKK asaf"
+      ],
+      "playerDetails": [
+        {
+          "name": "SKK asaf",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "SKK asaf",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -194,23 +216,32 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 13:54:49 UTC",
+      "lastUpdate": "26-03-17 13:59:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
-      "online": false,
-      "channelName": "🖥️┃syria-dynamic［4／32］",
+      "online": true,
+      "channelName": "🖥️┃syria-dynamic［-］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 4,
+      "serverIP": "88.247.164.234:10310",
+      "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
+      "map": "Syria",
+      "players": 0,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
+      "missionTime": "0:00:00",
+      "missionDate": "2025-07-01 07:00:00",
       "weather": null,
-      "slots": null,
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 126
+        },
+        "red": {
+          "used": 0,
+          "total": 7
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -271,7 +302,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-17 14:00:28 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -284,14 +315,14 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:53:44",
-      "missionDate": "2024-10-31 20:18:44",
+      "missionTime": "4:58:44",
+      "missionDate": "2024-10-31 20:23:44",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
         "clouds": "Two Layers Scattered Large Clouds High Ceiling",
         "cloudbase": "--",
-        "visibility": "3,576 m / 2.22 SM",
+        "visibility": "2,452 m / 1.52 SM",
         "wind": "50° / 4 kts"
       },
       "slots": {
@@ -364,22 +395,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 13:54:48 UTC",
+      "lastUpdate": "26-03-17 13:59:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "4:53:59",
-    "missionDate": "2026-04-21 13:08:59",
+    "missionTime": "4:58:59",
+    "missionDate": "2026-04-21 13:13:59",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -390,7 +421,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 0,
         "total": 135
       },
       "red": {
@@ -399,23 +430,33 @@
       }
     },
     "playerList": [
-      "101\\-Yidobaba\\[0098\\]"
+      "jovia",
+      "izmiraviation\\.offical"
     ],
     "playerDetails": [
       {
-        "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "F-5E-3_FC"
+        "name": "jovia",
+        "unit": "MB-339A"
+      },
+      {
+        "name": "izmiraviation\\.offical",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "F-5E-3_FC"
+          "name": "jovia",
+          "unit": "MB-339A"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "izmiraviation\\.offical",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -470,9 +511,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 13:54:48 UTC",
+    "lastUpdate": "26-03-17 14:00:08 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T13:55:21.526Z"
+  "lastUpdated": "2026-03-17T14:00:31.073Z"
 }
