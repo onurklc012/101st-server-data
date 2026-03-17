@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［9／32］",
+      "channelName": "🖥️┃server-caucasus［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 9,
+      "players": 10,
       "maxPlayers": 32,
-      "missionTime": "0:44:37",
-      "missionDate": "2026-04-21 08:59:37",
+      "missionTime": "0:49:37",
+      "missionDate": "2026-04-21 09:04:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -37,7 +37,8 @@
         "harun",
         "✯101\\-EffBee\\[0010\\]✯",
         "✯101\\-Emrecan\\[0444\\]✯",
-        "Black\\_whipper"
+        "Black\\_whipper",
+        "jeffrey pro max"
       ],
       "playerDetails": [
         {
@@ -71,6 +72,10 @@
         {
           "name": "Black\\_whipper",
           "unit": "Su-33"
+        },
+        {
+          "name": "jeffrey pro max",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -110,7 +115,12 @@
             "unit": "Su-33"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "jeffrey pro max",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -143,7 +153,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 5,
             "red": 0
           },
           "Downed Helicopters": {
@@ -165,7 +175,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 22:14:48 UTC",
+      "lastUpdate": "26-03-17 22:19:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -178,8 +188,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:55:35",
-      "missionDate": "2026-08-01 13:00:35",
+      "missionTime": "1:00:35",
+      "missionDate": "2026-08-01 13:05:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -258,7 +268,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 22:14:49 UTC",
+      "lastUpdate": "26-03-17 22:19:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -271,8 +281,8 @@
       "map": "Syria",
       "players": 10,
       "maxPlayers": 32,
-      "missionTime": "0:49:09",
-      "missionDate": "2025-07-01 07:49:09",
+      "missionTime": "0:54:09",
+      "missionDate": "2025-07-01 07:54:09",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -283,7 +293,7 @@
       },
       "slots": {
         "blue": {
-          "used": 8,
+          "used": 9,
           "total": 126
         },
         "red": {
@@ -293,18 +303,22 @@
       },
       "playerList": [
         "101ArmOn1453",
+        "101\\-AsilTurq",
         "101\\-Atmaca\\[3404\\]",
         "101\\-Fish\\[7906\\]",
         "101\\-HotelTango",
         "101\\-Maskot\\(0019\\)",
         "101\\-Shadow\\[1881\\]",
         "101\\-zeshka\\[0035\\]",
-        "Stealth",
-        "101\\-AsilTurq"
+        "Stealth"
       ],
       "playerDetails": [
         {
           "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-AsilTurq",
           "unit": "F-16C_50"
         },
         {
@@ -329,21 +343,21 @@
         },
         {
           "name": "101\\-zeshka\\[0035\\]",
-          "unit": "F-16C_50"
+          "unit": "Mi-24P"
         },
         {
           "name": "Stealth",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-AsilTurq",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-AsilTurq",
             "unit": "F-16C_50"
           },
           {
@@ -368,7 +382,7 @@
           },
           {
             "name": "101\\-zeshka\\[0035\\]",
-            "unit": "F-16C_50"
+            "unit": "Mi-24P"
           },
           {
             "name": "Stealth",
@@ -376,12 +390,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-AsilTurq",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -436,7 +445,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 22:14:50 UTC",
+      "lastUpdate": "26-03-17 22:19:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -449,8 +458,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:03:04",
-      "missionDate": "2024-10-31 16:28:04",
+      "missionTime": "1:08:04",
+      "missionDate": "2024-10-31 16:33:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -529,22 +538,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 22:14:48 UTC",
+      "lastUpdate": "26-03-17 22:19:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［9／32］",
+    "channelName": "🖥️┃server-caucasus［10／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 9,
+    "players": 10,
     "maxPlayers": 32,
-    "missionTime": "0:44:37",
-    "missionDate": "2026-04-21 08:59:37",
+    "missionTime": "0:49:37",
+    "missionDate": "2026-04-21 09:04:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -571,7 +580,8 @@
       "harun",
       "✯101\\-EffBee\\[0010\\]✯",
       "✯101\\-Emrecan\\[0444\\]✯",
-      "Black\\_whipper"
+      "Black\\_whipper",
+      "jeffrey pro max"
     ],
     "playerDetails": [
       {
@@ -605,6 +615,10 @@
       {
         "name": "Black\\_whipper",
         "unit": "Su-33"
+      },
+      {
+        "name": "jeffrey pro max",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -644,7 +658,12 @@
           "unit": "Su-33"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "jeffrey pro max",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -677,7 +696,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 5,
           "red": 0
         },
         "Downed Helicopters": {
@@ -699,9 +718,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 22:14:48 UTC",
+    "lastUpdate": "26-03-17 22:19:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T22:15:22.476Z"
+  "lastUpdated": "2026-03-17T22:20:29.727Z"
 }
