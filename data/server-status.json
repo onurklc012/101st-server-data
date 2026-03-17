@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:50:54",
-      "missionDate": "2026-04-21 13:05:54",
+      "missionTime": "4:53:54",
+      "missionDate": "2026-04-21 13:08:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -31,8 +31,9 @@
       },
       "playerList": [
         "CanAda",
+        "NAZGUL",
         "harun",
-        "NAZGUL"
+        "101\\-SKY"
       ],
       "playerDetails": [
         {
@@ -40,11 +41,15 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "NAZGUL",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "harun",
           "unit": "F-16C_50"
         },
         {
-          "name": "NAZGUL",
+          "name": "101\\-SKY",
           "unit": "_ _"
         }
       ],
@@ -52,6 +57,10 @@
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "NAZGUL",
             "unit": "F-16C_50"
           }
         ],
@@ -63,7 +72,7 @@
         ],
         "neutral": [
           {
-            "name": "NAZGUL",
+            "name": "101\\-SKY",
             "unit": "_ _"
           }
         ]
@@ -121,21 +130,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 19:59:48 UTC",
+      "lastUpdate": "26-03-17 20:03:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:37:51",
-      "missionDate": "2026-08-01 16:42:51",
+      "missionTime": "4:40:51",
+      "missionDate": "2026-08-01 16:45:51",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -154,10 +163,22 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "DECAAS"
+      ],
+      "playerDetails": [
+        {
+          "name": "DECAAS",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "DECAAS",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -214,21 +235,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 19:59:49 UTC",
+      "lastUpdate": "26-03-17 20:02:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［5／32］",
+      "channelName": "🖥️┃syria-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 5,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:29:14",
-      "missionDate": "2025-07-01 11:29:14",
+      "missionTime": "4:31:24",
+      "missionDate": "2025-07-01 11:31:24",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -249,8 +270,7 @@
       },
       "playerList": [
         "101\\-Fish\\[7906\\]",
-        "101\\-zeshka\\[0035\\]",
-        "101ArmOn1453"
+        "101\\-zeshka\\[0035\\]"
       ],
       "playerDetails": [
         {
@@ -260,10 +280,6 @@
         {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "F-15C"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -278,12 +294,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -317,7 +328,7 @@
           },
           "Killed Planes": {
             "blue": 13,
-            "red": 13
+            "red": 14
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -338,7 +349,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 19:59:13 UTC",
+      "lastUpdate": "26-03-17 20:01:58 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -351,8 +362,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:45:26",
-      "missionDate": "2024-10-31 20:10:26",
+      "missionTime": "4:48:26",
+      "missionDate": "2024-10-31 20:13:26",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -431,7 +442,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 19:59:48 UTC",
+      "lastUpdate": "26-03-17 20:02:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -445,8 +456,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "4:50:54",
-    "missionDate": "2026-04-21 13:05:54",
+    "missionTime": "4:53:54",
+    "missionDate": "2026-04-21 13:08:54",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -457,7 +468,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -467,8 +478,9 @@
     },
     "playerList": [
       "CanAda",
+      "NAZGUL",
       "harun",
-      "NAZGUL"
+      "101\\-SKY"
     ],
     "playerDetails": [
       {
@@ -476,11 +488,15 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "NAZGUL",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "harun",
         "unit": "F-16C_50"
       },
       {
-        "name": "NAZGUL",
+        "name": "101\\-SKY",
         "unit": "_ _"
       }
     ],
@@ -488,6 +504,10 @@
       "blue": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "NAZGUL",
           "unit": "F-16C_50"
         }
       ],
@@ -499,7 +519,7 @@
       ],
       "neutral": [
         {
-          "name": "NAZGUL",
+          "name": "101\\-SKY",
           "unit": "_ _"
         }
       ]
@@ -557,9 +577,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-17 19:59:48 UTC",
+    "lastUpdate": "26-03-17 20:03:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-17T20:00:34.114Z"
+  "lastUpdated": "2026-03-17T20:03:30.911Z"
 }
