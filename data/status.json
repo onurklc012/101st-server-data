@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "3:15:54",
-        "missionDate": "2026-04-21 11:30:54",
+        "missionTime": "3:20:54",
+        "missionDate": "2026-04-21 11:35:54",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,20 +22,19 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 3,
             "total": 134
           },
           "red": {
-            "used": 0,
+            "used": 1,
             "total": 16
           }
         },
         "playerList": [
           "CanAda",
           "Furkanukc1",
-          "Me1e27",
           "Phantom2020",
-          "eyo"
+          "Me1e27"
         ],
         "playerDetails": [
           {
@@ -47,16 +46,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Me1e27",
-            "unit": "F-15C"
-          },
-          {
             "name": "Phantom2020",
             "unit": "F-16C_50"
           },
           {
-            "name": "eyo",
-            "unit": "F-16C_50"
+            "name": "Me1e27",
+            "unit": "F-15C"
           }
         ],
         "activePlayers": {
@@ -70,19 +65,16 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Me1e27",
-              "unit": "F-15C"
-            },
-            {
               "name": "Phantom2020",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "eyo",
               "unit": "F-16C_50"
             }
           ],
-          "red": [],
+          "red": [
+            {
+              "name": "Me1e27",
+              "unit": "F-15C"
+            }
+          ],
           "neutral": []
         },
         "missionStats": {
@@ -138,7 +130,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 18:24:48 UTC",
+        "lastUpdate": "26-03-17 18:30:08 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -151,8 +143,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:02:51",
-        "missionDate": "2026-08-01 15:07:51",
+        "missionTime": "3:07:51",
+        "missionDate": "2026-08-01 15:12:51",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -231,7 +223,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 18:24:49 UTC",
+        "lastUpdate": "26-03-17 18:29:49 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -244,8 +236,8 @@
         "map": "Syria",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "2:57:04",
-        "missionDate": "2025-07-01 09:57:04",
+        "missionTime": "3:02:04",
+        "missionDate": "2025-07-01 10:02:04",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -269,7 +261,8 @@
           "101\\-HotelTango",
           "101\\-Rabik",
           "101\\-zeshka\\[0035\\]",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
@@ -282,7 +275,7 @@
           },
           {
             "name": "101\\-Rabik",
-            "unit": "FA-18C_hornet"
+            "unit": "C-130J-30 (crew)"
           },
           {
             "name": "101\\-zeshka\\[0035\\]",
@@ -291,6 +284,10 @@
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -305,7 +302,7 @@
             },
             {
               "name": "101\\-Rabik",
-              "unit": "FA-18C_hornet"
+              "unit": "C-130J-30 (crew)"
             },
             {
               "name": "101\\-zeshka\\[0035\\]",
@@ -317,7 +314,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -372,21 +374,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 18:24:49 UTC",
+        "lastUpdate": "26-03-17 18:29:50 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［1／32］",
+        "channelName": "🖥️┃caucasus-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "3:10:26",
-        "missionDate": "2024-10-31 18:35:26",
+        "missionTime": "3:15:26",
+        "missionDate": "2024-10-31 18:40:26",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -405,12 +407,24 @@
             "total": 2
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "MUTABIG"
+        ],
+        "playerDetails": [
+          {
+            "name": "MUTABIG",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "MUTABIG",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -465,7 +479,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-17 18:24:48 UTC",
+        "lastUpdate": "26-03-17 18:29:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -479,8 +493,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:15:54",
-      "missionDate": "2026-04-21 11:30:54",
+      "missionTime": "3:20:54",
+      "missionDate": "2026-04-21 11:35:54",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -491,20 +505,19 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 3,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "CanAda",
         "Furkanukc1",
-        "Me1e27",
         "Phantom2020",
-        "eyo"
+        "Me1e27"
       ],
       "playerDetails": [
         {
@@ -516,16 +529,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Me1e27",
-          "unit": "F-15C"
-        },
-        {
           "name": "Phantom2020",
           "unit": "F-16C_50"
         },
         {
-          "name": "eyo",
-          "unit": "F-16C_50"
+          "name": "Me1e27",
+          "unit": "F-15C"
         }
       ],
       "activePlayers": {
@@ -539,19 +548,16 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Me1e27",
-            "unit": "F-15C"
-          },
-          {
             "name": "Phantom2020",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "eyo",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "Me1e27",
+            "unit": "F-15C"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -607,11 +613,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-17 18:24:48 UTC",
+      "lastUpdate": "26-03-17 18:30:08 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-17T18:25:24.703Z"
+    "lastUpdated": "2026-03-17T18:30:29.062Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -684,12 +690,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 74999,
+          "totalCredits": 73929,
           "totalPlayers": 71,
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 17.03.2026 21:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 17.03.2026 21:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -730,12 +736,12 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-17T18:25:24.873Z"
+    "lastUpdated": "2026-03-17T18:30:29.275Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
     "guildIcon": null,
-    "totalMembers": 38,
+    "totalMembers": 39,
     "onlineCount": 0,
     "members": [
       {
@@ -2391,6 +2397,44 @@
         "activity": null
       },
       {
+        "id": "800495168108494868",
+        "username": "taygunsonat",
+        "displayName": "101-Taygun[Aday Avcı]",
+        "avatar": "https://cdn.discordapp.com/avatars/800495168108494868/e45e14d9e87fe4491328135f7ac437bf.png?size=128",
+        "roles": [
+          {
+            "id": "1422885449671639132",
+            "name": "Aday Avcı🔰🐾",
+            "color": "#1abc9c",
+            "icon": null,
+            "position": 18
+          },
+          {
+            "id": "1447641630088630352",
+            "name": "ONAYLI",
+            "color": null,
+            "icon": null,
+            "position": 6
+          },
+          {
+            "id": "1447641511633358848",
+            "name": "ONAYSIZ",
+            "color": null,
+            "icon": null,
+            "position": 5
+          }
+        ],
+        "topRole": {
+          "id": "1422885449671639132",
+          "name": "Aday Avcı🔰🐾",
+          "color": "#1abc9c",
+          "position": 18
+        },
+        "joinedAt": "2026-03-15T21:08:28.127000+00:00",
+        "status": "offline",
+        "activity": null
+      },
+      {
         "id": "1138071375412736021",
         "username": "kuzex00_",
         "displayName": "101-Kuzex[Aday Avcı]",
@@ -2773,11 +2817,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-17T18:25:25.642Z",
+    "lastUpdated": "2026-03-17T18:30:29.794Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-17T18:25:26.217Z",
+    "fetchedAt": "2026-03-17T18:30:30.245Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
