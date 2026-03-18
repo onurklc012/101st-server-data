@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:54:37",
-      "missionDate": "2026-04-21 12:09:37",
+      "missionTime": "3:59:37",
+      "missionDate": "2026-04-21 12:14:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -29,12 +29,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "K0ka1NN"
+      ],
+      "playerDetails": [
+        {
+          "name": "K0ka1NN",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "K0ka1NN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -89,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:24:48 UTC",
+      "lastUpdate": "26-03-18 01:29:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:05:35",
-      "missionDate": "2026-08-01 16:10:35",
+      "missionTime": "4:10:35",
+      "missionDate": "2026-08-01 16:15:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -182,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:24:49 UTC",
+      "lastUpdate": "26-03-18 01:29:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +207,8 @@
       "map": "Syria",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:59:09",
-      "missionDate": "2025-07-01 10:59:09",
+      "missionTime": "4:04:09",
+      "missionDate": "2025-07-01 11:04:09",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -217,10 +229,9 @@
       },
       "playerList": [
         "101\\-Atmaca\\[3404\\]",
-        "101\\-Fish\\[7906\\]",
         "101\\-Rabik",
-        "prometheus",
-        "eagle 1"
+        "eagle 1",
+        "prometheus"
       ],
       "playerDetails": [
         {
@@ -228,20 +239,16 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Fish\\[7906\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Rabik",
           "unit": "C-130J-30"
         },
         {
-          "name": "prometheus",
+          "name": "eagle 1",
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "eagle 1",
-          "unit": "_ _"
+          "name": "prometheus",
+          "unit": "FA-18C_hornet"
         }
       ],
       "activePlayers": {
@@ -251,12 +258,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Rabik",
             "unit": "C-130J-30"
+          },
+          {
+            "name": "eagle 1",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "prometheus",
@@ -264,12 +271,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "eagle 1",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -303,14 +305,14 @@
           },
           "Killed Planes": {
             "blue": 15,
-            "red": 30
+            "red": 32
           },
           "Downed Helicopters": {
             "blue": 7,
             "red": 5
           },
           "Ground Shacks": {
-            "blue": 119,
+            "blue": 120,
             "red": 0
           },
           "Sunken Ships": {
@@ -324,7 +326,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:24:50 UTC",
+      "lastUpdate": "26-03-18 01:29:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -337,8 +339,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:13:04",
-      "missionDate": "2024-10-31 19:38:04",
+      "missionTime": "4:18:04",
+      "missionDate": "2024-10-31 19:43:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -417,22 +419,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:24:48 UTC",
+      "lastUpdate": "26-03-18 01:29:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "3:54:37",
-    "missionDate": "2026-04-21 12:09:37",
+    "missionTime": "3:59:37",
+    "missionDate": "2026-04-21 12:14:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -451,12 +453,24 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "K0ka1NN"
+    ],
+    "playerDetails": [
+      {
+        "name": "K0ka1NN",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "K0ka1NN",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -511,9 +525,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 01:24:48 UTC",
+    "lastUpdate": "26-03-18 01:29:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T01:25:19.002Z"
+  "lastUpdated": "2026-03-18T01:30:27.747Z"
 }
