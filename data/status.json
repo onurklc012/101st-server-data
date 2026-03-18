@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［5／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 5,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "0:38:21",
-        "missionDate": "2026-04-21 08:53:21",
+        "missionTime": "0:43:21",
+        "missionDate": "2026-04-21 08:58:21",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -120,7 +120,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-18 21:40:22 UTC",
+        "lastUpdate": "26-03-18 21:45:21 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -133,8 +133,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "0:35:06",
-        "missionDate": "2026-08-01 12:40:06",
+        "missionTime": "0:40:06",
+        "missionDate": "2026-08-01 12:45:06",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -234,7 +234,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-18 21:40:22 UTC",
+        "lastUpdate": "26-03-18 21:45:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -247,8 +247,8 @@
         "map": "Syria",
         "players": 7,
         "maxPlayers": 32,
-        "missionTime": "0:31:39",
-        "missionDate": "2025-07-01 07:31:39",
+        "missionTime": "0:36:39",
+        "missionDate": "2025-07-01 07:36:39",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -273,7 +273,8 @@
           "101\\-Maskot\\(0019\\)",
           "101\\-Shadow\\[1881\\]",
           "PENÇE",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
           {
@@ -299,6 +300,10 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -329,7 +334,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -384,21 +394,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-18 21:40:21 UTC",
+        "lastUpdate": "26-03-18 21:45:21 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［2／32］",
+        "channelName": "🖥️┃caucasus-dynamic［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 2,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "0:29:03",
-        "missionDate": "2024-10-31 15:54:03",
+        "missionTime": "0:34:03",
+        "missionDate": "2024-10-31 15:59:03",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -418,17 +428,12 @@
           }
         },
         "playerList": [
-          "101\\-Yidobaba\\[0098\\]",
-          "NAZGUL"
+          "101\\-Yidobaba\\[0098\\]"
         ],
         "playerDetails": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "A-10C_2"
-          },
-          {
-            "name": "NAZGUL",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -439,12 +444,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "NAZGUL",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -499,22 +499,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-18 21:40:40 UTC",
+        "lastUpdate": "26-03-18 21:45:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:38:21",
-      "missionDate": "2026-04-21 08:53:21",
+      "missionTime": "0:43:21",
+      "missionDate": "2026-04-21 08:58:21",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -623,11 +623,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:40:22 UTC",
+      "lastUpdate": "26-03-18 21:45:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-18T21:40:44.302Z"
+    "lastUpdated": "2026-03-18T21:45:22.652Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -746,7 +746,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-18T21:40:44.465Z"
+    "lastUpdated": "2026-03-18T21:45:22.857Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2972,11 +2972,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-18T21:40:45.054Z",
+    "lastUpdated": "2026-03-18T21:45:23.465Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-18T21:40:45.907Z",
+    "fetchedAt": "2026-03-18T21:45:24.027Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
