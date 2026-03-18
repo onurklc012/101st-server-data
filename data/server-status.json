@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:18:21",
-      "missionDate": "2026-04-21 08:33:21",
+      "missionTime": "0:23:21",
+      "missionDate": "2026-04-21 08:38:21",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -35,18 +35,18 @@
       "playerDetails": [
         {
           "name": "Taygun",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "Taygun",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:20:22 UTC",
+      "lastUpdate": "26-03-18 21:25:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:15:05",
-      "missionDate": "2026-08-01 12:20:05",
+      "missionTime": "0:20:05",
+      "missionDate": "2026-08-01 12:25:05",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -134,12 +134,33 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "DECAAS",
+        "b1hadir"
+      ],
+      "playerDetails": [
+        {
+          "name": "DECAAS",
+          "unit": "--"
+        },
+        {
+          "name": "b1hadir",
+          "unit": "--"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "DECAAS",
+            "unit": "--"
+          },
+          {
+            "name": "b1hadir",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -194,7 +215,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:20:22 UTC",
+      "lastUpdate": "26-03-18 21:25:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +228,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:11:39",
-      "missionDate": "2025-07-01 07:11:39",
+      "missionTime": "0:16:39",
+      "missionDate": "2025-07-01 07:16:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -219,7 +240,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 126
         },
         "red": {
@@ -229,18 +250,14 @@
       },
       "playerList": [
         "101\\-Fish\\[7906\\]",
-        "101\\-Maskot\\(0019\\)",
         "PENÇE",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "101\\-Maskot\\(0019\\)"
       ],
       "playerDetails": [
         {
           "name": "101\\-Fish\\[7906\\]",
           "unit": "C-130J-30"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
         },
         {
           "name": "PENÇE",
@@ -249,6 +266,10 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -256,10 +277,6 @@
           {
             "name": "101\\-Fish\\[7906\\]",
             "unit": "C-130J-30"
-          },
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
           },
           {
             "name": "PENÇE",
@@ -271,7 +288,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -326,7 +348,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:20:21 UTC",
+      "lastUpdate": "26-03-18 21:25:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -339,8 +361,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:09:03",
-      "missionDate": "2024-10-31 15:34:03",
+      "missionTime": "0:14:03",
+      "missionDate": "2024-10-31 15:39:03",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -359,12 +381,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Yidobaba\\[0098\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -419,7 +453,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:20:20 UTC",
+      "lastUpdate": "26-03-18 21:25:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -433,8 +467,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:18:21",
-    "missionDate": "2026-04-21 08:33:21",
+    "missionTime": "0:23:21",
+    "missionDate": "2026-04-21 08:38:21",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -445,7 +479,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -459,18 +493,18 @@
     "playerDetails": [
       {
         "name": "Taygun",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
-      "neutral": [
+      "blue": [
         {
           "name": "Taygun",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -525,9 +559,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 21:20:22 UTC",
+    "lastUpdate": "26-03-18 21:25:21 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T21:20:24.147Z"
+  "lastUpdated": "2026-03-18T21:25:22.752Z"
 }
