@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［9／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 9,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "1:17:21",
-      "missionDate": "2026-04-21 09:32:21",
+      "missionTime": "1:22:21",
+      "missionDate": "2026-04-21 09:37:21",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -33,9 +33,9 @@
         "101\\-harun",
         "CanAda",
         "FatihEmin19",
-        "K0ka1NN",
         "Kaan450",
-        "Taygun"
+        "Taygun",
+        "üüüü"
       ],
       "playerDetails": [
         {
@@ -51,15 +51,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "K0ka1NN",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "Kaan450",
           "unit": "F-16C_50"
         },
         {
           "name": "Taygun",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "üüüü",
           "unit": "F-16C_50"
         }
       ],
@@ -78,15 +78,15 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "K0ka1NN",
-            "unit": "FA-18C_hornet"
-          },
-          {
             "name": "Kaan450",
             "unit": "F-16C_50"
           },
           {
             "name": "Taygun",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "üüüü",
             "unit": "F-16C_50"
           }
         ],
@@ -146,7 +146,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 22:19:22 UTC",
+      "lastUpdate": "26-03-18 22:24:30 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -159,8 +159,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:14:06",
-      "missionDate": "2026-08-01 13:19:06",
+      "missionTime": "1:19:06",
+      "missionDate": "2026-08-01 13:24:06",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -260,7 +260,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 22:19:22 UTC",
+      "lastUpdate": "26-03-18 22:24:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -273,8 +273,8 @@
       "map": "Syria",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:10:39",
-      "missionDate": "2025-07-01 08:10:39",
+      "missionTime": "1:16:39",
+      "missionDate": "2025-07-01 08:16:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -285,7 +285,7 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 6,
           "total": 126
         },
         "red": {
@@ -296,11 +296,11 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-Atmaca\\[3404\\]",
-        "101\\-Fish\\[7906\\]",
         "101\\-HotelTango",
         "101\\-Shadow\\[1881\\]",
         "PENÇE",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "✯101\\-Emrecan\\[0444\\]✯",
+        "101\\-Fish\\[7906\\]"
       ],
       "playerDetails": [
         {
@@ -310,10 +310,6 @@
         {
           "name": "101\\-Atmaca\\[3404\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Fish\\[7906\\]",
-          "unit": "C-130J-30"
         },
         {
           "name": "101\\-HotelTango",
@@ -330,6 +326,10 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -341,10 +341,6 @@
           {
             "name": "101\\-Atmaca\\[3404\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "C-130J-30"
           },
           {
             "name": "101\\-HotelTango",
@@ -364,7 +360,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -419,7 +420,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 22:19:21 UTC",
+      "lastUpdate": "26-03-18 22:25:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -432,8 +433,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:09:03",
-      "missionDate": "2024-10-31 16:34:03",
+      "missionTime": "1:14:03",
+      "missionDate": "2024-10-31 16:39:03",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -512,22 +513,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 22:20:20 UTC",
+      "lastUpdate": "26-03-18 22:25:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［9／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 9,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "1:17:21",
-    "missionDate": "2026-04-21 09:32:21",
+    "missionTime": "1:22:21",
+    "missionDate": "2026-04-21 09:37:21",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -538,7 +539,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -550,9 +551,9 @@
       "101\\-harun",
       "CanAda",
       "FatihEmin19",
-      "K0ka1NN",
       "Kaan450",
-      "Taygun"
+      "Taygun",
+      "üüüü"
     ],
     "playerDetails": [
       {
@@ -568,15 +569,15 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "K0ka1NN",
-        "unit": "FA-18C_hornet"
-      },
-      {
         "name": "Kaan450",
         "unit": "F-16C_50"
       },
       {
         "name": "Taygun",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "üüüü",
         "unit": "F-16C_50"
       }
     ],
@@ -595,15 +596,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "K0ka1NN",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "Kaan450",
           "unit": "F-16C_50"
         },
         {
           "name": "Taygun",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "üüüü",
           "unit": "F-16C_50"
         }
       ],
@@ -663,9 +664,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 22:19:22 UTC",
+    "lastUpdate": "26-03-18 22:24:30 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T22:20:20.878Z"
+  "lastUpdated": "2026-03-18T22:25:21.477Z"
 }
