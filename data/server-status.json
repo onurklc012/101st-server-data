@@ -1,24 +1,52 @@
 {
   "servers": [
     {
-      "online": false,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "online": true,
+      "channelName": "🖥️┃server-caucasus［-］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 8,
+      "serverIP": "88.247.164.234:10308",
+      "mission": "101_Hunter_SQN_v9_5",
+      "map": "Caucasus",
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
-      "playerList": [],
-      "playerDetails": [],
+      "missionTime": "0:02:21",
+      "missionDate": "2026-04-21 08:17:21",
+      "weather": {
+        "temperature": "5.4°C",
+        "qnh": "1013 hPa",
+        "clouds": "Two Layer Scattered/",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "281° / 2 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 134
+        },
+        "red": {
+          "used": 0,
+          "total": 16
+        }
+      },
+      "playerList": [
+        "Taygun"
+      ],
+      "playerDetails": [
+        {
+          "name": "Taygun",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Taygun",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -44,22 +72,22 @@
           },
           "Yapilar": {
             "blue": 134,
-            "red": 4
+            "red": 15
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 3,
-            "red": 1
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 20,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -73,21 +101,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-18 21:04:22 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:40:29",
-      "missionDate": "2026-08-01 14:45:29",
+      "missionTime": "0:00:00",
+      "missionDate": "2026-08-01 12:05:00",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -98,7 +126,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -106,22 +134,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "DECAAS"
-      ],
-      "playerDetails": [
-        {
-          "name": "DECAAS",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "DECAAS",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -178,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:00:22 UTC",
+      "lastUpdate": "26-03-18 21:05:10 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -191,8 +207,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:26:59",
-      "missionDate": "2025-07-01 09:26:59",
+      "missionTime": "2:30:59",
+      "missionDate": "2025-07-01 09:30:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -214,7 +230,8 @@
       "playerList": [
         "101\\-Fish\\[7906\\]",
         "PENÇE",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "b1hadir"
       ],
       "playerDetails": [
         {
@@ -228,6 +245,10 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "b1hadir",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -246,7 +267,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "b1hadir",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -301,7 +327,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:00:21 UTC",
+      "lastUpdate": "26-03-18 21:04:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -314,8 +340,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:26:51",
-      "missionDate": "2024-10-31 10:21:51",
+      "missionTime": "2:30:51",
+      "missionDate": "2024-10-31 10:25:51",
       "weather": {
         "temperature": "30.0°C",
         "qnh": "986 hPa",
@@ -336,7 +362,8 @@
       },
       "playerList": [
         "101\\-Yidobaba\\[0098\\]",
-        "Lanurens"
+        "Lanurens",
+        "eyo"
       ],
       "playerDetails": [
         {
@@ -346,6 +373,10 @@
         {
           "name": "Lanurens",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "eyo",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -360,7 +391,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "eyo",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -415,30 +451,58 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:00:20 UTC",
+      "lastUpdate": "26-03-18 21:04:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": false,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "online": true,
+    "channelName": "🖥️┃server-caucasus［-］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": null,
-    "mission": "--",
-    "map": "--",
-    "players": 8,
+    "serverIP": "88.247.164.234:10308",
+    "mission": "101_Hunter_SQN_v9_5",
+    "map": "Caucasus",
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "--:--",
-    "missionDate": null,
-    "weather": null,
-    "slots": null,
-    "playerList": [],
-    "playerDetails": [],
+    "missionTime": "0:02:21",
+    "missionDate": "2026-04-21 08:17:21",
+    "weather": {
+      "temperature": "5.4°C",
+      "qnh": "1013 hPa",
+      "clouds": "Two Layer Scattered/",
+      "cloudbase": "--",
+      "visibility": "10 km / 6 SM (+)",
+      "wind": "281° / 2 kts"
+    },
+    "slots": {
+      "blue": {
+        "used": 0,
+        "total": 134
+      },
+      "red": {
+        "used": 0,
+        "total": 16
+      }
+    },
+    "playerList": [
+      "Taygun"
+    ],
+    "playerDetails": [
+      {
+        "name": "Taygun",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Taygun",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -464,22 +528,22 @@
         },
         "Yapilar": {
           "blue": 134,
-          "red": 4
+          "red": 15
         },
         "Base Captures": {
           "blue": 0,
           "red": 0
         },
         "Killed Planes": {
-          "blue": 3,
-          "red": 1
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 20,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -493,9 +557,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": null,
+    "lastUpdate": "26-03-18 21:04:22 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T21:00:32.270Z"
+  "lastUpdated": "2026-03-18T21:05:19.881Z"
 }
