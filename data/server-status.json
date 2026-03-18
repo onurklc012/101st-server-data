@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:33:51",
-      "missionDate": "2026-04-21 09:48:51",
+      "missionTime": "1:38:51",
+      "missionDate": "2026-04-21 09:53:51",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -110,7 +110,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 19:50:22 UTC",
+      "lastUpdate": "26-03-18 19:55:22 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +123,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:30:29",
-      "missionDate": "2026-08-01 13:35:29",
+      "missionTime": "1:35:29",
+      "missionDate": "2026-08-01 13:40:29",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -135,7 +135,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 12
         },
         "red": {
@@ -145,8 +145,9 @@
       },
       "playerList": [
         "DECAAS",
-        "Saniga",
-        "b1hadir"
+        "b1hadir",
+        "101\\-Maskot\\(0019\\)",
+        "only \\| Stealth \\|"
       ],
       "playerDetails": [
         {
@@ -154,12 +155,16 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Saniga",
+          "name": "b1hadir",
           "unit": "F-16C_50"
         },
         {
-          "name": "b1hadir",
-          "unit": "F-16C_50"
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "--"
+        },
+        {
+          "name": "only \\| Stealth \\|",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -169,16 +174,21 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Saniga",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "b1hadir",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "--"
+          },
+          {
+            "name": "only \\| Stealth \\|",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -233,7 +243,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 19:50:22 UTC",
+      "lastUpdate": "26-03-18 19:55:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -246,8 +256,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:16:59",
-      "missionDate": "2025-07-01 08:16:59",
+      "missionTime": "1:21:59",
+      "missionDate": "2025-07-01 08:21:59",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -326,21 +336,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 19:50:21 UTC",
+      "lastUpdate": "26-03-18 19:55:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:16:51",
-      "missionDate": "2024-10-31 09:11:51",
+      "missionTime": "1:21:51",
+      "missionDate": "2024-10-31 09:16:51",
       "weather": {
         "temperature": "30.0°C",
         "qnh": "986 hPa",
@@ -351,7 +361,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -365,18 +375,18 @@
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "_ _"
+          "unit": "F15EX"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "_ _"
+            "unit": "F15EX"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -431,7 +441,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 19:50:20 UTC",
+      "lastUpdate": "26-03-18 19:55:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -445,8 +455,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "1:33:51",
-    "missionDate": "2026-04-21 09:48:51",
+    "missionTime": "1:38:51",
+    "missionDate": "2026-04-21 09:53:51",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -546,9 +556,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 19:50:22 UTC",
+    "lastUpdate": "26-03-18 19:55:22 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T19:50:26.771Z"
+  "lastUpdated": "2026-03-18T19:55:27.135Z"
 }
