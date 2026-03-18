@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:49:37",
-      "missionDate": "2026-04-21 12:04:37",
+      "missionTime": "3:54:37",
+      "missionDate": "2026-04-21 12:09:37",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:19:48 UTC",
+      "lastUpdate": "26-03-18 01:24:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:00:35",
-      "missionDate": "2026-08-01 16:05:35",
+      "missionTime": "4:05:35",
+      "missionDate": "2026-08-01 16:10:35",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -182,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:19:49 UTC",
+      "lastUpdate": "26-03-18 01:24:49 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +195,8 @@
       "map": "Syria",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:54:09",
-      "missionDate": "2025-07-01 10:54:09",
+      "missionTime": "3:59:09",
+      "missionDate": "2025-07-01 10:59:09",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -217,9 +217,10 @@
       },
       "playerList": [
         "101\\-Atmaca\\[3404\\]",
+        "101\\-Fish\\[7906\\]",
         "101\\-Rabik",
-        "eagle 1",
-        "prometheus"
+        "prometheus",
+        "eagle 1"
       ],
       "playerDetails": [
         {
@@ -227,16 +228,20 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-Rabik",
           "unit": "C-130J-30"
         },
         {
-          "name": "eagle 1",
+          "name": "prometheus",
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "prometheus",
-          "unit": "FA-18C_hornet"
+          "name": "eagle 1",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -246,12 +251,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Rabik",
-            "unit": "C-130J-30"
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "F-16C_50"
           },
           {
-            "name": "eagle 1",
-            "unit": "FA-18C_hornet"
+            "name": "101\\-Rabik",
+            "unit": "C-130J-30"
           },
           {
             "name": "prometheus",
@@ -259,7 +264,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "eagle 1",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -314,7 +324,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:19:50 UTC",
+      "lastUpdate": "26-03-18 01:24:50 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -327,8 +337,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:08:04",
-      "missionDate": "2024-10-31 19:33:04",
+      "missionTime": "4:13:04",
+      "missionDate": "2024-10-31 19:38:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -407,7 +417,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 01:19:48 UTC",
+      "lastUpdate": "26-03-18 01:24:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -421,8 +431,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:49:37",
-    "missionDate": "2026-04-21 12:04:37",
+    "missionTime": "3:54:37",
+    "missionDate": "2026-04-21 12:09:37",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -501,9 +511,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 01:19:48 UTC",
+    "lastUpdate": "26-03-18 01:24:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T01:20:21.491Z"
+  "lastUpdated": "2026-03-18T01:25:19.002Z"
 }
