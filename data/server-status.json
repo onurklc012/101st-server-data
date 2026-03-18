@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:32:21",
-      "missionDate": "2026-04-21 08:47:21",
+      "missionTime": "0:38:21",
+      "missionDate": "2026-04-21 08:53:21",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -32,8 +32,7 @@
       "playerList": [
         "101\\-harun",
         "CanAda",
-        "Taygun",
-        "K0ka1NN"
+        "Taygun"
       ],
       "playerDetails": [
         {
@@ -47,10 +46,6 @@
         {
           "name": "Taygun",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "K0ka1NN",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -69,12 +64,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "K0ka1NN",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -129,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:34:22 UTC",
+      "lastUpdate": "26-03-18 21:40:22 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +132,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:29:06",
-      "missionDate": "2026-08-01 12:34:06",
+      "missionTime": "0:35:06",
+      "missionDate": "2026-08-01 12:40:06",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -243,21 +233,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:34:22 UTC",
+      "lastUpdate": "26-03-18 21:40:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "0:25:39",
-      "missionDate": "2025-07-01 07:25:39",
+      "missionTime": "0:31:39",
+      "missionDate": "2025-07-01 07:31:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -268,7 +258,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 6,
           "total": 126
         },
         "red": {
@@ -280,9 +270,9 @@
         "101\\-Atmaca\\[3404\\]",
         "101\\-Fish\\[7906\\]",
         "101\\-Maskot\\(0019\\)",
+        "101\\-Shadow\\[1881\\]",
         "PENÇE",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "101\\-Shadow\\[1881\\]"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -298,16 +288,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "PENÇE",
           "unit": "F-16C_50"
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Shadow\\[1881\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -325,6 +315,10 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "PENÇE",
             "unit": "F-16C_50"
           },
@@ -334,12 +328,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -394,7 +383,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:35:10 UTC",
+      "lastUpdate": "26-03-18 21:40:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -407,8 +396,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:23:03",
-      "missionDate": "2024-10-31 15:48:03",
+      "missionTime": "0:29:03",
+      "missionDate": "2024-10-31 15:54:03",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -428,12 +417,17 @@
         }
       },
       "playerList": [
-        "101\\-Yidobaba\\[0098\\]"
+        "101\\-Yidobaba\\[0098\\]",
+        "NAZGUL"
       ],
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "A-10C_2"
+        },
+        {
+          "name": "NAZGUL",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -444,7 +438,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "NAZGUL",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -499,7 +498,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-18 21:34:20 UTC",
+      "lastUpdate": "26-03-18 21:40:40 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -513,8 +512,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "0:32:21",
-    "missionDate": "2026-04-21 08:47:21",
+    "missionTime": "0:38:21",
+    "missionDate": "2026-04-21 08:53:21",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -536,8 +535,7 @@
     "playerList": [
       "101\\-harun",
       "CanAda",
-      "Taygun",
-      "K0ka1NN"
+      "Taygun"
     ],
     "playerDetails": [
       {
@@ -551,10 +549,6 @@
       {
         "name": "Taygun",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "K0ka1NN",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -573,12 +567,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "K0ka1NN",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -633,9 +622,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-18 21:34:22 UTC",
+    "lastUpdate": "26-03-18 21:40:22 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-18T21:35:18.615Z"
+  "lastUpdated": "2026-03-18T21:40:44.302Z"
 }
