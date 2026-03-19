@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:51:43",
-      "missionDate": "2026-04-21 12:06:43",
+      "missionTime": "3:56:43",
+      "missionDate": "2026-04-21 12:11:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 135
         },
         "red": {
@@ -30,13 +30,17 @@
         }
       },
       "playerList": [
+        "101\\-harun",
         "Caner",
         "Kaan450",
         "Taygun",
-        "\\| Stealth \\| Kartal",
-        "101\\-harun"
+        "\\| Stealth \\| Kartal"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-harun",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Caner",
           "unit": "F-16C_50"
@@ -52,14 +56,14 @@
         {
           "name": "\\| Stealth \\| Kartal",
           "unit": "F-15C"
-        },
-        {
-          "name": "101\\-harun",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-harun",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Caner",
             "unit": "F-16C_50"
@@ -78,12 +82,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-harun",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -138,7 +137,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 12:54:49 UTC",
+      "lastUpdate": "26-03-19 12:59:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -151,8 +150,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:48:54",
-      "missionDate": "2026-08-01 15:53:54",
+      "missionTime": "3:53:54",
+      "missionDate": "2026-08-01 15:58:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -243,7 +242,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 12:54:47 UTC",
+      "lastUpdate": "26-03-19 12:59:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -256,8 +255,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:45:19",
-      "missionDate": "2025-07-01 10:45:19",
+      "missionTime": "3:50:19",
+      "missionDate": "2025-07-01 10:50:19",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -336,7 +335,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 12:54:48 UTC",
+      "lastUpdate": "26-03-19 12:59:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -349,8 +348,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:42:49",
-      "missionDate": "2024-10-31 19:07:49",
+      "missionTime": "3:47:49",
+      "missionDate": "2024-10-31 19:12:49",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -380,7 +379,7 @@
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
+          "unit": "A-10C_2"
         }
       ],
       "activePlayers": {
@@ -391,7 +390,7 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
+            "unit": "A-10C_2"
           }
         ],
         "red": [],
@@ -428,7 +427,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
+            "blue": 6,
             "red": 0
           },
           "Downed Helicopters": {
@@ -450,22 +449,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 12:54:47 UTC",
+      "lastUpdate": "26-03-19 12:59:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "3:51:43",
-    "missionDate": "2026-04-21 12:06:43",
+    "missionTime": "3:56:43",
+    "missionDate": "2026-04-21 12:11:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -476,7 +475,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 5,
         "total": 135
       },
       "red": {
@@ -485,13 +484,17 @@
       }
     },
     "playerList": [
+      "101\\-harun",
       "Caner",
       "Kaan450",
       "Taygun",
-      "\\| Stealth \\| Kartal",
-      "101\\-harun"
+      "\\| Stealth \\| Kartal"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-harun",
+        "unit": "F-16C_50"
+      },
       {
         "name": "Caner",
         "unit": "F-16C_50"
@@ -507,14 +510,14 @@
       {
         "name": "\\| Stealth \\| Kartal",
         "unit": "F-15C"
-      },
-      {
-        "name": "101\\-harun",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-harun",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Caner",
           "unit": "F-16C_50"
@@ -533,12 +536,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-harun",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -593,9 +591,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-19 12:54:49 UTC",
+    "lastUpdate": "26-03-19 12:59:49 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-19T12:55:20.557Z"
+  "lastUpdated": "2026-03-19T13:00:34.767Z"
 }
