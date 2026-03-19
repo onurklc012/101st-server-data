@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［3／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 3,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "0:16:58",
-        "missionDate": "2026-04-21 08:31:58",
+        "missionTime": "0:21:58",
+        "missionDate": "2026-04-21 08:36:58",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -33,7 +33,9 @@
         "playerList": [
           "ATAMER",
           "BNB\\.Caner",
-          "Cerberus"
+          "Cerberus",
+          "weconn",
+          "\\| Stealth \\| Kartal"
         ],
         "playerDetails": [
           {
@@ -46,6 +48,14 @@
           },
           {
             "name": "Cerberus",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "weconn",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "\\| Stealth \\| Kartal",
             "unit": "_ _"
           }
         ],
@@ -58,12 +68,20 @@
             {
               "name": "BNB\\.Caner",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "Cerberus",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "weconn",
+              "unit": "F-16C_50"
             }
           ],
           "red": [],
           "neutral": [
             {
-              "name": "Cerberus",
+              "name": "\\| Stealth \\| Kartal",
               "unit": "_ _"
             }
           ]
@@ -121,7 +139,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 13:29:48 UTC",
+        "lastUpdate": "26-03-19 13:34:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -134,8 +152,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:16:27",
-        "missionDate": "2026-08-01 12:21:27",
+        "missionTime": "0:21:27",
+        "missionDate": "2026-08-01 12:26:27",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -214,7 +232,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 13:29:47 UTC",
+        "lastUpdate": "26-03-19 13:34:47 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -227,8 +245,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:15:55",
-        "missionDate": "2025-07-01 07:15:55",
+        "missionTime": "0:20:55",
+        "missionDate": "2025-07-01 07:20:55",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -307,7 +325,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 13:29:48 UTC",
+        "lastUpdate": "26-03-19 13:34:48 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -320,8 +338,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:16:31",
-        "missionDate": "2024-10-31 15:41:31",
+        "missionTime": "0:21:31",
+        "missionDate": "2024-10-31 15:46:31",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -341,12 +359,17 @@
           }
         },
         "playerList": [
-          "101\\-Yidobaba\\[0098\\]"
+          "101\\-Yidobaba\\[0098\\]",
+          "Ferhat"
         ],
         "playerDetails": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "A-10C_2"
+          },
+          {
+            "name": "Ferhat",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -357,7 +380,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Ferhat",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -412,22 +440,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 13:29:47 UTC",
+        "lastUpdate": "26-03-19 13:35:17 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:16:58",
-      "missionDate": "2026-04-21 08:31:58",
+      "missionTime": "0:21:58",
+      "missionDate": "2026-04-21 08:36:58",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -438,7 +466,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -449,7 +477,9 @@
       "playerList": [
         "ATAMER",
         "BNB\\.Caner",
-        "Cerberus"
+        "Cerberus",
+        "weconn",
+        "\\| Stealth \\| Kartal"
       ],
       "playerDetails": [
         {
@@ -462,6 +492,14 @@
         },
         {
           "name": "Cerberus",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "weconn",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "\\| Stealth \\| Kartal",
           "unit": "_ _"
         }
       ],
@@ -474,12 +512,20 @@
           {
             "name": "BNB\\.Caner",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Cerberus",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "weconn",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
         "neutral": [
           {
-            "name": "Cerberus",
+            "name": "\\| Stealth \\| Kartal",
             "unit": "_ _"
           }
         ]
@@ -537,11 +583,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 13:29:48 UTC",
+      "lastUpdate": "26-03-19 13:34:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-19T13:30:29.562Z"
+    "lastUpdated": "2026-03-19T13:35:21.318Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -660,7 +706,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-19T13:30:29.751Z"
+    "lastUpdated": "2026-03-19T13:35:21.584Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2886,11 +2932,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-19T13:30:30.395Z",
+    "lastUpdated": "2026-03-19T13:35:22.198Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-19T13:30:30.879Z",
+    "fetchedAt": "2026-03-19T13:35:22.648Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
