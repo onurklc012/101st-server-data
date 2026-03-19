@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［1／32］",
+        "channelName": "🖥️┃server-caucasus［4／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 1,
+        "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:27:22",
-        "missionDate": "2026-04-21 10:42:22",
+        "missionTime": "2:32:22",
+        "missionDate": "2026-04-21 10:47:22",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 3,
             "total": 134
           },
           "red": {
@@ -32,31 +32,40 @@
         },
         "playerList": [
           "CanAda",
-          "jovia"
+          "jovia",
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
             "name": "CanAda",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "jovia",
-            "unit": "--"
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II"
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "CanAda",
-              "unit": "--"
+              "unit": "F-16C_50"
             },
             {
               "name": "jovia",
-              "unit": "--"
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "AH-64D_BLK_II"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -111,7 +120,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:30:17 UTC",
+        "lastUpdate": "26-03-19 17:34:49 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -124,8 +133,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:24:12",
-        "missionDate": "2026-08-01 14:29:12",
+        "missionTime": "2:29:12",
+        "missionDate": "2026-08-01 14:34:12",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -216,7 +225,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:29:47 UTC",
+        "lastUpdate": "26-03-19 17:34:47 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +238,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:20:40",
-        "missionDate": "2025-07-01 09:20:40",
+        "missionTime": "2:25:39",
+        "missionDate": "2025-07-01 09:25:39",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -309,21 +318,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:29:48 UTC",
+        "lastUpdate": "26-03-19 17:34:48 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［5／32］",
+        "channelName": "🖥️┃caucasus-dynamic［6／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 5,
+        "players": 6,
         "maxPlayers": 32,
-        "missionTime": "2:18:03",
-        "missionDate": "2024-10-31 17:43:03",
+        "missionTime": "2:23:02",
+        "missionDate": "2024-10-31 17:48:02",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -334,7 +343,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 69
           },
           "red": {
@@ -346,8 +355,9 @@
           "101\\-Antares",
           "101\\-Yidobaba\\[0098\\]",
           "101\\-harun",
+          "Somon",
           "Taygun",
-          "Somon"
+          "cassaba"
         ],
         "playerDetails": [
           {
@@ -363,11 +373,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Somon",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "Taygun",
             "unit": "F-16C_50"
           },
           {
-            "name": "Somon",
+            "name": "cassaba",
             "unit": "_ _"
           }
         ],
@@ -386,6 +400,10 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "Somon",
+              "unit": "FA-18C_hornet"
+            },
+            {
               "name": "Taygun",
               "unit": "F-16C_50"
             }
@@ -393,7 +411,7 @@
           "red": [],
           "neutral": [
             {
-              "name": "Somon",
+              "name": "cassaba",
               "unit": "_ _"
             }
           ]
@@ -451,22 +469,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:29:47 UTC",
+        "lastUpdate": "26-03-19 17:34:47 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:27:22",
-      "missionDate": "2026-04-21 10:42:22",
+      "missionTime": "2:32:22",
+      "missionDate": "2026-04-21 10:47:22",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -477,7 +495,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -487,31 +505,40 @@
       },
       "playerList": [
         "CanAda",
-        "jovia"
+        "jovia",
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
-          "unit": "--"
+          "unit": "F-16C_50"
         },
         {
           "name": "jovia",
-          "unit": "--"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "AH-64D_BLK_II"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "CanAda",
-            "unit": "--"
+            "unit": "F-16C_50"
           },
           {
             "name": "jovia",
-            "unit": "--"
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -566,11 +593,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 17:30:17 UTC",
+      "lastUpdate": "26-03-19 17:34:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-19T17:30:28.495Z"
+    "lastUpdated": "2026-03-19T17:35:22.778Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -689,7 +716,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-19T17:30:28.690Z"
+    "lastUpdated": "2026-03-19T17:35:22.968Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2915,11 +2942,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-19T17:30:29.231Z",
+    "lastUpdated": "2026-03-19T17:35:23.564Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-19T17:30:29.626Z",
+    "fetchedAt": "2026-03-19T17:35:24.139Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
