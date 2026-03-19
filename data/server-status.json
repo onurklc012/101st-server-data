@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:42:22",
-      "missionDate": "2026-04-21 11:57:22",
+      "missionTime": "3:47:22",
+      "missionDate": "2026-04-21 12:02:22",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,46 +30,23 @@
         }
       },
       "playerList": [
-        "311Blade",
         "CanAda",
-        "PENÇE",
-        "cagri",
-        "Me1e27"
+        "cagri"
       ],
       "playerDetails": [
-        {
-          "name": "311Blade",
-          "unit": "F-16C_50"
-        },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
         },
         {
-          "name": "PENÇE",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "cagri",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Me1e27",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "311Blade",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "CanAda",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "PENÇE",
             "unit": "F-16C_50"
           },
           {
@@ -78,12 +55,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Me1e27",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -138,7 +110,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 18:44:48 UTC",
+      "lastUpdate": "26-03-19 18:49:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -151,8 +123,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:39:12",
-      "missionDate": "2026-08-01 15:44:12",
+      "missionTime": "3:44:12",
+      "missionDate": "2026-08-01 15:49:12",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -171,12 +143,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "PENÇE"
+      ],
+      "playerDetails": [
+        {
+          "name": "PENÇE",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "PENÇE",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -231,7 +215,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 18:44:47 UTC",
+      "lastUpdate": "26-03-19 18:49:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -244,8 +228,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:35:40",
-      "missionDate": "2025-07-01 10:35:40",
+      "missionTime": "3:40:39",
+      "missionDate": "2025-07-01 10:40:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -324,7 +308,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 18:44:48 UTC",
+      "lastUpdate": "26-03-19 18:49:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -337,8 +321,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:33:03",
-      "missionDate": "2024-10-31 18:58:03",
+      "missionTime": "3:38:03",
+      "missionDate": "2024-10-31 19:03:03",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -447,22 +431,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 18:44:47 UTC",
+      "lastUpdate": "26-03-19 18:49:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "3:42:22",
-    "missionDate": "2026-04-21 11:57:22",
+    "missionTime": "3:47:22",
+    "missionDate": "2026-04-21 12:02:22",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -473,7 +457,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -482,46 +466,23 @@
       }
     },
     "playerList": [
-      "311Blade",
       "CanAda",
-      "PENÇE",
-      "cagri",
-      "Me1e27"
+      "cagri"
     ],
     "playerDetails": [
-      {
-        "name": "311Blade",
-        "unit": "F-16C_50"
-      },
       {
         "name": "CanAda",
         "unit": "F-16C_50"
       },
       {
-        "name": "PENÇE",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "cagri",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "Me1e27",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "311Blade",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "PENÇE",
           "unit": "F-16C_50"
         },
         {
@@ -530,12 +491,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Me1e27",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -590,9 +546,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-19 18:44:48 UTC",
+    "lastUpdate": "26-03-19 18:49:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-19T18:45:23.449Z"
+  "lastUpdated": "2026-03-19T18:50:21.989Z"
 }
