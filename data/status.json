@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:32:22",
-        "missionDate": "2026-04-21 10:47:22",
+        "missionTime": "2:37:22",
+        "missionDate": "2026-04-21 10:52:22",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -33,7 +33,8 @@
         "playerList": [
           "CanAda",
           "jovia",
-          "✯101\\-EffBee\\[0010\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "101\\-Fish\\[7906\\]"
         ],
         "playerDetails": [
           {
@@ -47,6 +48,10 @@
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -65,7 +70,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-Fish\\[7906\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -120,7 +130,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:34:49 UTC",
+        "lastUpdate": "26-03-19 17:40:07 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -133,8 +143,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:29:12",
-        "missionDate": "2026-08-01 14:34:12",
+        "missionTime": "2:34:12",
+        "missionDate": "2026-08-01 14:39:12",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -225,7 +235,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:34:47 UTC",
+        "lastUpdate": "26-03-19 17:39:47 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -238,8 +248,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:25:39",
-        "missionDate": "2025-07-01 09:25:39",
+        "missionTime": "2:30:39",
+        "missionDate": "2025-07-01 09:30:39",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -318,21 +328,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:34:48 UTC",
+        "lastUpdate": "26-03-19 17:39:48 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［6／32］",
+        "channelName": "🖥️┃caucasus-dynamic［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 6,
+        "players": 7,
         "maxPlayers": 32,
-        "missionTime": "2:23:02",
-        "missionDate": "2024-10-31 17:48:02",
+        "missionTime": "2:28:03",
+        "missionDate": "2024-10-31 17:53:03",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -354,7 +364,6 @@
         "playerList": [
           "101\\-Antares",
           "101\\-Yidobaba\\[0098\\]",
-          "101\\-harun",
           "Somon",
           "Taygun",
           "cassaba"
@@ -369,10 +378,6 @@
             "unit": "Su-30SM"
           },
           {
-            "name": "101\\-harun",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "Somon",
             "unit": "FA-18C_hornet"
           },
@@ -382,7 +387,7 @@
           },
           {
             "name": "cassaba",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -396,31 +401,26 @@
               "unit": "Su-30SM"
             },
             {
-              "name": "101\\-harun",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "Somon",
               "unit": "FA-18C_hornet"
             },
             {
               "name": "Taygun",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "cassaba",
+              "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "cassaba",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 18,
-              "red": 30
+              "blue": 17,
+              "red": 31
             },
             "Ucaklar": {
               "blue": 0,
@@ -440,22 +440,22 @@
             },
             "Yapilar": {
               "blue": 16,
-              "red": 151
+              "red": 152
             },
             "Base Captures": {
               "blue": 0,
               "red": 0
             },
             "Killed Planes": {
-              "blue": 3,
-              "red": 5
+              "blue": 5,
+              "red": 6
             },
             "Downed Helicopters": {
               "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 1,
+              "blue": 12,
               "red": 0
             },
             "Sunken Ships": {
@@ -469,7 +469,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-19 17:34:47 UTC",
+        "lastUpdate": "26-03-19 17:39:47 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -483,8 +483,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:32:22",
-      "missionDate": "2026-04-21 10:47:22",
+      "missionTime": "2:37:22",
+      "missionDate": "2026-04-21 10:52:22",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -506,7 +506,8 @@
       "playerList": [
         "CanAda",
         "jovia",
-        "✯101\\-EffBee\\[0010\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "101\\-Fish\\[7906\\]"
       ],
       "playerDetails": [
         {
@@ -520,6 +521,10 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -538,7 +543,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -593,11 +603,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 17:34:49 UTC",
+      "lastUpdate": "26-03-19 17:40:07 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-19T17:35:22.778Z"
+    "lastUpdated": "2026-03-19T17:40:26.650Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -675,7 +685,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 19.03.2026 20:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 19.03.2026 20:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -716,7 +726,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-19T17:35:22.968Z"
+    "lastUpdated": "2026-03-19T17:40:26.812Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2942,11 +2952,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-19T17:35:23.564Z",
+    "lastUpdated": "2026-03-19T17:40:27.543Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-19T17:35:24.139Z",
+    "fetchedAt": "2026-03-19T17:40:28.076Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
