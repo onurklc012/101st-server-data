@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［9／32］",
+      "channelName": "🖥️┃server-caucasus［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 9,
+      "players": 10,
       "maxPlayers": 32,
-      "missionTime": "2:22:20",
-      "missionDate": "2026-04-21 10:37:20",
+      "missionTime": "2:27:20",
+      "missionDate": "2026-04-21 10:42:20",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -30,17 +30,21 @@
         }
       },
       "playerList": [
+        "101\\-Atmaca\\[3404\\]",
         "101\\-HotelTango",
         "101\\-Omry\\[0333\\]",
         "101\\-Rabik",
+        "Börü",
         "CanAda",
-        "K0ka1NN",
         "Yousxf",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "101\\-Atmaca\\[3404\\]"
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Atmaca\\[3404\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-HotelTango",
           "unit": "AH-64D_BLK_II"
@@ -51,15 +55,15 @@
         },
         {
           "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
+          "unit": "C-130J-30"
+        },
+        {
+          "name": "Börü",
+          "unit": "F-16C_50"
         },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "K0ka1NN",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "Yousxf",
@@ -72,14 +76,14 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "AH-64D_BLK_II (crew)"
-        },
-        {
-          "name": "101\\-Atmaca\\[3404\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Atmaca\\[3404\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-HotelTango",
             "unit": "AH-64D_BLK_II"
@@ -90,15 +94,15 @@
           },
           {
             "name": "101\\-Rabik",
-            "unit": "FA-18C_hornet"
+            "unit": "C-130J-30"
+          },
+          {
+            "name": "Börü",
+            "unit": "F-16C_50"
           },
           {
             "name": "CanAda",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "K0ka1NN",
-            "unit": "FA-18C_hornet"
           },
           {
             "name": "Yousxf",
@@ -114,12 +118,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Atmaca\\[3404\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -174,7 +173,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 23:24:48 UTC",
+      "lastUpdate": "26-03-19 23:29:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -187,8 +186,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:18:50",
-      "missionDate": "2026-08-01 14:23:50",
+      "missionTime": "2:23:50",
+      "missionDate": "2026-08-01 14:28:50",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -267,7 +266,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 23:24:47 UTC",
+      "lastUpdate": "26-03-19 23:29:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -280,8 +279,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:15:39",
-      "missionDate": "2025-07-01 09:15:39",
+      "missionTime": "2:20:39",
+      "missionDate": "2025-07-01 09:20:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -360,7 +359,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 23:24:48 UTC",
+      "lastUpdate": "26-03-19 23:29:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -373,8 +372,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:13:04",
-      "missionDate": "2024-10-31 17:38:04",
+      "missionTime": "2:18:04",
+      "missionDate": "2024-10-31 17:43:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -453,22 +452,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 23:24:47 UTC",
+      "lastUpdate": "26-03-19 23:29:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［9／32］",
+    "channelName": "🖥️┃server-caucasus［10／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 9,
+    "players": 10,
     "maxPlayers": 32,
-    "missionTime": "2:22:20",
-    "missionDate": "2026-04-21 10:37:20",
+    "missionTime": "2:27:20",
+    "missionDate": "2026-04-21 10:42:20",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -488,17 +487,21 @@
       }
     },
     "playerList": [
+      "101\\-Atmaca\\[3404\\]",
       "101\\-HotelTango",
       "101\\-Omry\\[0333\\]",
       "101\\-Rabik",
+      "Börü",
       "CanAda",
-      "K0ka1NN",
       "Yousxf",
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-      "✯101\\-EffBee\\[0010\\]✯",
-      "101\\-Atmaca\\[3404\\]"
+      "✯101\\-EffBee\\[0010\\]✯"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-Atmaca\\[3404\\]",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101\\-HotelTango",
         "unit": "AH-64D_BLK_II"
@@ -509,15 +512,15 @@
       },
       {
         "name": "101\\-Rabik",
-        "unit": "FA-18C_hornet"
+        "unit": "C-130J-30"
+      },
+      {
+        "name": "Börü",
+        "unit": "F-16C_50"
       },
       {
         "name": "CanAda",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "K0ka1NN",
-        "unit": "FA-18C_hornet"
       },
       {
         "name": "Yousxf",
@@ -530,14 +533,14 @@
       {
         "name": "✯101\\-EffBee\\[0010\\]✯",
         "unit": "AH-64D_BLK_II (crew)"
-      },
-      {
-        "name": "101\\-Atmaca\\[3404\\]",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Atmaca\\[3404\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-HotelTango",
           "unit": "AH-64D_BLK_II"
@@ -548,15 +551,15 @@
         },
         {
           "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
+          "unit": "C-130J-30"
+        },
+        {
+          "name": "Börü",
+          "unit": "F-16C_50"
         },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "K0ka1NN",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "Yousxf",
@@ -572,12 +575,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Atmaca\\[3404\\]",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -632,9 +630,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-19 23:24:48 UTC",
+    "lastUpdate": "26-03-19 23:29:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-19T23:25:20.271Z"
+  "lastUpdated": "2026-03-19T23:30:26.528Z"
 }
