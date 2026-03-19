@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:07:55",
-      "missionDate": "2026-04-21 08:22:55",
+      "missionTime": "1:41:43",
+      "missionDate": "2026-04-21 09:56:43",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,8 +21,8 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
-          "total": 134
+          "used": 1,
+          "total": 135
         },
         "red": {
           "used": 0,
@@ -30,23 +30,23 @@
         }
       },
       "playerList": [
-        "PlayerFDVG XFV"
+        "Kaan450"
       ],
       "playerDetails": [
         {
-          "name": "PlayerFDVG XFV",
-          "unit": "_ _"
+          "name": "Kaan450",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
-            "name": "PlayerFDVG XFV",
-            "unit": "_ _"
+            "name": "Kaan450",
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 09:10:59 UTC",
+      "lastUpdate": "26-03-19 10:44:49 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:05:06",
-      "missionDate": "2026-08-01 12:10:06",
+      "missionTime": "1:38:54",
+      "missionDate": "2026-08-01 13:43:54",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -126,18 +126,48 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
-          "total": 12
+          "used": 3,
+          "total": 15
         },
         "red": {
           "used": 0,
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "DECAAS",
+        "Saniga",
+        "b1hadir"
+      ],
+      "playerDetails": [
+        {
+          "name": "DECAAS",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Saniga",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "b1hadir",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "DECAAS",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Saniga",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "b1hadir",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -145,7 +175,7 @@
         "situation": {
           "Hava Usleri / FARP'lar": {
             "blue": 7,
-            "red": 8
+            "red": 7
           },
           "Ucaklar": {
             "blue": 0,
@@ -194,7 +224,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 09:10:59 UTC",
+      "lastUpdate": "26-03-19 10:44:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +237,8 @@
       "map": "Syria",
       "players": 0,
       "maxPlayers": 32,
-      "missionTime": "0:01:31",
-      "missionDate": "2025-07-01 07:01:31",
+      "missionTime": "1:35:19",
+      "missionDate": "2025-07-01 08:35:19",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -237,7 +267,7 @@
       "missionStats": {
         "situation": {
           "Hava Usleri / FARP'lar": {
-            "blue": 45,
+            "blue": 37,
             "red": 23
           },
           "Ucaklar": {
@@ -258,7 +288,7 @@
           },
           "Yapilar": {
             "blue": 49,
-            "red": 115
+            "red": 35
           },
           "Base Captures": {
             "blue": 0,
@@ -287,23 +317,39 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 09:11:00 UTC",
+      "lastUpdate": "26-03-19 10:44:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10311",
+      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
+      "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionTime": "1:32:49",
+      "missionDate": "2024-10-31 16:57:49",
+      "weather": {
+        "temperature": "6.6°C",
+        "qnh": "1022 hPa",
+        "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "50° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 69
+        },
+        "red": {
+          "used": 0,
+          "total": 2
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -335,7 +381,7 @@
           },
           "Yapilar": {
             "blue": 8,
-            "red": 151
+            "red": 142
           },
           "Base Captures": {
             "blue": 0,
@@ -364,7 +410,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-19 10:44:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -378,8 +424,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:07:55",
-    "missionDate": "2026-04-21 08:22:55",
+    "missionTime": "1:41:43",
+    "missionDate": "2026-04-21 09:56:43",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -390,8 +436,8 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
-        "total": 134
+        "used": 1,
+        "total": 135
       },
       "red": {
         "used": 0,
@@ -399,23 +445,23 @@
       }
     },
     "playerList": [
-      "PlayerFDVG XFV"
+      "Kaan450"
     ],
     "playerDetails": [
       {
-        "name": "PlayerFDVG XFV",
-        "unit": "_ _"
+        "name": "Kaan450",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
-      "neutral": [
+      "blue": [
         {
-          "name": "PlayerFDVG XFV",
-          "unit": "_ _"
+          "name": "Kaan450",
+          "unit": "F-16C_50"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -470,9 +516,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-19 09:10:59 UTC",
+    "lastUpdate": "26-03-19 10:44:49 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-19T10:40:26.289Z"
+  "lastUpdated": "2026-03-19T10:45:22.287Z"
 }
