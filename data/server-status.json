@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:26:58",
-      "missionDate": "2026-04-21 09:41:58",
+      "missionTime": "1:31:58",
+      "missionDate": "2026-04-21 09:46:58",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,33 +21,23 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 2,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
-        "101\\-Antares",
         "ATAMER",
-        "Dimyan",
         "EGE09",
         "\\| Stealth \\| Kartal"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Antares",
-          "unit": "F-14B"
-        },
-        {
           "name": "ATAMER",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Dimyan",
-          "unit": "FA-18C_hornet"
+          "unit": "TF-51D"
         },
         {
           "name": "EGE09",
@@ -61,27 +51,20 @@
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Antares",
-            "unit": "F-14B"
-          },
-          {
             "name": "ATAMER",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Dimyan",
-            "unit": "FA-18C_hornet"
+            "unit": "TF-51D"
           },
           {
             "name": "EGE09",
             "unit": "F-16C_50"
-          },
+          }
+        ],
+        "red": [
           {
             "name": "\\| Stealth \\| Kartal",
             "unit": "F-15C"
           }
         ],
-        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -137,7 +120,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 14:39:48 UTC",
+      "lastUpdate": "26-03-19 14:44:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -150,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:26:27",
-      "missionDate": "2026-08-01 13:31:27",
+      "missionTime": "1:31:27",
+      "missionDate": "2026-08-01 13:36:27",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -230,7 +213,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 14:39:47 UTC",
+      "lastUpdate": "26-03-19 14:44:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -243,8 +226,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:25:55",
-      "missionDate": "2025-07-01 08:25:55",
+      "missionTime": "1:30:55",
+      "missionDate": "2025-07-01 08:30:55",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -323,7 +306,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 14:39:48 UTC",
+      "lastUpdate": "26-03-19 14:44:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -336,8 +319,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:26:31",
-      "missionDate": "2024-10-31 16:51:31",
+      "missionTime": "1:31:31",
+      "missionDate": "2024-10-31 16:56:31",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -356,12 +339,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "berat"
+      ],
+      "playerDetails": [
+        {
+          "name": "berat",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "berat",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -416,7 +411,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-19 14:39:47 UTC",
+      "lastUpdate": "26-03-19 14:44:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -430,8 +425,8 @@
     "map": "Caucasus",
     "players": 6,
     "maxPlayers": 32,
-    "missionTime": "1:26:58",
-    "missionDate": "2026-04-21 09:41:58",
+    "missionTime": "1:31:58",
+    "missionDate": "2026-04-21 09:46:58",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -442,33 +437,23 @@
     },
     "slots": {
       "blue": {
-        "used": 5,
+        "used": 2,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
-      "101\\-Antares",
       "ATAMER",
-      "Dimyan",
       "EGE09",
       "\\| Stealth \\| Kartal"
     ],
     "playerDetails": [
       {
-        "name": "101\\-Antares",
-        "unit": "F-14B"
-      },
-      {
         "name": "ATAMER",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Dimyan",
-        "unit": "FA-18C_hornet"
+        "unit": "TF-51D"
       },
       {
         "name": "EGE09",
@@ -482,27 +467,20 @@
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Antares",
-          "unit": "F-14B"
-        },
-        {
           "name": "ATAMER",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Dimyan",
-          "unit": "FA-18C_hornet"
+          "unit": "TF-51D"
         },
         {
           "name": "EGE09",
           "unit": "F-16C_50"
-        },
+        }
+      ],
+      "red": [
         {
           "name": "\\| Stealth \\| Kartal",
           "unit": "F-15C"
         }
       ],
-      "red": [],
       "neutral": []
     },
     "missionStats": {
@@ -558,9 +536,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-19 14:39:48 UTC",
+    "lastUpdate": "26-03-19 14:44:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-19T14:40:24.297Z"
+  "lastUpdated": "2026-03-19T14:45:21.863Z"
 }
