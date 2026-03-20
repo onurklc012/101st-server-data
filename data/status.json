@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "4:17:20",
-        "missionDate": "2026-04-21 12:32:20",
+        "missionTime": "4:22:20",
+        "missionDate": "2026-04-21 12:37:20",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -33,8 +33,8 @@
         "playerList": [
           "101\\-harun",
           "Börü",
-          "✯101\\-Emrecan\\[0444\\]✯",
-          "✯101\\-EffBee\\[0010\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
           {
@@ -46,12 +46,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "AH-64D_BLK_II"
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "AH-64D_BLK_II"
           }
         ],
         "activePlayers": {
@@ -65,17 +65,16 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "AH-64D_BLK_II (crew)"
+            },
+            {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
               "unit": "AH-64D_BLK_II"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -116,7 +115,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 19,
+              "blue": 24,
               "red": 0
             },
             "Sunken Ships": {
@@ -130,21 +129,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 01:19:49 UTC",
+        "lastUpdate": "26-03-20 01:24:48 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［4／32］",
+        "channelName": "🖥️┃server-syria［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 4,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:13:49",
-        "missionDate": "2026-08-01 16:18:49",
+        "missionTime": "4:18:49",
+        "missionDate": "2026-08-01 16:23:49",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -155,7 +154,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 0,
             "total": 12
           },
           "red": {
@@ -163,31 +162,10 @@
             "total": 9
           }
         },
-        "playerList": [
-          "101\\-SKY",
-          "Bora\\_Kolsuz\\_Avcısı"
-        ],
-        "playerDetails": [
-          {
-            "name": "101\\-SKY",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Bora\\_Kolsuz\\_Avcısı",
-            "unit": "F-15C"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101\\-SKY",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "Bora\\_Kolsuz\\_Avcısı",
-              "unit": "F-15C"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -244,21 +222,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 01:19:47 UTC",
+        "lastUpdate": "26-03-20 01:24:47 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "channelName": "🖥️┃syria-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:10:39",
-        "missionDate": "2025-07-01 11:10:39",
+        "missionTime": "4:15:39",
+        "missionDate": "2025-07-01 11:15:39",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1016 hPa",
@@ -269,7 +247,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 126
           },
           "red": {
@@ -283,18 +261,18 @@
         "playerDetails": [
           {
             "name": "101\\-Atmaca\\[3404\\]",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "101\\-Atmaca\\[3404\\]",
-              "unit": "_ _"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -349,7 +327,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 01:19:48 UTC",
+        "lastUpdate": "26-03-20 01:24:48 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -362,8 +340,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:08:04",
-        "missionDate": "2024-10-31 19:33:04",
+        "missionTime": "4:13:04",
+        "missionDate": "2024-10-31 19:38:04",
         "weather": {
           "temperature": "6.6°C",
           "qnh": "1022 hPa",
@@ -442,7 +420,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 01:19:47 UTC",
+        "lastUpdate": "26-03-20 01:24:47 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -456,8 +434,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:17:20",
-      "missionDate": "2026-04-21 12:32:20",
+      "missionTime": "4:22:20",
+      "missionDate": "2026-04-21 12:37:20",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -468,7 +446,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -479,8 +457,8 @@
       "playerList": [
         "101\\-harun",
         "Börü",
-        "✯101\\-Emrecan\\[0444\\]✯",
-        "✯101\\-EffBee\\[0010\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
@@ -492,12 +470,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "AH-64D_BLK_II"
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "AH-64D_BLK_II (crew)"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "_ _"
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "AH-64D_BLK_II"
         }
       ],
       "activePlayers": {
@@ -511,17 +489,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II (crew)"
+          },
+          {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "AH-64D_BLK_II"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -562,7 +539,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 19,
+            "blue": 24,
             "red": 0
           },
           "Sunken Ships": {
@@ -576,11 +553,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 01:19:49 UTC",
+      "lastUpdate": "26-03-20 01:24:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-20T01:20:23.539Z"
+    "lastUpdated": "2026-03-20T01:25:18.566Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -699,7 +676,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-20T01:20:23.693Z"
+    "lastUpdated": "2026-03-20T01:25:18.777Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2963,11 +2940,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-20T01:20:24.255Z",
+    "lastUpdated": "2026-03-20T01:25:19.575Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-20T01:20:24.903Z",
+    "fetchedAt": "2026-03-20T01:25:20.011Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
