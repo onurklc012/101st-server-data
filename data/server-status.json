@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:32:20",
-      "missionDate": "2026-04-21 11:47:20",
+      "missionTime": "3:37:20",
+      "missionDate": "2026-04-21 11:52:20",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -31,8 +31,8 @@
       },
       "playerList": [
         "Börü",
-        "Yousxf",
         "finn 1\\-1",
+        "Yousxf",
         "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
@@ -41,16 +41,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "finn 1\\-1",
+          "unit": "FA-18C_hornet"
+        },
+        {
           "name": "Yousxf",
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "finn 1\\-1",
-          "unit": "--"
-        },
-        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -58,6 +58,10 @@
           {
             "name": "Börü",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "finn 1\\-1",
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [
@@ -68,12 +72,8 @@
         ],
         "neutral": [
           {
-            "name": "finn 1\\-1",
-            "unit": "--"
-          },
-          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -130,7 +130,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 00:35:17 UTC",
+      "lastUpdate": "26-03-20 00:39:48 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -143,8 +143,8 @@
       "map": "Syria",
       "players": 10,
       "maxPlayers": 32,
-      "missionTime": "3:28:49",
-      "missionDate": "2026-08-01 15:33:49",
+      "missionTime": "3:33:49",
+      "missionDate": "2026-08-01 15:38:49",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -172,7 +172,8 @@
         "101\\-SKY",
         "Bora\\_Kolsuz\\_Avcısı",
         "CanAda",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "\\[RK\\] Falcon Pilot YT"
       ],
       "playerDetails": [
         {
@@ -210,6 +211,10 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "\\[RK\\] Falcon Pilot YT",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -252,7 +257,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\[RK\\] Falcon Pilot YT",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -307,7 +317,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 00:34:47 UTC",
+      "lastUpdate": "26-03-20 00:39:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -320,8 +330,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:25:39",
-      "missionDate": "2025-07-01 10:25:39",
+      "missionTime": "3:30:39",
+      "missionDate": "2025-07-01 10:30:39",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1016 hPa",
@@ -400,7 +410,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 00:34:48 UTC",
+      "lastUpdate": "26-03-20 00:39:48 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -413,8 +423,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:23:04",
-      "missionDate": "2024-10-31 18:48:04",
+      "missionTime": "3:28:04",
+      "missionDate": "2024-10-31 18:53:04",
       "weather": {
         "temperature": "6.6°C",
         "qnh": "1022 hPa",
@@ -493,22 +503,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 00:34:47 UTC",
+      "lastUpdate": "26-03-20 00:39:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "3:32:20",
-    "missionDate": "2026-04-21 11:47:20",
+    "missionTime": "3:37:20",
+    "missionDate": "2026-04-21 11:52:20",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -519,7 +529,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -529,8 +539,8 @@
     },
     "playerList": [
       "Börü",
-      "Yousxf",
       "finn 1\\-1",
+      "Yousxf",
       "✯101\\-EffBee\\[0010\\]✯"
     ],
     "playerDetails": [
@@ -539,16 +549,16 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "finn 1\\-1",
+        "unit": "FA-18C_hornet"
+      },
+      {
         "name": "Yousxf",
         "unit": "FA-18C_hornet"
       },
       {
-        "name": "finn 1\\-1",
-        "unit": "--"
-      },
-      {
         "name": "✯101\\-EffBee\\[0010\\]✯",
-        "unit": "--"
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -556,6 +566,10 @@
         {
           "name": "Börü",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "finn 1\\-1",
+          "unit": "FA-18C_hornet"
         }
       ],
       "red": [
@@ -566,12 +580,8 @@
       ],
       "neutral": [
         {
-          "name": "finn 1\\-1",
-          "unit": "--"
-        },
-        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "--"
+          "unit": "_ _"
         }
       ]
     },
@@ -628,9 +638,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-20 00:35:17 UTC",
+    "lastUpdate": "26-03-20 00:39:48 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-20T00:35:21.050Z"
+  "lastUpdated": "2026-03-20T00:40:24.980Z"
 }
