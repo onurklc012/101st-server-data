@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:14:10",
-      "missionDate": "2026-03-20 09:29:10",
+      "missionTime": "1:19:10",
+      "missionDate": "2026-03-20 09:34:10",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,23 +30,32 @@
         }
       },
       "playerList": [
-        "✯101\\-EffBee\\[0010\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "_ _"
+          "unit": "AH-64D_BLK_II (crew)"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "AH-64D_BLK_II"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "unit": "AH-64D_BLK_II (crew)"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "AH-64D_BLK_II"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -101,7 +110,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 20:05:04 UTC",
+      "lastUpdate": "26-03-20 20:10:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +123,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:13:49",
-      "missionDate": "2026-03-20 13:18:49",
+      "missionTime": "1:18:49",
+      "missionDate": "2026-03-20 13:23:49",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -206,7 +215,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 20:05:04 UTC",
+      "lastUpdate": "26-03-20 20:10:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,8 +228,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:12:47",
-      "missionDate": "2026-03-20 08:12:47",
+      "missionTime": "1:17:47",
+      "missionDate": "2026-03-20 08:17:47",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -299,21 +308,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 20:05:05 UTC",
+      "lastUpdate": "26-03-20 20:10:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:13:17",
-      "missionDate": "2026-03-20 16:38:17",
+      "missionTime": "1:18:17",
+      "missionDate": "2026-03-20 16:43:17",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -324,7 +333,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -333,9 +342,14 @@
         }
       },
       "playerList": [
+        "Caner",
         "Üs\\. Tğm\\. Tepe"
       ],
       "playerDetails": [
+        {
+          "name": "Caner",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-16C_50"
@@ -343,6 +357,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "Caner",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
@@ -404,22 +422,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 20:05:06 UTC",
+      "lastUpdate": "26-03-20 20:10:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "1:14:10",
-    "missionDate": "2026-03-20 09:29:10",
+    "missionTime": "1:19:10",
+    "missionDate": "2026-03-20 09:34:10",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1003 hPa",
@@ -430,7 +448,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -439,23 +457,32 @@
       }
     },
     "playerList": [
-      "✯101\\-EffBee\\[0010\\]✯"
+      "✯101\\-EffBee\\[0010\\]✯",
+      "✯101\\-Emrecan\\[0444\\]✯"
     ],
     "playerDetails": [
       {
         "name": "✯101\\-EffBee\\[0010\\]✯",
-        "unit": "_ _"
+        "unit": "AH-64D_BLK_II (crew)"
+      },
+      {
+        "name": "✯101\\-Emrecan\\[0444\\]✯",
+        "unit": "AH-64D_BLK_II"
       }
     ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
-      "neutral": [
+      "blue": [
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "_ _"
+          "unit": "AH-64D_BLK_II (crew)"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "AH-64D_BLK_II"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -510,9 +537,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-20 20:05:04 UTC",
+    "lastUpdate": "26-03-20 20:10:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-20T20:05:20.707Z"
+  "lastUpdated": "2026-03-20T20:10:24.170Z"
 }
