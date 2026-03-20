@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［4／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 4,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "3:03:15",
-        "missionDate": "2026-03-20 11:18:15",
+        "missionTime": "3:08:15",
+        "missionDate": "2026-03-20 11:23:15",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1001 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 2,
             "total": 134
           },
           "red": {
@@ -32,8 +32,9 @@
         },
         "playerList": [
           "ANKA",
-          "cagri",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "Chesn0K"
         ],
         "playerDetails": [
           {
@@ -41,12 +42,16 @@
             "unit": "Su-33"
           },
           {
-            "name": "cagri",
-            "unit": "F-16C_50"
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "FA-18C_hornet"
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "Chesn0K",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -56,16 +61,21 @@
               "unit": "Su-33"
             },
             {
-              "name": "cagri",
-              "unit": "F-16C_50"
+              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "unit": "AH-64D_BLK_II (crew)"
             },
             {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
-              "unit": "FA-18C_hornet"
+              "unit": "AH-64D_BLK_II"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Chesn0K",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -120,7 +130,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 12:05:07 UTC",
+        "lastUpdate": "26-03-20 12:10:07 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -133,8 +143,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:59:56",
-        "missionDate": "2026-03-20 15:04:56",
+        "missionTime": "3:04:56",
+        "missionDate": "2026-03-20 15:09:56",
         "weather": {
           "temperature": "15.0°C",
           "qnh": "1005 hPa",
@@ -213,7 +223,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 12:05:07 UTC",
+        "lastUpdate": "26-03-20 12:10:07 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -226,8 +236,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:56:15",
-        "missionDate": "2026-03-20 09:56:15",
+        "missionTime": "3:01:15",
+        "missionDate": "2026-03-20 10:01:15",
         "weather": {
           "temperature": "15.0°C",
           "qnh": "1005 hPa",
@@ -306,7 +316,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 12:05:08 UTC",
+        "lastUpdate": "26-03-20 12:10:08 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -319,8 +329,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:57:44",
-        "missionDate": "2026-03-20 16:22:44",
+        "missionTime": "1:02:44",
+        "missionDate": "2026-03-20 16:27:44",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1002 hPa",
@@ -399,22 +409,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 12:05:09 UTC",
+        "lastUpdate": "26-03-20 12:10:09 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:03:15",
-      "missionDate": "2026-03-20 11:18:15",
+      "missionTime": "3:08:15",
+      "missionDate": "2026-03-20 11:23:15",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1001 hPa",
@@ -425,7 +435,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -435,8 +445,9 @@
       },
       "playerList": [
         "ANKA",
-        "cagri",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "✯101\\-Emrecan\\[0444\\]✯",
+        "Chesn0K"
       ],
       "playerDetails": [
         {
@@ -444,12 +455,16 @@
           "unit": "Su-33"
         },
         {
-          "name": "cagri",
-          "unit": "F-16C_50"
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "AH-64D_BLK_II (crew)"
         },
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "FA-18C_hornet"
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "Chesn0K",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -459,16 +474,21 @@
             "unit": "Su-33"
           },
           {
-            "name": "cagri",
-            "unit": "F-16C_50"
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "FA-18C_hornet"
+            "unit": "AH-64D_BLK_II"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Chesn0K",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -523,11 +543,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 12:05:07 UTC",
+      "lastUpdate": "26-03-20 12:10:07 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-20T12:05:18.409Z"
+    "lastUpdated": "2026-03-20T12:10:24.117Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -605,7 +625,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 20.03.2026 15:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 20.03.2026 15:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -646,7 +666,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-20T12:05:18.569Z"
+    "lastUpdated": "2026-03-20T12:10:24.323Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2910,11 +2930,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-20T12:05:19.337Z",
+    "lastUpdated": "2026-03-20T12:10:24.946Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-20T12:05:19.802Z",
+    "fetchedAt": "2026-03-20T12:10:25.640Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
