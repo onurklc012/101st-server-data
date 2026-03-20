@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:13:14",
-      "missionDate": "2026-03-21 09:28:14",
+      "missionTime": "1:18:14",
+      "missionDate": "2026-03-21 09:33:14",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -31,28 +31,32 @@
       },
       "playerList": [
         "CanAda",
-        "cagri",
-        "Florex"
+        "Florex",
+        "cagri"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "Florex",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "cagri",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Florex",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "CanAda",
-            "unit": "F-16C_50"
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "Florex",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "cagri",
@@ -60,12 +64,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Florex",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -120,21 +119,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:15:04 UTC",
+      "lastUpdate": "26-03-20 22:20:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［6／32］",
+      "channelName": "🖥️┃server-syria［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 6,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:10:07",
-      "missionDate": "2026-03-21 13:15:07",
+      "missionTime": "1:15:07",
+      "missionDate": "2026-03-21 13:20:07",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -145,7 +144,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 7,
           "total": 12
         },
         "red": {
@@ -154,7 +153,9 @@
         }
       },
       "playerList": [
+        "101\\-AsilTurq",
         "101\\-Cuce \\[0011\\]",
+        "101\\-HotelTango",
         "101\\-Rabik",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "✯101\\-EffBee\\[0010\\]✯",
@@ -162,7 +163,15 @@
       ],
       "playerDetails": [
         {
+          "name": "101\\-AsilTurq",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-Cuce \\[0011\\]",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-HotelTango",
           "unit": "FA-18C_hornet"
         },
         {
@@ -185,7 +194,15 @@
       "activePlayers": {
         "blue": [
           {
+            "name": "101\\-AsilTurq",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Cuce \\[0011\\]",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-HotelTango",
             "unit": "FA-18C_hornet"
           },
           {
@@ -261,7 +278,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:15:05 UTC",
+      "lastUpdate": "26-03-20 22:20:04 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -274,8 +291,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:06:21",
-      "missionDate": "2026-03-21 08:06:21",
+      "missionTime": "1:11:21",
+      "missionDate": "2026-03-21 08:11:21",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -354,7 +371,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:15:05 UTC",
+      "lastUpdate": "26-03-20 22:20:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -367,8 +384,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:03:47",
-      "missionDate": "2026-03-21 16:28:47",
+      "missionTime": "1:08:47",
+      "missionDate": "2026-03-21 16:33:47",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -447,7 +464,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:15:06 UTC",
+      "lastUpdate": "26-03-20 22:20:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -461,8 +478,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "1:13:14",
-    "missionDate": "2026-03-21 09:28:14",
+    "missionTime": "1:18:14",
+    "missionDate": "2026-03-21 09:33:14",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1003 hPa",
@@ -473,7 +490,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -483,28 +500,32 @@
     },
     "playerList": [
       "CanAda",
-      "cagri",
-      "Florex"
+      "Florex",
+      "cagri"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
-        "unit": "F-16C_50"
+        "unit": "AH-64D_BLK_II"
+      },
+      {
+        "name": "Florex",
+        "unit": "FA-18C_hornet"
       },
       {
         "name": "cagri",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "Florex",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "Florex",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "cagri",
@@ -512,12 +533,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Florex",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -572,9 +588,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-20 22:15:04 UTC",
+    "lastUpdate": "26-03-20 22:20:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-20T22:15:22.626Z"
+  "lastUpdated": "2026-03-20T22:20:21.825Z"
 }
