@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［4／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 4,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "2:14:14",
-        "missionDate": "2026-03-21 10:29:14",
+        "missionTime": "2:18:14",
+        "missionDate": "2026-03-21 10:33:14",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1003 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -32,14 +32,18 @@
         },
         "playerList": [
           "101\\-HotelTango",
+          "101\\-Yidobaba\\[0098\\]",
           "CanAda",
-          "Florex",
-          "101\\-Yidobaba\\[0098\\]"
+          "Florex"
         ],
         "playerDetails": [
           {
             "name": "101\\-HotelTango",
-            "unit": "AH-64D_BLK_II (crew)"
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
           },
           {
             "name": "CanAda",
@@ -48,17 +52,17 @@
           {
             "name": "Florex",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101\\-HotelTango",
-              "unit": "AH-64D_BLK_II (crew)"
+              "unit": "AH-64D_BLK_II"
+            },
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "Su-30SM"
             },
             {
               "name": "CanAda",
@@ -70,12 +74,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -130,7 +129,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 23:16:04 UTC",
+        "lastUpdate": "26-03-20 23:20:04 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -143,8 +142,8 @@
         "map": "Syria",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "2:11:07",
-        "missionDate": "2026-03-21 14:16:07",
+        "missionTime": "2:15:07",
+        "missionDate": "2026-03-21 14:20:07",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1006 hPa",
@@ -271,7 +270,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 23:16:04 UTC",
+        "lastUpdate": "26-03-20 23:20:05 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -284,8 +283,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:07:21",
-        "missionDate": "2026-03-21 09:07:21",
+        "missionTime": "2:11:21",
+        "missionDate": "2026-03-21 09:11:21",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1006 hPa",
@@ -364,7 +363,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 23:16:05 UTC",
+        "lastUpdate": "26-03-20 23:20:05 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -377,8 +376,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:04:47",
-        "missionDate": "2026-03-21 17:29:47",
+        "missionTime": "2:08:47",
+        "missionDate": "2026-03-21 17:33:47",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1003 hPa",
@@ -457,22 +456,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-20 23:16:06 UTC",
+        "lastUpdate": "26-03-20 23:20:06 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:14:14",
-      "missionDate": "2026-03-21 10:29:14",
+      "missionTime": "2:18:14",
+      "missionDate": "2026-03-21 10:33:14",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -483,7 +482,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -493,14 +492,18 @@
       },
       "playerList": [
         "101\\-HotelTango",
+        "101\\-Yidobaba\\[0098\\]",
         "CanAda",
-        "Florex",
-        "101\\-Yidobaba\\[0098\\]"
+        "Florex"
       ],
       "playerDetails": [
         {
           "name": "101\\-HotelTango",
-          "unit": "AH-64D_BLK_II (crew)"
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
         },
         {
           "name": "CanAda",
@@ -509,17 +512,17 @@
         {
           "name": "Florex",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-HotelTango",
-            "unit": "AH-64D_BLK_II (crew)"
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
           },
           {
             "name": "CanAda",
@@ -531,12 +534,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -591,11 +589,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 23:16:04 UTC",
+      "lastUpdate": "26-03-20 23:20:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-20T23:16:24.576Z"
+    "lastUpdated": "2026-03-20T23:20:23.156Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -673,7 +671,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 02:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 02:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -714,7 +712,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-20T23:16:24.727Z"
+    "lastUpdated": "2026-03-20T23:20:23.529Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2978,11 +2976,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-20T23:16:25.450Z",
+    "lastUpdated": "2026-03-20T23:20:24.293Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-20T23:16:26.055Z",
+    "fetchedAt": "2026-03-20T23:20:24.866Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
