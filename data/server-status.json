@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:53:14",
-      "missionDate": "2026-03-21 10:08:14",
+      "missionTime": "1:58:14",
+      "missionDate": "2026-03-21 10:13:14",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -21,18 +21,18 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "101\\-HotelTango",
         "CanAda",
-        "Florex"
+        "BnbEmre"
       ],
       "playerDetails": [
         {
@@ -44,8 +44,8 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "Florex",
-          "unit": "FA-18C_hornet"
+          "name": "BnbEmre",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -57,13 +57,14 @@
           {
             "name": "CanAda",
             "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "Florex",
-            "unit": "FA-18C_hornet"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "BnbEmre",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": []
       },
       "missionStats": {
@@ -119,21 +120,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:55:04 UTC",
+      "lastUpdate": "26-03-20 23:00:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［7／32］",
+      "channelName": "🖥️┃server-syria［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:50:07",
-      "missionDate": "2026-03-21 13:55:07",
+      "missionTime": "1:55:07",
+      "missionDate": "2026-03-21 14:00:07",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -158,7 +159,8 @@
         "TuAF 152 \\| Börü\\-2",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "✯101\\-EffBee\\[0010\\]✯",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "✯101\\-Emrecan\\[0444\\]✯",
+        "101\\-Cuce \\[0011\\]"
       ],
       "playerDetails": [
         {
@@ -184,6 +186,10 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Cuce \\[0011\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -214,7 +220,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Cuce \\[0011\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -269,7 +280,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:55:04 UTC",
+      "lastUpdate": "26-03-20 23:00:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -282,8 +293,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:46:21",
-      "missionDate": "2026-03-21 08:46:21",
+      "missionTime": "1:51:21",
+      "missionDate": "2026-03-21 08:51:21",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -362,7 +373,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:55:05 UTC",
+      "lastUpdate": "26-03-20 23:00:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -375,8 +386,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:43:47",
-      "missionDate": "2026-03-21 17:08:47",
+      "missionTime": "1:48:47",
+      "missionDate": "2026-03-21 17:13:47",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -455,7 +466,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 22:55:06 UTC",
+      "lastUpdate": "26-03-20 23:00:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -469,8 +480,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "1:53:14",
-    "missionDate": "2026-03-21 10:08:14",
+    "missionTime": "1:58:14",
+    "missionDate": "2026-03-21 10:13:14",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1003 hPa",
@@ -481,18 +492,18 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 2,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
       "101\\-HotelTango",
       "CanAda",
-      "Florex"
+      "BnbEmre"
     ],
     "playerDetails": [
       {
@@ -504,8 +515,8 @@
         "unit": "AH-64D_BLK_II"
       },
       {
-        "name": "Florex",
-        "unit": "FA-18C_hornet"
+        "name": "BnbEmre",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -517,13 +528,14 @@
         {
           "name": "CanAda",
           "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "Florex",
-          "unit": "FA-18C_hornet"
         }
       ],
-      "red": [],
+      "red": [
+        {
+          "name": "BnbEmre",
+          "unit": "F-16C_50"
+        }
+      ],
       "neutral": []
     },
     "missionStats": {
@@ -579,9 +591,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-20 22:55:04 UTC",
+    "lastUpdate": "26-03-20 23:00:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-20T22:55:21.272Z"
+  "lastUpdated": "2026-03-20T23:00:32.516Z"
 }
