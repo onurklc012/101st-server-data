@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "0:37:39",
-      "missionDate": "2026-03-21 08:52:39",
+      "missionTime": "0:39:39",
+      "missionDate": "2026-03-21 08:54:39",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -21,11 +21,11 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 6,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
@@ -34,14 +34,15 @@
         "101\\-Zorbey\\[0741\\]",
         "Ege",
         "Mrblackron",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "rte",
-        "✯101\\-EffBee\\[0010\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "BooM",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "T-45 (crew)"
+          "unit": "AH-6J"
         },
         {
           "name": "101\\-Zorbey\\[0741\\]",
@@ -56,23 +57,27 @@
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "T-45"
-        },
-        {
           "name": "rte",
           "unit": "F-16C_50"
         },
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "BooM",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "T-45 (crew)"
+            "unit": "AH-6J"
           },
           {
             "name": "101\\-Zorbey\\[0741\\]",
@@ -87,10 +92,6 @@
             "unit": "FA-18C_hornet"
           },
           {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "T-45"
-          },
-          {
             "name": "rte",
             "unit": "F-16C_50"
           },
@@ -99,8 +100,18 @@
             "unit": "AH-64D_BLK_II"
           }
         ],
-        "red": [],
-        "neutral": []
+        "red": [
+          {
+            "name": "BooM",
+            "unit": "Su-30SM"
+          }
+        ],
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -155,7 +166,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:40:04 UTC",
+      "lastUpdate": "26-03-21 15:42:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -168,8 +179,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:34:54",
-      "missionDate": "2026-03-21 12:39:54",
+      "missionTime": "0:36:54",
+      "missionDate": "2026-03-21 12:41:54",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -248,7 +259,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:40:04 UTC",
+      "lastUpdate": "26-03-21 15:42:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -261,8 +272,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:30:39",
-      "missionDate": "2026-03-21 07:30:39",
+      "missionTime": "0:32:39",
+      "missionDate": "2026-03-21 07:32:39",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -353,7 +364,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:40:05 UTC",
+      "lastUpdate": "26-03-21 15:42:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -366,8 +377,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:28:28",
-      "missionDate": "2026-03-21 15:53:28",
+      "missionTime": "0:30:28",
+      "missionDate": "2026-03-21 15:55:28",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -446,7 +457,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:40:06 UTC",
+      "lastUpdate": "26-03-21 15:42:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -460,8 +471,8 @@
     "map": "Caucasus",
     "players": 8,
     "maxPlayers": 32,
-    "missionTime": "0:37:39",
-    "missionDate": "2026-03-21 08:52:39",
+    "missionTime": "0:39:39",
+    "missionDate": "2026-03-21 08:54:39",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1005 hPa",
@@ -472,11 +483,11 @@
     },
     "slots": {
       "blue": {
-        "used": 7,
+        "used": 6,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
@@ -485,14 +496,15 @@
       "101\\-Zorbey\\[0741\\]",
       "Ege",
       "Mrblackron",
-      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "rte",
-      "✯101\\-EffBee\\[0010\\]✯"
+      "✯101\\-EffBee\\[0010\\]✯",
+      "BooM",
+      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
     ],
     "playerDetails": [
       {
         "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "T-45 (crew)"
+        "unit": "AH-6J"
       },
       {
         "name": "101\\-Zorbey\\[0741\\]",
@@ -507,23 +519,27 @@
         "unit": "FA-18C_hornet"
       },
       {
-        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "unit": "T-45"
-      },
-      {
         "name": "rte",
         "unit": "F-16C_50"
       },
       {
         "name": "✯101\\-EffBee\\[0010\\]✯",
         "unit": "AH-64D_BLK_II"
+      },
+      {
+        "name": "BooM",
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "T-45 (crew)"
+          "unit": "AH-6J"
         },
         {
           "name": "101\\-Zorbey\\[0741\\]",
@@ -538,10 +554,6 @@
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "T-45"
-        },
-        {
           "name": "rte",
           "unit": "F-16C_50"
         },
@@ -550,8 +562,18 @@
           "unit": "AH-64D_BLK_II"
         }
       ],
-      "red": [],
-      "neutral": []
+      "red": [
+        {
+          "name": "BooM",
+          "unit": "Su-30SM"
+        }
+      ],
+      "neutral": [
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -606,9 +628,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 15:40:04 UTC",
+    "lastUpdate": "26-03-21 15:42:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T15:40:21.263Z"
+  "lastUpdated": "2026-03-21T15:42:56.538Z"
 }
