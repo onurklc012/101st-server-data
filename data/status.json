@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［7／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 7,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "1:58:40",
-        "missionDate": "2026-03-22 10:13:40",
+        "missionTime": "2:01:40",
+        "missionDate": "2026-03-22 10:16:40",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -33,7 +33,6 @@
         "playerList": [
           "101\\-HotelTango",
           "101\\-Maskot\\(0019\\)",
-          "FatihEmin19",
           "✯101\\-EffBee\\[0010\\]✯",
           "✯101\\-Emrecan\\[0444\\]✯"
         ],
@@ -47,16 +46,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
-          },
-          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "--"
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "--"
+            "unit": "AH-64D_BLK_II"
           }
         ],
         "activePlayers": {
@@ -70,21 +65,16 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "FatihEmin19",
-              "unit": "F-5E-3"
-            }
-          ],
-          "red": [],
-          "neutral": [
-            {
               "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "--"
+              "unit": "AH-64D_BLK_II (crew)"
             },
             {
               "name": "✯101\\-Emrecan\\[0444\\]✯",
-              "unit": "--"
+              "unit": "AH-64D_BLK_II"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -117,15 +107,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Downed Helicopters": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 4,
+              "blue": 5,
               "red": 0
             },
             "Sunken Ships": {
@@ -139,7 +129,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 23:01:24 UTC",
+        "lastUpdate": "26-03-21 23:04:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -152,8 +142,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "1:55:32",
-        "missionDate": "2026-03-22 14:00:32",
+        "missionTime": "1:58:32",
+        "missionDate": "2026-03-22 14:03:32",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -253,7 +243,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 23:01:22 UTC",
+        "lastUpdate": "26-03-21 23:04:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -266,8 +256,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:48:01",
-        "missionDate": "2026-03-22 08:48:01",
+        "missionTime": "1:51:01",
+        "missionDate": "2026-03-22 08:51:01",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -346,7 +336,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 23:01:23 UTC",
+        "lastUpdate": "26-03-21 23:04:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -359,8 +349,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "1:48:49",
-        "missionDate": "2026-03-22 17:13:49",
+        "missionTime": "1:51:49",
+        "missionDate": "2026-03-22 17:16:49",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -451,22 +441,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 23:01:23 UTC",
+        "lastUpdate": "26-03-21 23:04:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:58:40",
-      "missionDate": "2026-03-22 10:13:40",
+      "missionTime": "2:01:40",
+      "missionDate": "2026-03-22 10:16:40",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -477,7 +467,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -488,7 +478,6 @@
       "playerList": [
         "101\\-HotelTango",
         "101\\-Maskot\\(0019\\)",
-        "FatihEmin19",
         "✯101\\-EffBee\\[0010\\]✯",
         "✯101\\-Emrecan\\[0444\\]✯"
       ],
@@ -502,16 +491,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
-        },
-        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "--"
+          "unit": "AH-64D_BLK_II (crew)"
         },
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "--"
+          "unit": "AH-64D_BLK_II"
         }
       ],
       "activePlayers": {
@@ -525,21 +510,16 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
-          }
-        ],
-        "red": [],
-        "neutral": [
-          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "--"
+            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "--"
+            "unit": "AH-64D_BLK_II"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -572,15 +552,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 4,
+            "blue": 5,
             "red": 0
           },
           "Sunken Ships": {
@@ -594,11 +574,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 23:01:24 UTC",
+      "lastUpdate": "26-03-21 23:04:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T23:01:50.123Z"
+    "lastUpdated": "2026-03-21T23:05:20.535Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -717,7 +697,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T23:01:50.546Z"
+    "lastUpdated": "2026-03-21T23:05:20.726Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3057,11 +3037,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T23:01:51.251Z",
+    "lastUpdated": "2026-03-21T23:05:21.578Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T23:01:51.729Z",
+    "fetchedAt": "2026-03-21T23:05:22.134Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
