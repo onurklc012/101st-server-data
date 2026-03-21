@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:17:59",
-      "missionDate": "2026-03-21 11:32:59",
+      "missionTime": "3:22:59",
+      "missionDate": "2026-03-21 11:37:59",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,16 +30,11 @@
         }
       },
       "playerList": [
-        "BlackBird",
         "cagri",
         "eyo",
         "juniorblues"
       ],
       "playerDetails": [
-        {
-          "name": "BlackBird",
-          "unit": "F-15C"
-        },
         {
           "name": "cagri",
           "unit": "F-16C_50"
@@ -55,10 +50,6 @@
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "BlackBird",
-            "unit": "F-15C"
-          },
           {
             "name": "cagri",
             "unit": "F-16C_50"
@@ -128,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 12:20:04 UTC",
+      "lastUpdate": "26-03-21 12:25:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +132,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:14:58",
-      "missionDate": "2026-03-21 15:19:58",
+      "missionTime": "3:19:57",
+      "missionDate": "2026-03-21 15:24:57",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1006 hPa",
@@ -153,7 +144,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 12
         },
         "red": {
@@ -162,33 +153,32 @@
         }
       },
       "playerList": [
-        "b1hadir",
-        "DECAAS"
+        "DECAAS",
+        "b1hadir"
       ],
       "playerDetails": [
         {
-          "name": "b1hadir",
+          "name": "DECAAS",
           "unit": "F-16C_50"
         },
         {
-          "name": "DECAAS",
-          "unit": "_ _"
+          "name": "b1hadir",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "DECAAS",
+            "unit": "F-16C_50"
+          },
           {
             "name": "b1hadir",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "DECAAS",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -243,7 +233,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 12:20:04 UTC",
+      "lastUpdate": "26-03-21 12:25:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -256,8 +246,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:11:11",
-      "missionDate": "2026-03-21 10:11:11",
+      "missionTime": "3:16:11",
+      "missionDate": "2026-03-21 10:16:11",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1006 hPa",
@@ -348,7 +338,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 12:20:05 UTC",
+      "lastUpdate": "26-03-21 12:25:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -361,8 +351,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:08:35",
-      "missionDate": "2026-03-21 18:33:35",
+      "missionTime": "3:13:35",
+      "missionDate": "2026-03-21 18:38:35",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -441,22 +431,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 12:20:06 UTC",
+      "lastUpdate": "26-03-21 12:25:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "3:17:59",
-    "missionDate": "2026-03-21 11:32:59",
+    "missionTime": "3:22:59",
+    "missionDate": "2026-03-21 11:37:59",
     "weather": {
       "temperature": "14.0°C",
       "qnh": "1005 hPa",
@@ -467,7 +457,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -476,16 +466,11 @@
       }
     },
     "playerList": [
-      "BlackBird",
       "cagri",
       "eyo",
       "juniorblues"
     ],
     "playerDetails": [
-      {
-        "name": "BlackBird",
-        "unit": "F-15C"
-      },
       {
         "name": "cagri",
         "unit": "F-16C_50"
@@ -501,10 +486,6 @@
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "BlackBird",
-          "unit": "F-15C"
-        },
         {
           "name": "cagri",
           "unit": "F-16C_50"
@@ -574,9 +555,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 12:20:04 UTC",
+    "lastUpdate": "26-03-21 12:25:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T12:20:22.396Z"
+  "lastUpdated": "2026-03-21T12:25:20.766Z"
 }
