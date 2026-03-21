@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［18／32］",
+        "channelName": "🖥️┃server-caucasus［19／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 18,
+        "players": 19,
         "maxPlayers": 32,
-        "missionTime": "0:20:35",
-        "missionDate": "2026-04-21 08:35:35",
+        "missionTime": "0:26:35",
+        "missionDate": "2026-04-21 08:41:35",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,11 +22,11 @@
         },
         "slots": {
           "blue": {
-            "used": 10,
+            "used": 11,
             "total": 16
           },
           "red": {
-            "used": 5,
+            "used": 6,
             "total": 16
           }
         },
@@ -37,17 +37,19 @@
           "101\\-Yidobaba\\[0098\\]",
           "Bora\\_Kolsuz\\_Avcısı",
           "FatihEmin19",
+          "IRRESTIBLE",
           "Phantom",
           "TalhaPV",
           "üüüü",
           "✯101\\-EffBee\\[0010\\]✯",
           "101ArmOn1453",
           "101\\-Rabik",
+          "101\\-Shadow\\[1881\\]",
           "CapitanVader \\- KataPool",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "⍟101\\-Longec\\[0007\\]⍟",
           "101 \\- Mrblackron",
-          "Caner"
+          "Aerot"
         ],
         "playerDetails": [
           {
@@ -75,6 +77,10 @@
             "unit": "F-5E-3"
           },
           {
+            "name": "IRRESTIBLE",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Phantom",
             "unit": "F-15C"
           },
@@ -99,6 +105,10 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "CapitanVader \\- KataPool",
             "unit": "J-11A"
           },
@@ -115,7 +125,7 @@
             "unit": "--"
           },
           {
-            "name": "Caner",
+            "name": "Aerot",
             "unit": "--"
           }
         ],
@@ -146,6 +156,10 @@
               "unit": "F-5E-3"
             },
             {
+              "name": "IRRESTIBLE",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "Phantom",
               "unit": "F-15C"
             },
@@ -172,6 +186,10 @@
               "unit": "FA-18C_hornet"
             },
             {
+              "name": "101\\-Shadow\\[1881\\]",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "CapitanVader \\- KataPool",
               "unit": "J-11A"
             },
@@ -190,7 +208,7 @@
               "unit": "--"
             },
             {
-              "name": "Caner",
+              "name": "Aerot",
               "unit": "--"
             }
           ]
@@ -248,21 +266,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 18:54:24 UTC",
+        "lastUpdate": "26-03-21 19:00:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［1／32］",
+        "channelName": "🖥️┃server-syria［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "3:49:12",
-        "missionDate": "2026-03-21 15:54:12",
+        "missionTime": "3:55:12",
+        "missionDate": "2026-03-21 16:00:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -281,12 +299,24 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "b1hadir"
+        ],
+        "playerDetails": [
+          {
+            "name": "b1hadir",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "b1hadir",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -341,21 +371,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 18:54:22 UTC",
+        "lastUpdate": "26-03-21 19:00:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［2／32］",
+        "channelName": "🖥️┃syria-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 2,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:44:57",
-        "missionDate": "2026-03-21 10:44:57",
+        "missionTime": "3:50:57",
+        "missionDate": "2026-03-21 10:50:57",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -366,7 +396,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 0,
             "total": 127
           },
           "red": {
@@ -374,22 +404,10 @@
             "total": 7
           }
         },
-        "playerList": [
-          "101\\-Shadow\\[1881\\]"
-        ],
-        "playerDetails": [
-          {
-            "name": "101\\-Shadow\\[1881\\]",
-            "unit": "F-16C_50"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101\\-Shadow\\[1881\\]",
-              "unit": "F-16C_50"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -446,7 +464,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 18:54:23 UTC",
+        "lastUpdate": "26-03-21 19:00:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -459,8 +477,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:42:47",
-        "missionDate": "2026-03-21 19:07:47",
+        "missionTime": "3:48:47",
+        "missionDate": "2026-03-21 19:13:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -539,22 +557,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 18:54:23 UTC",
+        "lastUpdate": "26-03-21 19:00:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［18／32］",
+      "channelName": "🖥️┃server-caucasus［19／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 18,
+      "players": 19,
       "maxPlayers": 32,
-      "missionTime": "0:20:35",
-      "missionDate": "2026-04-21 08:35:35",
+      "missionTime": "0:26:35",
+      "missionDate": "2026-04-21 08:41:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -565,11 +583,11 @@
       },
       "slots": {
         "blue": {
-          "used": 10,
+          "used": 11,
           "total": 16
         },
         "red": {
-          "used": 5,
+          "used": 6,
           "total": 16
         }
       },
@@ -580,17 +598,19 @@
         "101\\-Yidobaba\\[0098\\]",
         "Bora\\_Kolsuz\\_Avcısı",
         "FatihEmin19",
+        "IRRESTIBLE",
         "Phantom",
         "TalhaPV",
         "üüüü",
         "✯101\\-EffBee\\[0010\\]✯",
         "101ArmOn1453",
         "101\\-Rabik",
+        "101\\-Shadow\\[1881\\]",
         "CapitanVader \\- KataPool",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "Caner"
+        "Aerot"
       ],
       "playerDetails": [
         {
@@ -618,6 +638,10 @@
           "unit": "F-5E-3"
         },
         {
+          "name": "IRRESTIBLE",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Phantom",
           "unit": "F-15C"
         },
@@ -642,6 +666,10 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "CapitanVader \\- KataPool",
           "unit": "J-11A"
         },
@@ -658,7 +686,7 @@
           "unit": "--"
         },
         {
-          "name": "Caner",
+          "name": "Aerot",
           "unit": "--"
         }
       ],
@@ -689,6 +717,10 @@
             "unit": "F-5E-3"
           },
           {
+            "name": "IRRESTIBLE",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Phantom",
             "unit": "F-15C"
           },
@@ -715,6 +747,10 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "CapitanVader \\- KataPool",
             "unit": "J-11A"
           },
@@ -733,7 +769,7 @@
             "unit": "--"
           },
           {
-            "name": "Caner",
+            "name": "Aerot",
             "unit": "--"
           }
         ]
@@ -791,11 +827,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:54:24 UTC",
+      "lastUpdate": "26-03-21 19:00:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T18:55:17.660Z"
+    "lastUpdated": "2026-03-21T19:00:29.697Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -873,7 +909,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 21:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 22:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -914,7 +950,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T18:55:17.773Z"
+    "lastUpdated": "2026-03-21T19:00:29.888Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3254,11 +3290,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T18:55:18.484Z",
+    "lastUpdated": "2026-03-21T19:00:32.706Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T18:55:19.067Z",
+    "fetchedAt": "2026-03-21T19:00:33.353Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
