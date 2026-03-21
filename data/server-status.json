@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 14,
       "maxPlayers": 32,
-      "missionTime": "2:00:35",
-      "missionDate": "2026-04-21 10:15:35",
+      "missionTime": "2:05:35",
+      "missionDate": "2026-04-21 10:20:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,11 +21,11 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 16
         },
         "red": {
-          "used": 7,
+          "used": 6,
           "total": 16
         }
       },
@@ -33,6 +33,7 @@
         "101\\-Maskot\\(0019\\)",
         "Aerot",
         "Bora\\_Kolsuz\\_Avcısı",
+        "Phantom",
         "enes",
         "rte",
         "Üs\\. Tğm\\. Tepe",
@@ -41,8 +42,7 @@
         "PENÇE",
         "Somon",
         "TalhaPV",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "\\[RK\\] Falcon Pilot YT"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -56,6 +56,10 @@
         {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Phantom",
+          "unit": "CH-47Fbl1"
         },
         {
           "name": "enes",
@@ -92,10 +96,6 @@
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "\\[RK\\] Falcon Pilot YT",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -111,6 +111,10 @@
           {
             "name": "Bora\\_Kolsuz\\_Avcısı",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Phantom",
+            "unit": "CH-47Fbl1"
           },
           {
             "name": "enes",
@@ -148,10 +152,6 @@
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "\\[RK\\] Falcon Pilot YT",
             "unit": "F-16C_50"
           }
         ],
@@ -210,21 +210,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:34:24 UTC",
+      "lastUpdate": "26-03-21 20:39:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［4／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 4,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:29:12",
-      "missionDate": "2026-03-21 17:34:12",
+      "missionTime": "5:34:12",
+      "missionDate": "2026-03-21 17:39:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -235,7 +235,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -243,40 +243,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "DECAAS",
-        "NAZGUL",
-        "b1hadir"
-      ],
-      "playerDetails": [
-        {
-          "name": "DECAAS",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "NAZGUL",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "b1hadir",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "DECAAS",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "NAZGUL",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "b1hadir",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -333,7 +303,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:34:22 UTC",
+      "lastUpdate": "26-03-21 20:39:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -346,8 +316,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:24:57",
-      "missionDate": "2026-03-21 12:24:57",
+      "missionTime": "5:29:56",
+      "missionDate": "2026-03-21 12:29:56",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -447,7 +417,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:34:23 UTC",
+      "lastUpdate": "26-03-21 20:39:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -460,8 +430,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:22:47",
-      "missionDate": "2026-03-21 20:47:47",
+      "missionTime": "5:27:47",
+      "missionDate": "2026-03-21 20:52:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -540,7 +510,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:34:23 UTC",
+      "lastUpdate": "26-03-21 20:39:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -554,8 +524,8 @@
     "map": "Caucasus",
     "players": 14,
     "maxPlayers": 32,
-    "missionTime": "2:00:35",
-    "missionDate": "2026-04-21 10:15:35",
+    "missionTime": "2:05:35",
+    "missionDate": "2026-04-21 10:20:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -566,11 +536,11 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 7,
         "total": 16
       },
       "red": {
-        "used": 7,
+        "used": 6,
         "total": 16
       }
     },
@@ -578,6 +548,7 @@
       "101\\-Maskot\\(0019\\)",
       "Aerot",
       "Bora\\_Kolsuz\\_Avcısı",
+      "Phantom",
       "enes",
       "rte",
       "Üs\\. Tğm\\. Tepe",
@@ -586,8 +557,7 @@
       "PENÇE",
       "Somon",
       "TalhaPV",
-      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-      "\\[RK\\] Falcon Pilot YT"
+      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
     ],
     "playerDetails": [
       {
@@ -601,6 +571,10 @@
       {
         "name": "Bora\\_Kolsuz\\_Avcısı",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "Phantom",
+        "unit": "CH-47Fbl1"
       },
       {
         "name": "enes",
@@ -637,10 +611,6 @@
       {
         "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "\\[RK\\] Falcon Pilot YT",
-        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -656,6 +626,10 @@
         {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Phantom",
+          "unit": "CH-47Fbl1"
         },
         {
           "name": "enes",
@@ -693,10 +667,6 @@
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "\\[RK\\] Falcon Pilot YT",
           "unit": "F-16C_50"
         }
       ],
@@ -755,9 +725,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 20:34:24 UTC",
+    "lastUpdate": "26-03-21 20:39:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T20:35:20.068Z"
+  "lastUpdated": "2026-03-21T20:40:22.118Z"
 }
