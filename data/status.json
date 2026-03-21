@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［11／32］",
+        "channelName": "🖥️┃server-caucasus［9／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 11,
+        "players": 9,
         "maxPlayers": 32,
-        "missionTime": "0:47:57",
-        "missionDate": "2026-03-21 09:02:57",
+        "missionTime": "0:51:57",
+        "missionDate": "2026-03-21 09:06:57",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1005 hPa",
@@ -32,19 +32,22 @@
         },
         "playerList": [
           "101\\-Maskot\\(0019\\)",
+          "101\\-Rabik",
           "101\\-Yidobaba\\[0098\\]",
           "Ege",
-          "FatihEmin19",
           "Mrblackron",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "rte",
-          "✯101\\-EffBee\\[0010\\]✯",
-          "101\\-Rabik"
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Rabik",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
@@ -53,10 +56,6 @@
           {
             "name": "Ege",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "?"
           },
           {
             "name": "Mrblackron",
@@ -73,10 +72,6 @@
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -86,16 +81,16 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "101\\-Rabik",
+              "unit": "FA-18C_hornet"
+            },
+            {
               "name": "101\\-Yidobaba\\[0098\\]",
               "unit": "Su-30SM"
             },
             {
               "name": "Ege",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "FatihEmin19",
-              "unit": "?"
             },
             {
               "name": "Mrblackron",
@@ -115,12 +110,7 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Rabik",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -175,7 +165,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:50:24 UTC",
+        "lastUpdate": "26-03-21 15:54:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -188,8 +178,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:45:12",
-        "missionDate": "2026-03-21 12:50:12",
+        "missionTime": "0:50:12",
+        "missionDate": "2026-03-21 12:55:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -268,7 +258,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:50:22 UTC",
+        "lastUpdate": "26-03-21 15:55:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -281,8 +271,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:40:57",
-        "missionDate": "2026-03-21 07:40:57",
+        "missionTime": "0:45:57",
+        "missionDate": "2026-03-21 07:45:57",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -373,7 +363,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:50:23 UTC",
+        "lastUpdate": "26-03-21 15:55:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -386,8 +376,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:38:47",
-        "missionDate": "2026-03-21 16:03:47",
+        "missionTime": "0:43:47",
+        "missionDate": "2026-03-21 16:08:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -466,22 +456,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:50:23 UTC",
+        "lastUpdate": "26-03-21 15:55:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［11／32］",
+      "channelName": "🖥️┃server-caucasus［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 11,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "0:47:57",
-      "missionDate": "2026-03-21 09:02:57",
+      "missionTime": "0:51:57",
+      "missionDate": "2026-03-21 09:06:57",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -502,19 +492,22 @@
       },
       "playerList": [
         "101\\-Maskot\\(0019\\)",
+        "101\\-Rabik",
         "101\\-Yidobaba\\[0098\\]",
         "Ege",
-        "FatihEmin19",
         "Mrblackron",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "rte",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "101\\-Rabik"
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Rabik",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
@@ -523,10 +516,6 @@
         {
           "name": "Ege",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "?"
         },
         {
           "name": "Mrblackron",
@@ -543,10 +532,6 @@
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -556,16 +541,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-Rabik",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Su-30SM"
           },
           {
             "name": "Ege",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "?"
           },
           {
             "name": "Mrblackron",
@@ -585,12 +570,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -645,11 +625,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:50:24 UTC",
+      "lastUpdate": "26-03-21 15:54:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T15:50:25.667Z"
+    "lastUpdated": "2026-03-21T15:55:23.806Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -768,7 +748,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T15:50:25.837Z"
+    "lastUpdated": "2026-03-21T15:55:23.966Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3108,11 +3088,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T15:50:26.397Z",
+    "lastUpdated": "2026-03-21T15:55:24.810Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T15:50:26.870Z",
+    "fetchedAt": "2026-03-21T15:55:25.412Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
