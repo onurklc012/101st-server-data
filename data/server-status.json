@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［15／32］",
+      "channelName": "🖥️┃server-caucasus［14／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 15,
+      "players": 14,
       "maxPlayers": 32,
-      "missionTime": "1:56:35",
-      "missionDate": "2026-04-21 10:11:35",
+      "missionTime": "2:00:35",
+      "missionDate": "2026-04-21 10:15:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,11 +21,11 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 6,
           "total": 16
         },
         "red": {
-          "used": 6,
+          "used": 7,
           "total": 16
         }
       },
@@ -35,9 +35,9 @@
         "Bora\\_Kolsuz\\_Avcısı",
         "enes",
         "rte",
-        "zlayer",
         "Üs\\. Tğm\\. Tepe",
         "101\\-Yidobaba\\[0098\\]",
+        "CapitanVader \\- KataPool",
         "PENÇE",
         "Somon",
         "TalhaPV",
@@ -66,16 +66,16 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "zlayer",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "J-11A"
+        },
+        {
+          "name": "CapitanVader \\- KataPool",
+          "unit": "F-15C"
         },
         {
           "name": "PENÇE",
@@ -121,10 +121,6 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "zlayer",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
           }
@@ -133,6 +129,10 @@
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "J-11A"
+          },
+          {
+            "name": "CapitanVader \\- KataPool",
+            "unit": "F-15C"
           },
           {
             "name": "PENÇE",
@@ -210,7 +210,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:30:24 UTC",
+      "lastUpdate": "26-03-21 20:34:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -223,8 +223,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:25:12",
-      "missionDate": "2026-03-21 17:30:12",
+      "missionTime": "5:29:12",
+      "missionDate": "2026-03-21 17:34:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -333,7 +333,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:30:22 UTC",
+      "lastUpdate": "26-03-21 20:34:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -346,8 +346,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:20:57",
-      "missionDate": "2026-03-21 12:20:57",
+      "missionTime": "5:24:57",
+      "missionDate": "2026-03-21 12:24:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -418,22 +418,22 @@
           },
           "Yapilar": {
             "blue": 50,
-            "red": 34
+            "red": 28
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 1
+            "blue": 3,
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 4,
             "red": 0
           },
           "Sunken Ships": {
@@ -447,7 +447,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:30:23 UTC",
+      "lastUpdate": "26-03-21 20:34:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -460,8 +460,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:18:47",
-      "missionDate": "2026-03-21 20:43:47",
+      "missionTime": "5:22:47",
+      "missionDate": "2026-03-21 20:47:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -540,22 +540,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:30:23 UTC",
+      "lastUpdate": "26-03-21 20:34:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［15／32］",
+    "channelName": "🖥️┃server-caucasus［14／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 32,
-    "missionTime": "1:56:35",
-    "missionDate": "2026-04-21 10:11:35",
+    "missionTime": "2:00:35",
+    "missionDate": "2026-04-21 10:15:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -566,11 +566,11 @@
     },
     "slots": {
       "blue": {
-        "used": 7,
+        "used": 6,
         "total": 16
       },
       "red": {
-        "used": 6,
+        "used": 7,
         "total": 16
       }
     },
@@ -580,9 +580,9 @@
       "Bora\\_Kolsuz\\_Avcısı",
       "enes",
       "rte",
-      "zlayer",
       "Üs\\. Tğm\\. Tepe",
       "101\\-Yidobaba\\[0098\\]",
+      "CapitanVader \\- KataPool",
       "PENÇE",
       "Somon",
       "TalhaPV",
@@ -611,16 +611,16 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "zlayer",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "Üs\\. Tğm\\. Tepe",
         "unit": "F-16C_50"
       },
       {
         "name": "101\\-Yidobaba\\[0098\\]",
         "unit": "J-11A"
+      },
+      {
+        "name": "CapitanVader \\- KataPool",
+        "unit": "F-15C"
       },
       {
         "name": "PENÇE",
@@ -666,10 +666,6 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "zlayer",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-16C_50"
         }
@@ -678,6 +674,10 @@
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "J-11A"
+        },
+        {
+          "name": "CapitanVader \\- KataPool",
+          "unit": "F-15C"
         },
         {
           "name": "PENÇE",
@@ -755,9 +755,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 20:30:24 UTC",
+    "lastUpdate": "26-03-21 20:34:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T20:30:25.243Z"
+  "lastUpdated": "2026-03-21T20:35:20.068Z"
 }
