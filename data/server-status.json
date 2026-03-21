@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:17:40",
-      "missionDate": "2026-03-22 09:32:40",
+      "missionTime": "1:21:40",
+      "missionDate": "2026-03-22 09:36:40",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -32,7 +32,8 @@
       "playerList": [
         "101\\-Maskot\\(0019\\)",
         "101\\-SKY",
-        "FatihEmin19"
+        "FatihEmin19",
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
@@ -41,10 +42,14 @@
         },
         {
           "name": "101\\-SKY",
-          "unit": "F-16C_50"
+          "unit": "MiG-29G"
         },
         {
           "name": "FatihEmin19",
+          "unit": "F-5E-3"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "_ _"
         }
       ],
@@ -56,13 +61,17 @@
           },
           {
             "name": "101\\-SKY",
-            "unit": "F-16C_50"
+            "unit": "MiG-29G"
+          },
+          {
+            "name": "FatihEmin19",
+            "unit": "F-5E-3"
           }
         ],
         "red": [],
         "neutral": [
           {
-            "name": "FatihEmin19",
+            "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "_ _"
           }
         ]
@@ -120,7 +129,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:20:24 UTC",
+      "lastUpdate": "26-03-21 22:24:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -133,8 +142,8 @@
       "map": "Syria",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:14:32",
-      "missionDate": "2026-03-22 13:19:32",
+      "missionTime": "1:18:32",
+      "missionDate": "2026-03-22 13:23:32",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1009 hPa",
@@ -261,21 +270,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:20:22 UTC",
+      "lastUpdate": "26-03-21 22:24:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:07:01",
-      "missionDate": "2026-03-22 08:07:01",
+      "missionTime": "1:11:01",
+      "missionDate": "2026-03-22 08:11:01",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1009 hPa",
@@ -286,7 +295,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -295,14 +304,9 @@
         }
       },
       "playerList": [
-        "Akıncı101",
         "Turkesh"
       ],
       "playerDetails": [
-        {
-          "name": "Akıncı101",
-          "unit": "F-16C_50"
-        },
         {
           "name": "Turkesh",
           "unit": "F-16C_50"
@@ -310,10 +314,6 @@
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "Akıncı101",
-            "unit": "F-16C_50"
-          },
           {
             "name": "Turkesh",
             "unit": "F-16C_50"
@@ -375,7 +375,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:20:23 UTC",
+      "lastUpdate": "26-03-21 22:24:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -388,8 +388,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:07:49",
-      "missionDate": "2026-03-22 16:32:49",
+      "missionTime": "1:11:49",
+      "missionDate": "2026-03-22 16:36:49",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -480,22 +480,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:20:23 UTC",
+      "lastUpdate": "26-03-21 22:24:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "1:17:40",
-    "missionDate": "2026-03-22 09:32:40",
+    "missionTime": "1:21:40",
+    "missionDate": "2026-03-22 09:36:40",
     "weather": {
       "temperature": "8.0°C",
       "qnh": "1007 hPa",
@@ -506,7 +506,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -517,7 +517,8 @@
     "playerList": [
       "101\\-Maskot\\(0019\\)",
       "101\\-SKY",
-      "FatihEmin19"
+      "FatihEmin19",
+      "✯101\\-EffBee\\[0010\\]✯"
     ],
     "playerDetails": [
       {
@@ -526,10 +527,14 @@
       },
       {
         "name": "101\\-SKY",
-        "unit": "F-16C_50"
+        "unit": "MiG-29G"
       },
       {
         "name": "FatihEmin19",
+        "unit": "F-5E-3"
+      },
+      {
+        "name": "✯101\\-EffBee\\[0010\\]✯",
         "unit": "_ _"
       }
     ],
@@ -541,13 +546,17 @@
         },
         {
           "name": "101\\-SKY",
-          "unit": "F-16C_50"
+          "unit": "MiG-29G"
+        },
+        {
+          "name": "FatihEmin19",
+          "unit": "F-5E-3"
         }
       ],
       "red": [],
       "neutral": [
         {
-          "name": "FatihEmin19",
+          "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "_ _"
         }
       ]
@@ -605,9 +614,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 22:20:24 UTC",
+    "lastUpdate": "26-03-21 22:24:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T22:20:24.065Z"
+  "lastUpdated": "2026-03-21T22:25:19.212Z"
 }
