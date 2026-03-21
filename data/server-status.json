@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［14／32］",
+      "channelName": "🖥️┃server-caucasus［15／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 14,
+      "players": 15,
       "maxPlayers": 32,
-      "missionTime": "1:21:57",
-      "missionDate": "2026-03-21 09:36:57",
+      "missionTime": "1:27:57",
+      "missionDate": "2026-03-21 09:42:57",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 12,
+          "used": 13,
           "total": 141
         },
         "red": {
@@ -38,12 +38,12 @@
         "FatihEmin19",
         "Mrblackron",
         "Turkesh",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "fabulous",
+        "ff21",
+        "killller",
         "⍟101\\-Longec\\[0007\\]⍟",
         "✯101\\-EffBee\\[0010\\]✯",
-        "rte",
-        "killller"
+        "rte"
       ],
       "playerDetails": [
         {
@@ -79,11 +79,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "FA-18C_hornet"
+          "name": "fabulous",
+          "unit": "F-16C_50"
         },
         {
-          "name": "fabulous",
+          "name": "ff21",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "killller",
           "unit": "F-16C_50"
         },
         {
@@ -97,10 +101,6 @@
         {
           "name": "rte",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "killller",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -138,11 +138,15 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "FA-18C_hornet"
+            "name": "fabulous",
+            "unit": "F-16C_50"
           },
           {
-            "name": "fabulous",
+            "name": "ff21",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "killller",
             "unit": "F-16C_50"
           },
           {
@@ -160,12 +164,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "killller",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -199,14 +198,14 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 1
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 11,
             "red": 0
           },
           "Sunken Ships": {
@@ -220,7 +219,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 16:24:32 UTC",
+      "lastUpdate": "26-03-21 16:30:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -233,8 +232,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:19:12",
-      "missionDate": "2026-03-21 13:24:12",
+      "missionTime": "1:25:12",
+      "missionDate": "2026-03-21 13:30:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -313,21 +312,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 16:24:22 UTC",
+      "lastUpdate": "26-03-21 16:30:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:14:57",
-      "missionDate": "2026-03-21 08:14:57",
+      "missionTime": "1:20:57",
+      "missionDate": "2026-03-21 08:20:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -338,7 +337,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 127
         },
         "red": {
@@ -346,22 +345,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "Laykas"
-      ],
-      "playerDetails": [
-        {
-          "name": "Laykas",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Laykas",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -396,8 +383,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 1,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -418,7 +405,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 16:24:23 UTC",
+      "lastUpdate": "26-03-21 16:30:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -431,8 +418,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:12:47",
-      "missionDate": "2026-03-21 16:37:47",
+      "missionTime": "1:18:47",
+      "missionDate": "2026-03-21 16:43:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -511,22 +498,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 16:24:23 UTC",
+      "lastUpdate": "26-03-21 16:30:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［14／32］",
+    "channelName": "🖥️┃server-caucasus［15／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 14,
+    "players": 15,
     "maxPlayers": 32,
-    "missionTime": "1:21:57",
-    "missionDate": "2026-03-21 09:36:57",
+    "missionTime": "1:27:57",
+    "missionDate": "2026-03-21 09:42:57",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1005 hPa",
@@ -537,7 +524,7 @@
     },
     "slots": {
       "blue": {
-        "used": 12,
+        "used": 13,
         "total": 141
       },
       "red": {
@@ -554,12 +541,12 @@
       "FatihEmin19",
       "Mrblackron",
       "Turkesh",
-      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "fabulous",
+      "ff21",
+      "killller",
       "⍟101\\-Longec\\[0007\\]⍟",
       "✯101\\-EffBee\\[0010\\]✯",
-      "rte",
-      "killller"
+      "rte"
     ],
     "playerDetails": [
       {
@@ -595,11 +582,15 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "unit": "FA-18C_hornet"
+        "name": "fabulous",
+        "unit": "F-16C_50"
       },
       {
-        "name": "fabulous",
+        "name": "ff21",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "killller",
         "unit": "F-16C_50"
       },
       {
@@ -613,10 +604,6 @@
       {
         "name": "rte",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "killller",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -654,11 +641,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "FA-18C_hornet"
+          "name": "fabulous",
+          "unit": "F-16C_50"
         },
         {
-          "name": "fabulous",
+          "name": "ff21",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "killller",
           "unit": "F-16C_50"
         },
         {
@@ -676,12 +667,7 @@
           "unit": "F-16C_50"
         }
       ],
-      "neutral": [
-        {
-          "name": "killller",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -715,14 +701,14 @@
         },
         "Killed Planes": {
           "blue": 0,
-          "red": 1
+          "red": 2
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 1,
+          "blue": 11,
           "red": 0
         },
         "Sunken Ships": {
@@ -736,9 +722,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 16:24:32 UTC",
+    "lastUpdate": "26-03-21 16:30:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T16:25:20.683Z"
+  "lastUpdated": "2026-03-21T16:30:26.279Z"
 }
