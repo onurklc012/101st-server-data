@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:37:59",
-      "missionDate": "2026-03-21 10:52:59",
+      "missionTime": "2:42:59",
+      "missionDate": "2026-03-21 10:57:59",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -30,12 +30,16 @@
         }
       },
       "playerList": [
+        "BlackBird",
         "cagri",
         "eyo",
-        "juniorblues",
-        "BlackBird"
+        "juniorblues"
       ],
       "playerDetails": [
+        {
+          "name": "BlackBird",
+          "unit": "F-5E-3_FC"
+        },
         {
           "name": "cagri",
           "unit": "F-16C_50"
@@ -47,14 +51,14 @@
         {
           "name": "juniorblues",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "BlackBird",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "BlackBird",
+            "unit": "F-5E-3_FC"
+          },
           {
             "name": "cagri",
             "unit": "F-16C_50"
@@ -69,12 +73,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "BlackBird",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -107,7 +106,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
+            "blue": 14,
             "red": 1
           },
           "Downed Helicopters": {
@@ -129,7 +128,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 11:40:04 UTC",
+      "lastUpdate": "26-03-21 11:45:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +141,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:34:57",
-      "missionDate": "2026-03-21 14:39:57",
+      "missionTime": "2:39:57",
+      "missionDate": "2026-03-21 14:44:57",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1006 hPa",
@@ -222,21 +221,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 11:40:04 UTC",
+      "lastUpdate": "26-03-21 11:45:04 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:31:11",
-      "missionDate": "2026-03-21 09:31:11",
+      "missionTime": "2:36:11",
+      "missionDate": "2026-03-21 09:36:11",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1006 hPa",
@@ -255,12 +254,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Laykas"
+      ],
+      "playerDetails": [
+        {
+          "name": "Laykas",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Laykas",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -315,7 +326,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 11:40:05 UTC",
+      "lastUpdate": "26-03-21 11:45:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -328,8 +339,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:28:35",
-      "missionDate": "2026-03-21 17:53:35",
+      "missionTime": "2:33:35",
+      "missionDate": "2026-03-21 17:58:35",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -408,7 +419,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 11:40:06 UTC",
+      "lastUpdate": "26-03-21 11:45:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -422,8 +433,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "2:37:59",
-    "missionDate": "2026-03-21 10:52:59",
+    "missionTime": "2:42:59",
+    "missionDate": "2026-03-21 10:57:59",
     "weather": {
       "temperature": "14.0°C",
       "qnh": "1005 hPa",
@@ -434,7 +445,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -443,12 +454,16 @@
       }
     },
     "playerList": [
+      "BlackBird",
       "cagri",
       "eyo",
-      "juniorblues",
-      "BlackBird"
+      "juniorblues"
     ],
     "playerDetails": [
+      {
+        "name": "BlackBird",
+        "unit": "F-5E-3_FC"
+      },
       {
         "name": "cagri",
         "unit": "F-16C_50"
@@ -460,14 +475,14 @@
       {
         "name": "juniorblues",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "BlackBird",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "BlackBird",
+          "unit": "F-5E-3_FC"
+        },
         {
           "name": "cagri",
           "unit": "F-16C_50"
@@ -482,12 +497,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "BlackBird",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -520,7 +530,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 9,
+          "blue": 14,
           "red": 1
         },
         "Downed Helicopters": {
@@ -542,9 +552,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 11:40:04 UTC",
+    "lastUpdate": "26-03-21 11:45:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T11:40:22.149Z"
+  "lastUpdated": "2026-03-21T11:45:22.708Z"
 }
