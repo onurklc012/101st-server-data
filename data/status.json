@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［14／32］",
+        "channelName": "🖥️┃server-caucasus［15／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 14,
+        "players": 15,
         "maxPlayers": 32,
-        "missionTime": "2:41:57",
-        "missionDate": "2026-03-21 10:56:57",
+        "missionTime": "2:46:57",
+        "missionDate": "2026-03-21 11:01:57",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1005 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 13,
+            "used": 12,
             "total": 141
           },
           "red": {
@@ -32,6 +32,7 @@
         },
         "playerList": [
           "101 \\- Mrblackron",
+          "101\\-Maskot\\(0019\\)",
           "101\\-Omry\\[0333\\]",
           "101\\-Yidobaba\\[0098\\]",
           "Aru",
@@ -39,15 +40,18 @@
           "Caner",
           "CapitanVader \\- KataPool",
           "Ege",
-          "IRRESTIBLE",
-          "NohutPilav",
-          "Silent Space",
           "fabulous",
-          "⍟101\\-Longec\\[0007\\]⍟"
+          "Üs\\. Tğm\\. Tepe",
+          "⍟101\\-Longec\\[0007\\]⍟",
+          "ZubiZaretta"
         ],
         "playerDetails": [
           {
             "name": "101 \\- Mrblackron",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
           },
           {
@@ -79,30 +83,30 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "IRRESTIBLE",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "NohutPilav",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Silent Space",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "fabulous",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
           },
           {
             "name": "⍟101\\-Longec\\[0007\\]⍟",
             "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "ZubiZaretta",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101 \\- Mrblackron",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "101\\-Maskot\\(0019\\)",
               "unit": "F-16C_50"
             },
             {
@@ -134,19 +138,11 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "IRRESTIBLE",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "NohutPilav",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "Silent Space",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "fabulous",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "Üs\\. Tğm\\. Tepe",
               "unit": "F-16C_50"
             },
             {
@@ -155,7 +151,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "ZubiZaretta",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -188,7 +189,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 8,
+              "blue": 20,
               "red": 4
             },
             "Downed Helicopters": {
@@ -210,7 +211,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 17:44:24 UTC",
+        "lastUpdate": "26-03-21 17:49:32 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -223,8 +224,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:40:12",
-        "missionDate": "2026-03-21 14:45:12",
+        "missionTime": "2:45:12",
+        "missionDate": "2026-03-21 14:50:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -303,7 +304,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 17:45:22 UTC",
+        "lastUpdate": "26-03-21 17:50:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -316,8 +317,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:34:57",
-        "missionDate": "2026-03-21 09:34:57",
+        "missionTime": "2:40:57",
+        "missionDate": "2026-03-21 09:40:57",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -396,7 +397,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 17:44:23 UTC",
+        "lastUpdate": "26-03-21 17:50:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -409,8 +410,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:33:47",
-        "missionDate": "2026-03-21 17:58:47",
+        "missionTime": "2:38:47",
+        "missionDate": "2026-03-21 18:03:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -489,22 +490,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 17:45:23 UTC",
+        "lastUpdate": "26-03-21 17:50:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［14／32］",
+      "channelName": "🖥️┃server-caucasus［15／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 14,
+      "players": 15,
       "maxPlayers": 32,
-      "missionTime": "2:41:57",
-      "missionDate": "2026-03-21 10:56:57",
+      "missionTime": "2:46:57",
+      "missionDate": "2026-03-21 11:01:57",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -515,7 +516,7 @@
       },
       "slots": {
         "blue": {
-          "used": 13,
+          "used": 12,
           "total": 141
         },
         "red": {
@@ -525,6 +526,7 @@
       },
       "playerList": [
         "101 \\- Mrblackron",
+        "101\\-Maskot\\(0019\\)",
         "101\\-Omry\\[0333\\]",
         "101\\-Yidobaba\\[0098\\]",
         "Aru",
@@ -532,15 +534,18 @@
         "Caner",
         "CapitanVader \\- KataPool",
         "Ege",
-        "IRRESTIBLE",
-        "NohutPilav",
-        "Silent Space",
         "fabulous",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "Üs\\. Tğm\\. Tepe",
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "ZubiZaretta"
       ],
       "playerDetails": [
         {
           "name": "101 \\- Mrblackron",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
         },
         {
@@ -572,30 +577,30 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "IRRESTIBLE",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "NohutPilav",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Silent Space",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "fabulous",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-16C_50"
         },
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "ZubiZaretta",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101 \\- Mrblackron",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
           },
           {
@@ -627,19 +632,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "IRRESTIBLE",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "NohutPilav",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Silent Space",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "fabulous",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
           },
           {
@@ -648,7 +645,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "ZubiZaretta",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -681,7 +683,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 8,
+            "blue": 20,
             "red": 4
           },
           "Downed Helicopters": {
@@ -703,11 +705,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 17:44:24 UTC",
+      "lastUpdate": "26-03-21 17:49:32 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T17:45:22.472Z"
+    "lastUpdated": "2026-03-21T17:50:23.451Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -785,7 +787,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 20:40  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 20:50  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -826,7 +828,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T17:45:22.607Z"
+    "lastUpdated": "2026-03-21T17:50:23.739Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3166,11 +3168,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T17:45:23.339Z",
+    "lastUpdated": "2026-03-21T17:50:24.636Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T17:45:23.714Z",
+    "fetchedAt": "2026-03-21T17:50:25.199Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
