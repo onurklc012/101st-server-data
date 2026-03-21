@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［5／32］",
+        "channelName": "🖥️┃server-caucasus［6／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 5,
+        "players": 6,
         "maxPlayers": 32,
-        "missionTime": "1:21:40",
-        "missionDate": "2026-03-22 09:36:40",
+        "missionTime": "1:27:40",
+        "missionDate": "2026-03-22 09:42:40",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -34,7 +34,8 @@
           "101\\-Maskot\\(0019\\)",
           "101\\-SKY",
           "FatihEmin19",
-          "✯101\\-EffBee\\[0010\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "✯101\\-Emrecan\\[0444\\]✯"
         ],
         "playerDetails": [
           {
@@ -51,7 +52,11 @@
           },
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "unit": "--"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -73,7 +78,11 @@
           "neutral": [
             {
               "name": "✯101\\-EffBee\\[0010\\]✯",
-              "unit": "_ _"
+              "unit": "--"
+            },
+            {
+              "name": "✯101\\-Emrecan\\[0444\\]✯",
+              "unit": "--"
             }
           ]
         },
@@ -130,21 +139,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:24:24 UTC",
+        "lastUpdate": "26-03-21 22:30:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［6／32］",
+        "channelName": "🖥️┃server-syria［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 6,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "1:18:32",
-        "missionDate": "2026-03-22 13:23:32",
+        "missionTime": "1:24:32",
+        "missionDate": "2026-03-22 13:29:32",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -155,7 +164,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 12
           },
           "red": {
@@ -165,7 +174,6 @@
         },
         "playerList": [
           "101ArmOn1453",
-          "101\\-Atmaca\\[3404\\]",
           "101\\-HotelTango",
           "CanAda",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
@@ -174,10 +182,6 @@
           {
             "name": "101ArmOn1453",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-Atmaca\\[3404\\]",
-            "unit": "F-16C_50"
           },
           {
             "name": "101\\-HotelTango",
@@ -197,10 +201,6 @@
             {
               "name": "101ArmOn1453",
               "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "101\\-Atmaca\\[3404\\]",
-              "unit": "F-16C_50"
             },
             {
               "name": "101\\-HotelTango",
@@ -271,7 +271,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:24:22 UTC",
+        "lastUpdate": "26-03-21 22:30:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -284,8 +284,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "1:11:01",
-        "missionDate": "2026-03-22 08:11:01",
+        "missionTime": "1:17:01",
+        "missionDate": "2026-03-22 08:17:01",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -296,7 +296,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 0,
             "total": 126
           },
           "red": {
@@ -304,22 +304,10 @@
             "total": 7
           }
         },
-        "playerList": [
-          "Turkesh"
-        ],
-        "playerDetails": [
-          {
-            "name": "Turkesh",
-            "unit": "F-16C_50"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "Turkesh",
-              "unit": "F-16C_50"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -376,7 +364,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:24:23 UTC",
+        "lastUpdate": "26-03-21 22:30:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -389,8 +377,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "1:11:49",
-        "missionDate": "2026-03-22 16:36:49",
+        "missionTime": "1:17:49",
+        "missionDate": "2026-03-22 16:42:49",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -481,22 +469,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:24:23 UTC",
+        "lastUpdate": "26-03-21 22:30:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:21:40",
-      "missionDate": "2026-03-22 09:36:40",
+      "missionTime": "1:27:40",
+      "missionDate": "2026-03-22 09:42:40",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -519,7 +507,8 @@
         "101\\-Maskot\\(0019\\)",
         "101\\-SKY",
         "FatihEmin19",
-        "✯101\\-EffBee\\[0010\\]✯"
+        "✯101\\-EffBee\\[0010\\]✯",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
@@ -536,7 +525,11 @@
         },
         {
           "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "_ _"
+          "unit": "--"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -558,7 +551,11 @@
         "neutral": [
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "_ _"
+            "unit": "--"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
+            "unit": "--"
           }
         ]
       },
@@ -615,11 +612,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:24:24 UTC",
+      "lastUpdate": "26-03-21 22:30:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T22:25:19.212Z"
+    "lastUpdated": "2026-03-21T22:30:24.481Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -697,7 +694,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 22.03.2026 01:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 22.03.2026 01:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -738,7 +735,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T22:25:19.468Z"
+    "lastUpdated": "2026-03-21T22:30:24.608Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3078,11 +3075,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T22:25:20.026Z",
+    "lastUpdated": "2026-03-21T22:30:25.201Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T22:25:20.560Z",
+    "fetchedAt": "2026-03-21T22:30:25.532Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
