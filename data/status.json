@@ -2,43 +2,25 @@
   "serverStatus": {
     "servers": [
       {
-        "online": true,
-        "channelName": "🖥️┃server-caucasus［9／32］",
+        "online": false,
+        "channelName": "🖥️┃server-caucasus［7／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": "88.247.164.234:10308",
-        "mission": "101_Hunter_SQN_v9_5",
-        "map": "Caucasus",
-        "players": 9,
+        "serverIP": null,
+        "mission": "--",
+        "map": "--",
+        "players": 7,
         "maxPlayers": 32,
-        "missionTime": "2:20:35",
-        "missionDate": "2026-04-21 10:35:35",
-        "weather": {
-          "temperature": "5.4°C",
-          "qnh": "1013 hPa",
-          "clouds": "Two Layer Scattered/",
-          "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
-          "wind": "281° / 2 kts"
-        },
-        "slots": {
-          "blue": {
-            "used": 4,
-            "total": 16
-          },
-          "red": {
-            "used": 3,
-            "total": 16
-          }
-        },
+        "missionTime": "--:--",
+        "missionDate": null,
+        "weather": null,
+        "slots": null,
         "playerList": [
           "101\\-Maskot\\(0019\\)",
+          "Florex",
           "Phantom",
           "enes",
-          "Üs\\. Tğm\\. Tepe",
           "PENÇE",
-          "TalhaPV",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "Florex"
+          "TalhaPV"
         ],
         "playerDetails": [
           {
@@ -46,15 +28,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Florex",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "Phantom",
-            "unit": "CH-47Fbl1"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "enes",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
           },
           {
@@ -64,14 +46,6 @@
           {
             "name": "TalhaPV",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Florex",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -81,15 +55,15 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "Florex",
+              "unit": "FA-18C_hornet"
+            },
+            {
               "name": "Phantom",
-              "unit": "CH-47Fbl1"
+              "unit": "FA-18C_hornet"
             },
             {
               "name": "enes",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "Üs\\. Tğm\\. Tepe",
               "unit": "F-16C_50"
             }
           ],
@@ -101,18 +75,9 @@
             {
               "name": "TalhaPV",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "Florex",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -167,21 +132,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:54:23 UTC",
+        "lastUpdate": null,
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［1／32］",
+        "channelName": "🖥️┃server-syria［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:49:12",
-        "missionDate": "2026-03-21 17:54:12",
+        "missionTime": "5:55:12",
+        "missionDate": "2026-03-21 18:00:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -192,7 +157,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 12
           },
           "red": {
@@ -200,10 +165,22 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101ArmOn1453"
+        ],
+        "playerDetails": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "T-45"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101ArmOn1453",
+              "unit": "T-45"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -260,7 +237,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:54:22 UTC",
+        "lastUpdate": "26-03-21 21:00:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -273,8 +250,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:37:58",
-        "missionDate": "2026-03-21 12:37:58",
+        "missionTime": "5:43:29",
+        "missionDate": "2026-03-21 12:43:29",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -339,7 +316,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 4,
+              "blue": 7,
               "red": 0
             },
             "Sunken Ships": {
@@ -353,7 +330,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:52:57 UTC",
+        "lastUpdate": "26-03-21 20:58:07 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -366,8 +343,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:42:47",
-        "missionDate": "2026-03-21 21:07:47",
+        "missionTime": "5:48:47",
+        "missionDate": "2026-03-21 21:13:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -446,49 +423,31 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:54:23 UTC",
+        "lastUpdate": "26-03-21 21:00:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
-      "online": true,
-      "channelName": "🖥️┃server-caucasus［9／32］",
+      "online": false,
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
-      "players": 9,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "2:20:35",
-      "missionDate": "2026-04-21 10:35:35",
-      "weather": {
-        "temperature": "5.4°C",
-        "qnh": "1013 hPa",
-        "clouds": "Two Layer Scattered/",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "281° / 2 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 4,
-          "total": 16
-        },
-        "red": {
-          "used": 3,
-          "total": 16
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "101\\-Maskot\\(0019\\)",
+        "Florex",
         "Phantom",
         "enes",
-        "Üs\\. Tğm\\. Tepe",
         "PENÇE",
-        "TalhaPV",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "Florex"
+        "TalhaPV"
       ],
       "playerDetails": [
         {
@@ -496,15 +455,15 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Florex",
+          "unit": "FA-18C_hornet"
+        },
+        {
           "name": "Phantom",
-          "unit": "CH-47Fbl1"
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "enes",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Üs\\. Tğm\\. Tepe",
           "unit": "F-16C_50"
         },
         {
@@ -514,14 +473,6 @@
         {
           "name": "TalhaPV",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Florex",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -531,15 +482,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Florex",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "Phantom",
-            "unit": "CH-47Fbl1"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "enes",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Üs\\. Tğm\\. Tepe",
             "unit": "F-16C_50"
           }
         ],
@@ -551,18 +502,9 @@
           {
             "name": "TalhaPV",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "Florex",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -617,11 +559,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:54:23 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T20:55:17.697Z"
+    "lastUpdated": "2026-03-21T21:00:28.632Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -699,7 +641,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 23:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 22.03.2026 00:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -740,7 +682,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T20:55:17.825Z"
+    "lastUpdated": "2026-03-21T21:00:28.818Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3080,11 +3022,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T20:55:18.481Z",
+    "lastUpdated": "2026-03-21T21:00:29.583Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T20:55:18.918Z",
+    "fetchedAt": "2026-03-21T21:00:30.159Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
