@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［23／32］",
+      "channelName": "🖥️┃server-caucasus［27／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 23,
+      "players": 27,
       "maxPlayers": 32,
-      "missionTime": "0:50:35",
-      "missionDate": "2026-04-21 09:05:35",
+      "missionTime": "0:56:35",
+      "missionDate": "2026-04-21 09:11:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,11 +21,11 @@
       },
       "slots": {
         "blue": {
-          "used": 13,
+          "used": 14,
           "total": 16
         },
         "red": {
-          "used": 8,
+          "used": 10,
           "total": 16
         }
       },
@@ -40,19 +40,22 @@
         "FatihEmin19",
         "Phantom",
         "TalhaPV",
+        "wodapana",
         "zlayer",
         "üüüü",
         "✯101\\-EffBee\\[0010\\]✯",
         "101ArmOn1453",
+        "101\\-Omry\\[0333\\]",
         "101\\-Rabik",
         "191KOBRA",
         "CapitanVader \\- KataPool",
         "LURK",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "\\[RK\\] Falcon Pilot YT",
+        "rte",
         "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "wodapana"
+        "Üs\\. Tğm\\. Tepe"
       ],
       "playerDetails": [
         {
@@ -89,11 +92,15 @@
         },
         {
           "name": "Phantom",
-          "unit": "F-15C"
+          "unit": "F-5E-3_FC"
         },
         {
           "name": "TalhaPV",
-          "unit": "F-16C_50"
+          "unit": "J-11A"
+        },
+        {
+          "name": "wodapana",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "zlayer",
@@ -109,6 +116,10 @@
         },
         {
           "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Omry\\[0333\\]",
           "unit": "F-16C_50"
         },
         {
@@ -136,15 +147,19 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "rte",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "J-11A"
+          "unit": "F-16C_50"
         },
         {
           "name": "101 \\- Mrblackron",
           "unit": "--"
         },
         {
-          "name": "wodapana",
+          "name": "Üs\\. Tğm\\. Tepe",
           "unit": "--"
         }
       ],
@@ -184,11 +199,15 @@
           },
           {
             "name": "Phantom",
-            "unit": "F-15C"
+            "unit": "F-5E-3_FC"
           },
           {
             "name": "TalhaPV",
-            "unit": "F-16C_50"
+            "unit": "J-11A"
+          },
+          {
+            "name": "wodapana",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "zlayer",
@@ -206,6 +225,10 @@
         "red": [
           {
             "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Omry\\[0333\\]",
             "unit": "F-16C_50"
           },
           {
@@ -233,8 +256,12 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "rte",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "⍟101\\-Longec\\[0007\\]⍟",
-            "unit": "J-11A"
+            "unit": "F-16C_50"
           }
         ],
         "neutral": [
@@ -243,7 +270,7 @@
             "unit": "--"
           },
           {
-            "name": "wodapana",
+            "name": "Üs\\. Tğm\\. Tepe",
             "unit": "--"
           }
         ]
@@ -301,7 +328,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:25:02 UTC",
+      "lastUpdate": "26-03-21 19:30:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -314,8 +341,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:19:12",
-      "missionDate": "2026-03-21 16:24:12",
+      "missionTime": "4:25:12",
+      "missionDate": "2026-03-21 16:30:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -424,7 +451,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:24:22 UTC",
+      "lastUpdate": "26-03-21 19:30:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -437,8 +464,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:14:57",
-      "missionDate": "2026-03-21 11:14:57",
+      "missionTime": "4:20:57",
+      "missionDate": "2026-03-21 11:20:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -517,7 +544,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:24:23 UTC",
+      "lastUpdate": "26-03-21 19:30:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -530,8 +557,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:12:47",
-      "missionDate": "2026-03-21 19:37:47",
+      "missionTime": "4:18:47",
+      "missionDate": "2026-03-21 19:43:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -610,22 +637,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:24:23 UTC",
+      "lastUpdate": "26-03-21 19:30:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［23／32］",
+    "channelName": "🖥️┃server-caucasus［27／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 23,
+    "players": 27,
     "maxPlayers": 32,
-    "missionTime": "0:50:35",
-    "missionDate": "2026-04-21 09:05:35",
+    "missionTime": "0:56:35",
+    "missionDate": "2026-04-21 09:11:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -636,11 +663,11 @@
     },
     "slots": {
       "blue": {
-        "used": 13,
+        "used": 14,
         "total": 16
       },
       "red": {
-        "used": 8,
+        "used": 10,
         "total": 16
       }
     },
@@ -655,19 +682,22 @@
       "FatihEmin19",
       "Phantom",
       "TalhaPV",
+      "wodapana",
       "zlayer",
       "üüüü",
       "✯101\\-EffBee\\[0010\\]✯",
       "101ArmOn1453",
+      "101\\-Omry\\[0333\\]",
       "101\\-Rabik",
       "191KOBRA",
       "CapitanVader \\- KataPool",
       "LURK",
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "\\[RK\\] Falcon Pilot YT",
+      "rte",
       "⍟101\\-Longec\\[0007\\]⍟",
       "101 \\- Mrblackron",
-      "wodapana"
+      "Üs\\. Tğm\\. Tepe"
     ],
     "playerDetails": [
       {
@@ -704,11 +734,15 @@
       },
       {
         "name": "Phantom",
-        "unit": "F-15C"
+        "unit": "F-5E-3_FC"
       },
       {
         "name": "TalhaPV",
-        "unit": "F-16C_50"
+        "unit": "J-11A"
+      },
+      {
+        "name": "wodapana",
+        "unit": "FA-18C_hornet"
       },
       {
         "name": "zlayer",
@@ -724,6 +758,10 @@
       },
       {
         "name": "101ArmOn1453",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "101\\-Omry\\[0333\\]",
         "unit": "F-16C_50"
       },
       {
@@ -751,15 +789,19 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "rte",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "⍟101\\-Longec\\[0007\\]⍟",
-        "unit": "J-11A"
+        "unit": "F-16C_50"
       },
       {
         "name": "101 \\- Mrblackron",
         "unit": "--"
       },
       {
-        "name": "wodapana",
+        "name": "Üs\\. Tğm\\. Tepe",
         "unit": "--"
       }
     ],
@@ -799,11 +841,15 @@
         },
         {
           "name": "Phantom",
-          "unit": "F-15C"
+          "unit": "F-5E-3_FC"
         },
         {
           "name": "TalhaPV",
-          "unit": "F-16C_50"
+          "unit": "J-11A"
+        },
+        {
+          "name": "wodapana",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "zlayer",
@@ -821,6 +867,10 @@
       "red": [
         {
           "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Omry\\[0333\\]",
           "unit": "F-16C_50"
         },
         {
@@ -848,8 +898,12 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "rte",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "J-11A"
+          "unit": "F-16C_50"
         }
       ],
       "neutral": [
@@ -858,7 +912,7 @@
           "unit": "--"
         },
         {
-          "name": "wodapana",
+          "name": "Üs\\. Tğm\\. Tepe",
           "unit": "--"
         }
       ]
@@ -916,9 +970,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 19:25:02 UTC",
+    "lastUpdate": "26-03-21 19:30:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T19:25:21.122Z"
+  "lastUpdated": "2026-03-21T19:30:24.269Z"
 }
