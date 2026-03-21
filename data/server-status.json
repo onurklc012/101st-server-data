@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［13／32］",
+      "channelName": "🖥️┃server-caucasus［18／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 13,
+      "players": 18,
       "maxPlayers": 32,
-      "missionTime": "0:15:35",
-      "missionDate": "2026-04-21 08:30:35",
+      "missionTime": "0:20:35",
+      "missionDate": "2026-04-21 08:35:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,32 +21,41 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 10,
           "total": 16
         },
         "red": {
-          "used": 3,
+          "used": 5,
           "total": 16
         }
       },
       "playerList": [
         "101\\-HotelTango",
+        "101\\-Maskot\\(0019\\)",
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
         "Bora\\_Kolsuz\\_Avcısı",
+        "FatihEmin19",
+        "Phantom",
         "TalhaPV",
+        "üüüü",
+        "✯101\\-EffBee\\[0010\\]✯",
         "101ArmOn1453",
         "101\\-Rabik",
         "CapitanVader \\- KataPool",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "101\\-Maskot\\(0019\\)",
-        "Caner",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "Caner"
       ],
       "playerDetails": [
         {
           "name": "101\\-HotelTango",
           "unit": "Ka-50_3"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "F-16C_50"
         },
         {
           "name": "101\\-MrMercans",
@@ -61,7 +70,23 @@
           "unit": "F-14B"
         },
         {
+          "name": "FatihEmin19",
+          "unit": "F-5E-3"
+        },
+        {
+          "name": "Phantom",
+          "unit": "F-15C"
+        },
+        {
           "name": "TalhaPV",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "üüüü",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "F-16C_50"
         },
         {
@@ -77,19 +102,19 @@
           "unit": "J-11A"
         },
         {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "⍟101\\-Longec\\[0007\\]⍟",
+          "unit": "J-11A"
+        },
+        {
           "name": "101 \\- Mrblackron",
           "unit": "--"
         },
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
-        },
-        {
           "name": "Caner",
-          "unit": "--"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "--"
         }
       ],
@@ -98,6 +123,10 @@
           {
             "name": "101\\-HotelTango",
             "unit": "Ka-50_3"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
           },
           {
             "name": "101\\-MrMercans",
@@ -112,7 +141,23 @@
             "unit": "F-14B"
           },
           {
+            "name": "FatihEmin19",
+            "unit": "F-5E-3"
+          },
+          {
+            "name": "Phantom",
+            "unit": "F-15C"
+          },
+          {
             "name": "TalhaPV",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "üüüü",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "F-16C_50"
           }
         ],
@@ -128,6 +173,14 @@
           {
             "name": "CapitanVader \\- KataPool",
             "unit": "J-11A"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "⍟101\\-Longec\\[0007\\]⍟",
+            "unit": "J-11A"
           }
         ],
         "neutral": [
@@ -136,15 +189,7 @@
             "unit": "--"
           },
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
-          },
-          {
             "name": "Caner",
-            "unit": "--"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "--"
           }
         ]
@@ -202,21 +247,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:49:52 UTC",
+      "lastUpdate": "26-03-21 18:54:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:44:12",
-      "missionDate": "2026-03-21 15:49:12",
+      "missionTime": "3:49:12",
+      "missionDate": "2026-03-21 15:54:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -227,7 +272,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -235,22 +280,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "CanAda"
-      ],
-      "playerDetails": [
-        {
-          "name": "CanAda",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "CanAda",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -307,7 +340,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:49:22 UTC",
+      "lastUpdate": "26-03-21 18:54:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -320,8 +353,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:39:57",
-      "missionDate": "2026-03-21 10:39:57",
+      "missionTime": "3:44:57",
+      "missionDate": "2026-03-21 10:44:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -412,7 +445,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:49:23 UTC",
+      "lastUpdate": "26-03-21 18:54:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -425,8 +458,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:37:47",
-      "missionDate": "2026-03-21 19:02:47",
+      "missionTime": "3:42:47",
+      "missionDate": "2026-03-21 19:07:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -505,22 +538,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:49:23 UTC",
+      "lastUpdate": "26-03-21 18:54:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［13／32］",
+    "channelName": "🖥️┃server-caucasus［18／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 13,
+    "players": 18,
     "maxPlayers": 32,
-    "missionTime": "0:15:35",
-    "missionDate": "2026-04-21 08:30:35",
+    "missionTime": "0:20:35",
+    "missionDate": "2026-04-21 08:35:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -531,32 +564,41 @@
     },
     "slots": {
       "blue": {
-        "used": 5,
+        "used": 10,
         "total": 16
       },
       "red": {
-        "used": 3,
+        "used": 5,
         "total": 16
       }
     },
     "playerList": [
       "101\\-HotelTango",
+      "101\\-Maskot\\(0019\\)",
       "101\\-MrMercans",
       "101\\-Yidobaba\\[0098\\]",
       "Bora\\_Kolsuz\\_Avcısı",
+      "FatihEmin19",
+      "Phantom",
       "TalhaPV",
+      "üüüü",
+      "✯101\\-EffBee\\[0010\\]✯",
       "101ArmOn1453",
       "101\\-Rabik",
       "CapitanVader \\- KataPool",
+      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+      "⍟101\\-Longec\\[0007\\]⍟",
       "101 \\- Mrblackron",
-      "101\\-Maskot\\(0019\\)",
-      "Caner",
-      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+      "Caner"
     ],
     "playerDetails": [
       {
         "name": "101\\-HotelTango",
         "unit": "Ka-50_3"
+      },
+      {
+        "name": "101\\-Maskot\\(0019\\)",
+        "unit": "F-16C_50"
       },
       {
         "name": "101\\-MrMercans",
@@ -571,7 +613,23 @@
         "unit": "F-14B"
       },
       {
+        "name": "FatihEmin19",
+        "unit": "F-5E-3"
+      },
+      {
+        "name": "Phantom",
+        "unit": "F-15C"
+      },
+      {
         "name": "TalhaPV",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "üüüü",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "✯101\\-EffBee\\[0010\\]✯",
         "unit": "F-16C_50"
       },
       {
@@ -587,19 +645,19 @@
         "unit": "J-11A"
       },
       {
+        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "⍟101\\-Longec\\[0007\\]⍟",
+        "unit": "J-11A"
+      },
+      {
         "name": "101 \\- Mrblackron",
         "unit": "--"
       },
       {
-        "name": "101\\-Maskot\\(0019\\)",
-        "unit": "--"
-      },
-      {
         "name": "Caner",
-        "unit": "--"
-      },
-      {
-        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "unit": "--"
       }
     ],
@@ -608,6 +666,10 @@
         {
           "name": "101\\-HotelTango",
           "unit": "Ka-50_3"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "F-16C_50"
         },
         {
           "name": "101\\-MrMercans",
@@ -622,7 +684,23 @@
           "unit": "F-14B"
         },
         {
+          "name": "FatihEmin19",
+          "unit": "F-5E-3"
+        },
+        {
+          "name": "Phantom",
+          "unit": "F-15C"
+        },
+        {
           "name": "TalhaPV",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "üüüü",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "F-16C_50"
         }
       ],
@@ -638,6 +716,14 @@
         {
           "name": "CapitanVader \\- KataPool",
           "unit": "J-11A"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "⍟101\\-Longec\\[0007\\]⍟",
+          "unit": "J-11A"
         }
       ],
       "neutral": [
@@ -646,15 +732,7 @@
           "unit": "--"
         },
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
-        },
-        {
           "name": "Caner",
-          "unit": "--"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "--"
         }
       ]
@@ -712,9 +790,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 18:49:52 UTC",
+    "lastUpdate": "26-03-21 18:54:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T18:50:20.871Z"
+  "lastUpdated": "2026-03-21T18:55:17.660Z"
 }
