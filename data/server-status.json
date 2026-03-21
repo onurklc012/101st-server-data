@@ -1,24 +1,52 @@
 {
   "servers": [
     {
-      "online": false,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "online": true,
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 7,
+      "serverIP": "88.247.164.234:10308",
+      "mission": "101_Hunter_SQN_v9_5",
+      "map": "Caucasus",
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
-      "playerList": [],
-      "playerDetails": [],
+      "missionTime": "0:02:38",
+      "missionDate": "2026-03-22 08:17:38",
+      "weather": {
+        "temperature": "8.0°C",
+        "qnh": "1007 hPa",
+        "clouds": "Clear",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "220° / 1 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 134
+        },
+        "red": {
+          "used": 0,
+          "total": 16
+        }
+      },
+      "playerList": [
+        "Phantom"
+      ],
+      "playerDetails": [
+        {
+          "name": "Phantom",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Phantom",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -51,15 +79,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 49,
-            "red": 32
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 19,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -73,55 +101,27 @@
         },
         "achievements": {}
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-21 21:05:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "online": false,
+      "channelName": "🖥️┃server-syria［-］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10309",
-      "mission": "101_Hunter_SQN_SURIYE_v3_7",
-      "map": "Syria",
-      "players": 2,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 0,
       "maxPlayers": 32,
-      "missionTime": "5:56:11",
-      "missionDate": "2026-03-21 18:01:11",
-      "weather": {
-        "temperature": "13.0°C",
-        "qnh": "1006 hPa",
-        "clouds": "Three Layer Broken Low Level Scattered High",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "230° / 6 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 1,
-          "total": 12
-        },
-        "red": {
-          "used": 0,
-          "total": 9
-        }
-      },
-      "playerList": [
-        "101ArmOn1453"
-      ],
-      "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "T-45"
-        }
-      ],
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "T-45"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -178,7 +178,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:01:22 UTC",
+      "lastUpdate": null,
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -284,8 +284,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:49:47",
-      "missionDate": "2026-03-21 21:14:47",
+      "missionTime": "5:53:47",
+      "missionDate": "2026-03-21 21:18:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -364,30 +364,58 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:01:23 UTC",
+      "lastUpdate": "26-03-21 21:05:22 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": false,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "online": true,
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": null,
-    "mission": "--",
-    "map": "--",
-    "players": 7,
+    "serverIP": "88.247.164.234:10308",
+    "mission": "101_Hunter_SQN_v9_5",
+    "map": "Caucasus",
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "--:--",
-    "missionDate": null,
-    "weather": null,
-    "slots": null,
-    "playerList": [],
-    "playerDetails": [],
+    "missionTime": "0:02:38",
+    "missionDate": "2026-03-22 08:17:38",
+    "weather": {
+      "temperature": "8.0°C",
+      "qnh": "1007 hPa",
+      "clouds": "Clear",
+      "cloudbase": "--",
+      "visibility": "10 km / 6 SM (+)",
+      "wind": "220° / 1 kts"
+    },
+    "slots": {
+      "blue": {
+        "used": 0,
+        "total": 134
+      },
+      "red": {
+        "used": 0,
+        "total": 16
+      }
+    },
+    "playerList": [
+      "Phantom"
+    ],
+    "playerDetails": [
+      {
+        "name": "Phantom",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Phantom",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -420,15 +448,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 49,
-          "red": 32
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 19,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -442,9 +470,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": null,
+    "lastUpdate": "26-03-21 21:05:23 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T21:01:57.034Z"
+  "lastUpdated": "2026-03-21T21:05:22.924Z"
 }
