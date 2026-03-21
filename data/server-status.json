@@ -2,130 +2,37 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［12／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 12,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:27:57",
-      "missionDate": "2026-03-21 11:42:57",
+      "missionTime": "0:00:35",
+      "missionDate": "2026-04-21 08:15:35",
       "weather": {
-        "temperature": "16.0°C",
-        "qnh": "1005 hPa",
-        "clouds": "Clear",
+        "temperature": "5.4°C",
+        "qnh": "1013 hPa",
+        "clouds": "Two Layer Scattered/",
         "cloudbase": "--",
         "visibility": "10 km / 6 SM (+)",
-        "wind": "260° / 5 kts"
+        "wind": "281° / 2 kts"
       },
       "slots": {
         "blue": {
-          "used": 10,
-          "total": 141
+          "used": 0,
+          "total": 16
         },
         "red": {
           "used": 0,
-          "total": 18
+          "total": 16
         }
       },
-      "playerList": [
-        "101 \\- Mrblackron",
-        "101\\-Omry\\[0333\\]",
-        "101\\-Yidobaba\\[0098\\]",
-        "Bora\\_Kolsuz\\_Avcısı",
-        "CanAda",
-        "Caner",
-        "Ege",
-        "FatihEmin19",
-        "Phantom",
-        "Üs\\. Tğm\\. Tepe"
-      ],
-      "playerDetails": [
-        {
-          "name": "101 \\- Mrblackron",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        },
-        {
-          "name": "Bora\\_Kolsuz\\_Avcısı",
-          "unit": "JF-17"
-        },
-        {
-          "name": "CanAda",
-          "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "Caner",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Ege",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
-        },
-        {
-          "name": "Phantom",
-          "unit": "F-15C"
-        },
-        {
-          "name": "Üs\\. Tğm\\. Tepe",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101 \\- Mrblackron",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-Omry\\[0333\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          },
-          {
-            "name": "Bora\\_Kolsuz\\_Avcısı",
-            "unit": "JF-17"
-          },
-          {
-            "name": "CanAda",
-            "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "Caner",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Ege",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
-          },
-          {
-            "name": "Phantom",
-            "unit": "F-15C"
-          },
-          {
-            "name": "Üs\\. Tğm\\. Tepe",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -160,15 +67,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 39,
-            "red": 5
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 21,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -182,21 +89,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:30:24 UTC",
+      "lastUpdate": "26-03-21 18:34:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:25:12",
-      "missionDate": "2026-03-21 15:30:12",
+      "missionTime": "3:29:12",
+      "missionDate": "2026-03-21 15:34:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -215,10 +122,22 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "CanAda"
+      ],
+      "playerDetails": [
+        {
+          "name": "CanAda",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "CanAda",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -275,21 +194,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:30:22 UTC",
+      "lastUpdate": "26-03-21 18:34:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:20:57",
-      "missionDate": "2026-03-21 10:20:57",
+      "missionTime": "3:24:57",
+      "missionDate": "2026-03-21 10:24:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -300,7 +219,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 127
         },
         "red": {
@@ -308,10 +227,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Shadow\\[1881\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -368,7 +299,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:30:23 UTC",
+      "lastUpdate": "26-03-21 18:34:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -381,8 +312,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:18:47",
-      "missionDate": "2026-03-21 18:43:47",
+      "missionTime": "3:22:47",
+      "missionDate": "2026-03-21 18:47:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -401,12 +332,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Caner"
+      ],
+      "playerDetails": [
+        {
+          "name": "Caner",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Caner",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -461,137 +404,44 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 18:30:23 UTC",
+      "lastUpdate": "26-03-21 18:35:12 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［12／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 12,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:27:57",
-    "missionDate": "2026-03-21 11:42:57",
+    "missionTime": "0:00:35",
+    "missionDate": "2026-04-21 08:15:35",
     "weather": {
-      "temperature": "16.0°C",
-      "qnh": "1005 hPa",
-      "clouds": "Clear",
+      "temperature": "5.4°C",
+      "qnh": "1013 hPa",
+      "clouds": "Two Layer Scattered/",
       "cloudbase": "--",
       "visibility": "10 km / 6 SM (+)",
-      "wind": "260° / 5 kts"
+      "wind": "281° / 2 kts"
     },
     "slots": {
       "blue": {
-        "used": 10,
-        "total": 141
+        "used": 0,
+        "total": 16
       },
       "red": {
         "used": 0,
-        "total": 18
+        "total": 16
       }
     },
-    "playerList": [
-      "101 \\- Mrblackron",
-      "101\\-Omry\\[0333\\]",
-      "101\\-Yidobaba\\[0098\\]",
-      "Bora\\_Kolsuz\\_Avcısı",
-      "CanAda",
-      "Caner",
-      "Ege",
-      "FatihEmin19",
-      "Phantom",
-      "Üs\\. Tğm\\. Tepe"
-    ],
-    "playerDetails": [
-      {
-        "name": "101 \\- Mrblackron",
-        "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "101\\-Omry\\[0333\\]",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Yidobaba\\[0098\\]",
-        "unit": "Su-30SM"
-      },
-      {
-        "name": "Bora\\_Kolsuz\\_Avcısı",
-        "unit": "JF-17"
-      },
-      {
-        "name": "CanAda",
-        "unit": "AH-64D_BLK_II"
-      },
-      {
-        "name": "Caner",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Ege",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "FatihEmin19",
-        "unit": "F-5E-3"
-      },
-      {
-        "name": "Phantom",
-        "unit": "F-15C"
-      },
-      {
-        "name": "Üs\\. Tğm\\. Tepe",
-        "unit": "F-16C_50"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "101 \\- Mrblackron",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        },
-        {
-          "name": "Bora\\_Kolsuz\\_Avcısı",
-          "unit": "JF-17"
-        },
-        {
-          "name": "CanAda",
-          "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "Caner",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Ege",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
-        },
-        {
-          "name": "Phantom",
-          "unit": "F-15C"
-        },
-        {
-          "name": "Üs\\. Tğm\\. Tepe",
-          "unit": "F-16C_50"
-        }
-      ],
+      "blue": [],
       "red": [],
       "neutral": []
     },
@@ -626,15 +476,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 39,
-          "red": 5
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 21,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -648,9 +498,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 18:30:24 UTC",
+    "lastUpdate": "26-03-21 18:34:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T18:30:24.441Z"
+  "lastUpdated": "2026-03-21T18:35:18.705Z"
 }
