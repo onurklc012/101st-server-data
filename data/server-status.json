@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:21:40",
-      "missionDate": "2026-03-22 08:36:40",
+      "missionTime": "0:27:40",
+      "missionDate": "2026-03-22 08:42:40",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:24:24 UTC",
+      "lastUpdate": "26-03-21 21:30:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:18:32",
-      "missionDate": "2026-03-22 12:23:32",
+      "missionTime": "0:24:32",
+      "missionDate": "2026-03-22 12:29:32",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1009 hPa",
@@ -114,7 +114,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 12
         },
         "red": {
@@ -125,8 +125,8 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-HotelTango",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "CanAda"
+        "CanAda",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
@@ -138,12 +138,12 @@
           "unit": "T-45"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "T-45"
+          "name": "CanAda",
+          "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "CanAda",
-          "unit": "_ _"
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "T-45"
         }
       ],
       "activePlayers": {
@@ -157,17 +157,16 @@
             "unit": "T-45"
           },
           {
+            "name": "CanAda",
+            "unit": "AH-64D_BLK_II"
+          },
+          {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "T-45"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "CanAda",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -222,7 +221,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:24:22 UTC",
+      "lastUpdate": "26-03-21 21:30:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -235,8 +234,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:11:01",
-      "missionDate": "2026-03-22 07:11:01",
+      "missionTime": "0:17:01",
+      "missionDate": "2026-03-22 07:17:01",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1009 hPa",
@@ -315,21 +314,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:24:23 UTC",
+      "lastUpdate": "26-03-21 21:30:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:11:49",
-      "missionDate": "2026-03-22 15:36:49",
+      "missionTime": "0:17:49",
+      "missionDate": "2026-03-22 15:42:49",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -348,12 +347,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "BNB\\.Caner"
+      ],
+      "playerDetails": [
+        {
+          "name": "BNB\\.Caner",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "BNB\\.Caner",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -408,7 +419,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 21:24:23 UTC",
+      "lastUpdate": "26-03-21 21:30:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -422,8 +433,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:21:40",
-    "missionDate": "2026-03-22 08:36:40",
+    "missionTime": "0:27:40",
+    "missionDate": "2026-03-22 08:42:40",
     "weather": {
       "temperature": "8.0°C",
       "qnh": "1007 hPa",
@@ -502,9 +513,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 21:24:24 UTC",
+    "lastUpdate": "26-03-21 21:30:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T21:25:20.637Z"
+  "lastUpdated": "2026-03-21T21:30:26.341Z"
 }
