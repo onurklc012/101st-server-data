@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［18／32］",
+        "channelName": "🖥️┃server-caucasus［16／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 18,
+        "players": 16,
         "maxPlayers": 32,
-        "missionTime": "1:40:35",
-        "missionDate": "2026-04-21 09:55:35",
+        "missionTime": "1:46:35",
+        "missionDate": "2026-04-21 10:01:35",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -33,21 +33,19 @@
         "playerList": [
           "101 \\- Swef VR",
           "101\\-Maskot\\(0019\\)",
-          "101\\-Yidobaba\\[0098\\]",
           "Aerot",
           "Bora\\_Kolsuz\\_Avcısı",
           "enes",
+          "rte",
           "zlayer",
           "Üs\\. Tğm\\. Tepe",
           "101\\-Omry\\[0333\\]",
+          "101\\-Yidobaba\\[0098\\]",
           "PENÇE",
           "Somon",
           "TalhaPV",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "\\[RK\\] Falcon Pilot YT",
-          "rte",
-          "101 \\- Mrblackron",
-          "Caner"
+          "\\[RK\\] Falcon Pilot YT"
         ],
         "playerDetails": [
           {
@@ -57,10 +55,6 @@
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "J-11A"
           },
           {
             "name": "Aerot",
@@ -75,6 +69,10 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "rte",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "zlayer",
             "unit": "F-16C_50"
           },
@@ -85,6 +83,10 @@
           {
             "name": "101\\-Omry\\[0333\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "J-11A"
           },
           {
             "name": "PENÇE",
@@ -105,18 +107,6 @@
           {
             "name": "\\[RK\\] Falcon Pilot YT",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "rte",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101 \\- Mrblackron",
-            "unit": "--"
-          },
-          {
-            "name": "Caner",
-            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -130,10 +120,6 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "J-11A"
-            },
-            {
               "name": "Aerot",
               "unit": "J-11A"
             },
@@ -143,6 +129,10 @@
             },
             {
               "name": "enes",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "rte",
               "unit": "F-16C_50"
             },
             {
@@ -158,6 +148,10 @@
             {
               "name": "101\\-Omry\\[0333\\]",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "J-11A"
             },
             {
               "name": "PENÇE",
@@ -178,22 +172,9 @@
             {
               "name": "\\[RK\\] Falcon Pilot YT",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "rte",
-              "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "101 \\- Mrblackron",
-              "unit": "--"
-            },
-            {
-              "name": "Caner",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -226,8 +207,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 27,
-              "red": 20
+              "blue": 41,
+              "red": 25
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -248,7 +229,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:14:24 UTC",
+        "lastUpdate": "26-03-21 20:20:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -261,8 +242,8 @@
         "map": "Syria",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "5:09:12",
-        "missionDate": "2026-03-21 17:14:12",
+        "missionTime": "5:15:12",
+        "missionDate": "2026-03-21 17:20:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -371,7 +352,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:14:22 UTC",
+        "lastUpdate": "26-03-21 20:20:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -384,8 +365,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "5:04:57",
-        "missionDate": "2026-03-21 12:04:57",
+        "missionTime": "5:10:57",
+        "missionDate": "2026-03-21 12:10:57",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -485,21 +466,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:14:23 UTC",
+        "lastUpdate": "26-03-21 20:20:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［3／32］",
+        "channelName": "🖥️┃caucasus-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 3,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:02:47",
-        "missionDate": "2026-03-21 20:27:47",
+        "missionTime": "5:08:47",
+        "missionDate": "2026-03-21 20:33:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -510,7 +491,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 0,
             "total": 69
           },
           "red": {
@@ -518,31 +499,10 @@
             "total": 2
           }
         },
-        "playerList": [
-          "Ege",
-          "ayzviper"
-        ],
-        "playerDetails": [
-          {
-            "name": "Ege",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "ayzviper",
-            "unit": "F-16C_50"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "Ege",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "ayzviper",
-              "unit": "F-16C_50"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -599,22 +559,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 20:14:23 UTC",
+        "lastUpdate": "26-03-21 20:20:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［18／32］",
+      "channelName": "🖥️┃server-caucasus［16／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 18,
+      "players": 16,
       "maxPlayers": 32,
-      "missionTime": "1:40:35",
-      "missionDate": "2026-04-21 09:55:35",
+      "missionTime": "1:46:35",
+      "missionDate": "2026-04-21 10:01:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -636,21 +596,19 @@
       "playerList": [
         "101 \\- Swef VR",
         "101\\-Maskot\\(0019\\)",
-        "101\\-Yidobaba\\[0098\\]",
         "Aerot",
         "Bora\\_Kolsuz\\_Avcısı",
         "enes",
+        "rte",
         "zlayer",
         "Üs\\. Tğm\\. Tepe",
         "101\\-Omry\\[0333\\]",
+        "101\\-Yidobaba\\[0098\\]",
         "PENÇE",
         "Somon",
         "TalhaPV",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "\\[RK\\] Falcon Pilot YT",
-        "rte",
-        "101 \\- Mrblackron",
-        "Caner"
+        "\\[RK\\] Falcon Pilot YT"
       ],
       "playerDetails": [
         {
@@ -660,10 +618,6 @@
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "J-11A"
         },
         {
           "name": "Aerot",
@@ -678,6 +632,10 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "rte",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "zlayer",
           "unit": "F-16C_50"
         },
@@ -688,6 +646,10 @@
         {
           "name": "101\\-Omry\\[0333\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "J-11A"
         },
         {
           "name": "PENÇE",
@@ -708,18 +670,6 @@
         {
           "name": "\\[RK\\] Falcon Pilot YT",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "rte",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101 \\- Mrblackron",
-          "unit": "--"
-        },
-        {
-          "name": "Caner",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -733,10 +683,6 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "J-11A"
-          },
-          {
             "name": "Aerot",
             "unit": "J-11A"
           },
@@ -746,6 +692,10 @@
           },
           {
             "name": "enes",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "rte",
             "unit": "F-16C_50"
           },
           {
@@ -761,6 +711,10 @@
           {
             "name": "101\\-Omry\\[0333\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "J-11A"
           },
           {
             "name": "PENÇE",
@@ -781,22 +735,9 @@
           {
             "name": "\\[RK\\] Falcon Pilot YT",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "rte",
-            "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101 \\- Mrblackron",
-            "unit": "--"
-          },
-          {
-            "name": "Caner",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -829,8 +770,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 27,
-            "red": 20
+            "blue": 41,
+            "red": 25
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -851,11 +792,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 20:14:24 UTC",
+      "lastUpdate": "26-03-21 20:20:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T20:15:21.881Z"
+    "lastUpdated": "2026-03-21T20:20:26.689Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -919,7 +860,7 @@
           {
             "rank": 4,
             "name": "101ArmOn1453",
-            "credits": 7810
+            "credits": 8110
           },
           {
             "rank": 5,
@@ -928,12 +869,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 86946,
+          "totalCredits": 87246,
           "totalPlayers": 79,
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 23:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 23:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -974,7 +915,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T20:15:22.043Z"
+    "lastUpdated": "2026-03-21T20:20:26.896Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3314,11 +3255,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T20:15:22.852Z",
+    "lastUpdated": "2026-03-21T20:20:27.699Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T20:15:23.693Z",
+    "fetchedAt": "2026-03-21T20:20:28.216Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
