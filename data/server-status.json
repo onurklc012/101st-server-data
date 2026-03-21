@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "3:18:14",
-      "missionDate": "2026-03-21 11:33:14",
+      "missionTime": "3:23:14",
+      "missionDate": "2026-03-21 11:38:14",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -32,10 +32,7 @@
       "playerList": [
         "101\\-HotelTango",
         "CanAda",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "✯101\\-Emrecan\\[0444\\]✯",
-        "Aru",
-        "fabulous"
+        "Dozimetrist"
       ],
       "playerDetails": [
         {
@@ -47,20 +44,8 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "AH-64D_BLK_II (crew)"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "Aru",
-          "unit": "--"
-        },
-        {
-          "name": "fabulous",
-          "unit": "--"
+          "name": "Dozimetrist",
+          "unit": "Mi-24P (crew)"
         }
       ],
       "activePlayers": {
@@ -74,25 +59,12 @@
             "unit": "AH-64D_BLK_II"
           },
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "AH-64D_BLK_II (crew)"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "AH-64D_BLK_II"
+            "name": "Dozimetrist",
+            "unit": "Mi-24P (crew)"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Aru",
-            "unit": "--"
-          },
-          {
-            "name": "fabulous",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -147,21 +119,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 00:20:04 UTC",
+      "lastUpdate": "26-03-21 00:25:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［3／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 3,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:15:07",
-      "missionDate": "2026-03-21 15:20:07",
+      "missionTime": "3:20:06",
+      "missionDate": "2026-03-21 15:25:06",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -172,7 +144,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -180,31 +152,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "101\\-Cuce \\[0011\\]",
-        "101\\-Rabik"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Cuce \\[0011\\]",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Cuce \\[0011\\]",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "FA-18C_hornet"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -261,7 +212,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 00:20:04 UTC",
+      "lastUpdate": "26-03-21 00:25:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -274,8 +225,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:11:21",
-      "missionDate": "2026-03-21 10:11:21",
+      "missionTime": "3:16:21",
+      "missionDate": "2026-03-21 10:16:21",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -354,7 +305,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 00:20:05 UTC",
+      "lastUpdate": "26-03-21 00:25:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -367,8 +318,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:08:47",
-      "missionDate": "2026-03-21 18:33:47",
+      "missionTime": "3:13:47",
+      "missionDate": "2026-03-21 18:38:47",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -447,22 +398,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 00:20:06 UTC",
+      "lastUpdate": "26-03-21 00:25:06 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "3:18:14",
-    "missionDate": "2026-03-21 11:33:14",
+    "missionTime": "3:23:14",
+    "missionDate": "2026-03-21 11:38:14",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1003 hPa",
@@ -473,7 +424,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -484,10 +435,7 @@
     "playerList": [
       "101\\-HotelTango",
       "CanAda",
-      "✯101\\-EffBee\\[0010\\]✯",
-      "✯101\\-Emrecan\\[0444\\]✯",
-      "Aru",
-      "fabulous"
+      "Dozimetrist"
     ],
     "playerDetails": [
       {
@@ -499,20 +447,8 @@
         "unit": "AH-64D_BLK_II"
       },
       {
-        "name": "✯101\\-EffBee\\[0010\\]✯",
-        "unit": "AH-64D_BLK_II (crew)"
-      },
-      {
-        "name": "✯101\\-Emrecan\\[0444\\]✯",
-        "unit": "AH-64D_BLK_II"
-      },
-      {
-        "name": "Aru",
-        "unit": "--"
-      },
-      {
-        "name": "fabulous",
-        "unit": "--"
+        "name": "Dozimetrist",
+        "unit": "Mi-24P (crew)"
       }
     ],
     "activePlayers": {
@@ -526,25 +462,12 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "AH-64D_BLK_II (crew)"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "AH-64D_BLK_II"
+          "name": "Dozimetrist",
+          "unit": "Mi-24P (crew)"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Aru",
-          "unit": "--"
-        },
-        {
-          "name": "fabulous",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -599,9 +522,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 00:20:04 UTC",
+    "lastUpdate": "26-03-21 00:25:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T00:20:21.520Z"
+  "lastUpdated": "2026-03-21T00:25:18.759Z"
 }
