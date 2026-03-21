@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［7／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 7,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "0:27:39",
-        "missionDate": "2026-03-21 08:42:39",
+        "missionTime": "0:32:39",
+        "missionDate": "2026-03-21 08:47:39",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1005 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 7,
             "total": 134
           },
           "red": {
@@ -32,17 +32,21 @@
         },
         "playerList": [
           "101\\-Yidobaba\\[0098\\]",
+          "101\\-Zorbey\\[0741\\]",
           "Ege",
           "Mrblackron",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "✯101\\-EffBee\\[0010\\]✯",
-          "101\\-Zorbey\\[0741\\]",
-          "rte"
+          "rte",
+          "✯101\\-EffBee\\[0010\\]✯"
         ],
         "playerDetails": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "AH-6J"
+            "unit": "T-45 (crew)"
+          },
+          {
+            "name": "101\\-Zorbey\\[0741\\]",
+            "unit": "AH-64D_BLK_II"
           },
           {
             "name": "Ege",
@@ -57,23 +61,23 @@
             "unit": "T-45"
           },
           {
+            "name": "rte",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "101\\-Zorbey\\[0741\\]",
-            "unit": "--"
-          },
-          {
-            "name": "rte",
-            "unit": "--"
           }
         ],
         "activePlayers": {
           "blue": [
             {
               "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "AH-6J"
+              "unit": "T-45 (crew)"
+            },
+            {
+              "name": "101\\-Zorbey\\[0741\\]",
+              "unit": "AH-64D_BLK_II"
             },
             {
               "name": "Ege",
@@ -88,21 +92,16 @@
               "unit": "T-45"
             },
             {
+              "name": "rte",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "✯101\\-EffBee\\[0010\\]✯",
               "unit": "AH-64D_BLK_II"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Zorbey\\[0741\\]",
-              "unit": "--"
-            },
-            {
-              "name": "rte",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -157,7 +156,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:30:24 UTC",
+        "lastUpdate": "26-03-21 15:35:04 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -170,8 +169,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:24:54",
-        "missionDate": "2026-03-21 12:29:54",
+        "missionTime": "0:29:54",
+        "missionDate": "2026-03-21 12:34:54",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -250,21 +249,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:30:05 UTC",
+        "lastUpdate": "26-03-21 15:35:04 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "channelName": "🖥️┃syria-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:20:39",
-        "missionDate": "2026-03-21 07:20:39",
+        "missionTime": "0:25:39",
+        "missionDate": "2026-03-21 07:25:39",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -275,7 +274,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 126
           },
           "red": {
@@ -283,10 +282,22 @@
             "total": 7
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "Laykas"
+        ],
+        "playerDetails": [
+          {
+            "name": "Laykas",
+            "unit": "F-16C_50"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "Laykas",
+              "unit": "F-16C_50"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -343,7 +354,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:30:05 UTC",
+        "lastUpdate": "26-03-21 15:35:05 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -356,8 +367,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:18:28",
-        "missionDate": "2026-03-21 15:43:28",
+        "missionTime": "0:23:28",
+        "missionDate": "2026-03-21 15:48:28",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -436,22 +447,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 15:30:06 UTC",
+        "lastUpdate": "26-03-21 15:35:06 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "0:27:39",
-      "missionDate": "2026-03-21 08:42:39",
+      "missionTime": "0:32:39",
+      "missionDate": "2026-03-21 08:47:39",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1005 hPa",
@@ -462,7 +473,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 7,
           "total": 134
         },
         "red": {
@@ -472,17 +483,21 @@
       },
       "playerList": [
         "101\\-Yidobaba\\[0098\\]",
+        "101\\-Zorbey\\[0741\\]",
         "Ege",
         "Mrblackron",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "101\\-Zorbey\\[0741\\]",
-        "rte"
+        "rte",
+        "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "AH-6J"
+          "unit": "T-45 (crew)"
+        },
+        {
+          "name": "101\\-Zorbey\\[0741\\]",
+          "unit": "AH-64D_BLK_II"
         },
         {
           "name": "Ege",
@@ -497,23 +512,23 @@
           "unit": "T-45"
         },
         {
+          "name": "rte",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "✯101\\-EffBee\\[0010\\]✯",
           "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "101\\-Zorbey\\[0741\\]",
-          "unit": "--"
-        },
-        {
-          "name": "rte",
-          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "AH-6J"
+            "unit": "T-45 (crew)"
+          },
+          {
+            "name": "101\\-Zorbey\\[0741\\]",
+            "unit": "AH-64D_BLK_II"
           },
           {
             "name": "Ege",
@@ -528,21 +543,16 @@
             "unit": "T-45"
           },
           {
+            "name": "rte",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "AH-64D_BLK_II"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Zorbey\\[0741\\]",
-            "unit": "--"
-          },
-          {
-            "name": "rte",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -597,11 +607,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 15:30:24 UTC",
+      "lastUpdate": "26-03-21 15:35:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T15:30:25.108Z"
+    "lastUpdated": "2026-03-21T15:35:17.602Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -720,7 +730,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T15:30:25.249Z"
+    "lastUpdated": "2026-03-21T15:35:17.719Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3060,11 +3070,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T15:30:25.874Z",
+    "lastUpdated": "2026-03-21T15:35:18.298Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T15:30:26.318Z",
+    "fetchedAt": "2026-03-21T15:35:18.756Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
