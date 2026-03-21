@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "1:46:40",
-        "missionDate": "2026-03-22 10:01:40",
+        "missionTime": "1:51:40",
+        "missionDate": "2026-03-22 10:06:40",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -31,20 +31,16 @@
           }
         },
         "playerList": [
-          "101\\-Maskot\\(0019\\)",
           "101\\-SKY",
           "FatihEmin19",
           "✯101\\-EffBee\\[0010\\]✯",
-          "✯101\\-Emrecan\\[0444\\]✯"
+          "✯101\\-Emrecan\\[0444\\]✯",
+          "101\\-HotelTango"
         ],
         "playerDetails": [
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-SKY",
-            "unit": "TF-51D"
+            "unit": "F-16C_50"
           },
           {
             "name": "FatihEmin19",
@@ -57,17 +53,17 @@
           {
             "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "101\\-HotelTango",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
             {
-              "name": "101\\-Maskot\\(0019\\)",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "101\\-SKY",
-              "unit": "TF-51D"
+              "unit": "F-16C_50"
             },
             {
               "name": "FatihEmin19",
@@ -83,7 +79,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-HotelTango",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -138,21 +139,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:49:24 UTC",
+        "lastUpdate": "26-03-21 22:55:12 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［2／32］",
+        "channelName": "🖥️┃server-syria［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 2,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "1:43:32",
-        "missionDate": "2026-03-22 13:48:32",
+        "missionTime": "1:48:32",
+        "missionDate": "2026-03-22 13:53:32",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -163,7 +164,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 12
           },
           "red": {
@@ -172,9 +173,14 @@
           }
         },
         "playerList": [
+          "CanAda",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
+          {
+            "name": "CanAda",
+            "unit": "FA-18C_hornet"
+          },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
@@ -182,6 +188,10 @@
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "CanAda",
+              "unit": "FA-18C_hornet"
+            },
             {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
               "unit": "FA-18C_hornet"
@@ -243,7 +253,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:49:22 UTC",
+        "lastUpdate": "26-03-21 22:54:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -256,8 +266,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:36:01",
-        "missionDate": "2026-03-22 08:36:01",
+        "missionTime": "1:41:01",
+        "missionDate": "2026-03-22 08:41:01",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1009 hPa",
@@ -336,7 +346,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:49:23 UTC",
+        "lastUpdate": "26-03-21 22:54:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -349,8 +359,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "1:36:49",
-        "missionDate": "2026-03-22 17:01:49",
+        "missionTime": "1:41:49",
+        "missionDate": "2026-03-22 17:06:49",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1007 hPa",
@@ -441,7 +451,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 22:49:23 UTC",
+        "lastUpdate": "26-03-21 22:54:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -455,8 +465,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:46:40",
-      "missionDate": "2026-03-22 10:01:40",
+      "missionTime": "1:51:40",
+      "missionDate": "2026-03-22 10:06:40",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1007 hPa",
@@ -467,7 +477,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -476,20 +486,16 @@
         }
       },
       "playerList": [
-        "101\\-Maskot\\(0019\\)",
         "101\\-SKY",
         "FatihEmin19",
         "✯101\\-EffBee\\[0010\\]✯",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "✯101\\-Emrecan\\[0444\\]✯",
+        "101\\-HotelTango"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-SKY",
-          "unit": "TF-51D"
+          "unit": "F-16C_50"
         },
         {
           "name": "FatihEmin19",
@@ -502,17 +508,17 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "101\\-HotelTango",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-SKY",
-            "unit": "TF-51D"
+            "unit": "F-16C_50"
           },
           {
             "name": "FatihEmin19",
@@ -528,7 +534,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -583,11 +594,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 22:49:24 UTC",
+      "lastUpdate": "26-03-21 22:55:12 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T22:50:20.636Z"
+    "lastUpdated": "2026-03-21T22:55:20.036Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -706,7 +717,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T22:50:20.815Z"
+    "lastUpdated": "2026-03-21T22:55:20.175Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3046,11 +3057,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T22:50:21.400Z",
+    "lastUpdated": "2026-03-21T22:55:22.073Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T22:50:21.884Z",
+    "fetchedAt": "2026-03-21T22:55:22.561Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
