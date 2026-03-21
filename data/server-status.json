@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 19,
       "maxPlayers": 32,
-      "missionTime": "0:26:35",
-      "missionDate": "2026-04-21 08:41:35",
+      "missionTime": "0:29:35",
+      "missionDate": "2026-04-21 08:44:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -34,9 +34,9 @@
         "101\\-Maskot\\(0019\\)",
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
+        "Aerot",
         "Bora\\_Kolsuz\\_Avcısı",
         "FatihEmin19",
-        "IRRESTIBLE",
         "Phantom",
         "TalhaPV",
         "üüüü",
@@ -48,7 +48,8 @@
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "Aerot"
+        "\\[RK\\] Falcon Pilot YT",
+        "zlayer"
       ],
       "playerDetails": [
         {
@@ -68,16 +69,16 @@
           "unit": "J-11A"
         },
         {
+          "name": "Aerot",
+          "unit": "Su-33"
+        },
+        {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-14B"
         },
         {
           "name": "FatihEmin19",
           "unit": "F-5E-3"
-        },
-        {
-          "name": "IRRESTIBLE",
-          "unit": "F-16C_50"
         },
         {
           "name": "Phantom",
@@ -124,7 +125,11 @@
           "unit": "--"
         },
         {
-          "name": "Aerot",
+          "name": "\\[RK\\] Falcon Pilot YT",
+          "unit": "--"
+        },
+        {
+          "name": "zlayer",
           "unit": "--"
         }
       ],
@@ -147,16 +152,16 @@
             "unit": "J-11A"
           },
           {
+            "name": "Aerot",
+            "unit": "Su-33"
+          },
+          {
             "name": "Bora\\_Kolsuz\\_Avcısı",
             "unit": "F-14B"
           },
           {
             "name": "FatihEmin19",
             "unit": "F-5E-3"
-          },
-          {
-            "name": "IRRESTIBLE",
-            "unit": "F-16C_50"
           },
           {
             "name": "Phantom",
@@ -207,7 +212,11 @@
             "unit": "--"
           },
           {
-            "name": "Aerot",
+            "name": "\\[RK\\] Falcon Pilot YT",
+            "unit": "--"
+          },
+          {
+            "name": "zlayer",
             "unit": "--"
           }
         ]
@@ -265,7 +274,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:00:24 UTC",
+      "lastUpdate": "26-03-21 19:03:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -278,8 +287,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:55:12",
-      "missionDate": "2026-03-21 16:00:12",
+      "missionTime": "3:58:12",
+      "missionDate": "2026-03-21 16:03:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -290,7 +299,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 12
         },
         "red": {
@@ -299,20 +308,30 @@
         }
       },
       "playerList": [
-        "b1hadir"
+        "b1hadir",
+        "DECAAS"
       ],
       "playerDetails": [
         {
           "name": "b1hadir",
+          "unit": "F-5E-3"
+        },
+        {
+          "name": "DECAAS",
           "unit": "_ _"
         }
       ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "b1hadir",
+            "unit": "F-5E-3"
+          }
+        ],
         "red": [],
         "neutral": [
           {
-            "name": "b1hadir",
+            "name": "DECAAS",
             "unit": "_ _"
           }
         ]
@@ -370,7 +389,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:00:22 UTC",
+      "lastUpdate": "26-03-21 19:03:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -383,8 +402,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:50:57",
-      "missionDate": "2026-03-21 10:50:57",
+      "missionTime": "3:53:57",
+      "missionDate": "2026-03-21 10:53:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -463,7 +482,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:00:23 UTC",
+      "lastUpdate": "26-03-21 19:03:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -476,8 +495,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:48:47",
-      "missionDate": "2026-03-21 19:13:47",
+      "missionTime": "3:51:47",
+      "missionDate": "2026-03-21 19:16:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -556,7 +575,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:00:23 UTC",
+      "lastUpdate": "26-03-21 19:03:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -570,8 +589,8 @@
     "map": "Caucasus",
     "players": 19,
     "maxPlayers": 32,
-    "missionTime": "0:26:35",
-    "missionDate": "2026-04-21 08:41:35",
+    "missionTime": "0:29:35",
+    "missionDate": "2026-04-21 08:44:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -595,9 +614,9 @@
       "101\\-Maskot\\(0019\\)",
       "101\\-MrMercans",
       "101\\-Yidobaba\\[0098\\]",
+      "Aerot",
       "Bora\\_Kolsuz\\_Avcısı",
       "FatihEmin19",
-      "IRRESTIBLE",
       "Phantom",
       "TalhaPV",
       "üüüü",
@@ -609,7 +628,8 @@
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "⍟101\\-Longec\\[0007\\]⍟",
       "101 \\- Mrblackron",
-      "Aerot"
+      "\\[RK\\] Falcon Pilot YT",
+      "zlayer"
     ],
     "playerDetails": [
       {
@@ -629,16 +649,16 @@
         "unit": "J-11A"
       },
       {
+        "name": "Aerot",
+        "unit": "Su-33"
+      },
+      {
         "name": "Bora\\_Kolsuz\\_Avcısı",
         "unit": "F-14B"
       },
       {
         "name": "FatihEmin19",
         "unit": "F-5E-3"
-      },
-      {
-        "name": "IRRESTIBLE",
-        "unit": "F-16C_50"
       },
       {
         "name": "Phantom",
@@ -685,7 +705,11 @@
         "unit": "--"
       },
       {
-        "name": "Aerot",
+        "name": "\\[RK\\] Falcon Pilot YT",
+        "unit": "--"
+      },
+      {
+        "name": "zlayer",
         "unit": "--"
       }
     ],
@@ -708,16 +732,16 @@
           "unit": "J-11A"
         },
         {
+          "name": "Aerot",
+          "unit": "Su-33"
+        },
+        {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-14B"
         },
         {
           "name": "FatihEmin19",
           "unit": "F-5E-3"
-        },
-        {
-          "name": "IRRESTIBLE",
-          "unit": "F-16C_50"
         },
         {
           "name": "Phantom",
@@ -768,7 +792,11 @@
           "unit": "--"
         },
         {
-          "name": "Aerot",
+          "name": "\\[RK\\] Falcon Pilot YT",
+          "unit": "--"
+        },
+        {
+          "name": "zlayer",
           "unit": "--"
         }
       ]
@@ -826,9 +854,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 19:00:24 UTC",
+    "lastUpdate": "26-03-21 19:03:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T19:00:29.697Z"
+  "lastUpdated": "2026-03-21T19:03:52.196Z"
 }
