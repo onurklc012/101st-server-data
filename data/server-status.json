@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:53:14",
-      "missionDate": "2026-03-21 11:08:14",
+      "missionTime": "2:58:14",
+      "missionDate": "2026-03-21 11:13:14",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -32,7 +32,8 @@
       "playerList": [
         "101\\-HotelTango",
         "101\\-Yidobaba\\[0098\\]",
-        "CanAda"
+        "CanAda",
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
@@ -45,6 +46,10 @@
         },
         {
           "name": "CanAda",
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "AH-64D_BLK_II"
         }
       ],
@@ -60,6 +65,10 @@
           },
           {
             "name": "CanAda",
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "✯101\\-Emrecan\\[0444\\]✯",
             "unit": "AH-64D_BLK_II"
           }
         ],
@@ -119,21 +128,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 23:55:04 UTC",
+      "lastUpdate": "26-03-21 00:00:04 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［6／32］",
+      "channelName": "🖥️┃server-syria［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 6,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:50:07",
-      "missionDate": "2026-03-21 14:55:07",
+      "missionTime": "2:55:07",
+      "missionDate": "2026-03-21 15:00:07",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -144,7 +153,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 2,
           "total": 12
         },
         "red": {
@@ -154,10 +163,7 @@
       },
       "playerList": [
         "101\\-Cuce \\[0011\\]",
-        "101\\-Rabik",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "✯101\\-Emrecan\\[0444\\]✯"
+        "101\\-Rabik"
       ],
       "playerDetails": [
         {
@@ -166,19 +172,7 @@
         },
         {
           "name": "101\\-Rabik",
-          "unit": "A-10C_2"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
-          "unit": "AH-64D_BLK_II (crew)"
-        },
-        {
-          "name": "✯101\\-Emrecan\\[0444\\]✯",
-          "unit": "AH-64D_BLK_II"
+          "unit": "FA-18C_hornet"
         }
       ],
       "activePlayers": {
@@ -189,19 +183,7 @@
           },
           {
             "name": "101\\-Rabik",
-            "unit": "A-10C_2"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "AH-64D_BLK_II (crew)"
-          },
-          {
-            "name": "✯101\\-Emrecan\\[0444\\]✯",
-            "unit": "AH-64D_BLK_II"
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
@@ -260,21 +242,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 23:55:04 UTC",
+      "lastUpdate": "26-03-21 00:00:05 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:46:21",
-      "missionDate": "2026-03-21 09:46:21",
+      "missionTime": "2:51:21",
+      "missionDate": "2026-03-21 09:51:21",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -324,7 +306,7 @@
           },
           "Yapilar": {
             "blue": 49,
-            "red": 111
+            "red": 104
           },
           "Base Captures": {
             "blue": 0,
@@ -353,7 +335,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 23:55:05 UTC",
+      "lastUpdate": "26-03-21 00:00:34 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -366,8 +348,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:43:47",
-      "missionDate": "2026-03-21 18:08:47",
+      "missionTime": "2:48:47",
+      "missionDate": "2026-03-21 18:13:47",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1003 hPa",
@@ -446,22 +428,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-20 23:55:06 UTC",
+      "lastUpdate": "26-03-21 00:00:07 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "2:53:14",
-    "missionDate": "2026-03-21 11:08:14",
+    "missionTime": "2:58:14",
+    "missionDate": "2026-03-21 11:13:14",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1003 hPa",
@@ -483,7 +465,8 @@
     "playerList": [
       "101\\-HotelTango",
       "101\\-Yidobaba\\[0098\\]",
-      "CanAda"
+      "CanAda",
+      "✯101\\-Emrecan\\[0444\\]✯"
     ],
     "playerDetails": [
       {
@@ -496,6 +479,10 @@
       },
       {
         "name": "CanAda",
+        "unit": "AH-64D_BLK_II"
+      },
+      {
+        "name": "✯101\\-Emrecan\\[0444\\]✯",
         "unit": "AH-64D_BLK_II"
       }
     ],
@@ -511,6 +498,10 @@
         },
         {
           "name": "CanAda",
+          "unit": "AH-64D_BLK_II"
+        },
+        {
+          "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "AH-64D_BLK_II"
         }
       ],
@@ -570,9 +561,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-20 23:55:04 UTC",
+    "lastUpdate": "26-03-21 00:00:04 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-20T23:55:20.348Z"
+  "lastUpdated": "2026-03-21T00:00:51.349Z"
 }
