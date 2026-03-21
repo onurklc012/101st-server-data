@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［25／32］",
+      "channelName": "🖥️┃server-caucasus［26／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 25,
+      "players": 26,
       "maxPlayers": 32,
-      "missionTime": "1:10:34",
-      "missionDate": "2026-04-21 09:25:34",
+      "missionTime": "1:15:35",
+      "missionDate": "2026-04-21 09:30:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 12,
+          "used": 11,
           "total": 16
         },
         "red": {
@@ -30,13 +30,13 @@
         }
       },
       "playerList": [
+        "101 \\- Swef VR",
         "101\\-HotelTango",
         "101\\-Maskot\\(0019\\)",
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
         "Aerot",
         "Bora\\_Kolsuz\\_Avcısı",
-        "FatihEmin19",
         "Phantom",
         "wodapana",
         "zlayer",
@@ -54,9 +54,13 @@
         "rte",
         "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "wojak"
+        "wrezzy"
       ],
       "playerDetails": [
+        {
+          "name": "101 \\- Swef VR",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-HotelTango",
           "unit": "Ka-50_3"
@@ -80,10 +84,6 @@
         {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         },
         {
           "name": "Phantom",
@@ -154,12 +154,16 @@
           "unit": "--"
         },
         {
-          "name": "wojak",
+          "name": "wrezzy",
           "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101 \\- Swef VR",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-HotelTango",
             "unit": "Ka-50_3"
@@ -183,10 +187,6 @@
           {
             "name": "Bora\\_Kolsuz\\_Avcısı",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
           },
           {
             "name": "Phantom",
@@ -261,7 +261,7 @@
             "unit": "--"
           },
           {
-            "name": "wojak",
+            "name": "wrezzy",
             "unit": "--"
           }
         ]
@@ -319,21 +319,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:45:12 UTC",
+      "lastUpdate": "26-03-21 19:49:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［3／32］",
+      "channelName": "🖥️┃server-syria［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:39:12",
-      "missionDate": "2026-03-21 16:44:12",
+      "missionTime": "4:44:12",
+      "missionDate": "2026-03-21 16:49:12",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -344,7 +344,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 12
         },
         "red": {
@@ -354,11 +354,16 @@
       },
       "playerList": [
         "DECAAS",
+        "NAZGUL",
         "b1hadir"
       ],
       "playerDetails": [
         {
           "name": "DECAAS",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
@@ -370,6 +375,10 @@
         "blue": [
           {
             "name": "DECAAS",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "NAZGUL",
             "unit": "F-16C_50"
           },
           {
@@ -433,7 +442,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:44:22 UTC",
+      "lastUpdate": "26-03-21 19:49:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -446,8 +455,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:34:57",
-      "missionDate": "2026-03-21 11:34:57",
+      "missionTime": "4:39:57",
+      "missionDate": "2026-03-21 11:39:57",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1006 hPa",
@@ -526,21 +535,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:44:23 UTC",
+      "lastUpdate": "26-03-21 19:49:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:32:47",
-      "missionDate": "2026-03-21 19:57:47",
+      "missionTime": "4:37:47",
+      "missionDate": "2026-03-21 20:02:47",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1005 hPa",
@@ -560,12 +569,17 @@
         }
       },
       "playerList": [
-        "ayzviper"
+        "ayzviper",
+        "Ege"
       ],
       "playerDetails": [
         {
           "name": "ayzviper",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Ege",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -576,7 +590,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Ege",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -631,22 +650,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:44:23 UTC",
+      "lastUpdate": "26-03-21 19:49:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［25／32］",
+    "channelName": "🖥️┃server-caucasus［26／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 25,
+    "players": 26,
     "maxPlayers": 32,
-    "missionTime": "1:10:34",
-    "missionDate": "2026-04-21 09:25:34",
+    "missionTime": "1:15:35",
+    "missionDate": "2026-04-21 09:30:35",
     "weather": {
       "temperature": "5.4°C",
       "qnh": "1013 hPa",
@@ -657,7 +676,7 @@
     },
     "slots": {
       "blue": {
-        "used": 12,
+        "used": 11,
         "total": 16
       },
       "red": {
@@ -666,13 +685,13 @@
       }
     },
     "playerList": [
+      "101 \\- Swef VR",
       "101\\-HotelTango",
       "101\\-Maskot\\(0019\\)",
       "101\\-MrMercans",
       "101\\-Yidobaba\\[0098\\]",
       "Aerot",
       "Bora\\_Kolsuz\\_Avcısı",
-      "FatihEmin19",
       "Phantom",
       "wodapana",
       "zlayer",
@@ -690,9 +709,13 @@
       "rte",
       "⍟101\\-Longec\\[0007\\]⍟",
       "101 \\- Mrblackron",
-      "wojak"
+      "wrezzy"
     ],
     "playerDetails": [
+      {
+        "name": "101 \\- Swef VR",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101\\-HotelTango",
         "unit": "Ka-50_3"
@@ -716,10 +739,6 @@
       {
         "name": "Bora\\_Kolsuz\\_Avcısı",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "FatihEmin19",
-        "unit": "F-5E-3"
       },
       {
         "name": "Phantom",
@@ -790,12 +809,16 @@
         "unit": "--"
       },
       {
-        "name": "wojak",
+        "name": "wrezzy",
         "unit": "--"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101 \\- Swef VR",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-HotelTango",
           "unit": "Ka-50_3"
@@ -819,10 +842,6 @@
         {
           "name": "Bora\\_Kolsuz\\_Avcısı",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         },
         {
           "name": "Phantom",
@@ -897,7 +916,7 @@
           "unit": "--"
         },
         {
-          "name": "wojak",
+          "name": "wrezzy",
           "unit": "--"
         }
       ]
@@ -955,9 +974,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-21 19:45:12 UTC",
+    "lastUpdate": "26-03-21 19:49:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-21T19:45:19.800Z"
+  "lastUpdated": "2026-03-21T19:50:20.750Z"
 }
