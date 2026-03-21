@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［21／32］",
+        "channelName": "🖥️┃server-caucasus［23／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 21,
+        "players": 23,
         "maxPlayers": 32,
-        "missionTime": "0:40:35",
-        "missionDate": "2026-04-21 08:55:35",
+        "missionTime": "0:45:35",
+        "missionDate": "2026-04-21 09:00:35",
         "weather": {
           "temperature": "5.4°C",
           "qnh": "1013 hPa",
@@ -22,11 +22,11 @@
         },
         "slots": {
           "blue": {
-            "used": 12,
+            "used": 13,
             "total": 16
           },
           "red": {
-            "used": 6,
+            "used": 8,
             "total": 16
           }
         },
@@ -35,6 +35,7 @@
           "101\\-Maskot\\(0019\\)",
           "101\\-MrMercans",
           "101\\-Yidobaba\\[0098\\]",
+          "151 \\- Swef VR",
           "Aerot",
           "Bora\\_Kolsuz\\_Avcısı",
           "FatihEmin19",
@@ -45,12 +46,14 @@
           "✯101\\-EffBee\\[0010\\]✯",
           "101ArmOn1453",
           "101\\-Rabik",
+          "191KOBRA",
           "CapitanVader \\- KataPool",
+          "LURK",
           "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "\\[RK\\] Falcon Pilot YT",
           "⍟101\\-Longec\\[0007\\]⍟",
           "101 \\- Mrblackron",
-          "151 \\- Swef VR"
+          "Tim"
         ],
         "playerDetails": [
           {
@@ -70,6 +73,10 @@
             "unit": "J-11A"
           },
           {
+            "name": "151 \\- Swef VR",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Aerot",
             "unit": "J-11A"
           },
@@ -83,7 +90,7 @@
           },
           {
             "name": "Phantom",
-            "unit": "F-5E-3_FC"
+            "unit": "F-15C"
           },
           {
             "name": "TalhaPV",
@@ -110,8 +117,16 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "191KOBRA",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "CapitanVader \\- KataPool",
             "unit": "F-15C"
+          },
+          {
+            "name": "LURK",
+            "unit": "Su-25T"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
@@ -130,7 +145,7 @@
             "unit": "--"
           },
           {
-            "name": "151 \\- Swef VR",
+            "name": "Tim",
             "unit": "--"
           }
         ],
@@ -153,6 +168,10 @@
               "unit": "J-11A"
             },
             {
+              "name": "151 \\- Swef VR",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "Aerot",
               "unit": "J-11A"
             },
@@ -166,7 +185,7 @@
             },
             {
               "name": "Phantom",
-              "unit": "F-5E-3_FC"
+              "unit": "F-15C"
             },
             {
               "name": "TalhaPV",
@@ -195,8 +214,16 @@
               "unit": "FA-18C_hornet"
             },
             {
+              "name": "191KOBRA",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "CapitanVader \\- KataPool",
               "unit": "F-15C"
+            },
+            {
+              "name": "LURK",
+              "unit": "Su-25T"
             },
             {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
@@ -217,7 +244,7 @@
               "unit": "--"
             },
             {
-              "name": "151 \\- Swef VR",
+              "name": "Tim",
               "unit": "--"
             }
           ]
@@ -275,7 +302,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 19:14:24 UTC",
+        "lastUpdate": "26-03-21 19:19:52 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -288,8 +315,8 @@
         "map": "Syria",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "4:09:12",
-        "missionDate": "2026-03-21 16:14:12",
+        "missionTime": "4:15:12",
+        "missionDate": "2026-03-21 16:20:12",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -300,7 +327,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 12
           },
           "red": {
@@ -309,23 +336,42 @@
           }
         },
         "playerList": [
-          "b1hadir"
+          "Saniga",
+          "b1hadir",
+          "DECAAS"
         ],
         "playerDetails": [
           {
+            "name": "Saniga",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "b1hadir",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "DECAAS",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "Saniga",
+              "unit": "F-16C_50"
+            },
             {
               "name": "b1hadir",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "DECAAS",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -380,7 +426,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 19:14:22 UTC",
+        "lastUpdate": "26-03-21 19:20:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -393,8 +439,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:04:57",
-        "missionDate": "2026-03-21 11:04:57",
+        "missionTime": "4:09:57",
+        "missionDate": "2026-03-21 11:09:57",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1006 hPa",
@@ -473,7 +519,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 19:14:23 UTC",
+        "lastUpdate": "26-03-21 19:19:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -486,8 +532,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:02:47",
-        "missionDate": "2026-03-21 19:27:47",
+        "missionTime": "4:08:47",
+        "missionDate": "2026-03-21 19:33:47",
         "weather": {
           "temperature": "14.0°C",
           "qnh": "1005 hPa",
@@ -566,22 +612,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-21 19:14:23 UTC",
+        "lastUpdate": "26-03-21 19:20:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［21／32］",
+      "channelName": "🖥️┃server-caucasus［23／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 21,
+      "players": 23,
       "maxPlayers": 32,
-      "missionTime": "0:40:35",
-      "missionDate": "2026-04-21 08:55:35",
+      "missionTime": "0:45:35",
+      "missionDate": "2026-04-21 09:00:35",
       "weather": {
         "temperature": "5.4°C",
         "qnh": "1013 hPa",
@@ -592,11 +638,11 @@
       },
       "slots": {
         "blue": {
-          "used": 12,
+          "used": 13,
           "total": 16
         },
         "red": {
-          "used": 6,
+          "used": 8,
           "total": 16
         }
       },
@@ -605,6 +651,7 @@
         "101\\-Maskot\\(0019\\)",
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
+        "151 \\- Swef VR",
         "Aerot",
         "Bora\\_Kolsuz\\_Avcısı",
         "FatihEmin19",
@@ -615,12 +662,14 @@
         "✯101\\-EffBee\\[0010\\]✯",
         "101ArmOn1453",
         "101\\-Rabik",
+        "191KOBRA",
         "CapitanVader \\- KataPool",
+        "LURK",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "\\[RK\\] Falcon Pilot YT",
         "⍟101\\-Longec\\[0007\\]⍟",
         "101 \\- Mrblackron",
-        "151 \\- Swef VR"
+        "Tim"
       ],
       "playerDetails": [
         {
@@ -640,6 +689,10 @@
           "unit": "J-11A"
         },
         {
+          "name": "151 \\- Swef VR",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Aerot",
           "unit": "J-11A"
         },
@@ -653,7 +706,7 @@
         },
         {
           "name": "Phantom",
-          "unit": "F-5E-3_FC"
+          "unit": "F-15C"
         },
         {
           "name": "TalhaPV",
@@ -680,8 +733,16 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "191KOBRA",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "CapitanVader \\- KataPool",
           "unit": "F-15C"
+        },
+        {
+          "name": "LURK",
+          "unit": "Su-25T"
         },
         {
           "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
@@ -700,7 +761,7 @@
           "unit": "--"
         },
         {
-          "name": "151 \\- Swef VR",
+          "name": "Tim",
           "unit": "--"
         }
       ],
@@ -723,6 +784,10 @@
             "unit": "J-11A"
           },
           {
+            "name": "151 \\- Swef VR",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Aerot",
             "unit": "J-11A"
           },
@@ -736,7 +801,7 @@
           },
           {
             "name": "Phantom",
-            "unit": "F-5E-3_FC"
+            "unit": "F-15C"
           },
           {
             "name": "TalhaPV",
@@ -765,8 +830,16 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "191KOBRA",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "CapitanVader \\- KataPool",
             "unit": "F-15C"
+          },
+          {
+            "name": "LURK",
+            "unit": "Su-25T"
           },
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
@@ -787,7 +860,7 @@
             "unit": "--"
           },
           {
-            "name": "151 \\- Swef VR",
+            "name": "Tim",
             "unit": "--"
           }
         ]
@@ -845,11 +918,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-21 19:14:24 UTC",
+      "lastUpdate": "26-03-21 19:19:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-21T19:15:20.660Z"
+    "lastUpdated": "2026-03-21T19:20:22.576Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -927,7 +1000,7 @@
           "activePilots": "5",
           "highestScore": 10161
         },
-        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 22:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 21.03.2026 22:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -968,7 +1041,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-21T19:15:20.815Z"
+    "lastUpdated": "2026-03-21T19:20:22.836Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3308,11 +3381,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-21T19:15:21.465Z",
+    "lastUpdated": "2026-03-21T19:20:23.476Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-21T19:15:21.876Z",
+    "fetchedAt": "2026-03-21T19:20:24.071Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
