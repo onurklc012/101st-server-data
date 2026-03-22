@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:12:53",
-      "missionDate": "2026-03-22 10:27:53",
+      "missionTime": "2:16:53",
+      "missionDate": "2026-03-22 10:31:53",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1007 hPa",
@@ -29,33 +29,12 @@
           "total": 16
         }
       },
-      "playerList": [
-        "Commrade Bastian",
-        "TitouC3"
-      ],
-      "playerDetails": [
-        {
-          "name": "Commrade Bastian",
-          "unit": "--"
-        },
-        {
-          "name": "TitouC3",
-          "unit": "--"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "Commrade Bastian",
-            "unit": "--"
-          },
-          {
-            "name": "TitouC3",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -110,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 17:15:24 UTC",
+      "lastUpdate": "26-03-22 17:19:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:09:55",
-      "missionDate": "2026-03-22 14:14:55",
+      "missionTime": "2:14:55",
+      "missionDate": "2026-03-22 14:19:55",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1010 hPa",
@@ -203,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 17:15:22 UTC",
+      "lastUpdate": "26-03-22 17:20:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -216,8 +195,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:05:56",
-      "missionDate": "2026-03-22 09:05:56",
+      "missionTime": "2:10:56",
+      "missionDate": "2026-03-22 09:10:56",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1010 hPa",
@@ -228,7 +207,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 126
         },
         "red": {
@@ -237,33 +216,32 @@
         }
       },
       "playerList": [
-        "Swoxy",
-        "101\\-Rabik"
+        "101\\-Rabik",
+        "Swoxy"
       ],
       "playerDetails": [
         {
-          "name": "Swoxy",
-          "unit": "F-16C_50"
+          "name": "101\\-Rabik",
+          "unit": "FA-18C_hornet"
         },
         {
-          "name": "101\\-Rabik",
-          "unit": "_ _"
+          "name": "Swoxy",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Rabik",
+            "unit": "FA-18C_hornet"
+          },
           {
             "name": "Swoxy",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -318,7 +296,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 17:15:24 UTC",
+      "lastUpdate": "26-03-22 17:20:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -331,8 +309,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:03:46",
-      "missionDate": "2026-03-22 17:28:46",
+      "missionTime": "2:08:46",
+      "missionDate": "2026-03-22 17:33:46",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1007 hPa",
@@ -423,22 +401,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 17:15:23 UTC",
+      "lastUpdate": "26-03-22 17:20:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "2:12:53",
-    "missionDate": "2026-03-22 10:27:53",
+    "missionTime": "2:16:53",
+    "missionDate": "2026-03-22 10:31:53",
     "weather": {
       "temperature": "14.0°C",
       "qnh": "1007 hPa",
@@ -457,33 +435,12 @@
         "total": 16
       }
     },
-    "playerList": [
-      "Commrade Bastian",
-      "TitouC3"
-    ],
-    "playerDetails": [
-      {
-        "name": "Commrade Bastian",
-        "unit": "--"
-      },
-      {
-        "name": "TitouC3",
-        "unit": "--"
-      }
-    ],
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": [
-        {
-          "name": "Commrade Bastian",
-          "unit": "--"
-        },
-        {
-          "name": "TitouC3",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -538,9 +495,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-22 17:15:24 UTC",
+    "lastUpdate": "26-03-22 17:19:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-22T17:15:24.729Z"
+  "lastUpdated": "2026-03-22T17:20:23.499Z"
 }
