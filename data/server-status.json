@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:02:15",
-      "missionDate": "2026-03-23 09:17:15",
+      "missionTime": "1:07:15",
+      "missionDate": "2026-03-23 09:22:15",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 22:04:24 UTC",
+      "lastUpdate": "26-03-22 22:09:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:59:00",
-      "missionDate": "2026-03-23 13:04:00",
+      "missionTime": "1:05:00",
+      "missionDate": "2026-03-23 13:10:00",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1011 hPa",
@@ -134,12 +134,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "armyfaruk"
+      ],
+      "playerDetails": [
+        {
+          "name": "armyfaruk",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "armyfaruk",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -194,7 +206,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 22:04:22 UTC",
+      "lastUpdate": "26-03-22 22:10:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +219,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:54:52",
-      "missionDate": "2026-03-23 07:54:52",
+      "missionTime": "1:00:53",
+      "missionDate": "2026-03-23 08:00:53",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1011 hPa",
@@ -278,7 +290,7 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 0
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -299,7 +311,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 22:04:23 UTC",
+      "lastUpdate": "26-03-22 22:10:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,8 +324,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:52:46",
-      "missionDate": "2026-03-23 16:17:46",
+      "missionTime": "0:58:47",
+      "missionDate": "2026-03-23 16:23:47",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -370,15 +382,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 4
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -392,7 +404,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 22:04:23 UTC",
+      "lastUpdate": "26-03-22 22:10:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -406,8 +418,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:02:15",
-    "missionDate": "2026-03-23 09:17:15",
+    "missionTime": "1:07:15",
+    "missionDate": "2026-03-23 09:22:15",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1010 hPa",
@@ -498,9 +510,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-22 22:04:24 UTC",
+    "lastUpdate": "26-03-22 22:09:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-22T22:05:19.845Z"
+  "lastUpdated": "2026-03-22T22:10:23.329Z"
 }
