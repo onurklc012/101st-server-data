@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:31:49",
-      "missionDate": "2026-03-22 09:46:49",
+      "missionTime": "1:36:49",
+      "missionDate": "2026-03-22 09:51:49",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 10:34:24 UTC",
+      "lastUpdate": "26-03-22 10:39:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:28:54",
-      "missionDate": "2026-03-22 13:33:54",
+      "missionTime": "1:34:54",
+      "missionDate": "2026-03-22 13:39:54",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1010 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 10:34:22 UTC",
+      "lastUpdate": "26-03-22 10:40:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:24:59",
-      "missionDate": "2026-03-22 08:24:59",
+      "missionTime": "1:29:59",
+      "missionDate": "2026-03-22 08:29:59",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1010 hPa",
@@ -228,12 +228,17 @@
         }
       },
       "playerList": [
-        "101\\-Atmaca\\[3404\\]"
+        "101\\-Atmaca\\[3404\\]",
+        "DECAAS"
       ],
       "playerDetails": [
         {
           "name": "101\\-Atmaca\\[3404\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "DECAAS",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -244,7 +249,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "DECAAS",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -277,7 +287,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 2,
             "red": 1
           },
           "Downed Helicopters": {
@@ -285,7 +295,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 13,
+            "blue": 21,
             "red": 0
           },
           "Sunken Ships": {
@@ -299,7 +309,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 10:34:23 UTC",
+      "lastUpdate": "26-03-22 10:39:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,8 +322,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:22:40",
-      "missionDate": "2026-03-22 16:47:40",
+      "missionTime": "1:28:40",
+      "missionDate": "2026-03-22 16:53:40",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -383,7 +393,7 @@
           },
           "Killed Planes": {
             "blue": 0,
-            "red": 3
+            "red": 5
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -404,7 +414,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 10:34:23 UTC",
+      "lastUpdate": "26-03-22 10:40:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -418,8 +428,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:31:49",
-    "missionDate": "2026-03-22 09:46:49",
+    "missionTime": "1:36:49",
+    "missionDate": "2026-03-22 09:51:49",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1007 hPa",
@@ -510,9 +520,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-22 10:34:24 UTC",
+    "lastUpdate": "26-03-22 10:39:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-22T10:35:18.937Z"
+  "lastUpdated": "2026-03-22T10:40:22.405Z"
 }
