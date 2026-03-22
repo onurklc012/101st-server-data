@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:31:51",
-        "missionDate": "2026-03-22 13:46:51",
+        "missionTime": "5:33:51",
+        "missionDate": "2026-03-22 13:48:51",
         "weather": {
           "temperature": "10.0°C",
           "qnh": "1009 hPa",
@@ -90,7 +90,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-22 08:34:24 UTC",
+        "lastUpdate": "26-03-22 08:36:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -103,8 +103,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:28:59",
-        "missionDate": "2026-03-22 17:33:59",
+        "missionTime": "5:30:59",
+        "missionDate": "2026-03-22 17:35:59",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1009 hPa",
@@ -183,7 +183,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-22 08:34:22 UTC",
+        "lastUpdate": "26-03-22 08:36:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -196,8 +196,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:25:09",
-        "missionDate": "2026-03-22 12:25:09",
+        "missionTime": "5:27:09",
+        "missionDate": "2026-03-22 12:27:09",
         "weather": {
           "temperature": "8.0°C",
           "qnh": "1009 hPa",
@@ -288,7 +288,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-22 08:34:23 UTC",
+        "lastUpdate": "26-03-22 08:36:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -301,8 +301,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:22:46",
-        "missionDate": "2026-03-22 20:47:46",
+        "missionTime": "5:24:46",
+        "missionDate": "2026-03-22 20:49:46",
         "weather": {
           "temperature": "10.0°C",
           "qnh": "1009 hPa",
@@ -322,12 +322,17 @@
           }
         },
         "playerList": [
-          "cassaba"
+          "cassaba",
+          "TalhaPV"
         ],
         "playerDetails": [
           {
             "name": "cassaba",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "TalhaPV",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -338,7 +343,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "TalhaPV",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -393,7 +403,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-22 08:34:23 UTC",
+        "lastUpdate": "26-03-22 08:36:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -407,8 +417,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:31:51",
-      "missionDate": "2026-03-22 13:46:51",
+      "missionTime": "5:33:51",
+      "missionDate": "2026-03-22 13:48:51",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1009 hPa",
@@ -487,11 +497,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-22 08:34:24 UTC",
+      "lastUpdate": "26-03-22 08:36:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-22T08:35:20.154Z"
+    "lastUpdated": "2026-03-22T08:37:04.836Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -610,7 +620,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-22T08:35:20.351Z"
+    "lastUpdated": "2026-03-22T08:37:05.021Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2950,11 +2960,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-22T08:35:21.155Z",
+    "lastUpdated": "2026-03-22T08:37:05.734Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-22T08:35:21.717Z",
+    "fetchedAt": "2026-03-22T08:37:06.343Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
