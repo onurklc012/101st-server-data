@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［3／32］",
+        "channelName": "🖥️┃server-caucasus［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 3,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:02:02",
-        "missionDate": "2026-03-23 11:17:02",
+        "missionTime": "3:07:02",
+        "missionDate": "2026-03-23 11:22:02",
         "weather": {
           "temperature": "12.0°C",
           "qnh": "1010 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 0,
             "total": 134
           },
           "red": {
@@ -30,31 +30,10 @@
             "total": 16
           }
         },
-        "playerList": [
-          "101\\-HotelTango",
-          "101\\-Rabik"
-        ],
-        "playerDetails": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "CH-47Fbl1"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "CH-47Fbl1 (crew)"
-          }
-        ],
+        "playerList": [],
+        "playerDetails": [],
         "activePlayers": {
-          "blue": [
-            {
-              "name": "101\\-HotelTango",
-              "unit": "CH-47Fbl1"
-            },
-            {
-              "name": "101\\-Rabik",
-              "unit": "CH-47Fbl1 (crew)"
-            }
-          ],
+          "blue": [],
           "red": [],
           "neutral": []
         },
@@ -111,7 +90,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-23 18:04:24 UTC",
+        "lastUpdate": "26-03-23 18:09:24 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -124,8 +103,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:58:58",
-        "missionDate": "2026-03-23 15:03:58",
+        "missionTime": "3:04:58",
+        "missionDate": "2026-03-23 15:09:58",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1010 hPa",
@@ -216,7 +195,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-23 18:04:22 UTC",
+        "lastUpdate": "26-03-23 18:10:22 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +208,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:55:04",
-        "missionDate": "2026-03-23 09:55:04",
+        "missionTime": "3:00:04",
+        "missionDate": "2026-03-23 10:00:04",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1010 hPa",
@@ -241,7 +220,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 126
           },
           "red": {
@@ -300,7 +279,7 @@
             },
             "Killed Planes": {
               "blue": 1,
-              "red": 2
+              "red": 3
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -321,21 +300,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-23 18:04:24 UTC",
+        "lastUpdate": "26-03-23 18:09:23 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［1／32］",
+        "channelName": "🖥️┃caucasus-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:52:46",
-        "missionDate": "2026-03-23 18:17:46",
+        "missionTime": "2:58:46",
+        "missionDate": "2026-03-23 18:23:46",
         "weather": {
           "temperature": "12.0°C",
           "qnh": "1011 hPa",
@@ -346,7 +325,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 69
           },
           "red": {
@@ -354,12 +333,34 @@
             "total": 2
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-HotelTango",
+          "101\\-Rabik"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "CH-47Fbl1"
+          },
+          {
+            "name": "101\\-Rabik",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-HotelTango",
+              "unit": "CH-47Fbl1"
+            }
+          ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-Rabik",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -414,22 +415,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-23 18:04:23 UTC",
+        "lastUpdate": "26-03-23 18:10:23 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:02:02",
-      "missionDate": "2026-03-23 11:17:02",
+      "missionTime": "3:07:02",
+      "missionDate": "2026-03-23 11:22:02",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1010 hPa",
@@ -440,7 +441,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 0,
           "total": 134
         },
         "red": {
@@ -448,31 +449,10 @@
           "total": 16
         }
       },
-      "playerList": [
-        "101\\-HotelTango",
-        "101\\-Rabik"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-HotelTango",
-          "unit": "CH-47Fbl1"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "CH-47Fbl1 (crew)"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "CH-47Fbl1"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "CH-47Fbl1 (crew)"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -529,11 +509,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-23 18:04:24 UTC",
+      "lastUpdate": "26-03-23 18:09:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-23T18:05:20.670Z"
+    "lastUpdated": "2026-03-23T18:10:23.085Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -607,11 +587,11 @@
         ],
         "stats": {
           "totalCredits": 88789,
-          "totalPlayers": 81,
+          "totalPlayers": 82,
           "activePilots": "5",
           "highestScore": 10167
         },
-        "lastUpdate": "🕒 Son guncelleme: 23.03.2026 21:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 23.03.2026 21:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -652,7 +632,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-23T18:05:20.945Z"
+    "lastUpdated": "2026-03-23T18:10:23.215Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2796,11 +2776,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-23T18:05:21.612Z",
+    "lastUpdated": "2026-03-23T18:10:24.048Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-23T18:05:22.001Z",
+    "fetchedAt": "2026-03-23T18:10:24.484Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
