@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:21:52",
-      "missionDate": "2026-03-23 13:36:52",
+      "missionTime": "5:27:52",
+      "missionDate": "2026-03-23 13:42:52",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1011 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "101 \\- Tepe",
-        "101\\_Tean"
+        "101\\_Tean",
+        "EGE09"
       ],
       "playerDetails": [
         {
@@ -41,6 +42,10 @@
         {
           "name": "101\\_Tean",
           "unit": "Su-25T"
+        },
+        {
+          "name": "EGE09",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -55,7 +60,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "EGE09",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -110,7 +120,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-23 14:24:24 UTC",
+      "lastUpdate": "26-03-23 14:30:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +133,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:19:53",
-      "missionDate": "2026-03-23 17:24:53",
+      "missionTime": "5:24:53",
+      "missionDate": "2026-03-23 17:29:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1014 hPa",
@@ -203,7 +213,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-23 14:25:22 UTC",
+      "lastUpdate": "26-03-23 14:30:22 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -216,8 +226,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:16:03",
-      "missionDate": "2026-03-23 12:16:03",
+      "missionTime": "5:21:03",
+      "missionDate": "2026-03-23 12:21:03",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1014 hPa",
@@ -296,7 +306,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-23 14:25:23 UTC",
+      "lastUpdate": "26-03-23 14:30:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -309,8 +319,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:13:49",
-      "missionDate": "2026-03-23 20:38:49",
+      "missionTime": "5:18:49",
+      "missionDate": "2026-03-23 20:43:49",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -389,22 +399,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-23 14:25:23 UTC",
+      "lastUpdate": "26-03-23 14:30:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "5:21:52",
-    "missionDate": "2026-03-23 13:36:52",
+    "missionTime": "5:27:52",
+    "missionDate": "2026-03-23 13:42:52",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1011 hPa",
@@ -425,7 +435,8 @@
     },
     "playerList": [
       "101 \\- Tepe",
-      "101\\_Tean"
+      "101\\_Tean",
+      "EGE09"
     ],
     "playerDetails": [
       {
@@ -435,6 +446,10 @@
       {
         "name": "101\\_Tean",
         "unit": "Su-25T"
+      },
+      {
+        "name": "EGE09",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -449,7 +464,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "EGE09",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -504,9 +524,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-23 14:24:24 UTC",
+    "lastUpdate": "26-03-23 14:30:24 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-23T14:25:23.172Z"
+  "lastUpdated": "2026-03-23T14:30:32.087Z"
 }
