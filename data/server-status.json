@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:17:50",
-      "missionDate": "2026-03-25 08:32:50",
+      "missionTime": "0:27:50",
+      "missionDate": "2026-03-25 08:42:50",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,16 +30,11 @@
         }
       },
       "playerList": [
-        "101\\-harun",
-        "anatolianeagle"
+        "101\\-harun"
       ],
       "playerDetails": [
         {
           "name": "101\\-harun",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "anatolianeagle",
           "unit": "F-16C_50"
         }
       ],
@@ -47,10 +42,6 @@
         "blue": [
           {
             "name": "101\\-harun",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "anatolianeagle",
             "unit": "F-16C_50"
           }
         ],
@@ -110,21 +101,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-24 21:20:18 UTC",
+      "lastUpdate": "26-03-24 21:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［4／32］",
+      "channelName": "🖥️┃server-syria［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:14:53",
-      "missionDate": "2026-03-25 12:19:53",
+      "missionTime": "0:24:53",
+      "missionDate": "2026-03-25 12:29:53",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -144,42 +135,32 @@
         }
       },
       "playerList": [
-        "101\\-Rabik",
         "CanAda",
         "cagri"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Rabik",
-          "unit": "F-14A-135-GR"
-        },
         {
           "name": "CanAda",
           "unit": "FA-18C_hornet"
         },
         {
           "name": "cagri",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Rabik",
-            "unit": "F-14A-135-GR"
-          },
-          {
             "name": "CanAda",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "cagri",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "cagri",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -234,7 +215,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-24 21:20:17 UTC",
+      "lastUpdate": "26-03-24 21:30:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -247,8 +228,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:10:47",
-      "missionDate": "2026-03-25 07:10:47",
+      "missionTime": "0:20:47",
+      "missionDate": "2026-03-25 07:20:47",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -327,7 +308,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-24 21:20:19 UTC",
+      "lastUpdate": "26-03-24 21:30:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -340,8 +321,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:08:45",
-      "missionDate": "2026-03-25 15:33:45",
+      "missionTime": "0:18:45",
+      "missionDate": "2026-03-25 15:43:45",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -420,22 +401,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-24 21:20:19 UTC",
+      "lastUpdate": "26-03-24 21:30:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:17:50",
-    "missionDate": "2026-03-25 08:32:50",
+    "missionTime": "0:27:50",
+    "missionDate": "2026-03-25 08:42:50",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1010 hPa",
@@ -446,7 +427,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -455,16 +436,11 @@
       }
     },
     "playerList": [
-      "101\\-harun",
-      "anatolianeagle"
+      "101\\-harun"
     ],
     "playerDetails": [
       {
         "name": "101\\-harun",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "anatolianeagle",
         "unit": "F-16C_50"
       }
     ],
@@ -472,10 +448,6 @@
       "blue": [
         {
           "name": "101\\-harun",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "anatolianeagle",
           "unit": "F-16C_50"
         }
       ],
@@ -535,9 +507,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-24 21:20:18 UTC",
+    "lastUpdate": "26-03-24 21:30:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-24T21:20:25.662Z"
+  "lastUpdated": "2026-03-24T21:30:28.479Z"
 }
