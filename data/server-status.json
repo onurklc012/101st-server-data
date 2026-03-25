@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:02:50",
-      "missionDate": "2026-03-26 10:17:50",
+      "missionTime": "2:17:50",
+      "missionDate": "2026-03-26 10:32:50",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,51 +30,23 @@
         }
       },
       "playerList": [
-        "101\\-Rabik",
-        "Buğra",
-        "lbybsr",
         "WAL"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Buğra",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "lbybsr",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "WAL",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Rabik",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "Buğra",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "lbybsr",
+            "name": "WAL",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "WAL",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -107,7 +79,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -129,21 +101,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 23:05:37 UTC",
+      "lastUpdate": "26-03-25 23:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:59:52",
-      "missionDate": "2026-03-26 14:04:52",
+      "missionTime": "2:14:52",
+      "missionDate": "2026-03-26 14:19:52",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -154,7 +126,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 12
         },
         "red": {
@@ -162,22 +134,10 @@
           "total": 9
         }
       },
-      "playerList": [
-        "cagri"
-      ],
-      "playerDetails": [
-        {
-          "name": "cagri",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "cagri",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -234,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 23:05:17 UTC",
+      "lastUpdate": "26-03-25 23:20:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -247,8 +207,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:54:46",
-      "missionDate": "2026-03-26 08:54:46",
+      "missionTime": "2:09:46",
+      "missionDate": "2026-03-26 09:09:46",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -339,7 +299,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 23:05:18 UTC",
+      "lastUpdate": "26-03-25 23:20:18 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -352,8 +312,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:53:41",
-      "missionDate": "2026-03-26 17:18:41",
+      "missionTime": "2:08:41",
+      "missionDate": "2026-03-26 17:33:41",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -432,22 +392,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 23:05:19 UTC",
+      "lastUpdate": "26-03-25 23:20:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "2:02:50",
-    "missionDate": "2026-03-26 10:17:50",
+    "missionTime": "2:17:50",
+    "missionDate": "2026-03-26 10:32:50",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1005 hPa",
@@ -458,7 +418,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -467,51 +427,23 @@
       }
     },
     "playerList": [
-      "101\\-Rabik",
-      "Buğra",
-      "lbybsr",
       "WAL"
     ],
     "playerDetails": [
       {
-        "name": "101\\-Rabik",
-        "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "Buğra",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "lbybsr",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "WAL",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Buğra",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "lbybsr",
+          "name": "WAL",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "WAL",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -544,7 +476,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Downed Helicopters": {
@@ -566,9 +498,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-25 23:05:37 UTC",
+    "lastUpdate": "26-03-25 23:20:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-25T23:05:39.792Z"
+  "lastUpdated": "2026-03-25T23:20:27.675Z"
 }
