@@ -1,14 +1,14 @@
 {
-  "timestamp": 1774470435094,
-  "lastUpdated": "2026-03-25T20:27:15.094Z",
+  "timestamp": 1774470440140,
+  "lastUpdated": "2026-03-25T20:27:20.140Z",
   "servers": {
     "caucasus": {
       "server": "caucasus",
       "serverName": "101 Hunter SQN | Caucasus | Server",
       "theatre": "Caucasus",
       "playerCount": 4,
-      "missionTime": 19496,
-      "timestamp": 1774470434,
+      "missionTime": 19501,
+      "timestamp": 1774470439,
       "units": [
         {
           "name": "WAL",
@@ -17,6 +17,7 @@
           "lon": 39.958069,
           "alt": 32,
           "heading": 206.2,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": true
@@ -24,10 +25,11 @@
         {
           "name": "Aerial-7-1",
           "aircraft": "Su-27",
-          "lat": 44.363763,
-          "lon": 38.708333,
+          "lat": 44.362727,
+          "lon": 38.722523,
           "alt": 3051,
-          "heading": 86.2,
+          "heading": 97.8,
+          "speed": 438.8,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -35,10 +37,11 @@
         {
           "name": "A/A S27-1",
           "aircraft": "Su-27",
-          "lat": 44.36076,
-          "lon": 38.705506,
-          "alt": 3051,
-          "heading": 86.1,
+          "lat": 44.360147,
+          "lon": 38.718784,
+          "alt": 3049,
+          "heading": 97.6,
+          "speed": 409.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -46,10 +49,11 @@
         {
           "name": "A/A S27-2",
           "aircraft": "Su-27",
-          "lat": 44.357032,
-          "lon": 38.694752,
-          "alt": 3041,
-          "heading": 69.4,
+          "lat": 44.357099,
+          "lon": 38.710044,
+          "alt": 3047,
+          "heading": 94.3,
+          "speed": 471.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -57,10 +61,11 @@
         {
           "name": "AIM_120C",
           "aircraft": "AIM_120C",
-          "lat": 44.137082,
-          "lon": 37.220799,
-          "alt": 18032,
-          "heading": 304.5,
+          "lat": 44.167102,
+          "lon": 37.167384,
+          "alt": 17161,
+          "heading": 304.8,
+          "speed": 2059,
           "coalition": "neutral",
           "unitType": "ship",
           "isPlayer": false
@@ -68,10 +73,11 @@
         {
           "name": "A/A S27-3",
           "aircraft": "Su-27",
-          "lat": 44.342395,
-          "lon": 38.682301,
-          "alt": 3035,
-          "heading": 27.2,
+          "lat": 44.350781,
+          "lon": 38.690985,
+          "alt": 3045,
+          "heading": 54.7,
+          "speed": 451.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -79,10 +85,11 @@
         {
           "name": "A/A S27-1-1",
           "aircraft": "Su-27",
-          "lat": 44.337308,
-          "lon": 38.649233,
-          "alt": 3055,
-          "heading": 25.8,
+          "lat": 44.346337,
+          "lon": 38.657118,
+          "alt": 3054,
+          "heading": 37.4,
+          "speed": 455.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -90,10 +97,11 @@
         {
           "name": "A/A S27-1-2",
           "aircraft": "Su-27",
-          "lat": 44.331868,
-          "lon": 38.650524,
-          "alt": 3054,
-          "heading": 25.9,
+          "lat": 44.341325,
+          "lon": 38.657377,
+          "alt": 3053,
+          "heading": 37.5,
+          "speed": 456.9,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -101,10 +109,11 @@
         {
           "name": "A/A S27-1-3",
           "aircraft": "Su-27",
-          "lat": 44.315809,
-          "lon": 38.650277,
-          "alt": 3030,
-          "heading": 0.4,
+          "lat": 44.325827,
+          "lon": 38.651795,
+          "alt": 3059,
+          "heading": 13.7,
+          "speed": 441.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -112,10 +121,11 @@
         {
           "name": "A/A S27-1-4",
           "aircraft": "Su-27",
-          "lat": 44.303668,
-          "lon": 38.654836,
-          "alt": 3047,
-          "heading": 349.6,
+          "lat": 44.311328,
+          "lon": 38.655525,
+          "alt": 3009,
+          "heading": 9,
+          "speed": 342.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -123,10 +133,11 @@
         {
           "name": "A/A S27-2-1",
           "aircraft": "Su-27",
-          "lat": 44.276197,
-          "lon": 38.67634,
+          "lat": 44.283902,
+          "lon": 38.667882,
           "alt": 3048,
-          "heading": 320.8,
+          "heading": 321.1,
+          "speed": 421,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -134,10 +145,11 @@
         {
           "name": "101-Rabik",
           "aircraft": "FA-18C_hornet",
-          "lat": 44.009889,
-          "lon": 37.460984,
-          "alt": 16305,
-          "heading": 303.4,
+          "lat": 44.022726,
+          "lon": 37.438121,
+          "alt": 16302,
+          "heading": 303.5,
+          "speed": 896.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -145,10 +157,11 @@
         {
           "name": "Aerial-9-3",
           "aircraft": "KC135MPRS",
-          "lat": 44.2767,
-          "lon": 36.932337,
+          "lat": 44.285308,
+          "lon": 36.923299,
           "alt": 6706,
           "heading": 318.8,
+          "speed": 462.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -156,10 +169,11 @@
         {
           "name": "Aerial-2-3",
           "aircraft": "IL-78M",
-          "lat": 44.426179,
-          "lon": 37.163601,
+          "lat": 44.434217,
+          "lon": 37.155111,
           "alt": 6706,
           "heading": 318.4,
+          "speed": 432.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -167,10 +181,11 @@
         {
           "name": "A/A S27-2-2",
           "aircraft": "Su-27",
-          "lat": 44.277183,
-          "lon": 38.691489,
+          "lat": 44.284869,
+          "lon": 38.683025,
           "alt": 3048,
-          "heading": 320.8,
+          "heading": 320.9,
+          "speed": 418.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -178,10 +193,11 @@
         {
           "name": "Aerial-5-1",
           "aircraft": "KC-135",
-          "lat": 44.227711,
-          "lon": 37.493005,
+          "lat": 44.219035,
+          "lon": 37.502053,
           "alt": 6706,
           "heading": 141.2,
+          "speed": 465.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -189,10 +205,11 @@
         {
           "name": "Aerial-3-1",
           "aircraft": "KJ-2000",
-          "lat": 42.525358,
-          "lon": 43.923305,
-          "alt": 11178,
-          "heading": 153.8,
+          "lat": 42.518049,
+          "lon": 43.926868,
+          "alt": 11279,
+          "heading": 153.2,
+          "speed": 335.9,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -200,10 +217,11 @@
         {
           "name": "Aerial-1-1",
           "aircraft": "E-3A",
-          "lat": 42.289742,
-          "lon": 43.671054,
+          "lat": 42.29177,
+          "lon": 43.657664,
           "alt": 10668,
-          "heading": 266.2,
+          "heading": 273.6,
+          "speed": 436.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -211,10 +229,11 @@
         {
           "name": "A/A S27-2-3",
           "aircraft": "Su-27",
-          "lat": 44.278172,
-          "lon": 38.706634,
-          "alt": 3048,
-          "heading": 320.8,
+          "lat": 44.285813,
+          "lon": 38.698194,
+          "alt": 3047,
+          "heading": 320.9,
+          "speed": 408.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -222,10 +241,11 @@
         {
           "name": "A/A S27-2-4",
           "aircraft": "Su-27",
-          "lat": 44.279158,
-          "lon": 38.721763,
-          "alt": 3049,
+          "lat": 44.286834,
+          "lon": 38.713345,
+          "alt": 3048,
           "heading": 320.8,
+          "speed": 412.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -233,10 +253,11 @@
         {
           "name": "Aerial-7-2",
           "aircraft": "E-3A",
-          "lat": 43.625838,
-          "lon": 41.886428,
-          "alt": 11404,
-          "heading": 290.8,
+          "lat": 43.630854,
+          "lon": 41.876655,
+          "alt": 11429,
+          "heading": 299.8,
+          "speed": 373.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -244,10 +265,11 @@
         {
           "name": "Aerial-8-1",
           "aircraft": "KJ-2000",
-          "lat": 43.728052,
-          "lon": 42.156351,
-          "alt": 11470,
-          "heading": 218.4,
+          "lat": 43.723263,
+          "lon": 42.146966,
+          "alt": 11503,
+          "heading": 228.2,
+          "speed": 359.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -255,10 +277,11 @@
         {
           "name": "A/A S27-3-1",
           "aircraft": "F-16C_50",
-          "lat": 42.43972,
-          "lon": 39.789076,
+          "lat": 42.432309,
+          "lon": 39.796966,
           "alt": 3045,
-          "heading": 134.5,
+          "heading": 134.2,
+          "speed": 401.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -266,10 +289,11 @@
         {
           "name": "A/A S27-3-2",
           "aircraft": "F-16C_50",
-          "lat": 42.437743,
-          "lon": 39.774465,
-          "alt": 3047,
-          "heading": 135.4,
+          "lat": 42.430313,
+          "lon": 39.782331,
+          "alt": 3045,
+          "heading": 134.3,
+          "speed": 403.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -277,10 +301,11 @@
         {
           "name": "A/A S27-3-3",
           "aircraft": "F-16C_50",
-          "lat": 42.435861,
-          "lon": 39.759742,
-          "alt": 3044,
-          "heading": 135.1,
+          "lat": 42.428556,
+          "lon": 39.767415,
+          "alt": 3045,
+          "heading": 135,
+          "speed": 409,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -288,10 +313,11 @@
         {
           "name": "A/A S27-3-4",
           "aircraft": "F-16C_50",
-          "lat": 42.440482,
-          "lon": 39.74929,
-          "alt": 3038,
-          "heading": 168.4,
+          "lat": 42.431436,
+          "lon": 39.752074,
+          "alt": 3043,
+          "heading": 148.9,
+          "speed": 397.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -299,10 +325,11 @@
         {
           "name": "Rotary-1-1",
           "aircraft": "Ka-50_3",
-          "lat": 43.399582,
-          "lon": 40.048348,
+          "lat": 43.39925,
+          "lon": 40.048818,
           "alt": 121,
-          "heading": 141.4,
+          "heading": 142.1,
+          "speed": 20.4,
           "coalition": "neutral",
           "unitType": "helicopter",
           "isPlayer": false
@@ -310,10 +337,11 @@
         {
           "name": "Rotary-1-2",
           "aircraft": "Ka-50_3",
-          "lat": 43.400199,
-          "lon": 40.048438,
+          "lat": 43.399827,
+          "lon": 40.048885,
           "alt": 124,
-          "heading": 141.4,
+          "heading": 142,
+          "speed": 21.4,
           "coalition": "neutral",
           "unitType": "helicopter",
           "isPlayer": false
@@ -325,6 +353,7 @@
           "lon": 39.93544,
           "alt": 32,
           "heading": 333.1,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -336,6 +365,7 @@
           "lon": 39.93476,
           "alt": 32,
           "heading": 333,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -347,6 +377,7 @@
           "lon": 39.956512,
           "alt": 32,
           "heading": 206.2,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -354,10 +385,11 @@
         {
           "name": "AIM_120C",
           "aircraft": "AIM_120C",
-          "lat": 44.173759,
-          "lon": 37.135967,
-          "alt": 14793,
-          "heading": 305.2,
+          "lat": 44.199851,
+          "lon": 37.090775,
+          "alt": 13743,
+          "heading": 305.6,
+          "speed": 1747.4,
           "coalition": "neutral",
           "unitType": "ship",
           "isPlayer": false
@@ -371,16 +403,17 @@
       "serverName": "101 Hunter SQN | Syria | Server",
       "theatre": "Syria",
       "playerCount": 0,
-      "missionTime": 19311,
-      "timestamp": 1774470434,
+      "missionTime": 19316,
+      "timestamp": 1774470439,
       "units": [
         {
           "name": "Aerial-6-1",
           "aircraft": "E-3A",
-          "lat": 32.613146,
-          "lon": 37.814487,
-          "alt": 10689,
-          "heading": 271.5,
+          "lat": 32.613138,
+          "lon": 37.803409,
+          "alt": 10685,
+          "heading": 271,
+          "speed": 399.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -388,10 +421,11 @@
         {
           "name": "Aerial-10-1",
           "aircraft": "F-15C",
-          "lat": 36.338136,
-          "lon": 36.073474,
+          "lat": 36.338135,
+          "lon": 36.060789,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 437.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -400,9 +434,10 @@
           "name": "Aerial-10-2",
           "aircraft": "F-15C",
           "lat": 36.347698,
-          "lon": 36.080158,
-          "alt": 4572,
+          "lon": 36.067473,
+          "alt": 4571,
           "heading": 271.2,
+          "speed": 437.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -410,10 +445,11 @@
         {
           "name": "Aerial-10-3",
           "aircraft": "F-15C",
-          "lat": 36.3573,
-          "lon": 36.092212,
+          "lat": 36.357292,
+          "lon": 36.078321,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 475,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -421,10 +457,11 @@
         {
           "name": "Aerial-10-4",
           "aircraft": "F-15C",
-          "lat": 36.366782,
-          "lon": 36.121543,
-          "alt": 4572,
-          "heading": 271.6,
+          "lat": 36.366843,
+          "lon": 36.105217,
+          "alt": 4571,
+          "heading": 271.5,
+          "speed": 568.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -432,10 +469,11 @@
         {
           "name": "A-A ZONE-1-1",
           "aircraft": "F-15C",
-          "lat": 36.319546,
-          "lon": 36.066362,
+          "lat": 36.319544,
+          "lon": 36.05368,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 437.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -443,10 +481,11 @@
         {
           "name": "A-A ZONE-1-2",
           "aircraft": "F-15C",
-          "lat": 36.329108,
-          "lon": 36.073044,
+          "lat": 36.329107,
+          "lon": 36.060358,
           "alt": 4573,
           "heading": 271.2,
+          "speed": 437.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -454,10 +493,11 @@
         {
           "name": "A-A ZONE-1-3",
           "aircraft": "F-15C",
-          "lat": 36.338705,
-          "lon": 36.08435,
+          "lat": 36.338695,
+          "lon": 36.070314,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 483.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -465,10 +505,11 @@
         {
           "name": "A-A ZONE-1-4",
           "aircraft": "F-15C",
-          "lat": 36.348313,
-          "lon": 36.10049,
-          "alt": 4570,
-          "heading": 271.3,
+          "lat": 36.3483,
+          "lon": 36.085308,
+          "alt": 4571,
+          "heading": 271.2,
+          "speed": 523.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -476,10 +517,11 @@
         {
           "name": "A-A ZONE-2-1",
           "aircraft": "F-15C",
-          "lat": 36.302455,
-          "lon": 36.102474,
+          "lat": 36.302457,
+          "lon": 36.089795,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 437.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -487,10 +529,11 @@
         {
           "name": "A-A ZONE-2-2",
           "aircraft": "F-15C",
-          "lat": 36.312015,
-          "lon": 36.109146,
-          "alt": 4573,
+          "lat": 36.312018,
+          "lon": 36.096474,
+          "alt": 4570,
           "heading": 271.2,
+          "speed": 436.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -498,10 +541,11 @@
         {
           "name": "A-A ZONE-2-3",
           "aircraft": "F-15C",
-          "lat": 36.321623,
-          "lon": 36.123728,
+          "lat": 36.321625,
+          "lon": 36.109922,
           "alt": 4572,
           "heading": 271.2,
+          "speed": 476.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -509,10 +553,11 @@
         {
           "name": "A-A ZONE-2-4",
           "aircraft": "F-15C",
-          "lat": 36.330764,
-          "lon": 36.157022,
+          "lat": 36.330922,
+          "lon": 36.141778,
           "alt": 4571,
-          "heading": 272.1,
+          "heading": 271.9,
+          "speed": 533.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -520,10 +565,11 @@
         {
           "name": "A-A ZONE-3-2",
           "aircraft": "F-15C",
-          "lat": 36.287992,
-          "lon": 36.072731,
+          "lat": 36.287982,
+          "lon": 36.060055,
           "alt": 4572,
           "heading": 271.1,
+          "speed": 437.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -531,10 +577,11 @@
         {
           "name": "A-A ZONE-3-3",
           "aircraft": "F-15C",
-          "lat": 36.297548,
-          "lon": 36.079365,
-          "alt": 4572,
+          "lat": 36.297538,
+          "lon": 36.066634,
+          "alt": 4573,
           "heading": 271.1,
+          "speed": 438.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -542,10 +589,11 @@
         {
           "name": "A-A ZONE-4-1",
           "aircraft": "F-15C",
-          "lat": 36.298028,
-          "lon": 36.370762,
+          "lat": 36.291594,
+          "lon": 36.360891,
           "alt": 4572,
           "heading": 233.2,
+          "speed": 438.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -553,10 +601,11 @@
         {
           "name": "A-A ZONE-4-3",
           "aircraft": "F-15C",
-          "lat": 36.314934,
-          "lon": 36.378698,
-          "alt": 4572,
-          "heading": 233.9,
+          "lat": 36.307905,
+          "lon": 36.367662,
+          "alt": 4570,
+          "heading": 233.6,
+          "speed": 481.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -564,10 +613,11 @@
         {
           "name": "A-A ZONE-4-4",
           "aircraft": "F-15C",
-          "lat": 36.342872,
-          "lon": 36.400361,
-          "alt": 4570,
-          "heading": 245.2,
+          "lat": 36.336727,
+          "lon": 36.385968,
+          "alt": 4571,
+          "heading": 242.6,
+          "speed": 567.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -575,10 +625,11 @@
         {
           "name": "Aerial-30-1",
           "aircraft": "KJ-2000",
-          "lat": 33.401911,
-          "lon": 33.754137,
-          "alt": 12191,
-          "heading": 232.8,
+          "lat": 33.395953,
+          "lon": 33.746731,
+          "alt": 12192,
+          "heading": 232,
+          "speed": 369.8,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -586,10 +637,11 @@
         {
           "name": "Aerial-31-1",
           "aircraft": "E-3A",
-          "lat": 33.105491,
-          "lon": 33.600562,
+          "lat": 33.099875,
+          "lon": 33.594846,
           "alt": 12000,
           "heading": 227.6,
+          "speed": 316.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -597,10 +649,11 @@
         {
           "name": "A-A ZONE-5-1",
           "aircraft": "F-16C_50",
-          "lat": 34.891653,
-          "lon": 32.923486,
+          "lat": 34.891225,
+          "lon": 32.935928,
           "alt": 4576,
-          "heading": 96.5,
+          "heading": 96.6,
+          "speed": 437.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -608,10 +661,11 @@
         {
           "name": "A-A ZONE-5-2",
           "aircraft": "F-16C_50",
-          "lat": 34.88249,
-          "lon": 32.916254,
+          "lat": 34.882068,
+          "lon": 32.928674,
           "alt": 4575,
-          "heading": 96.5,
+          "heading": 96.6,
+          "speed": 436.9,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -619,10 +673,11 @@
         {
           "name": "A-A ZONE-5-3",
           "aircraft": "F-16C_50",
-          "lat": 34.873326,
-          "lon": 32.909038,
-          "alt": 4576,
-          "heading": 96.5,
+          "lat": 34.872911,
+          "lon": 32.921436,
+          "alt": 4575,
+          "heading": 96.6,
+          "speed": 436.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -630,10 +685,11 @@
         {
           "name": "A-A ZONE-5-4",
           "aircraft": "F-16C_50",
-          "lat": 34.864172,
-          "lon": 32.901814,
-          "alt": 4577,
-          "heading": 96.5,
+          "lat": 34.863764,
+          "lon": 32.914203,
+          "alt": 4575,
+          "heading": 96.6,
+          "speed": 435.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -641,10 +697,11 @@
         {
           "name": "Aerial-1-3",
           "aircraft": "KC-135",
-          "lat": 37.236067,
-          "lon": 35.715758,
+          "lat": 37.231721,
+          "lon": 35.705216,
           "alt": 7620,
           "heading": 246.9,
+          "speed": 404.8,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -652,10 +709,11 @@
         {
           "name": "Aerial-2-2",
           "aircraft": "KC135MPRS",
-          "lat": 37.268859,
-          "lon": 36.04654,
+          "lat": 37.264487,
+          "lon": 36.036036,
           "alt": 7620,
           "heading": 246.5,
+          "speed": 404,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -663,10 +721,11 @@
         {
           "name": "Aerial-3-1",
           "aircraft": "KJ-2000",
-          "lat": 34.836121,
-          "lon": 37.471655,
-          "alt": 10680,
-          "heading": 143.9,
+          "lat": 34.827194,
+          "lon": 37.479079,
+          "alt": 10678,
+          "heading": 154.7,
+          "speed": 462,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -674,10 +733,11 @@
         {
           "name": "Aerial-4-1",
           "aircraft": "E-3A",
-          "lat": 34.881095,
-          "lon": 37.759302,
-          "alt": 10692,
-          "heading": 99.2,
+          "lat": 34.87888,
+          "lon": 37.772032,
+          "alt": 10689,
+          "heading": 106.7,
+          "speed": 457.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -685,10 +745,11 @@
         {
           "name": "Aerial-27-1",
           "aircraft": "B-52H",
-          "lat": 36.867801,
-          "lon": 35.7659,
-          "alt": 3278,
+          "lat": 36.873896,
+          "lon": 35.772359,
+          "alt": 3355,
           "heading": 42.1,
+          "speed": 342.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -696,10 +757,11 @@
         {
           "name": "Aerial-27-2",
           "aircraft": "B-52H",
-          "lat": 36.84751,
-          "lon": 35.744568,
-          "alt": 3259,
+          "lat": 36.853633,
+          "lon": 35.751053,
+          "alt": 3333,
           "heading": 42.1,
+          "speed": 342.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -707,10 +769,11 @@
         {
           "name": "Aerial-27-3",
           "aircraft": "B-52H",
-          "lat": 36.825937,
-          "lon": 35.721901,
-          "alt": 3220,
+          "lat": 36.832072,
+          "lon": 35.728397,
+          "alt": 3298,
           "heading": 42.2,
+          "speed": 344.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -718,10 +781,11 @@
         {
           "name": "Aerial-28-1",
           "aircraft": "E-3A",
-          "lat": 36.250183,
-          "lon": 34.96448,
-          "alt": 11703,
+          "lat": 36.249511,
+          "lon": 34.95563,
+          "alt": 11715,
           "heading": 268,
+          "speed": 307,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -729,10 +793,11 @@
         {
           "name": "Aerial-29-1",
           "aircraft": "KJ-2000",
-          "lat": 36.307291,
-          "lon": 35.094301,
-          "alt": 11843,
-          "heading": 84.1,
+          "lat": 36.308043,
+          "lon": 35.107426,
+          "alt": 11698,
+          "heading": 91.2,
+          "speed": 454.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -740,10 +805,11 @@
         {
           "name": "Aerial-5-1",
           "aircraft": "KJ-2000",
-          "lat": 32.668491,
-          "lon": 37.328064,
+          "lat": 32.678324,
+          "lon": 37.332569,
           "alt": 10672,
-          "heading": 19.1,
+          "heading": 17.6,
+          "speed": 451.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -757,16 +823,17 @@
       "serverName": "101 Hunter SQN | Syria EDC",
       "theatre": "Syria",
       "playerCount": 2,
-      "missionTime": 19064,
-      "timestamp": 1774470434,
+      "missionTime": 19069,
+      "timestamp": 1774470439,
       "units": [
         {
           "name": "Shayrat-attack-Hama-Sead-01",
           "aircraft": "Su-24M",
-          "lat": 34.495584,
-          "lon": 36.907718,
+          "lat": 34.495805,
+          "lon": 36.907348,
           "alt": 806,
           "heading": 307.1,
+          "speed": 16.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -774,10 +841,11 @@
         {
           "name": "Shayrat-patrol-Palmyra-Cap-01",
           "aircraft": "MiG-21Bis",
-          "lat": 34.483755,
-          "lon": 38.378877,
+          "lat": 34.493251,
+          "lon": 38.387011,
           "alt": 7315,
-          "heading": 36.2,
+          "heading": 29.1,
+          "speed": 498.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -785,10 +853,11 @@
         {
           "name": "Shayrat-patrol-Palmyra-Cap-02",
           "aircraft": "MiG-21Bis",
-          "lat": 34.479692,
-          "lon": 38.378585,
-          "alt": 7308,
-          "heading": 64.2,
+          "lat": 34.485484,
+          "lon": 38.390978,
+          "alt": 7303,
+          "heading": 47.8,
+          "speed": 500.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -796,10 +865,11 @@
         {
           "name": "evt-bomber-02",
           "aircraft": "Tu-22M3",
-          "lat": 36.304191,
-          "lon": 38.60114,
-          "alt": 6912,
-          "heading": 80.5,
+          "lat": 36.306248,
+          "lon": 38.615388,
+          "alt": 6913,
+          "heading": 77.7,
+          "speed": 500.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -807,10 +877,11 @@
         {
           "name": "evt-bomber-01",
           "aircraft": "Tu-22M3",
-          "lat": 36.312641,
-          "lon": 38.646475,
+          "lat": 36.316036,
+          "lon": 38.65981,
           "alt": 6927,
-          "heading": 71.7,
+          "heading": 70.7,
+          "speed": 484.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -818,10 +889,11 @@
         {
           "name": "AWACS_RED-1",
           "aircraft": "A-50",
-          "lat": 31.98381,
-          "lon": 34.830764,
+          "lat": 31.989388,
+          "lon": 34.842064,
           "alt": 9144,
           "heading": 59.9,
+          "speed": 476.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -829,10 +901,11 @@
         {
           "name": "AWACS_BLUE-1",
           "aircraft": "E-3A",
-          "lat": 35.579842,
-          "lon": 36.815387,
-          "alt": 9143,
+          "lat": 35.589008,
+          "lon": 36.80873,
+          "alt": 9144,
           "heading": 327.8,
+          "speed": 457.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -840,10 +913,11 @@
         {
           "name": "Tabqa-attack-Millbase-Cas-02",
           "aircraft": "F-4E-45MC",
-          "lat": 35.755143,
-          "lon": 38.556209,
+          "lat": 35.755297,
+          "lon": 38.555922,
           "alt": 337,
-          "heading": 276.6,
+          "heading": 313,
+          "speed": 16.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -851,10 +925,11 @@
         {
           "name": "Tabqa-attack-Millbase-Cas-01",
           "aircraft": "F-4E-45MC",
-          "lat": 35.756604,
-          "lon": 38.583762,
+          "lat": 35.756854,
+          "lon": 38.58411,
           "alt": 337,
-          "heading": 48.6,
+          "heading": 49,
+          "speed": 16.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -862,10 +937,11 @@
         {
           "name": "AWACS_BLUE_SECONDARY",
           "aircraft": "E-3A",
-          "lat": 35.982153,
-          "lon": 38.881668,
-          "alt": 9144,
-          "heading": 8.4,
+          "lat": 35.993038,
+          "lon": 38.883862,
+          "alt": 9143,
+          "heading": 4,
+          "speed": 473.3,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -877,6 +953,7 @@
           "lon": 38.331454,
           "alt": 388,
           "heading": 354.6,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -884,10 +961,11 @@
         {
           "name": "Palmyra-patrol-Palmyra-Cap-01",
           "aircraft": "MiG-25PD",
-          "lat": 34.558239,
-          "lon": 38.313243,
+          "lat": 34.558277,
+          "lon": 38.313697,
           "alt": 398,
           "heading": 84.6,
+          "speed": 16.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -895,10 +973,11 @@
         {
           "name": "DYNH-Palmyra-Hama-cap_attack-032-01",
           "aircraft": "Su-27",
-          "lat": 34.667429,
-          "lon": 38.105743,
-          "alt": 2798,
+          "lat": 34.673245,
+          "lon": 38.096208,
+          "alt": 3049,
           "heading": 305.8,
+          "speed": 420.8,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -906,10 +985,11 @@
         {
           "name": "DYNH-Palmyra-Hama-cap_attack-032-02",
           "aircraft": "Su-27",
-          "lat": 34.671272,
-          "lon": 38.119113,
-          "alt": 2758,
-          "heading": 305.8,
+          "lat": 34.676866,
+          "lon": 38.109959,
+          "alt": 3023,
+          "heading": 305.7,
+          "speed": 404.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -917,10 +997,11 @@
         {
           "name": "EscortBomber-01",
           "aircraft": "MiG-29S",
-          "lat": 36.312999,
-          "lon": 38.646178,
-          "alt": 8927,
-          "heading": 71.7,
+          "lat": 36.316395,
+          "lon": 38.659491,
+          "alt": 8926,
+          "heading": 70.7,
+          "speed": 483.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -928,10 +1009,11 @@
         {
           "name": "EscortBomber-02",
           "aircraft": "MiG-29S",
-          "lat": 36.320536,
-          "lon": 38.636717,
-          "alt": 8916,
-          "heading": 72.3,
+          "lat": 36.323739,
+          "lon": 38.649736,
+          "alt": 8921,
+          "heading": 71.2,
+          "speed": 471.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -939,10 +1021,11 @@
         {
           "name": "101ArmOn1453",
           "aircraft": "F-16C_50",
-          "lat": 35.722199,
-          "lon": 37.263265,
-          "alt": 597,
-          "heading": 274.2,
+          "lat": 35.722941,
+          "lon": 37.254294,
+          "alt": 589,
+          "heading": 276.2,
+          "speed": 313,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": true
@@ -950,10 +1033,11 @@
         {
           "name": "101-Tunay [5555]",
           "aircraft": "F-16C_50",
-          "lat": 35.755508,
-          "lon": 38.550707,
+          "lat": 35.755602,
+          "lon": 38.550372,
           "alt": 337,
-          "heading": 273.6,
+          "heading": 315.4,
+          "speed": 10.9,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -967,16 +1051,17 @@
       "serverName": "101 Hunter SQN | Caucasus EDC",
       "theatre": "Caucasus",
       "playerCount": 0,
-      "missionTime": 18946,
-      "timestamp": 1774470435,
+      "missionTime": 18951,
+      "timestamp": 1774470440,
       "units": [
         {
           "name": "evt-attack-01",
           "aircraft": "Su-34",
-          "lat": 43.155766,
-          "lon": 36.851247,
+          "lat": 43.154201,
+          "lon": 36.866317,
           "alt": 6096,
           "heading": 98.6,
+          "speed": 478.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -984,10 +1069,11 @@
         {
           "name": "evt-attack-02",
           "aircraft": "Su-34",
-          "lat": 43.155286,
-          "lon": 36.85111,
-          "alt": 6096,
+          "lat": 43.153722,
+          "lon": 36.866179,
+          "alt": 6095,
           "heading": 98.6,
+          "speed": 478.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -995,10 +1081,11 @@
         {
           "name": "evt-attack-03",
           "aircraft": "Su-34",
-          "lat": 43.154806,
-          "lon": 36.850978,
-          "alt": 6096,
+          "lat": 43.153241,
+          "lon": 36.866047,
+          "alt": 6095,
           "heading": 98.6,
+          "speed": 478.5,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1006,10 +1093,11 @@
         {
           "name": "Kutaisi-patrol-Kobuleti-Cap-01",
           "aircraft": "FA-18C_hornet",
-          "lat": 42.172694,
-          "lon": 42.411361,
-          "alt": 993,
-          "heading": 262.1,
+          "lat": 42.172475,
+          "lon": 42.39707,
+          "alt": 1207,
+          "heading": 261.9,
+          "speed": 462.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1017,10 +1105,11 @@
         {
           "name": "EscortBomber-01",
           "aircraft": "MiG-29S",
-          "lat": 43.818768,
-          "lon": 42.904234,
-          "alt": 9619,
+          "lat": 43.809117,
+          "lon": 42.901744,
+          "alt": 9620,
           "heading": 181.8,
+          "speed": 424,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1028,10 +1117,11 @@
         {
           "name": "EscortBomber-02",
           "aircraft": "MiG-29S",
-          "lat": 43.82268,
-          "lon": 42.918216,
+          "lat": 43.813051,
+          "lon": 42.915727,
           "alt": 9619,
           "heading": 181.8,
+          "speed": 422.7,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1039,10 +1129,11 @@
         {
           "name": "Kutaisi-patrol-Kobuleti-Cap-02",
           "aircraft": "FA-18C_hornet",
-          "lat": 42.177341,
-          "lon": 42.478654,
-          "alt": 86,
-          "heading": 254.7,
+          "lat": 42.176453,
+          "lon": 42.471153,
+          "alt": 154,
+          "heading": 254.5,
+          "speed": 259,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1050,10 +1141,11 @@
         {
           "name": "evt-bomb-02",
           "aircraft": "H-6J",
-          "lat": 43.844429,
-          "lon": 42.910287,
-          "alt": 7599,
+          "lat": 43.834773,
+          "lon": 42.907793,
+          "alt": 7622,
           "heading": 181.8,
+          "speed": 417.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1061,10 +1153,11 @@
         {
           "name": "evt-bomb-01",
           "aircraft": "H-6J",
-          "lat": 43.818533,
-          "lon": 42.904809,
+          "lat": 43.808885,
+          "lon": 42.902319,
           "alt": 7620,
           "heading": 181.8,
+          "speed": 423.1,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1072,10 +1165,11 @@
         {
           "name": "AWACS_RED",
           "aircraft": "A-50",
-          "lat": 43.604975,
-          "lon": 45.007551,
+          "lat": 43.603494,
+          "lon": 45.02129,
           "alt": 9144,
           "heading": 94.3,
+          "speed": 433.6,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1087,6 +1181,7 @@
           "lon": 41.120371,
           "alt": 15,
           "heading": 179,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "helicopter",
           "isPlayer": false
@@ -1094,10 +1189,11 @@
         {
           "name": "AWACS_BLUE",
           "aircraft": "E-3A",
-          "lat": 41.766913,
-          "lon": 40.772791,
+          "lat": 41.769195,
+          "lon": 40.787184,
           "alt": 9144,
-          "heading": 77.1,
+          "heading": 77.2,
+          "speed": 473.2,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
@@ -1109,6 +1205,7 @@
           "lon": 41.750404,
           "alt": 73,
           "heading": 0,
+          "speed": 0,
           "coalition": "neutral",
           "unitType": "helicopter",
           "isPlayer": false
@@ -1116,10 +1213,11 @@
         {
           "name": "Kutaisi-attack-Sukhumi-02",
           "aircraft": "F-15C",
-          "lat": 42.188862,
-          "lon": 42.570873,
-          "alt": 385,
+          "lat": 42.188318,
+          "lon": 42.566474,
+          "alt": 365,
           "heading": 254.5,
+          "speed": 142.4,
           "coalition": "neutral",
           "unitType": "aircraft",
           "isPlayer": false
