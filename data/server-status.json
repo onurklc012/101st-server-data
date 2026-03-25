@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:37:53",
-      "missionDate": "2026-03-25 12:52:53",
+      "missionTime": "4:42:53",
+      "missionDate": "2026-03-25 12:57:53",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -31,7 +31,10 @@
       },
       "playerList": [
         "101\\-Florex",
-        "101\\-Yidobaba\\[0098\\]"
+        "101\\-Rabik",
+        "101\\-Yidobaba\\[0098\\]",
+        "ZVEZDA",
+        "WAL"
       ],
       "playerDetails": [
         {
@@ -39,8 +42,20 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "101\\-Rabik",
+          "unit": "FA-18C_hornet"
+        },
+        {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "ZVEZDA",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "WAL",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -50,12 +65,25 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "101\\-Rabik",
+            "unit": "FA-18C_hornet"
+          },
+          {
             "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-30SM"
+          },
+          {
+            "name": "ZVEZDA",
             "unit": "Su-30SM"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "WAL",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -110,7 +138,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 19:40:18 UTC",
+      "lastUpdate": "26-03-25 19:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +151,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:34:49",
-      "missionDate": "2026-03-25 16:39:49",
+      "missionTime": "4:39:49",
+      "missionDate": "2026-03-25 16:44:49",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "997 hPa",
@@ -203,7 +231,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 19:40:17 UTC",
+      "lastUpdate": "26-03-25 19:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -216,8 +244,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:30:42",
-      "missionDate": "2026-03-25 11:30:42",
+      "missionTime": "4:35:42",
+      "missionDate": "2026-03-25 11:35:42",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "997 hPa",
@@ -308,7 +336,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 19:40:19 UTC",
+      "lastUpdate": "26-03-25 19:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -321,8 +349,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:28:43",
-      "missionDate": "2026-03-25 19:53:43",
+      "missionTime": "4:33:43",
+      "missionDate": "2026-03-25 19:58:43",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1003 hPa",
@@ -401,22 +429,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 19:40:21 UTC",
+      "lastUpdate": "26-03-25 19:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "4:37:53",
-    "missionDate": "2026-03-25 12:52:53",
+    "missionTime": "4:42:53",
+    "missionDate": "2026-03-25 12:57:53",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1003 hPa",
@@ -427,7 +455,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -437,7 +465,10 @@
     },
     "playerList": [
       "101\\-Florex",
-      "101\\-Yidobaba\\[0098\\]"
+      "101\\-Rabik",
+      "101\\-Yidobaba\\[0098\\]",
+      "ZVEZDA",
+      "WAL"
     ],
     "playerDetails": [
       {
@@ -445,8 +476,20 @@
         "unit": "FA-18C_hornet"
       },
       {
+        "name": "101\\-Rabik",
+        "unit": "FA-18C_hornet"
+      },
+      {
         "name": "101\\-Yidobaba\\[0098\\]",
         "unit": "Su-30SM"
+      },
+      {
+        "name": "ZVEZDA",
+        "unit": "Su-30SM"
+      },
+      {
+        "name": "WAL",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -456,12 +499,25 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "101\\-Rabik",
+          "unit": "FA-18C_hornet"
+        },
+        {
           "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-30SM"
+        },
+        {
+          "name": "ZVEZDA",
           "unit": "Su-30SM"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "WAL",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -516,9 +572,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-25 19:40:18 UTC",
+    "lastUpdate": "26-03-25 19:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-25T19:40:31.529Z"
+  "lastUpdated": "2026-03-25T19:45:26.151Z"
 }
