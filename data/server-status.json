@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:12:53",
-      "missionDate": "2026-03-25 08:27:53",
+      "missionTime": "0:17:53",
+      "missionDate": "2026-03-25 08:32:53",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -35,18 +35,18 @@
       "playerDetails": [
         {
           "name": "Phantom",
-          "unit": "_ _"
+          "unit": "F-5E-3_FC"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "Phantom",
-            "unit": "_ _"
+            "unit": "F-5E-3_FC"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 15:15:18 UTC",
+      "lastUpdate": "26-03-25 15:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:09:49",
-      "missionDate": "2026-03-25 12:14:49",
+      "missionTime": "0:14:49",
+      "missionDate": "2026-03-25 12:19:49",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "997 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 15:15:17 UTC",
+      "lastUpdate": "26-03-25 15:20:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:05:42",
-      "missionDate": "2026-03-25 07:05:42",
+      "missionTime": "0:10:42",
+      "missionDate": "2026-03-25 07:10:42",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "997 hPa",
@@ -287,7 +287,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 15:15:19 UTC",
+      "lastUpdate": "26-03-25 15:20:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -300,8 +300,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:03:43",
-      "missionDate": "2026-03-25 15:28:43",
+      "missionTime": "0:08:43",
+      "missionDate": "2026-03-25 15:33:43",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1003 hPa",
@@ -380,22 +380,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 15:15:19 UTC",
+      "lastUpdate": "26-03-25 15:20:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:12:53",
-    "missionDate": "2026-03-25 08:27:53",
+    "missionTime": "0:17:53",
+    "missionDate": "2026-03-25 08:32:53",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1003 hPa",
@@ -406,7 +406,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -420,18 +420,18 @@
     "playerDetails": [
       {
         "name": "Phantom",
-        "unit": "_ _"
+        "unit": "F-5E-3_FC"
       }
     ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
-      "neutral": [
+      "blue": [
         {
           "name": "Phantom",
-          "unit": "_ _"
+          "unit": "F-5E-3_FC"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -486,9 +486,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-25 15:15:18 UTC",
+    "lastUpdate": "26-03-25 15:20:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-25T15:15:29.659Z"
+  "lastUpdated": "2026-03-25T15:20:29.191Z"
 }
