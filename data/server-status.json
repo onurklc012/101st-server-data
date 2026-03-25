@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:49:50",
-      "missionDate": "2026-03-26 09:04:50",
+      "missionTime": "0:52:50",
+      "missionDate": "2026-03-26 09:07:50",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -31,7 +31,9 @@
       },
       "playerList": [
         "101\\-Brakelesss",
-        "101\\-Maskot\\(0019\\)"
+        "101\\-Maskot\\(0019\\)",
+        "Buğra",
+        "lbybsr"
       ],
       "playerDetails": [
         {
@@ -41,6 +43,14 @@
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Buğra",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "lbybsr",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -52,10 +62,19 @@
           {
             "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Buğra",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "lbybsr",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -110,21 +129,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 21:52:19 UTC",
+      "lastUpdate": "26-03-25 21:55:23 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［3／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:46:52",
-      "missionDate": "2026-03-26 12:51:52",
+      "missionTime": "0:49:52",
+      "missionDate": "2026-03-26 12:54:52",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -215,21 +234,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 21:52:17 UTC",
+      "lastUpdate": "26-03-25 21:55:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:41:46",
-      "missionDate": "2026-03-26 07:41:46",
+      "missionTime": "0:44:46",
+      "missionDate": "2026-03-26 07:44:46",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -320,7 +339,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 21:52:19 UTC",
+      "lastUpdate": "26-03-25 21:55:23 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -333,8 +352,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:40:41",
-      "missionDate": "2026-03-26 16:05:41",
+      "missionTime": "0:43:41",
+      "missionDate": "2026-03-26 16:08:41",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -425,22 +444,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-25 21:52:20 UTC",
+      "lastUpdate": "26-03-25 21:55:24 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "0:49:50",
-    "missionDate": "2026-03-26 09:04:50",
+    "missionTime": "0:52:50",
+    "missionDate": "2026-03-26 09:07:50",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1005 hPa",
@@ -451,7 +470,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -461,7 +480,9 @@
     },
     "playerList": [
       "101\\-Brakelesss",
-      "101\\-Maskot\\(0019\\)"
+      "101\\-Maskot\\(0019\\)",
+      "Buğra",
+      "lbybsr"
     ],
     "playerDetails": [
       {
@@ -471,6 +492,14 @@
       {
         "name": "101\\-Maskot\\(0019\\)",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "Buğra",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "lbybsr",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -482,10 +511,19 @@
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Buğra",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "lbybsr",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -540,9 +578,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-25 21:52:19 UTC",
+    "lastUpdate": "26-03-25 21:55:23 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-25T21:52:50.798Z"
+  "lastUpdated": "2026-03-25T21:55:25.047Z"
 }
