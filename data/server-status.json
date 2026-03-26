@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:58:15",
-      "missionDate": "2026-03-26 09:13:15",
+      "missionTime": "1:03:15",
+      "missionDate": "2026-03-26 09:18:15",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:00:18 UTC",
+      "lastUpdate": "26-03-26 16:05:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:54:54",
-      "missionDate": "2026-03-26 12:59:54",
+      "missionTime": "0:59:54",
+      "missionDate": "2026-03-26 13:04:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -182,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:00:17 UTC",
+      "lastUpdate": "26-03-26 16:05:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +195,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:50:56",
-      "missionDate": "2026-03-26 07:50:56",
+      "missionTime": "0:55:56",
+      "missionDate": "2026-03-26 07:55:56",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1002 hPa",
@@ -287,21 +287,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:00:19 UTC",
+      "lastUpdate": "26-03-26 16:05:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［3／32］",
+      "channelName": "🖥️┃caucasus-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:48:38",
-      "missionDate": "2026-03-26 16:13:38",
+      "missionTime": "0:53:38",
+      "missionDate": "2026-03-26 16:18:38",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -312,7 +312,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -322,7 +322,9 @@
       },
       "playerList": [
         "AKYOL Semih",
-        "oskar"
+        "oskar",
+        "FTR\\.PLT\\.Hakan",
+        "TalhaPV"
       ],
       "playerDetails": [
         {
@@ -332,6 +334,14 @@
         {
           "name": "oskar",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "FTR\\.PLT\\.Hakan",
+          "unit": "--"
+        },
+        {
+          "name": "TalhaPV",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -346,7 +356,16 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "FTR\\.PLT\\.Hakan",
+            "unit": "--"
+          },
+          {
+            "name": "TalhaPV",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -379,8 +398,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 1
+            "blue": 1,
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -401,7 +420,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:00:19 UTC",
+      "lastUpdate": "26-03-26 16:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -415,8 +434,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:58:15",
-    "missionDate": "2026-03-26 09:13:15",
+    "missionTime": "1:03:15",
+    "missionDate": "2026-03-26 09:18:15",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1006 hPa",
@@ -495,9 +514,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 16:00:18 UTC",
+    "lastUpdate": "26-03-26 16:05:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T16:00:38.744Z"
+  "lastUpdated": "2026-03-26T16:05:27.047Z"
 }
