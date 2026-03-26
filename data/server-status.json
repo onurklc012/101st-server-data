@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:37:42",
-      "missionDate": "2026-03-27 08:52:42",
+      "missionTime": "0:42:42",
+      "missionDate": "2026-03-27 08:57:42",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1007 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -32,8 +32,8 @@
       "playerList": [
         "101\\-Florex",
         "101\\-harun",
-        "cagri",
-        "Owl\\-4"
+        "Owl\\-4",
+        "cagri"
       ],
       "playerDetails": [
         {
@@ -45,12 +45,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "cagri",
-          "unit": "F-16C_50"
+          "name": "Owl\\-4",
+          "unit": "MiG-21Bis"
         },
         {
-          "name": "Owl\\-4",
-          "unit": "_ _"
+          "name": "cagri",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -64,17 +64,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Owl\\-4",
+            "unit": "MiG-21Bis"
+          },
+          {
             "name": "cagri",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Owl\\-4",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -129,7 +128,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 21:40:18 UTC",
+      "lastUpdate": "26-03-26 21:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +141,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:34:50",
-      "missionDate": "2026-03-27 12:39:50",
+      "missionTime": "0:39:50",
+      "missionDate": "2026-03-27 12:44:50",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -222,7 +221,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 21:40:17 UTC",
+      "lastUpdate": "26-03-26 21:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -235,8 +234,8 @@
       "map": "Syria",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:30:45",
-      "missionDate": "2026-03-27 07:30:45",
+      "missionTime": "0:35:45",
+      "missionDate": "2026-03-27 07:35:45",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -247,7 +246,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 126
         },
         "red": {
@@ -258,8 +257,7 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-AsilTurq",
-        "101\\-Tunay \\[5555\\]",
-        "PENÇE"
+        "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
         {
@@ -272,10 +270,6 @@
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "PENÇE",
           "unit": "F-16C_50"
         }
       ],
@@ -291,10 +285,6 @@
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "PENÇE",
             "unit": "F-16C_50"
           }
         ],
@@ -332,7 +322,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 6,
+            "blue": 10,
             "red": 2
           },
           "Downed Helicopters": {
@@ -340,7 +330,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 4,
+            "blue": 9,
             "red": 0
           },
           "Sunken Ships": {
@@ -354,7 +344,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 21:40:19 UTC",
+      "lastUpdate": "26-03-26 21:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -367,8 +357,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:28:40",
-      "missionDate": "2026-03-27 15:53:40",
+      "missionTime": "0:33:40",
+      "missionDate": "2026-03-27 15:58:40",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1007 hPa",
@@ -447,7 +437,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 21:40:19 UTC",
+      "lastUpdate": "26-03-26 21:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -461,8 +451,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "0:37:42",
-    "missionDate": "2026-03-27 08:52:42",
+    "missionTime": "0:42:42",
+    "missionDate": "2026-03-27 08:57:42",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1007 hPa",
@@ -473,7 +463,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -484,8 +474,8 @@
     "playerList": [
       "101\\-Florex",
       "101\\-harun",
-      "cagri",
-      "Owl\\-4"
+      "Owl\\-4",
+      "cagri"
     ],
     "playerDetails": [
       {
@@ -497,12 +487,12 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "cagri",
-        "unit": "F-16C_50"
+        "name": "Owl\\-4",
+        "unit": "MiG-21Bis"
       },
       {
-        "name": "Owl\\-4",
-        "unit": "_ _"
+        "name": "cagri",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -516,17 +506,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Owl\\-4",
+          "unit": "MiG-21Bis"
+        },
+        {
           "name": "cagri",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Owl\\-4",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -581,9 +570,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 21:40:18 UTC",
+    "lastUpdate": "26-03-26 21:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T21:40:30.752Z"
+  "lastUpdated": "2026-03-26T21:45:27.266Z"
 }
