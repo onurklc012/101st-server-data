@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［10／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 10,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:22:50",
-      "missionDate": "2026-03-26 12:37:50",
+      "missionTime": "4:32:50",
+      "missionDate": "2026-03-26 12:47:50",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1005 hPa",
@@ -21,41 +21,25 @@
       },
       "slots": {
         "blue": {
-          "used": 8,
+          "used": 4,
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
         "101\\-Atmaca\\[3404\\]",
-        "101\\-Brakelesss",
-        "101\\-Maskot\\(0019\\)",
-        "101\\-Rabik",
         "WAL",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "vinland",
-        "✯101\\-EffBee\\[0010\\]✯",
-        "PlayerEksy"
+        "\\[RK\\] Falcon Pilot YT"
       ],
       "playerDetails": [
         {
           "name": "101\\-Atmaca\\[3404\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Brakelesss",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "WAL",
@@ -70,12 +54,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "name": "\\[RK\\] Falcon Pilot YT",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "PlayerEksy",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -83,18 +63,6 @@
           {
             "name": "101\\-Atmaca\\[3404\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Brakelesss",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Rabik",
-            "unit": "FA-18C_hornet"
           },
           {
             "name": "WAL",
@@ -107,19 +75,15 @@
           {
             "name": "vinland",
             "unit": "F-16C_50"
-          },
+          }
+        ],
+        "red": [
           {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "name": "\\[RK\\] Falcon Pilot YT",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
-        "neutral": [
-          {
-            "name": "PlayerEksy",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -174,7 +138,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 01:25:18 UTC",
+      "lastUpdate": "26-03-26 01:35:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -187,8 +151,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:19:52",
-      "missionDate": "2026-03-26 16:24:52",
+      "missionTime": "4:29:52",
+      "missionDate": "2026-03-26 16:34:52",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -267,7 +231,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 01:25:17 UTC",
+      "lastUpdate": "26-03-26 01:35:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -280,8 +244,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:14:46",
-      "missionDate": "2026-03-26 11:14:46",
+      "missionTime": "4:24:46",
+      "missionDate": "2026-03-26 11:24:46",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -360,7 +324,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 01:25:18 UTC",
+      "lastUpdate": "26-03-26 01:35:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -373,8 +337,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:13:41",
-      "missionDate": "2026-03-26 19:38:41",
+      "missionTime": "4:23:41",
+      "missionDate": "2026-03-26 19:48:41",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -453,22 +417,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 01:25:19 UTC",
+      "lastUpdate": "26-03-26 01:35:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［10／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 10,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "4:22:50",
-    "missionDate": "2026-03-26 12:37:50",
+    "missionTime": "4:32:50",
+    "missionDate": "2026-03-26 12:47:50",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1005 hPa",
@@ -479,41 +443,25 @@
     },
     "slots": {
       "blue": {
-        "used": 8,
+        "used": 4,
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
       "101\\-Atmaca\\[3404\\]",
-      "101\\-Brakelesss",
-      "101\\-Maskot\\(0019\\)",
-      "101\\-Rabik",
       "WAL",
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "vinland",
-      "✯101\\-EffBee\\[0010\\]✯",
-      "PlayerEksy"
+      "\\[RK\\] Falcon Pilot YT"
     ],
     "playerDetails": [
       {
         "name": "101\\-Atmaca\\[3404\\]",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Brakelesss",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Maskot\\(0019\\)",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Rabik",
-        "unit": "FA-18C_hornet"
       },
       {
         "name": "WAL",
@@ -528,12 +476,8 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "✯101\\-EffBee\\[0010\\]✯",
+        "name": "\\[RK\\] Falcon Pilot YT",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "PlayerEksy",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -541,18 +485,6 @@
         {
           "name": "101\\-Atmaca\\[3404\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Brakelesss",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "WAL",
@@ -565,19 +497,15 @@
         {
           "name": "vinland",
           "unit": "F-16C_50"
-        },
+        }
+      ],
+      "red": [
         {
-          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "name": "\\[RK\\] Falcon Pilot YT",
           "unit": "F-16C_50"
         }
       ],
-      "red": [],
-      "neutral": [
-        {
-          "name": "PlayerEksy",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -632,9 +560,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 01:25:18 UTC",
+    "lastUpdate": "26-03-26 01:35:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T01:25:23.636Z"
+  "lastUpdated": "2026-03-26T01:35:25.831Z"
 }
