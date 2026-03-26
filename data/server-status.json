@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:18:15",
-      "missionDate": "2026-03-26 09:33:15",
+      "missionTime": "1:23:15",
+      "missionDate": "2026-03-26 09:38:15",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:20:18 UTC",
+      "lastUpdate": "26-03-26 16:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:14:54",
-      "missionDate": "2026-03-26 13:19:54",
+      "missionTime": "1:19:54",
+      "missionDate": "2026-03-26 13:24:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -182,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:20:17 UTC",
+      "lastUpdate": "26-03-26 16:25:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +195,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:10:56",
-      "missionDate": "2026-03-26 08:10:56",
+      "missionTime": "1:15:56",
+      "missionDate": "2026-03-26 08:15:56",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1002 hPa",
@@ -287,21 +287,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:20:19 UTC",
+      "lastUpdate": "26-03-26 16:25:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［5／32］",
+      "channelName": "🖥️┃caucasus-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:08:38",
-      "missionDate": "2026-03-26 16:33:38",
+      "missionTime": "1:13:38",
+      "missionDate": "2026-03-26 16:38:38",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -322,9 +322,10 @@
       },
       "playerList": [
         "AKYOL Semih",
-        "FTR\\.PLT\\.Hakan",
         "TalhaPV",
-        "oskar"
+        "mezun\\-12",
+        "oskar",
+        "acipasta"
       ],
       "playerDetails": [
         {
@@ -332,16 +333,20 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "FTR\\.PLT\\.Hakan",
-          "unit": "AH-64D_BLK_II (crew)"
-        },
-        {
           "name": "TalhaPV",
           "unit": "F-16C_50"
         },
         {
+          "name": "mezun\\-12",
+          "unit": "F-15C"
+        },
+        {
           "name": "oskar",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "acipasta",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -351,12 +356,12 @@
             "unit": "AH-64D_BLK_II"
           },
           {
-            "name": "FTR\\.PLT\\.Hakan",
-            "unit": "AH-64D_BLK_II (crew)"
-          },
-          {
             "name": "TalhaPV",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "mezun\\-12",
+            "unit": "F-15C"
           },
           {
             "name": "oskar",
@@ -364,7 +369,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "acipasta",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -398,7 +408,7 @@
           },
           "Killed Planes": {
             "blue": 1,
-            "red": 3
+            "red": 4
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -419,7 +429,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:20:19 UTC",
+      "lastUpdate": "26-03-26 16:25:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -433,8 +443,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:18:15",
-    "missionDate": "2026-03-26 09:33:15",
+    "missionTime": "1:23:15",
+    "missionDate": "2026-03-26 09:38:15",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1006 hPa",
@@ -513,9 +523,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 16:20:18 UTC",
+    "lastUpdate": "26-03-26 16:25:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T16:20:28.121Z"
+  "lastUpdated": "2026-03-26T16:25:27.486Z"
 }
