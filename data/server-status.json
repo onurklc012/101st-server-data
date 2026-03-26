@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "3:13:15",
-      "missionDate": "2026-03-26 11:28:15",
+      "missionTime": "3:23:15",
+      "missionDate": "2026-03-26 11:38:15",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 7,
           "total": 134
         },
         "red": {
@@ -33,9 +33,10 @@
         "101 \\- Mrblackron",
         "101\\-Omry\\[0333\\]",
         "101\\-Rabik",
+        "Ege",
         "Phantom",
         "VespaTR",
-        "Ege"
+        "cassaba"
       ],
       "playerDetails": [
         {
@@ -51,6 +52,10 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "Ege",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Phantom",
           "unit": "F-15C"
         },
@@ -59,8 +64,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Ege",
-          "unit": "_ _"
+          "name": "cassaba",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -78,21 +83,24 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "Ege",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "Phantom",
             "unit": "F-15C"
           },
           {
             "name": "VespaTR",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "cassaba",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Ege",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -147,7 +155,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 18:15:18 UTC",
+      "lastUpdate": "26-03-26 18:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -160,8 +168,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:09:54",
-      "missionDate": "2026-03-26 15:14:54",
+      "missionTime": "3:19:54",
+      "missionDate": "2026-03-26 15:24:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -261,21 +269,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 18:15:17 UTC",
+      "lastUpdate": "26-03-26 18:25:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:05:56",
-      "missionDate": "2026-03-26 10:05:56",
+      "missionTime": "3:15:56",
+      "missionDate": "2026-03-26 10:15:56",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1002 hPa",
@@ -286,7 +294,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -294,22 +302,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "101\\-Yidobaba\\[0098\\]"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "Su-30SM"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -366,21 +362,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 18:15:19 UTC",
+      "lastUpdate": "26-03-26 18:25:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:03:38",
-      "missionDate": "2026-03-26 18:28:38",
+      "missionTime": "3:13:38",
+      "missionDate": "2026-03-26 18:38:38",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -391,7 +387,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 69
         },
         "red": {
@@ -399,22 +395,10 @@
           "total": 2
         }
       },
-      "playerList": [
-        "TalhaPV"
-      ],
-      "playerDetails": [
-        {
-          "name": "TalhaPV",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "TalhaPV",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -471,22 +455,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 18:15:19 UTC",
+      "lastUpdate": "26-03-26 18:25:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［8／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 8,
     "maxPlayers": 32,
-    "missionTime": "3:13:15",
-    "missionDate": "2026-03-26 11:28:15",
+    "missionTime": "3:23:15",
+    "missionDate": "2026-03-26 11:38:15",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1006 hPa",
@@ -497,7 +481,7 @@
     },
     "slots": {
       "blue": {
-        "used": 5,
+        "used": 7,
         "total": 134
       },
       "red": {
@@ -509,9 +493,10 @@
       "101 \\- Mrblackron",
       "101\\-Omry\\[0333\\]",
       "101\\-Rabik",
+      "Ege",
       "Phantom",
       "VespaTR",
-      "Ege"
+      "cassaba"
     ],
     "playerDetails": [
       {
@@ -527,6 +512,10 @@
         "unit": "FA-18C_hornet"
       },
       {
+        "name": "Ege",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "Phantom",
         "unit": "F-15C"
       },
@@ -535,8 +524,8 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "Ege",
-        "unit": "_ _"
+        "name": "cassaba",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -554,21 +543,24 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "Ege",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Phantom",
           "unit": "F-15C"
         },
         {
           "name": "VespaTR",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "cassaba",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Ege",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -623,9 +615,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 18:15:18 UTC",
+    "lastUpdate": "26-03-26 18:25:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T18:15:29.651Z"
+  "lastUpdated": "2026-03-26T18:25:26.324Z"
 }
