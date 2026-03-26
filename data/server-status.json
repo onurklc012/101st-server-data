@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:08:15",
-      "missionDate": "2026-03-26 09:23:15",
+      "missionTime": "1:13:15",
+      "missionDate": "2026-03-26 09:28:15",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1006 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:10:18 UTC",
+      "lastUpdate": "26-03-26 16:15:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:04:54",
-      "missionDate": "2026-03-26 13:09:54",
+      "missionTime": "1:09:54",
+      "missionDate": "2026-03-26 13:14:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -182,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:10:17 UTC",
+      "lastUpdate": "26-03-26 16:15:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +195,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:00:56",
-      "missionDate": "2026-03-26 08:00:56",
+      "missionTime": "1:05:56",
+      "missionDate": "2026-03-26 08:05:56",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1002 hPa",
@@ -287,7 +287,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:10:19 UTC",
+      "lastUpdate": "26-03-26 16:15:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -300,8 +300,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:58:38",
-      "missionDate": "2026-03-26 16:23:38",
+      "missionTime": "1:03:38",
+      "missionDate": "2026-03-26 16:28:38",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1006 hPa",
@@ -312,7 +312,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -322,18 +322,14 @@
       },
       "playerList": [
         "AKYOL Semih",
-        "FTR\\.PLT\\.Hakan",
         "TalhaPV",
-        "oskar"
+        "oskar",
+        "FTR\\.PLT\\.Hakan"
       ],
       "playerDetails": [
         {
           "name": "AKYOL Semih",
           "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "FTR\\.PLT\\.Hakan",
-          "unit": "AH-64D_BLK_II (crew)"
         },
         {
           "name": "TalhaPV",
@@ -342,6 +338,10 @@
         {
           "name": "oskar",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "FTR\\.PLT\\.Hakan",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -349,10 +349,6 @@
           {
             "name": "AKYOL Semih",
             "unit": "AH-64D_BLK_II"
-          },
-          {
-            "name": "FTR\\.PLT\\.Hakan",
-            "unit": "AH-64D_BLK_II (crew)"
           },
           {
             "name": "TalhaPV",
@@ -364,7 +360,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "FTR\\.PLT\\.Hakan",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -419,7 +420,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 16:10:19 UTC",
+      "lastUpdate": "26-03-26 16:15:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -433,8 +434,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:08:15",
-    "missionDate": "2026-03-26 09:23:15",
+    "missionTime": "1:13:15",
+    "missionDate": "2026-03-26 09:28:15",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1006 hPa",
@@ -513,9 +514,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 16:10:18 UTC",
+    "lastUpdate": "26-03-26 16:15:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T16:10:31.855Z"
+  "lastUpdated": "2026-03-26T16:15:29.642Z"
 }
