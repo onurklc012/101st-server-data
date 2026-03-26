@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "0:02:42",
-        "missionDate": "2026-03-27 08:17:42",
+        "missionTime": "0:07:42",
+        "missionDate": "2026-03-27 08:22:42",
         "weather": {
           "temperature": "10.0°C",
           "qnh": "1007 hPa",
@@ -32,7 +32,8 @@
         },
         "playerList": [
           "101\\-Florex",
-          "cagri"
+          "cagri",
+          "101\\-Rabik"
         ],
         "playerDetails": [
           {
@@ -42,6 +43,10 @@
           {
             "name": "cagri",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Rabik",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -56,7 +61,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-Rabik",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -111,21 +121,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-26 21:05:17 UTC",
+        "lastUpdate": "26-03-26 21:10:27 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［-］",
+        "channelName": "🖥️┃server-syria［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 0,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:00",
-        "missionDate": "2026-03-27 12:05:00",
+        "missionTime": "0:04:50",
+        "missionDate": "2026-03-27 12:09:50",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1006 hPa",
@@ -204,28 +214,28 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-26 21:05:27 UTC",
+        "lastUpdate": "26-03-26 21:10:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［3／32］",
+        "channelName": "🖥️┃syria-dynamic［-］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 3,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:55:56",
-        "missionDate": "2026-03-26 12:55:56",
+        "missionTime": "0:00:44",
+        "missionDate": "2026-03-27 07:00:44",
         "weather": {
-          "temperature": "14.0°C",
-          "qnh": "1002 hPa",
+          "temperature": "11.0°C",
+          "qnh": "1006 hPa",
           "clouds": "Few Scattered Clouds",
           "cloudbase": "--",
           "visibility": "10 km / 6 SM (+)",
-          "wind": "250° / 2 kts"
+          "wind": "230° / 5 kts"
         },
         "slots": {
           "blue": {
@@ -238,27 +248,27 @@
           }
         },
         "playerList": [
-          "101\\-Tunay \\[5555\\]",
-          "PENÇE"
+          "101ArmOn1453",
+          "101\\-Tunay \\[5555\\]"
         ],
         "playerDetails": [
           {
-            "name": "101\\-Tunay \\[5555\\]",
+            "name": "101ArmOn1453",
             "unit": "F-16C_50"
           },
           {
-            "name": "PENÇE",
+            "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
           "blue": [
             {
-              "name": "101\\-Tunay \\[5555\\]",
+              "name": "101ArmOn1453",
               "unit": "F-16C_50"
             },
             {
-              "name": "PENÇE",
+              "name": "101\\-Tunay \\[5555\\]",
               "unit": "F-16C_50"
             }
           ],
@@ -268,8 +278,8 @@
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 44,
-              "red": 23
+              "blue": 45,
+              "red": 22
             },
             "Ucaklar": {
               "blue": 0,
@@ -289,22 +299,22 @@
             },
             "Yapilar": {
               "blue": 57,
-              "red": 105
+              "red": 114
             },
             "Base Captures": {
               "blue": 0,
               "red": 0
             },
             "Killed Planes": {
-              "blue": 6,
-              "red": 10
+              "blue": 0,
+              "red": 0
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 74,
+              "blue": 0,
               "red": 0
             },
             "Sunken Ships": {
@@ -318,39 +328,23 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-26 21:05:18 UTC",
+        "lastUpdate": "26-03-26 21:10:18 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
-        "online": true,
+        "online": false,
         "channelName": "🖥️┃caucasus-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": "88.247.164.234:10311",
-        "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
-        "map": "Caucasus",
+        "serverIP": null,
+        "mission": "--",
+        "map": "--",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:53:38",
-        "missionDate": "2026-03-26 21:18:38",
-        "weather": {
-          "temperature": "11.0°C",
-          "qnh": "1006 hPa",
-          "clouds": "Three Layers Overcast Low Level",
-          "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
-          "wind": "230° / 3 kts"
-        },
-        "slots": {
-          "blue": {
-            "used": 0,
-            "total": 69
-          },
-          "red": {
-            "used": 0,
-            "total": 2
-          }
-        },
+        "missionTime": "--:--",
+        "missionDate": null,
+        "weather": null,
+        "slots": null,
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -411,7 +405,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-26 21:05:19 UTC",
+        "lastUpdate": null,
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -425,8 +419,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:02:42",
-      "missionDate": "2026-03-27 08:17:42",
+      "missionTime": "0:07:42",
+      "missionDate": "2026-03-27 08:22:42",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1007 hPa",
@@ -447,7 +441,8 @@
       },
       "playerList": [
         "101\\-Florex",
-        "cagri"
+        "cagri",
+        "101\\-Rabik"
       ],
       "playerDetails": [
         {
@@ -457,6 +452,10 @@
         {
           "name": "cagri",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Rabik",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -471,7 +470,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Rabik",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -526,11 +530,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 21:05:17 UTC",
+      "lastUpdate": "26-03-26 21:10:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-26T21:05:28.478Z"
+    "lastUpdated": "2026-03-26T21:10:31.293Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -578,23 +582,23 @@
         "pilots": [
           {
             "rank": 1,
+            "name": "101-Tunay [5555]",
+            "credits": 10693
+          },
+          {
+            "rank": 2,
             "name": "101-Shadow[1881]",
             "credits": 10526
           },
           {
-            "rank": 2,
-            "name": "101-Tunay [5555]",
-            "credits": 10293
-          },
-          {
             "rank": 3,
-            "name": "101-HotelTango",
-            "credits": 8809
+            "name": "101ArmOn1453",
+            "credits": 8969
           },
           {
             "rank": 4,
-            "name": "101ArmOn1453",
-            "credits": 8469
+            "name": "101-HotelTango",
+            "credits": 8809
           },
           {
             "rank": 5,
@@ -603,12 +607,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 91612,
+          "totalCredits": 92912,
           "totalPlayers": 82,
           "activePilots": "5",
-          "highestScore": 10526
+          "highestScore": 10693
         },
-        "lastUpdate": "🕒 Son guncelleme: 27.03.2026 00:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 27.03.2026 00:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -649,7 +653,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-26T21:05:28.614Z"
+    "lastUpdated": "2026-03-26T21:10:31.510Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2838,11 +2842,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-26T21:05:29.364Z",
+    "lastUpdated": "2026-03-26T21:10:32.348Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-26T21:05:29.754Z",
+    "fetchedAt": "2026-03-26T21:10:32.840Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
