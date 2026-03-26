@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "3:07:50",
-      "missionDate": "2026-03-26 11:22:50",
+      "missionTime": "3:12:50",
+      "missionDate": "2026-03-26 11:27:50",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -30,11 +30,18 @@
         }
       },
       "playerList": [
+        "101\\-Maskot\\(0019\\)",
         "101\\-Rabik",
         "WAL",
-        "vinland"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "vinland",
+        "101\\-Brakelesss"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Rabik",
           "unit": "FA-18C_hornet"
@@ -44,12 +51,24 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "vinland",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Rabik",
             "unit": "FA-18C_hornet"
@@ -59,12 +78,21 @@
             "unit": "FA-18C_hornet"
           },
           {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "vinland",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Brakelesss",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -119,7 +147,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 00:10:18 UTC",
+      "lastUpdate": "26-03-26 00:15:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -132,8 +160,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:04:52",
-      "missionDate": "2026-03-26 15:09:52",
+      "missionTime": "3:09:52",
+      "missionDate": "2026-03-26 15:14:52",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -212,21 +240,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 00:10:17 UTC",
+      "lastUpdate": "26-03-26 00:15:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:59:46",
-      "missionDate": "2026-03-26 09:59:46",
+      "missionTime": "3:04:46",
+      "missionDate": "2026-03-26 10:04:46",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "999 hPa",
@@ -237,7 +265,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -245,22 +273,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "101ArmOn1453"
-      ],
-      "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -317,7 +333,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 00:10:19 UTC",
+      "lastUpdate": "26-03-26 00:15:18 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -330,8 +346,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:58:41",
-      "missionDate": "2026-03-26 18:23:41",
+      "missionTime": "3:03:41",
+      "missionDate": "2026-03-26 18:28:41",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -410,22 +426,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-26 00:10:19 UTC",
+      "lastUpdate": "26-03-26 00:15:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "3:07:50",
-    "missionDate": "2026-03-26 11:22:50",
+    "missionTime": "3:12:50",
+    "missionDate": "2026-03-26 11:27:50",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1005 hPa",
@@ -436,7 +452,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -445,11 +461,18 @@
       }
     },
     "playerList": [
+      "101\\-Maskot\\(0019\\)",
       "101\\-Rabik",
       "WAL",
-      "vinland"
+      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+      "vinland",
+      "101\\-Brakelesss"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-Maskot\\(0019\\)",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101\\-Rabik",
         "unit": "FA-18C_hornet"
@@ -459,12 +482,24 @@
         "unit": "FA-18C_hornet"
       },
       {
+        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "vinland",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "101\\-Brakelesss",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Rabik",
           "unit": "FA-18C_hornet"
@@ -474,12 +509,21 @@
           "unit": "FA-18C_hornet"
         },
         {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "vinland",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -534,9 +578,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-26 00:10:18 UTC",
+    "lastUpdate": "26-03-26 00:15:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-26T00:10:29.551Z"
+  "lastUpdated": "2026-03-26T00:15:30.701Z"
 }
