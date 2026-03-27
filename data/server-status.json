@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "1:07:52",
-      "missionDate": "2026-03-28 09:22:52",
+      "missionTime": "1:12:52",
+      "missionDate": "2026-03-28 09:27:52",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -30,7 +30,6 @@
         }
       },
       "playerList": [
-        "101\\-zeshka\\[0035\\]",
         "AKYOL Semih",
         "B7R",
         "RAYZZZZZ",
@@ -39,16 +38,12 @@
       ],
       "playerDetails": [
         {
-          "name": "101\\-zeshka\\[0035\\]",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "AKYOL Semih",
           "unit": "F-16C_50"
         },
         {
           "name": "B7R",
-          "unit": "FA-18E"
+          "unit": "FA-18F"
         },
         {
           "name": "RAYZZZZZ",
@@ -66,16 +61,12 @@
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "FA-18C_hornet"
-          },
-          {
             "name": "AKYOL Semih",
             "unit": "F-16C_50"
           },
           {
             "name": "B7R",
-            "unit": "FA-18E"
+            "unit": "FA-18F"
           },
           {
             "name": "RAYZZZZZ",
@@ -146,7 +137,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 22:10:18 UTC",
+      "lastUpdate": "26-03-27 22:15:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -159,8 +150,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:04:48",
-      "missionDate": "2026-03-28 13:09:48",
+      "missionTime": "1:09:48",
+      "missionDate": "2026-03-28 13:14:48",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -239,21 +230,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 22:10:17 UTC",
+      "lastUpdate": "26-03-27 22:15:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:00:36",
-      "missionDate": "2026-03-28 08:00:36",
+      "missionTime": "1:05:36",
+      "missionDate": "2026-03-28 08:05:36",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1015 hPa",
@@ -264,7 +255,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 126
         },
         "red": {
@@ -273,9 +264,14 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
@@ -283,6 +279,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
@@ -326,7 +326,7 @@
             "red": 3
           },
           "Downed Helicopters": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
@@ -344,7 +344,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 22:10:19 UTC",
+      "lastUpdate": "26-03-27 22:15:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -357,8 +357,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:58:43",
-      "missionDate": "2026-03-28 16:23:43",
+      "missionTime": "1:03:42",
+      "missionDate": "2026-03-28 16:28:42",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1010 hPa",
@@ -437,22 +437,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 22:10:19 UTC",
+      "lastUpdate": "26-03-27 22:15:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "1:07:52",
-    "missionDate": "2026-03-28 09:22:52",
+    "missionTime": "1:12:52",
+    "missionDate": "2026-03-28 09:27:52",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1010 hPa",
@@ -463,7 +463,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -472,7 +472,6 @@
       }
     },
     "playerList": [
-      "101\\-zeshka\\[0035\\]",
       "AKYOL Semih",
       "B7R",
       "RAYZZZZZ",
@@ -481,16 +480,12 @@
     ],
     "playerDetails": [
       {
-        "name": "101\\-zeshka\\[0035\\]",
-        "unit": "FA-18C_hornet"
-      },
-      {
         "name": "AKYOL Semih",
         "unit": "F-16C_50"
       },
       {
         "name": "B7R",
-        "unit": "FA-18E"
+        "unit": "FA-18F"
       },
       {
         "name": "RAYZZZZZ",
@@ -508,16 +503,12 @@
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-zeshka\\[0035\\]",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "AKYOL Semih",
           "unit": "F-16C_50"
         },
         {
           "name": "B7R",
-          "unit": "FA-18E"
+          "unit": "FA-18F"
         },
         {
           "name": "RAYZZZZZ",
@@ -588,9 +579,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 22:10:18 UTC",
+    "lastUpdate": "26-03-27 22:15:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T22:10:25.909Z"
+  "lastUpdated": "2026-03-27T22:15:28.467Z"
 }
