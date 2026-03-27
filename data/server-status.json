@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:25:53",
-      "missionDate": "2026-03-27 09:40:53",
+      "missionTime": "1:27:53",
+      "missionDate": "2026-03-27 09:42:53",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1009 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 10:28:18 UTC",
+      "lastUpdate": "26-03-27 10:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:23:53",
-      "missionDate": "2026-03-27 13:28:53",
+      "missionTime": "1:24:53",
+      "missionDate": "2026-03-27 13:29:53",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1010 hPa",
@@ -182,7 +182,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 10:29:17 UTC",
+      "lastUpdate": "26-03-27 10:30:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +195,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:19:01",
-      "missionDate": "2026-03-27 08:19:01",
+      "missionTime": "1:21:01",
+      "missionDate": "2026-03-27 08:21:01",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1010 hPa",
@@ -275,7 +275,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 10:28:19 UTC",
+      "lastUpdate": "26-03-27 10:30:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -288,8 +288,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:16:43",
-      "missionDate": "2026-03-27 16:41:43",
+      "missionTime": "1:18:43",
+      "missionDate": "2026-03-27 16:43:43",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1009 hPa",
@@ -309,12 +309,17 @@
         }
       },
       "playerList": [
-        "oskar"
+        "oskar",
+        "Golden Eagle"
       ],
       "playerDetails": [
         {
           "name": "oskar",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "Golden Eagle",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -325,7 +330,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Golden Eagle",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -380,7 +390,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 10:28:19 UTC",
+      "lastUpdate": "26-03-27 10:30:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -394,8 +404,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:25:53",
-    "missionDate": "2026-03-27 09:40:53",
+    "missionTime": "1:27:53",
+    "missionDate": "2026-03-27 09:42:53",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1009 hPa",
@@ -474,9 +484,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 10:28:18 UTC",
+    "lastUpdate": "26-03-27 10:30:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T10:29:16.176Z"
+  "lastUpdated": "2026-03-27T10:30:37.751Z"
 }
