@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［2／32］",
+        "channelName": "🖥️┃server-caucasus［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 2,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "3:08:13",
-        "missionDate": "2026-03-27 11:23:13",
+        "missionTime": "3:13:13",
+        "missionDate": "2026-03-27 11:28:13",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1009 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 134
           },
           "red": {
@@ -31,11 +31,16 @@
           }
         },
         "playerList": [
-          "CanAda"
+          "CanAda",
+          "VespaTR"
         ],
         "playerDetails": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "VespaTR",
             "unit": "F-16C_50"
           }
         ],
@@ -43,6 +48,10 @@
           "blue": [
             {
               "name": "CanAda",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "VespaTR",
               "unit": "F-16C_50"
             }
           ],
@@ -102,7 +111,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 18:10:18 UTC",
+        "lastUpdate": "26-03-27 18:15:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -115,8 +124,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:04:58",
-        "missionDate": "2026-03-27 15:09:58",
+        "missionTime": "3:09:58",
+        "missionDate": "2026-03-27 15:14:58",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1013 hPa",
@@ -195,7 +204,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 18:10:17 UTC",
+        "lastUpdate": "26-03-27 18:15:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -208,8 +217,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:01:02",
-        "missionDate": "2026-03-27 10:01:02",
+        "missionTime": "3:06:02",
+        "missionDate": "2026-03-27 10:06:02",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1013 hPa",
@@ -288,7 +297,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 18:10:20 UTC",
+        "lastUpdate": "26-03-27 18:15:20 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -301,8 +310,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:58:44",
-        "missionDate": "2026-03-27 18:23:44",
+        "missionTime": "3:03:44",
+        "missionDate": "2026-03-27 18:28:44",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1010 hPa",
@@ -411,22 +420,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 18:10:21 UTC",
+        "lastUpdate": "26-03-27 18:15:21 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:08:13",
-      "missionDate": "2026-03-27 11:23:13",
+      "missionTime": "3:13:13",
+      "missionDate": "2026-03-27 11:28:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -437,7 +446,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -446,11 +455,16 @@
         }
       },
       "playerList": [
-        "CanAda"
+        "CanAda",
+        "VespaTR"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "VespaTR",
           "unit": "F-16C_50"
         }
       ],
@@ -458,6 +472,10 @@
         "blue": [
           {
             "name": "CanAda",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "VespaTR",
             "unit": "F-16C_50"
           }
         ],
@@ -517,11 +535,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 18:10:18 UTC",
+      "lastUpdate": "26-03-27 18:15:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-27T18:10:26.465Z"
+    "lastUpdated": "2026-03-27T18:15:29.976Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -640,7 +658,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-27T18:10:26.609Z"
+    "lastUpdated": "2026-03-27T18:15:30.162Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2746,11 +2764,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-27T18:10:27.456Z",
+    "lastUpdated": "2026-03-27T18:15:31.037Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-27T18:10:27.883Z",
+    "fetchedAt": "2026-03-27T18:15:31.445Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
