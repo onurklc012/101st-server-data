@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:38:13",
-      "missionDate": "2026-03-27 13:53:13",
+      "missionTime": "5:43:13",
+      "missionDate": "2026-03-27 13:58:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -32,7 +32,8 @@
       "playerList": [
         "101\\-Brakelesss",
         "Tako",
-        "VespaTR"
+        "VespaTR",
+        "Börü"
       ],
       "playerDetails": [
         {
@@ -46,6 +47,10 @@
         {
           "name": "VespaTR",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Börü",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -64,7 +69,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Börü",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -119,7 +129,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:40:18 UTC",
+      "lastUpdate": "26-03-27 20:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -132,8 +142,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:34:58",
-      "missionDate": "2026-03-27 17:39:58",
+      "missionTime": "5:39:58",
+      "missionDate": "2026-03-27 17:44:58",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -212,7 +222,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:40:17 UTC",
+      "lastUpdate": "26-03-27 20:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -225,8 +235,8 @@
       "map": "Syria",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "5:31:00",
-      "missionDate": "2026-03-27 12:31:00",
+      "missionTime": "5:36:02",
+      "missionDate": "2026-03-27 12:36:02",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -237,7 +247,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 4,
           "total": 126
         },
         "red": {
@@ -249,8 +259,7 @@
         "101\\-MrMercans",
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
-        "101\\-Yidobaba\\[0098\\]",
-        "xxxxxx"
+        "101\\-Yidobaba\\[0098\\]"
       ],
       "playerDetails": [
         {
@@ -268,10 +277,6 @@
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Su-30SM"
-        },
-        {
-          "name": "xxxxxx",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -291,10 +296,6 @@
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Su-30SM"
-          },
-          {
-            "name": "xxxxxx",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -353,21 +354,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:40:19 UTC",
+      "lastUpdate": "26-03-27 20:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:28:44",
-      "missionDate": "2026-03-27 20:53:44",
+      "missionTime": "5:33:44",
+      "missionDate": "2026-03-27 20:58:44",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -446,7 +447,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:40:20 UTC",
+      "lastUpdate": "26-03-27 20:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -460,8 +461,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "5:38:13",
-    "missionDate": "2026-03-27 13:53:13",
+    "missionTime": "5:43:13",
+    "missionDate": "2026-03-27 13:58:13",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -483,7 +484,8 @@
     "playerList": [
       "101\\-Brakelesss",
       "Tako",
-      "VespaTR"
+      "VespaTR",
+      "Börü"
     ],
     "playerDetails": [
       {
@@ -497,6 +499,10 @@
       {
         "name": "VespaTR",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "Börü",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -515,7 +521,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Börü",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -570,9 +581,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 20:40:18 UTC",
+    "lastUpdate": "26-03-27 20:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T20:40:30.472Z"
+  "lastUpdated": "2026-03-27T20:45:29.052Z"
 }
