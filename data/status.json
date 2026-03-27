@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［6／32］",
+        "channelName": "🖥️┃server-caucasus［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 6,
+        "players": 7,
         "maxPlayers": 32,
-        "missionTime": "4:13:13",
-        "missionDate": "2026-03-27 12:28:13",
+        "missionTime": "4:18:13",
+        "missionDate": "2026-03-27 12:33:13",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1009 hPa",
@@ -35,7 +35,8 @@
           "CanAda",
           "FatihEmin19",
           "NAZGUL",
-          "Phantom"
+          "Phantom",
+          "FOXTHREE"
         ],
         "playerDetails": [
           {
@@ -57,6 +58,10 @@
           {
             "name": "Phantom",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "FOXTHREE",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -83,7 +88,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "FOXTHREE",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -138,7 +148,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 19:15:18 UTC",
+        "lastUpdate": "26-03-27 19:20:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -151,8 +161,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:09:58",
-        "missionDate": "2026-03-27 16:14:58",
+        "missionTime": "4:14:58",
+        "missionDate": "2026-03-27 16:19:58",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1013 hPa",
@@ -231,7 +241,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 19:15:17 UTC",
+        "lastUpdate": "26-03-27 19:20:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -244,8 +254,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:06:02",
-        "missionDate": "2026-03-27 11:06:02",
+        "missionTime": "4:11:02",
+        "missionDate": "2026-03-27 11:11:02",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1013 hPa",
@@ -324,14 +334,14 @@
             },
             "Killed Planes": {
               "blue": 0,
-              "red": 2
+              "red": 3
             },
             "Downed Helicopters": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 31,
+              "blue": 32,
               "red": 0
             },
             "Sunken Ships": {
@@ -345,7 +355,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 19:15:19 UTC",
+        "lastUpdate": "26-03-27 19:20:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -358,8 +368,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:03:44",
-        "missionDate": "2026-03-27 19:28:44",
+        "missionTime": "4:08:44",
+        "missionDate": "2026-03-27 19:33:44",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1010 hPa",
@@ -438,22 +448,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-27 19:15:19 UTC",
+        "lastUpdate": "26-03-27 19:20:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:13:13",
-      "missionDate": "2026-03-27 12:28:13",
+      "missionTime": "4:18:13",
+      "missionDate": "2026-03-27 12:33:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -477,7 +487,8 @@
         "CanAda",
         "FatihEmin19",
         "NAZGUL",
-        "Phantom"
+        "Phantom",
+        "FOXTHREE"
       ],
       "playerDetails": [
         {
@@ -499,6 +510,10 @@
         {
           "name": "Phantom",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "FOXTHREE",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -525,7 +540,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "FOXTHREE",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -580,11 +600,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:15:18 UTC",
+      "lastUpdate": "26-03-27 19:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-27T19:15:26.451Z"
+    "lastUpdated": "2026-03-27T19:20:29.771Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -662,7 +682,7 @@
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 27.03.2026 22:10  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 27.03.2026 22:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -703,7 +723,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-27T19:15:26.647Z"
+    "lastUpdated": "2026-03-27T19:20:29.949Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2809,11 +2829,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-27T19:15:27.489Z",
+    "lastUpdated": "2026-03-27T19:20:31.195Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-27T19:15:27.922Z",
+    "fetchedAt": "2026-03-27T19:20:31.750Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
