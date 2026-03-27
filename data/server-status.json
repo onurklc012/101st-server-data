@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:58:13",
-      "missionDate": "2026-03-27 11:13:13",
+      "missionTime": "3:03:13",
+      "missionDate": "2026-03-27 11:18:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -30,16 +30,11 @@
         }
       },
       "playerList": [
-        "CanAda",
-        "PENÇE"
+        "CanAda"
       ],
       "playerDetails": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "PENÇE",
           "unit": "F-16C_50"
         }
       ],
@@ -47,10 +42,6 @@
         "blue": [
           {
             "name": "CanAda",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "PENÇE",
             "unit": "F-16C_50"
           }
         ],
@@ -110,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 18:00:18 UTC",
+      "lastUpdate": "26-03-27 18:05:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:54:58",
-      "missionDate": "2026-03-27 14:59:58",
+      "missionTime": "2:59:58",
+      "missionDate": "2026-03-27 15:04:58",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -203,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 18:00:17 UTC",
+      "lastUpdate": "26-03-27 18:05:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -216,8 +207,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:51:02",
-      "missionDate": "2026-03-27 09:51:02",
+      "missionTime": "2:56:02",
+      "missionDate": "2026-03-27 09:56:02",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -228,7 +219,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -236,22 +227,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "Laykas"
-      ],
-      "playerDetails": [
-        {
-          "name": "Laykas",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "Laykas",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -308,21 +287,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 18:00:19 UTC",
+      "lastUpdate": "26-03-27 18:05:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［3／32］",
+      "channelName": "🖥️┃caucasus-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:48:44",
-      "missionDate": "2026-03-27 18:13:44",
+      "missionTime": "2:53:44",
+      "missionDate": "2026-03-27 18:18:44",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -333,7 +312,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -342,42 +321,41 @@
         }
       },
       "playerList": [
-        "TalhaPV",
         "AKYOL Semih",
-        "FTR\\.PLT\\.Hakan"
+        "FTR\\.PLT\\.Hakan",
+        "TalhaPV"
       ],
       "playerDetails": [
         {
-          "name": "TalhaPV",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "AKYOL Semih",
-          "unit": "--"
+          "unit": "AH-64D_BLK_II"
         },
         {
           "name": "FTR\\.PLT\\.Hakan",
-          "unit": "--"
+          "unit": "AH-64D_BLK_II (crew)"
+        },
+        {
+          "name": "TalhaPV",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "AKYOL Semih",
+            "unit": "AH-64D_BLK_II"
+          },
+          {
+            "name": "FTR\\.PLT\\.Hakan",
+            "unit": "AH-64D_BLK_II (crew)"
+          },
           {
             "name": "TalhaPV",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "AKYOL Semih",
-            "unit": "--"
-          },
-          {
-            "name": "FTR\\.PLT\\.Hakan",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -432,7 +410,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 18:00:20 UTC",
+      "lastUpdate": "26-03-27 18:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -446,8 +424,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "2:58:13",
-    "missionDate": "2026-03-27 11:13:13",
+    "missionTime": "3:03:13",
+    "missionDate": "2026-03-27 11:18:13",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -458,7 +436,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -467,16 +445,11 @@
       }
     },
     "playerList": [
-      "CanAda",
-      "PENÇE"
+      "CanAda"
     ],
     "playerDetails": [
       {
         "name": "CanAda",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "PENÇE",
         "unit": "F-16C_50"
       }
     ],
@@ -484,10 +457,6 @@
       "blue": [
         {
           "name": "CanAda",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "PENÇE",
           "unit": "F-16C_50"
         }
       ],
@@ -547,9 +516,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 18:00:18 UTC",
+    "lastUpdate": "26-03-27 18:05:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T18:00:39.309Z"
+  "lastUpdated": "2026-03-27T18:05:27.679Z"
 }
