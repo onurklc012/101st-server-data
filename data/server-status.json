@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:33:13",
-      "missionDate": "2026-03-27 12:48:13",
+      "missionTime": "4:38:13",
+      "missionDate": "2026-03-27 12:53:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -32,8 +32,8 @@
       "playerList": [
         "CanAda",
         "FatihEmin19",
-        "NAZGUL",
-        "Phantom"
+        "Phantom",
+        "MBes"
       ],
       "playerDetails": [
         {
@@ -42,15 +42,15 @@
         },
         {
           "name": "FatihEmin19",
-          "unit": "F-5E-3"
-        },
-        {
-          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
           "name": "Phantom",
-          "unit": "FA-18C_hornet"
+          "unit": "F-15C"
+        },
+        {
+          "name": "MBes",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -61,19 +61,20 @@
           },
           {
             "name": "FatihEmin19",
-            "unit": "F-5E-3"
-          },
-          {
-            "name": "NAZGUL",
             "unit": "F-16C_50"
           },
           {
             "name": "Phantom",
-            "unit": "FA-18C_hornet"
+            "unit": "F-15C"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "MBes",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -128,7 +129,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:35:18 UTC",
+      "lastUpdate": "26-03-27 19:40:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +142,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:29:58",
-      "missionDate": "2026-03-27 16:34:58",
+      "missionTime": "4:34:58",
+      "missionDate": "2026-03-27 16:39:58",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -221,21 +222,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:35:17 UTC",
+      "lastUpdate": "26-03-27 19:40:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［4／32］",
+      "channelName": "🖥️┃syria-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:26:02",
-      "missionDate": "2026-03-27 11:26:02",
+      "missionTime": "4:31:02",
+      "missionDate": "2026-03-27 11:31:02",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -257,7 +258,8 @@
       "playerList": [
         "101\\-MrMercans",
         "101\\-Yidobaba\\[0098\\]",
-        "E69Guincho"
+        "E69Guincho",
+        "101\\-Tunay \\[5555\\]"
       ],
       "playerDetails": [
         {
@@ -271,6 +273,10 @@
         {
           "name": "E69Guincho",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -289,7 +295,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -344,7 +355,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:35:19 UTC",
+      "lastUpdate": "26-03-27 19:40:20 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -357,8 +368,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:23:44",
-      "missionDate": "2026-03-27 19:48:44",
+      "missionTime": "4:28:44",
+      "missionDate": "2026-03-27 19:53:44",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -437,22 +448,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:35:19 UTC",
+      "lastUpdate": "26-03-27 19:40:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［6／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 6,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "4:33:13",
-    "missionDate": "2026-03-27 12:48:13",
+    "missionTime": "4:38:13",
+    "missionDate": "2026-03-27 12:53:13",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -463,7 +474,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -474,8 +485,8 @@
     "playerList": [
       "CanAda",
       "FatihEmin19",
-      "NAZGUL",
-      "Phantom"
+      "Phantom",
+      "MBes"
     ],
     "playerDetails": [
       {
@@ -484,15 +495,15 @@
       },
       {
         "name": "FatihEmin19",
-        "unit": "F-5E-3"
-      },
-      {
-        "name": "NAZGUL",
         "unit": "F-16C_50"
       },
       {
         "name": "Phantom",
-        "unit": "FA-18C_hornet"
+        "unit": "F-15C"
+      },
+      {
+        "name": "MBes",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -503,19 +514,20 @@
         },
         {
           "name": "FatihEmin19",
-          "unit": "F-5E-3"
-        },
-        {
-          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
           "name": "Phantom",
-          "unit": "FA-18C_hornet"
+          "unit": "F-15C"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "MBes",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -570,9 +582,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 19:35:18 UTC",
+    "lastUpdate": "26-03-27 19:40:19 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T19:35:23.476Z"
+  "lastUpdated": "2026-03-27T19:40:30.236Z"
 }
