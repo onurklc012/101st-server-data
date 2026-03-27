@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:55:13",
-      "missionDate": "2026-03-27 13:10:13",
+      "missionTime": "4:58:13",
+      "missionDate": "2026-03-27 13:13:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -31,7 +31,8 @@
       },
       "playerList": [
         "FatihEmin19",
-        "Phantom"
+        "Phantom",
+        "AKYOL Semih"
       ],
       "playerDetails": [
         {
@@ -41,6 +42,10 @@
         {
           "name": "Phantom",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "AKYOL Semih",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -55,7 +60,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "AKYOL Semih",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -110,7 +120,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:57:18 UTC",
+      "lastUpdate": "26-03-27 20:00:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -123,8 +133,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:51:58",
-      "missionDate": "2026-03-27 16:56:58",
+      "missionTime": "4:54:58",
+      "missionDate": "2026-03-27 16:59:58",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -215,21 +225,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:57:17 UTC",
+      "lastUpdate": "26-03-27 20:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［5／32］",
+      "channelName": "🖥️┃syria-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "4:48:02",
-      "missionDate": "2026-03-27 11:48:02",
+      "missionTime": "4:51:02",
+      "missionDate": "2026-03-27 11:51:02",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -250,6 +260,7 @@
       },
       "playerList": [
         "101\\-MrMercans",
+        "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "101\\-Yidobaba\\[0098\\]",
         "xxxxxx"
@@ -258,6 +269,10 @@
         {
           "name": "101\\-MrMercans",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Nos",
+          "unit": "C-130J-30"
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
@@ -277,6 +292,10 @@
           {
             "name": "101\\-MrMercans",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Nos",
+            "unit": "C-130J-30"
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
@@ -326,15 +345,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 3
+            "blue": 4,
+            "red": 4
           },
           "Downed Helicopters": {
-            "blue": 1,
+            "blue": 2,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 32,
+            "blue": 71,
             "red": 0
           },
           "Sunken Ships": {
@@ -348,21 +367,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:57:37 UTC",
+      "lastUpdate": "26-03-27 20:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:45:44",
-      "missionDate": "2026-03-27 20:10:44",
+      "missionTime": "4:48:44",
+      "missionDate": "2026-03-27 20:13:44",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -441,22 +460,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 19:57:19 UTC",
+      "lastUpdate": "26-03-27 20:00:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "4:55:13",
-    "missionDate": "2026-03-27 13:10:13",
+    "missionTime": "4:58:13",
+    "missionDate": "2026-03-27 13:13:13",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -477,7 +496,8 @@
     },
     "playerList": [
       "FatihEmin19",
-      "Phantom"
+      "Phantom",
+      "AKYOL Semih"
     ],
     "playerDetails": [
       {
@@ -487,6 +507,10 @@
       {
         "name": "Phantom",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "AKYOL Semih",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -501,7 +525,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "AKYOL Semih",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -556,9 +585,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 19:57:18 UTC",
+    "lastUpdate": "26-03-27 20:00:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T19:57:45.136Z"
+  "lastUpdated": "2026-03-27T20:00:38.624Z"
 }
