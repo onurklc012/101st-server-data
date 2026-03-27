@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:18:13",
-      "missionDate": "2026-03-27 13:33:13",
+      "missionTime": "5:23:13",
+      "missionDate": "2026-03-27 13:38:13",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,33 +30,41 @@
         }
       },
       "playerList": [
-        "AKYOL Semih",
-        "191\\-Kobra"
+        "101\\-Brakelesss",
+        "191\\-Kobra",
+        "AKYOL Semih"
       ],
       "playerDetails": [
         {
-          "name": "AKYOL Semih",
+          "name": "101\\-Brakelesss",
           "unit": "F-16C_50"
         },
         {
           "name": "191\\-Kobra",
-          "unit": "_ _"
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "AKYOL Semih",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Brakelesss",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "191\\-Kobra",
+            "unit": "F-16C_50"
+          },
           {
             "name": "AKYOL Semih",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "191\\-Kobra",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -89,7 +97,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
+            "blue": 4,
             "red": 0
           },
           "Downed Helicopters": {
@@ -111,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:20:18 UTC",
+      "lastUpdate": "26-03-27 20:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +132,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:14:58",
-      "missionDate": "2026-03-27 17:19:58",
+      "missionTime": "5:19:58",
+      "missionDate": "2026-03-27 17:24:58",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -216,21 +224,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:20:17 UTC",
+      "lastUpdate": "26-03-27 20:25:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［7／32］",
+      "channelName": "🖥️┃syria-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "5:11:02",
-      "missionDate": "2026-03-27 12:11:02",
+      "missionTime": "5:16:02",
+      "missionDate": "2026-03-27 12:16:02",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1013 hPa",
@@ -255,7 +263,8 @@
         "101\\-Rabik",
         "101\\-Tunay \\[5555\\]",
         "101\\-Yidobaba\\[0098\\]",
-        "xxxxxx"
+        "xxxxxx",
+        "UnknownPain"
       ],
       "playerDetails": [
         {
@@ -281,6 +290,10 @@
         {
           "name": "xxxxxx",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "UnknownPain",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -311,7 +324,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "UnknownPain",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -366,7 +384,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:20:19 UTC",
+      "lastUpdate": "26-03-27 20:25:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -379,8 +397,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:08:44",
-      "missionDate": "2026-03-27 20:33:44",
+      "missionTime": "5:13:44",
+      "missionDate": "2026-03-27 20:38:44",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1010 hPa",
@@ -459,22 +477,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-27 20:20:19 UTC",
+      "lastUpdate": "26-03-27 20:25:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "5:18:13",
-    "missionDate": "2026-03-27 13:33:13",
+    "missionTime": "5:23:13",
+    "missionDate": "2026-03-27 13:38:13",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -485,7 +503,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -494,33 +512,41 @@
       }
     },
     "playerList": [
-      "AKYOL Semih",
-      "191\\-Kobra"
+      "101\\-Brakelesss",
+      "191\\-Kobra",
+      "AKYOL Semih"
     ],
     "playerDetails": [
       {
-        "name": "AKYOL Semih",
+        "name": "101\\-Brakelesss",
         "unit": "F-16C_50"
       },
       {
         "name": "191\\-Kobra",
-        "unit": "_ _"
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "AKYOL Semih",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Brakelesss",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "191\\-Kobra",
+          "unit": "F-16C_50"
+        },
         {
           "name": "AKYOL Semih",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "191\\-Kobra",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -553,7 +579,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 2,
+          "blue": 4,
           "red": 0
         },
         "Downed Helicopters": {
@@ -575,9 +601,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-27 20:20:18 UTC",
+    "lastUpdate": "26-03-27 20:25:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-27T20:20:26.393Z"
+  "lastUpdated": "2026-03-27T20:25:32.300Z"
 }
