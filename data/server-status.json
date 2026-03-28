@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:43:11",
-      "missionDate": "2026-03-29 09:58:11",
+      "missionTime": "1:48:11",
+      "missionDate": "2026-03-29 10:03:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -32,6 +32,7 @@
       "playerList": [
         "101\\-harun",
         "Tako",
+        "VespaTR",
         "on7as"
       ],
       "playerDetails": [
@@ -41,6 +42,10 @@
         },
         {
           "name": "Tako",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "VespaTR",
           "unit": "F-16C_50"
         },
         {
@@ -56,6 +61,10 @@
           },
           {
             "name": "Tako",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "VespaTR",
             "unit": "F-16C_50"
           },
           {
@@ -119,7 +128,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:45:18 UTC",
+      "lastUpdate": "26-03-28 22:50:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -132,8 +141,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:39:50",
-      "missionDate": "2026-03-29 13:44:50",
+      "missionTime": "1:44:50",
+      "missionDate": "2026-03-29 13:49:50",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -212,7 +221,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:45:17 UTC",
+      "lastUpdate": "26-03-28 22:50:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -225,8 +234,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:35:46",
-      "missionDate": "2026-03-29 08:35:46",
+      "missionTime": "1:40:46",
+      "missionDate": "2026-03-29 08:40:46",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -317,7 +326,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:45:19 UTC",
+      "lastUpdate": "26-03-28 22:50:20 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -330,8 +339,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:33:43",
-      "missionDate": "2026-03-29 16:58:43",
+      "missionTime": "1:38:43",
+      "missionDate": "2026-03-29 17:03:43",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -342,7 +351,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -351,12 +360,16 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "101\\-HotelTango",
         "101\\-zeshka\\[0035\\]",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "101ArmOn1453"
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-HotelTango",
           "unit": "F-16C_50"
@@ -368,14 +381,14 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "Su-30SM"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-HotelTango",
             "unit": "F-16C_50"
@@ -390,12 +403,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -450,22 +458,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:45:19 UTC",
+      "lastUpdate": "26-03-28 22:50:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "1:43:11",
-    "missionDate": "2026-03-29 09:58:11",
+    "missionTime": "1:48:11",
+    "missionDate": "2026-03-29 10:03:11",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1006 hPa",
@@ -476,7 +484,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -487,6 +495,7 @@
     "playerList": [
       "101\\-harun",
       "Tako",
+      "VespaTR",
       "on7as"
     ],
     "playerDetails": [
@@ -496,6 +505,10 @@
       },
       {
         "name": "Tako",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "VespaTR",
         "unit": "F-16C_50"
       },
       {
@@ -511,6 +524,10 @@
         },
         {
           "name": "Tako",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "VespaTR",
           "unit": "F-16C_50"
         },
         {
@@ -574,9 +591,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 22:45:18 UTC",
+    "lastUpdate": "26-03-28 22:50:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T22:45:28.923Z"
+  "lastUpdated": "2026-03-28T22:50:25.706Z"
 }
