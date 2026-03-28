@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:18:14",
-      "missionDate": "2026-03-28 12:33:14",
+      "missionTime": "4:23:14",
+      "missionDate": "2026-03-28 12:38:14",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -124,15 +124,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 1
+            "blue": 11,
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
@@ -146,7 +146,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:20:18 UTC",
+      "lastUpdate": "26-03-28 19:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -159,8 +159,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:14:53",
-      "missionDate": "2026-03-28 16:19:53",
+      "missionTime": "4:19:53",
+      "missionDate": "2026-03-28 16:24:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -239,21 +239,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:20:17 UTC",
+      "lastUpdate": "26-03-28 19:25:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［6／32］",
+      "channelName": "🖥️┃syria-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 6,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:11:06",
-      "missionDate": "2026-03-28 11:11:06",
+      "missionTime": "4:16:06",
+      "missionDate": "2026-03-28 11:16:06",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -273,13 +273,16 @@
         }
       },
       "playerList": [
+        "101\\-HotelTango",
         "Hançer 2",
         "Hançer\\-1",
-        "PENÇE",
-        "TalhaPV",
-        "101\\-HotelTango"
+        "TalhaPV"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-HotelTango",
+          "unit": "Mi-8MT"
+        },
         {
           "name": "Hançer 2",
           "unit": "F-16C_50"
@@ -289,20 +292,16 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "PENÇE",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "TalhaPV",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-HotelTango",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "Mi-8MT"
+          },
           {
             "name": "Hançer 2",
             "unit": "F-16C_50"
@@ -312,21 +311,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "PENÇE",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "TalhaPV",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -381,7 +371,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:20:19 UTC",
+      "lastUpdate": "26-03-28 19:25:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -394,8 +384,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:08:37",
-      "missionDate": "2026-03-28 19:33:37",
+      "missionTime": "4:13:37",
+      "missionDate": "2026-03-28 19:38:37",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -474,7 +464,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:20:19 UTC",
+      "lastUpdate": "26-03-28 19:25:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -488,8 +478,8 @@
     "map": "Caucasus",
     "players": 7,
     "maxPlayers": 32,
-    "missionTime": "4:18:14",
-    "missionDate": "2026-03-28 12:33:14",
+    "missionTime": "4:23:14",
+    "missionDate": "2026-03-28 12:38:14",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1006 hPa",
@@ -603,15 +593,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 9,
-          "red": 1
+          "blue": 11,
+          "red": 3
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Sunken Ships": {
@@ -625,9 +615,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 19:20:18 UTC",
+    "lastUpdate": "26-03-28 19:25:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T19:20:34.067Z"
+  "lastUpdated": "2026-03-28T19:25:28.131Z"
 }
