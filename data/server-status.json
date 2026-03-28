@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:53:14",
-      "missionDate": "2026-03-28 11:08:14",
+      "missionTime": "2:58:14",
+      "missionDate": "2026-03-28 11:13:14",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,33 +30,32 @@
         }
       },
       "playerList": [
-        "Phantom",
-        "101\\-Omry\\[0333\\]"
+        "101\\-Omry\\[0333\\]",
+        "Phantom"
       ],
       "playerDetails": [
         {
-          "name": "Phantom",
-          "unit": "F-15C"
+          "name": "101\\-Omry\\[0333\\]",
+          "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "_ _"
+          "name": "Phantom",
+          "unit": "F-15C"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Omry\\[0333\\]",
+            "unit": "AH-64D_BLK_II"
+          },
           {
             "name": "Phantom",
             "unit": "F-15C"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Omry\\[0333\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -89,8 +88,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 9,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -111,7 +110,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 17:55:27 UTC",
+      "lastUpdate": "26-03-28 18:00:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +123,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:49:53",
-      "missionDate": "2026-03-28 14:54:53",
+      "missionTime": "2:54:53",
+      "missionDate": "2026-03-28 14:59:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -204,21 +203,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 17:55:17 UTC",
+      "lastUpdate": "26-03-28 18:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［5／32］",
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 5,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "2:46:06",
-      "missionDate": "2026-03-28 09:46:06",
+      "missionTime": "2:51:06",
+      "missionDate": "2026-03-28 09:51:06",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -229,7 +228,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 126
         },
         "red": {
@@ -240,8 +239,10 @@
       "playerList": [
         "101\\-Fish\\[7906\\]",
         "101\\-Yidobaba\\[0098\\]",
+        "Hançer 2",
         "PENÇE",
-        "punisher"
+        "punisher",
+        "Hançer\\-1"
       ],
       "playerDetails": [
         {
@@ -253,12 +254,20 @@
           "unit": "JF-17"
         },
         {
+          "name": "Hançer 2",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "PENÇE",
           "unit": "F-16C_50"
         },
         {
           "name": "punisher",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Hançer\\-1",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -272,6 +281,10 @@
             "unit": "JF-17"
           },
           {
+            "name": "Hançer 2",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "PENÇE",
             "unit": "F-16C_50"
           },
@@ -281,7 +294,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Hançer\\-1",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -336,7 +354,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 17:55:19 UTC",
+      "lastUpdate": "26-03-28 18:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -349,8 +367,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:43:37",
-      "missionDate": "2026-03-28 18:08:37",
+      "missionTime": "2:48:37",
+      "missionDate": "2026-03-28 18:13:37",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -429,7 +447,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 17:55:20 UTC",
+      "lastUpdate": "26-03-28 18:00:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -443,8 +461,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "2:53:14",
-    "missionDate": "2026-03-28 11:08:14",
+    "missionTime": "2:58:14",
+    "missionDate": "2026-03-28 11:13:14",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1006 hPa",
@@ -455,7 +473,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -464,33 +482,32 @@
       }
     },
     "playerList": [
-      "Phantom",
-      "101\\-Omry\\[0333\\]"
+      "101\\-Omry\\[0333\\]",
+      "Phantom"
     ],
     "playerDetails": [
       {
-        "name": "Phantom",
-        "unit": "F-15C"
+        "name": "101\\-Omry\\[0333\\]",
+        "unit": "AH-64D_BLK_II"
       },
       {
-        "name": "101\\-Omry\\[0333\\]",
-        "unit": "_ _"
+        "name": "Phantom",
+        "unit": "F-15C"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Omry\\[0333\\]",
+          "unit": "AH-64D_BLK_II"
+        },
         {
           "name": "Phantom",
           "unit": "F-15C"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -523,8 +540,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
-          "red": 0
+          "blue": 9,
+          "red": 1
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -545,9 +562,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 17:55:27 UTC",
+    "lastUpdate": "26-03-28 18:00:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T17:55:26.059Z"
+  "lastUpdated": "2026-03-28T18:00:35.926Z"
 }
