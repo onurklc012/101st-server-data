@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "2:23:11",
-        "missionDate": "2026-03-29 10:38:11",
+        "missionTime": "2:28:11",
+        "missionDate": "2026-03-29 10:43:11",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1006 hPa",
@@ -129,7 +129,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 23:25:18 UTC",
+        "lastUpdate": "26-03-28 23:30:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -142,8 +142,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:19:50",
-        "missionDate": "2026-03-29 14:24:50",
+        "missionTime": "2:24:50",
+        "missionDate": "2026-03-29 14:29:50",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1011 hPa",
@@ -222,7 +222,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 23:25:17 UTC",
+        "lastUpdate": "26-03-28 23:30:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -235,8 +235,8 @@
         "map": "Syria",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "2:15:46",
-        "missionDate": "2026-03-29 09:15:46",
+        "missionTime": "2:20:46",
+        "missionDate": "2026-03-29 09:20:46",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1011 hPa",
@@ -247,7 +247,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 3,
             "total": 126
           },
           "red": {
@@ -256,51 +256,41 @@
           }
         },
         "playerList": [
-          "101\\-Yidobaba\\[0098\\]",
-          "✯101\\-EffBee\\[0010\\]✯",
           "101\\-Rabik",
+          "101\\-Yidobaba\\[0098\\]",
           "vinland"
         ],
         "playerDetails": [
           {
-            "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          },
-          {
-            "name": "✯101\\-EffBee\\[0010\\]✯",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Rabik",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "JF-17"
           },
           {
             "name": "vinland",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
           "blue": [
             {
-              "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Su-30SM"
+              "name": "101\\-Rabik",
+              "unit": "FA-18C_hornet"
             },
             {
-              "name": "✯101\\-EffBee\\[0010\\]✯",
+              "name": "101\\-Yidobaba\\[0098\\]",
+              "unit": "JF-17"
+            },
+            {
+              "name": "vinland",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Rabik",
-              "unit": "--"
-            },
-            {
-              "name": "vinland",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -355,7 +345,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 23:25:19 UTC",
+        "lastUpdate": "26-03-28 23:30:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -368,8 +358,8 @@
         "map": "Caucasus",
         "players": 7,
         "maxPlayers": 32,
-        "missionTime": "2:13:43",
-        "missionDate": "2026-03-29 17:38:43",
+        "missionTime": "2:18:43",
+        "missionDate": "2026-03-29 17:43:43",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1006 hPa",
@@ -380,7 +370,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 69
           },
           "red": {
@@ -392,9 +382,9 @@
           "101ArmOn1453",
           "101\\-Atmaca\\[3404\\]",
           "101\\-HotelTango",
-          "PENÇE",
           "⍟101\\-Longec\\[0007\\]⍟",
-          "scorpio"
+          "scorpio",
+          "ŞHT\\.PLT\\.BNB\\.BOLAT ANISINA"
         ],
         "playerDetails": [
           {
@@ -407,10 +397,6 @@
           },
           {
             "name": "101\\-HotelTango",
-            "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "PENÇE",
             "unit": "F-16C_50"
           },
           {
@@ -419,7 +405,11 @@
           },
           {
             "name": "scorpio",
-            "unit": "_ _"
+            "unit": "--"
+          },
+          {
+            "name": "ŞHT\\.PLT\\.BNB\\.BOLAT ANISINA",
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -434,10 +424,6 @@
             },
             {
               "name": "101\\-HotelTango",
-              "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "PENÇE",
               "unit": "F-16C_50"
             },
             {
@@ -449,7 +435,11 @@
           "neutral": [
             {
               "name": "scorpio",
-              "unit": "_ _"
+              "unit": "--"
+            },
+            {
+              "name": "ŞHT\\.PLT\\.BNB\\.BOLAT ANISINA",
+              "unit": "--"
             }
           ]
         },
@@ -506,7 +496,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 23:25:19 UTC",
+        "lastUpdate": "26-03-28 23:30:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -520,8 +510,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:23:11",
-      "missionDate": "2026-03-29 10:38:11",
+      "missionTime": "2:28:11",
+      "missionDate": "2026-03-29 10:43:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -639,11 +629,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 23:25:18 UTC",
+      "lastUpdate": "26-03-28 23:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-28T23:25:24.453Z"
+    "lastUpdated": "2026-03-28T23:30:34.188Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -716,12 +706,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 116406,
+          "totalCredits": 116306,
           "totalPlayers": 89,
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 02:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 02:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -762,7 +752,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-28T23:25:24.660Z"
+    "lastUpdated": "2026-03-28T23:30:34.357Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2875,11 +2865,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-28T23:25:25.524Z",
+    "lastUpdated": "2026-03-28T23:30:35.177Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-28T23:25:26.009Z",
+    "fetchedAt": "2026-03-28T23:30:35.642Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
