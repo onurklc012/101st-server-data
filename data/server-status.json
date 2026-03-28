@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:07:47",
-      "missionDate": "2026-03-28 13:22:47",
+      "missionTime": "5:12:47",
+      "missionDate": "2026-03-28 13:27:47",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -29,10 +29,22 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101 \\- Tepe"
+      ],
+      "playerDetails": [
+        {
+          "name": "101 \\- Tepe",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101 \\- Tepe",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -89,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:10:18 UTC",
+      "lastUpdate": "26-03-28 14:15:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:04:46",
-      "missionDate": "2026-03-28 17:09:46",
+      "missionTime": "5:09:46",
+      "missionDate": "2026-03-28 17:14:46",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -182,21 +194,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:10:17 UTC",
+      "lastUpdate": "26-03-28 14:15:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［8／32］",
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 8,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "5:00:53",
-      "missionDate": "2026-03-28 12:00:53",
+      "missionTime": "5:05:54",
+      "missionDate": "2026-03-28 12:05:54",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -219,8 +231,8 @@
         "101\\-MrMercans",
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
+        "101\\-Yidobaba\\[0098\\]",
         "Arda \\| \"Wraith\"",
-        "Swoxy",
         "TalhaPV"
       ],
       "playerDetails": [
@@ -237,12 +249,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Arda \\| \"Wraith\"",
-          "unit": "F15EX"
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "F-16C_50"
         },
         {
-          "name": "Swoxy",
-          "unit": "F-16C_50"
+          "name": "Arda \\| \"Wraith\"",
+          "unit": "F-15ESE"
         },
         {
           "name": "TalhaPV",
@@ -264,12 +276,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Arda \\| \"Wraith\"",
-            "unit": "F15EX"
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "F-16C_50"
           },
           {
-            "name": "Swoxy",
-            "unit": "F-16C_50"
+            "name": "Arda \\| \"Wraith\"",
+            "unit": "F-15ESE"
           },
           {
             "name": "TalhaPV",
@@ -332,7 +344,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:10:19 UTC",
+      "lastUpdate": "26-03-28 14:15:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -345,8 +357,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:58:38",
-      "missionDate": "2026-03-28 20:23:38",
+      "missionTime": "5:03:39",
+      "missionDate": "2026-03-28 20:28:39",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1009 hPa",
@@ -425,22 +437,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:10:20 UTC",
+      "lastUpdate": "26-03-28 14:15:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "5:07:47",
-    "missionDate": "2026-03-28 13:22:47",
+    "missionTime": "5:12:47",
+    "missionDate": "2026-03-28 13:27:47",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1010 hPa",
@@ -451,7 +463,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -459,10 +471,22 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "101 \\- Tepe"
+    ],
+    "playerDetails": [
+      {
+        "name": "101 \\- Tepe",
+        "unit": "F-16C_50"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "101 \\- Tepe",
+          "unit": "F-16C_50"
+        }
+      ],
       "red": [],
       "neutral": []
     },
@@ -519,9 +543,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 14:10:18 UTC",
+    "lastUpdate": "26-03-28 14:15:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T14:10:30.807Z"
+  "lastUpdated": "2026-03-28T14:15:27.737Z"
 }
