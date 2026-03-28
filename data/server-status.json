@@ -1,77 +1,22 @@
 {
   "servers": [
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:53:14",
-      "missionDate": "2026-03-28 14:08:14",
-      "weather": {
-        "temperature": "15.0°C",
-        "qnh": "1006 hPa",
-        "clouds": "Three Layers Broken/",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "250° / 2 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 4,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
-      "playerList": [
-        "?Beyaz",
-        "Enes",
-        "Hunter2\\-1",
-        "on7as"
-      ],
-      "playerDetails": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Enes",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Hunter2\\-1",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "on7as",
-          "unit": "F-16C_50"
-        }
-      ],
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "?Beyaz",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Enes",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Hunter2\\-1",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "on7as",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -128,7 +73,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 20:55:18 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +86,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:49:53",
-      "missionDate": "2026-03-28 17:54:53",
+      "missionTime": "5:54:53",
+      "missionDate": "2026-03-28 17:59:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -233,7 +178,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 20:55:17 UTC",
+      "lastUpdate": "26-03-28 21:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -246,8 +191,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:46:06",
-      "missionDate": "2026-03-28 12:46:06",
+      "missionTime": "5:51:06",
+      "missionDate": "2026-03-28 12:51:06",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -326,7 +271,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 20:55:19 UTC",
+      "lastUpdate": "26-03-28 21:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -339,8 +284,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:32:07",
-      "missionDate": "2026-03-28 15:57:07",
+      "missionTime": "0:37:07",
+      "missionDate": "2026-03-28 16:02:07",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1007 hPa",
@@ -360,22 +305,22 @@
         }
       },
       "playerList": [
-        "101ArmOn1453",
         "101\\-HotelTango",
         "PENÇE",
+        "ozii811",
         "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-HotelTango",
           "unit": "F-16C_50"
         },
         {
           "name": "PENÇE",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "ozii811",
           "unit": "F-16C_50"
         },
         {
@@ -386,15 +331,15 @@
       "activePlayers": {
         "blue": [
           {
-            "name": "101ArmOn1453",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-HotelTango",
             "unit": "F-16C_50"
           },
           {
             "name": "PENÇE",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "ozii811",
             "unit": "F-16C_50"
           },
           {
@@ -408,8 +353,8 @@
       "missionStats": {
         "situation": {
           "Hava Usleri / FARP'lar": {
-            "blue": 16,
-            "red": 32
+            "blue": 17,
+            "red": 31
           },
           "Ucaklar": {
             "blue": 0,
@@ -440,7 +385,7 @@
             "red": 0
           },
           "Downed Helicopters": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Ground Shacks": {
@@ -458,83 +403,28 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 20:55:20 UTC",
+      "lastUpdate": "26-03-28 21:00:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
+    "online": false,
     "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "5:53:14",
-    "missionDate": "2026-03-28 14:08:14",
-    "weather": {
-      "temperature": "15.0°C",
-      "qnh": "1006 hPa",
-      "clouds": "Three Layers Broken/",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "250° / 2 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 4,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
-    "playerList": [
-      "?Beyaz",
-      "Enes",
-      "Hunter2\\-1",
-      "on7as"
-    ],
-    "playerDetails": [
-      {
-        "name": "?Beyaz",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Enes",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Hunter2\\-1",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "on7as",
-        "unit": "F-16C_50"
-      }
-    ],
+    "missionTime": "--:--",
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Enes",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Hunter2\\-1",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "on7as",
-          "unit": "F-16C_50"
-        }
-      ],
+      "blue": [],
       "red": [],
       "neutral": []
     },
@@ -591,9 +481,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 20:55:18 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T20:55:24.797Z"
+  "lastUpdated": "2026-03-28T21:00:37.855Z"
 }
