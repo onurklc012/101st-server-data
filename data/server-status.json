@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:00:14",
-      "missionDate": "2026-03-28 09:15:14",
+      "missionTime": "1:03:14",
+      "missionDate": "2026-03-28 09:18:14",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -29,10 +29,22 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Tako"
+      ],
+      "playerDetails": [
+        {
+          "name": "Tako",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "Tako",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -89,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 16:02:18 UTC",
+      "lastUpdate": "26-03-28 16:05:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:56:53",
-      "missionDate": "2026-03-28 13:01:53",
+      "missionTime": "0:59:53",
+      "missionDate": "2026-03-28 13:04:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -182,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 16:02:17 UTC",
+      "lastUpdate": "26-03-28 16:05:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -195,8 +207,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:53:06",
-      "missionDate": "2026-03-28 07:53:06",
+      "missionTime": "0:56:06",
+      "missionDate": "2026-03-28 07:56:06",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -275,7 +287,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 16:02:19 UTC",
+      "lastUpdate": "26-03-28 16:05:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -288,8 +300,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "0:50:37",
-      "missionDate": "2026-03-28 16:15:37",
+      "missionTime": "0:53:37",
+      "missionDate": "2026-03-28 16:18:37",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -416,22 +428,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 16:02:19 UTC",
+      "lastUpdate": "26-03-28 16:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:00:14",
-    "missionDate": "2026-03-28 09:15:14",
+    "missionTime": "1:03:14",
+    "missionDate": "2026-03-28 09:18:14",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1006 hPa",
@@ -442,7 +454,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -450,10 +462,22 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Tako"
+    ],
+    "playerDetails": [
+      {
+        "name": "Tako",
+        "unit": "F-16C_50"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "Tako",
+          "unit": "F-16C_50"
+        }
+      ],
       "red": [],
       "neutral": []
     },
@@ -510,9 +534,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 16:02:18 UTC",
+    "lastUpdate": "26-03-28 16:05:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T16:02:20.165Z"
+  "lastUpdated": "2026-03-28T16:05:27.293Z"
 }
