@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［6／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 6,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "1:53:11",
-        "missionDate": "2026-03-29 10:08:11",
+        "missionTime": "1:58:11",
+        "missionDate": "2026-03-29 10:13:11",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1006 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 6,
             "total": 134
           },
           "red": {
@@ -32,9 +32,12 @@
         },
         "playerList": [
           "101\\-harun",
-          "Tako",
+          "UlvAvOdin",
           "VespaTR",
-          "on7as"
+          "cagan",
+          "on7as",
+          "rt\\_louisiana318",
+          "Yavuz"
         ],
         "playerDetails": [
           {
@@ -42,16 +45,28 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Tako",
-            "unit": "F-16C_50"
+            "name": "UlvAvOdin",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "VespaTR",
             "unit": "F-16C_50"
           },
           {
+            "name": "cagan",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "on7as",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "rt\\_louisiana318",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "Yavuz",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -61,20 +76,33 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Tako",
-              "unit": "F-16C_50"
+              "name": "UlvAvOdin",
+              "unit": "FA-18C_hornet"
             },
             {
               "name": "VespaTR",
               "unit": "F-16C_50"
             },
             {
+              "name": "cagan",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "on7as",
               "unit": "F-16C_50"
+            },
+            {
+              "name": "rt\\_louisiana318",
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Yavuz",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -129,7 +157,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 22:55:18 UTC",
+        "lastUpdate": "26-03-28 23:00:27 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -142,8 +170,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:49:50",
-        "missionDate": "2026-03-29 13:54:50",
+        "missionTime": "1:54:50",
+        "missionDate": "2026-03-29 13:59:50",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1011 hPa",
@@ -222,7 +250,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 22:55:17 UTC",
+        "lastUpdate": "26-03-28 23:00:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -235,8 +263,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "1:45:46",
-        "missionDate": "2026-03-29 08:45:46",
+        "missionTime": "1:50:46",
+        "missionDate": "2026-03-29 08:50:46",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1011 hPa",
@@ -327,7 +355,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 22:55:19 UTC",
+        "lastUpdate": "26-03-28 23:00:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -340,8 +368,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "1:43:43",
-        "missionDate": "2026-03-29 17:08:43",
+        "missionTime": "1:48:43",
+        "missionDate": "2026-03-29 17:13:43",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1006 hPa",
@@ -468,22 +496,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-28 22:55:19 UTC",
+        "lastUpdate": "26-03-28 23:00:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:53:11",
-      "missionDate": "2026-03-29 10:08:11",
+      "missionTime": "1:58:11",
+      "missionDate": "2026-03-29 10:13:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -494,7 +522,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 6,
           "total": 134
         },
         "red": {
@@ -504,9 +532,12 @@
       },
       "playerList": [
         "101\\-harun",
-        "Tako",
+        "UlvAvOdin",
         "VespaTR",
-        "on7as"
+        "cagan",
+        "on7as",
+        "rt\\_louisiana318",
+        "Yavuz"
       ],
       "playerDetails": [
         {
@@ -514,16 +545,28 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Tako",
-          "unit": "F-16C_50"
+          "name": "UlvAvOdin",
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "VespaTR",
           "unit": "F-16C_50"
         },
         {
+          "name": "cagan",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "on7as",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "rt\\_louisiana318",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "Yavuz",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -533,20 +576,33 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Tako",
-            "unit": "F-16C_50"
+            "name": "UlvAvOdin",
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "VespaTR",
             "unit": "F-16C_50"
           },
           {
+            "name": "cagan",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "on7as",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "rt\\_louisiana318",
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Yavuz",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -601,11 +657,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:55:18 UTC",
+      "lastUpdate": "26-03-28 23:00:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-28T22:55:28.874Z"
+    "lastUpdated": "2026-03-28T23:00:36.657Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -678,12 +734,12 @@
           }
         ],
         "stats": {
-          "totalCredits": 115556,
+          "totalCredits": 116406,
           "totalPlayers": 89,
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 01:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 02:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -724,7 +780,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-28T22:55:29.039Z"
+    "lastUpdated": "2026-03-28T23:00:36.784Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2837,11 +2893,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-28T22:55:29.994Z",
+    "lastUpdated": "2026-03-28T23:00:37.392Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-28T22:55:30.517Z",
+    "fetchedAt": "2026-03-28T23:00:38.013Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
