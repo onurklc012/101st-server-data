@@ -207,7 +207,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 5,
           "total": 126
         },
         "red": {
@@ -218,10 +218,10 @@
       "playerList": [
         "101\\-MrMercans",
         "101\\-Nos",
-        "101\\-Tunay \\[5555\\]",
         "101\\-Yidobaba\\[0098\\]",
         "Arda \\| \"Wraith\"",
-        "TalhaPV"
+        "TalhaPV",
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
         {
@@ -230,10 +230,6 @@
         },
         {
           "name": "101\\-Nos",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
         },
         {
@@ -247,6 +243,10 @@
         {
           "name": "TalhaPV",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "⍟101\\-Longec\\[0007\\]⍟",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -257,10 +257,6 @@
           },
           {
             "name": "101\\-Nos",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           },
           {
@@ -277,7 +273,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "⍟101\\-Longec\\[0007\\]⍟",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -332,7 +333,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 13:55:19 UTC",
+      "lastUpdate": "26-03-28 13:55:47 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -523,5 +524,5 @@
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T13:55:27.607Z"
+  "lastUpdated": "2026-03-28T13:56:06.767Z"
 }
