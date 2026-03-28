@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "1:38:11",
-      "missionDate": "2026-03-29 09:53:11",
+      "missionTime": "1:43:11",
+      "missionDate": "2026-03-29 09:58:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -32,7 +32,6 @@
       "playerList": [
         "101\\-harun",
         "Tako",
-        "VespaTR",
         "on7as"
       ],
       "playerDetails": [
@@ -42,10 +41,6 @@
         },
         {
           "name": "Tako",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "VespaTR",
           "unit": "F-16C_50"
         },
         {
@@ -61,10 +56,6 @@
           },
           {
             "name": "Tako",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "VespaTR",
             "unit": "F-16C_50"
           },
           {
@@ -106,15 +97,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 1,
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 9,
             "red": 0
           },
           "Sunken Ships": {
@@ -128,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:40:37 UTC",
+      "lastUpdate": "26-03-28 22:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +132,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:34:50",
-      "missionDate": "2026-03-29 13:39:50",
+      "missionTime": "1:39:50",
+      "missionDate": "2026-03-29 13:44:50",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -221,7 +212,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:40:17 UTC",
+      "lastUpdate": "26-03-28 22:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -234,8 +225,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:30:46",
-      "missionDate": "2026-03-29 08:30:46",
+      "missionTime": "1:35:46",
+      "missionDate": "2026-03-29 08:35:46",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -304,7 +295,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 5,
+            "blue": 6,
             "red": 0
           },
           "Downed Helicopters": {
@@ -326,21 +317,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:40:19 UTC",
+      "lastUpdate": "26-03-28 22:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［4／32］",
+      "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:28:43",
-      "missionDate": "2026-03-29 16:53:43",
+      "missionTime": "1:33:43",
+      "missionDate": "2026-03-29 16:58:43",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -362,7 +353,8 @@
       "playerList": [
         "101\\-HotelTango",
         "101\\-zeshka\\[0035\\]",
-        "⍟101\\-Longec\\[0007\\]⍟"
+        "⍟101\\-Longec\\[0007\\]⍟",
+        "101ArmOn1453"
       ],
       "playerDetails": [
         {
@@ -376,6 +368,10 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "Su-30SM"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -394,7 +390,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -449,7 +450,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 22:40:19 UTC",
+      "lastUpdate": "26-03-28 22:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -463,8 +464,8 @@
     "map": "Caucasus",
     "players": 4,
     "maxPlayers": 32,
-    "missionTime": "1:38:11",
-    "missionDate": "2026-03-29 09:53:11",
+    "missionTime": "1:43:11",
+    "missionDate": "2026-03-29 09:58:11",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1006 hPa",
@@ -486,7 +487,6 @@
     "playerList": [
       "101\\-harun",
       "Tako",
-      "VespaTR",
       "on7as"
     ],
     "playerDetails": [
@@ -496,10 +496,6 @@
       },
       {
         "name": "Tako",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "VespaTR",
         "unit": "F-16C_50"
       },
       {
@@ -515,10 +511,6 @@
         },
         {
           "name": "Tako",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "VespaTR",
           "unit": "F-16C_50"
         },
         {
@@ -560,15 +552,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
-          "red": 0
+          "blue": 1,
+          "red": 3
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 0,
+          "blue": 9,
           "red": 0
         },
         "Sunken Ships": {
@@ -582,9 +574,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 22:40:37 UTC",
+    "lastUpdate": "26-03-28 22:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T22:41:08.025Z"
+  "lastUpdated": "2026-03-28T22:45:28.923Z"
 }
