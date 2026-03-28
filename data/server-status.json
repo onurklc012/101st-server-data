@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:22:47",
-      "missionDate": "2026-03-28 13:37:47",
+      "missionTime": "5:27:47",
+      "missionDate": "2026-03-28 13:42:47",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1010 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:25:20 UTC",
+      "lastUpdate": "26-03-28 14:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:19:46",
-      "missionDate": "2026-03-28 17:24:46",
+      "missionTime": "5:24:46",
+      "missionDate": "2026-03-28 17:29:46",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:25:17 UTC",
+      "lastUpdate": "26-03-28 14:30:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 7,
       "maxPlayers": 32,
-      "missionTime": "5:15:54",
-      "missionDate": "2026-03-28 12:15:54",
+      "missionTime": "5:20:54",
+      "missionDate": "2026-03-28 12:20:54",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -232,16 +232,17 @@
         "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "101\\-Yidobaba\\[0098\\]",
-        "Arda \\| \"Wraith\""
+        "Arda \\| \"Wraith\"",
+        "Swoxy"
       ],
       "playerDetails": [
         {
           "name": "101\\-MrMercans",
-          "unit": "A-10C_2"
+          "unit": "F15EX"
         },
         {
           "name": "101\\-Nos",
-          "unit": "F-16C_50"
+          "unit": "C-130J-30"
         },
         {
           "name": "101\\-Tunay \\[5555\\]",
@@ -249,22 +250,26 @@
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "F-16C_50"
+          "unit": "A-10C_2"
         },
         {
           "name": "Arda \\| \"Wraith\"",
           "unit": "F-15ESE"
+        },
+        {
+          "name": "Swoxy",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-MrMercans",
-            "unit": "A-10C_2"
+            "unit": "F15EX"
           },
           {
             "name": "101\\-Nos",
-            "unit": "F-16C_50"
+            "unit": "C-130J-30"
           },
           {
             "name": "101\\-Tunay \\[5555\\]",
@@ -272,7 +277,7 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "F-16C_50"
+            "unit": "A-10C_2"
           },
           {
             "name": "Arda \\| \"Wraith\"",
@@ -280,7 +285,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Swoxy",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -335,7 +345,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:25:20 UTC",
+      "lastUpdate": "26-03-28 14:30:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -348,8 +358,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:13:39",
-      "missionDate": "2026-03-28 20:38:39",
+      "missionTime": "5:18:39",
+      "missionDate": "2026-03-28 20:43:39",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1009 hPa",
@@ -428,7 +438,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 14:25:21 UTC",
+      "lastUpdate": "26-03-28 14:30:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -442,8 +452,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "5:22:47",
-    "missionDate": "2026-03-28 13:37:47",
+    "missionTime": "5:27:47",
+    "missionDate": "2026-03-28 13:42:47",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1010 hPa",
@@ -534,9 +544,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 14:25:20 UTC",
+    "lastUpdate": "26-03-28 14:30:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T14:25:23.555Z"
+  "lastUpdated": "2026-03-28T14:30:35.061Z"
 }
