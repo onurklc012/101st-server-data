@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:32:47",
-      "missionDate": "2026-03-28 12:47:47",
+      "missionTime": "4:37:47",
+      "missionDate": "2026-03-28 12:52:47",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1010 hPa",
@@ -89,7 +89,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 13:35:18 UTC",
+      "lastUpdate": "26-03-28 13:40:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -102,8 +102,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:29:46",
-      "missionDate": "2026-03-28 16:34:46",
+      "missionTime": "4:34:46",
+      "missionDate": "2026-03-28 16:39:46",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -182,21 +182,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 13:35:17 UTC",
+      "lastUpdate": "26-03-28 13:40:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［10／32］",
+      "channelName": "🖥️┃syria-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 10,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:25:53",
-      "missionDate": "2026-03-28 11:25:53",
+      "missionTime": "4:30:53",
+      "missionDate": "2026-03-28 11:30:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -217,13 +217,12 @@
       },
       "playerList": [
         "101\\-MrMercans",
+        "101\\-Nos",
         "101\\-Tunay \\[5555\\]",
         "101\\-Yidobaba\\[0098\\]",
         "Arda \\| \"Wraith\"",
         "Swoxy",
-        "TalhaPV",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "KaraCehennem"
+        "TalhaPV"
       ],
       "playerDetails": [
         {
@@ -231,12 +230,16 @@
           "unit": "A-10C_2"
         },
         {
+          "name": "101\\-Nos",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "F-16C_50"
+          "unit": "F15EX"
         },
         {
           "name": "Arda \\| \"Wraith\"",
@@ -249,14 +252,6 @@
         {
           "name": "TalhaPV",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "Su-30SM"
-        },
-        {
-          "name": "KaraCehennem",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -266,12 +261,16 @@
             "unit": "A-10C_2"
           },
           {
+            "name": "101\\-Nos",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "F-16C_50"
+            "unit": "F15EX"
           },
           {
             "name": "Arda \\| \"Wraith\"",
@@ -284,19 +283,10 @@
           {
             "name": "TalhaPV",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "⍟101\\-Longec\\[0007\\]⍟",
-            "unit": "Su-30SM"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "KaraCehennem",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -329,15 +319,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 1
+            "blue": 9,
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 9,
+            "blue": 15,
             "red": 0
           },
           "Sunken Ships": {
@@ -351,7 +341,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 13:35:19 UTC",
+      "lastUpdate": "26-03-28 13:40:20 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -364,8 +354,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:23:39",
-      "missionDate": "2026-03-28 19:48:39",
+      "missionTime": "4:28:39",
+      "missionDate": "2026-03-28 19:53:39",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1009 hPa",
@@ -384,12 +374,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "KaraCehennem"
+      ],
+      "playerDetails": [
+        {
+          "name": "KaraCehennem",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "KaraCehennem",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -444,7 +446,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 13:35:20 UTC",
+      "lastUpdate": "26-03-28 13:40:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -458,8 +460,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "4:32:47",
-    "missionDate": "2026-03-28 12:47:47",
+    "missionTime": "4:37:47",
+    "missionDate": "2026-03-28 12:52:47",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1010 hPa",
@@ -538,9 +540,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 13:35:18 UTC",
+    "lastUpdate": "26-03-28 13:40:19 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T13:35:23.980Z"
+  "lastUpdated": "2026-03-28T13:40:33.048Z"
 }
