@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "0:23:11",
-      "missionDate": "2026-03-29 08:38:11",
+      "missionTime": "0:28:11",
+      "missionDate": "2026-03-29 08:43:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -33,7 +33,8 @@
         "Ray",
         "on7as",
         "qerttyy",
-        "VespaTR"
+        "VespaTR",
+        "cagan"
       ],
       "playerDetails": [
         {
@@ -50,7 +51,11 @@
         },
         {
           "name": "VespaTR",
-          "unit": "_ _"
+          "unit": "--"
+        },
+        {
+          "name": "cagan",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -72,7 +77,11 @@
         "neutral": [
           {
             "name": "VespaTR",
-            "unit": "_ _"
+            "unit": "--"
+          },
+          {
+            "name": "cagan",
+            "unit": "--"
           }
         ]
       },
@@ -129,7 +138,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 21:25:18 UTC",
+      "lastUpdate": "26-03-28 21:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +151,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:19:50",
-      "missionDate": "2026-03-29 12:24:50",
+      "missionTime": "0:24:50",
+      "missionDate": "2026-03-29 12:29:50",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -234,7 +243,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 21:25:17 UTC",
+      "lastUpdate": "26-03-28 21:30:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -247,8 +256,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:15:46",
-      "missionDate": "2026-03-29 07:15:46",
+      "missionTime": "0:20:46",
+      "missionDate": "2026-03-29 07:20:46",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -327,21 +336,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 21:25:19 UTC",
+      "lastUpdate": "26-03-28 21:30:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［4／32］",
+      "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "0:13:43",
-      "missionDate": "2026-03-29 15:38:43",
+      "missionTime": "0:18:43",
+      "missionDate": "2026-03-29 15:43:43",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -352,7 +361,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -362,13 +371,17 @@
       },
       "playerList": [
         "101ArmOn1453",
+        "101\\-HotelTango",
         "PENÇE",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "101\\-HotelTango"
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
         {
           "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-HotelTango",
           "unit": "F-16C_50"
         },
         {
@@ -378,16 +391,16 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "Su-30SM"
-        },
-        {
-          "name": "101\\-HotelTango",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-HotelTango",
             "unit": "F-16C_50"
           },
           {
@@ -400,12 +413,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -460,22 +468,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 21:25:27 UTC",
+      "lastUpdate": "26-03-28 21:30:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "0:23:11",
-    "missionDate": "2026-03-29 08:38:11",
+    "missionTime": "0:28:11",
+    "missionDate": "2026-03-29 08:43:11",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1006 hPa",
@@ -498,7 +506,8 @@
       "Ray",
       "on7as",
       "qerttyy",
-      "VespaTR"
+      "VespaTR",
+      "cagan"
     ],
     "playerDetails": [
       {
@@ -515,7 +524,11 @@
       },
       {
         "name": "VespaTR",
-        "unit": "_ _"
+        "unit": "--"
+      },
+      {
+        "name": "cagan",
+        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -537,7 +550,11 @@
       "neutral": [
         {
           "name": "VespaTR",
-          "unit": "_ _"
+          "unit": "--"
+        },
+        {
+          "name": "cagan",
+          "unit": "--"
         }
       ]
     },
@@ -594,9 +611,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 21:25:18 UTC",
+    "lastUpdate": "26-03-28 21:30:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T21:25:25.552Z"
+  "lastUpdated": "2026-03-28T21:30:32.618Z"
 }
