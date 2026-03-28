@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:13:14",
-      "missionDate": "2026-03-28 12:28:14",
+      "missionTime": "4:18:14",
+      "missionDate": "2026-03-28 12:33:14",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 6,
           "total": 134
         },
         "red": {
@@ -30,17 +30,25 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "101\\-Omry\\[0333\\]",
+        "101\\-Tunay \\[5555\\]",
         "NAZGUL",
         "nuubot",
-        "⍟101\\-Longec\\[0007\\]⍟",
-        "101ArmOn1453",
-        "101\\-Tunay \\[5555\\]"
+        "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
         {
+          "name": "101ArmOn1453",
+          "unit": "Ka-50_3"
+        },
+        {
           "name": "101\\-Omry\\[0333\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "Ka-50_3"
         },
         {
           "name": "NAZGUL",
@@ -53,21 +61,21 @@
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
           "unit": "Ka-50_3"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
+            "name": "101ArmOn1453",
+            "unit": "Ka-50_3"
+          },
+          {
             "name": "101\\-Omry\\[0333\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "Ka-50_3"
           },
           {
             "name": "NAZGUL",
@@ -83,16 +91,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -147,7 +146,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:15:18 UTC",
+      "lastUpdate": "26-03-28 19:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -160,8 +159,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:09:53",
-      "missionDate": "2026-03-28 16:14:53",
+      "missionTime": "4:14:53",
+      "missionDate": "2026-03-28 16:19:53",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -240,21 +239,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:15:17 UTC",
+      "lastUpdate": "26-03-28 19:20:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［5／32］",
+      "channelName": "🖥️┃syria-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "4:06:06",
-      "missionDate": "2026-03-28 11:06:06",
+      "missionTime": "4:11:06",
+      "missionDate": "2026-03-28 11:11:06",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1011 hPa",
@@ -277,7 +276,8 @@
         "Hançer 2",
         "Hançer\\-1",
         "PENÇE",
-        "TalhaPV"
+        "TalhaPV",
+        "101\\-HotelTango"
       ],
       "playerDetails": [
         {
@@ -295,6 +295,10 @@
         {
           "name": "TalhaPV",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-HotelTango",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -317,7 +321,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-HotelTango",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -372,7 +381,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:15:19 UTC",
+      "lastUpdate": "26-03-28 19:20:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -385,8 +394,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:03:37",
-      "missionDate": "2026-03-28 19:28:37",
+      "missionTime": "4:08:37",
+      "missionDate": "2026-03-28 19:33:37",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1006 hPa",
@@ -465,7 +474,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 19:15:19 UTC",
+      "lastUpdate": "26-03-28 19:20:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -479,8 +488,8 @@
     "map": "Caucasus",
     "players": 7,
     "maxPlayers": 32,
-    "missionTime": "4:13:14",
-    "missionDate": "2026-03-28 12:28:14",
+    "missionTime": "4:18:14",
+    "missionDate": "2026-03-28 12:33:14",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1006 hPa",
@@ -491,7 +500,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 6,
         "total": 134
       },
       "red": {
@@ -500,17 +509,25 @@
       }
     },
     "playerList": [
+      "101ArmOn1453",
       "101\\-Omry\\[0333\\]",
+      "101\\-Tunay \\[5555\\]",
       "NAZGUL",
       "nuubot",
-      "⍟101\\-Longec\\[0007\\]⍟",
-      "101ArmOn1453",
-      "101\\-Tunay \\[5555\\]"
+      "⍟101\\-Longec\\[0007\\]⍟"
     ],
     "playerDetails": [
       {
+        "name": "101ArmOn1453",
+        "unit": "Ka-50_3"
+      },
+      {
         "name": "101\\-Omry\\[0333\\]",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "101\\-Tunay \\[5555\\]",
+        "unit": "Ka-50_3"
       },
       {
         "name": "NAZGUL",
@@ -523,21 +540,21 @@
       {
         "name": "⍟101\\-Longec\\[0007\\]⍟",
         "unit": "Ka-50_3"
-      },
-      {
-        "name": "101ArmOn1453",
-        "unit": "--"
-      },
-      {
-        "name": "101\\-Tunay \\[5555\\]",
-        "unit": "--"
       }
     ],
     "activePlayers": {
       "blue": [
         {
+          "name": "101ArmOn1453",
+          "unit": "Ka-50_3"
+        },
+        {
           "name": "101\\-Omry\\[0333\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "Ka-50_3"
         },
         {
           "name": "NAZGUL",
@@ -553,16 +570,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101ArmOn1453",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "--"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -617,9 +625,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 19:15:18 UTC",
+    "lastUpdate": "26-03-28 19:20:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T19:15:33.988Z"
+  "lastUpdated": "2026-03-28T19:20:34.067Z"
 }
