@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［19／32］",
+      "channelName": "🖥️┃server-caucasus［18／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 19,
+      "players": 18,
       "maxPlayers": 32,
-      "missionTime": "4:03:07",
-      "missionDate": "2026-03-29 12:18:07",
+      "missionTime": "4:07:07",
+      "missionDate": "2026-03-29 12:22:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 14,
+          "used": 12,
           "total": 134
         },
         "red": {
@@ -30,7 +30,6 @@
         }
       },
       "playerList": [
-        "101\\-Tibet\\[4722\\]",
         "101\\-VespaTR\\(ACEMİ\\)",
         "?Beyaz",
         "BNB\\.ASLAN",
@@ -38,7 +37,6 @@
         "MaestroTR21",
         "Melon",
         "ShootingStar 1\\-1 \\| Medic",
-        "Somon",
         "Tako",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "\\[RK\\] Falcon Pilot YT",
@@ -50,10 +48,6 @@
         "101\\-Rabik"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Tibet\\[4722\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-VespaTR\\(ACEMİ\\)",
           "unit": "F-16C_50"
@@ -81,10 +75,6 @@
         {
           "name": "ShootingStar 1\\-1 \\| Medic",
           "unit": "M-2000C"
-        },
-        {
-          "name": "Somon",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "Tako",
@@ -126,10 +116,6 @@
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Tibet\\[4722\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-VespaTR\\(ACEMİ\\)",
             "unit": "F-16C_50"
           },
@@ -156,10 +142,6 @@
           {
             "name": "ShootingStar 1\\-1 \\| Medic",
             "unit": "M-2000C"
-          },
-          {
-            "name": "Somon",
-            "unit": "FA-18C_hornet"
           },
           {
             "name": "Tako",
@@ -255,21 +237,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:05:18 UTC",
+      "lastUpdate": "26-03-29 19:09:47 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:59:46",
-      "missionDate": "2026-03-29 16:04:46",
+      "missionTime": "4:03:46",
+      "missionDate": "2026-03-29 16:08:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -288,10 +270,22 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Dursun"
+      ],
+      "playerDetails": [
+        {
+          "name": "Dursun",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "Dursun",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -348,7 +342,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:05:17 UTC",
+      "lastUpdate": "26-03-29 19:09:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -361,8 +355,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:55:45",
-      "missionDate": "2026-03-29 10:55:45",
+      "missionTime": "3:59:45",
+      "missionDate": "2026-03-29 10:59:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -440,11 +434,11 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 4
+            "blue": 13,
+            "red": 5
           },
           "Downed Helicopters": {
-            "blue": 1,
+            "blue": 2,
             "red": 0
           },
           "Ground Shacks": {
@@ -462,7 +456,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:05:19 UTC",
+      "lastUpdate": "26-03-29 19:09:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -475,8 +469,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:53:42",
-      "missionDate": "2026-03-29 19:18:42",
+      "missionTime": "3:57:42",
+      "missionDate": "2026-03-29 19:22:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -567,22 +561,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:05:19 UTC",
+      "lastUpdate": "26-03-29 19:09:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［19／32］",
+    "channelName": "🖥️┃server-caucasus［18／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 19,
+    "players": 18,
     "maxPlayers": 32,
-    "missionTime": "4:03:07",
-    "missionDate": "2026-03-29 12:18:07",
+    "missionTime": "4:07:07",
+    "missionDate": "2026-03-29 12:22:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -593,7 +587,7 @@
     },
     "slots": {
       "blue": {
-        "used": 14,
+        "used": 12,
         "total": 134
       },
       "red": {
@@ -602,7 +596,6 @@
       }
     },
     "playerList": [
-      "101\\-Tibet\\[4722\\]",
       "101\\-VespaTR\\(ACEMİ\\)",
       "?Beyaz",
       "BNB\\.ASLAN",
@@ -610,7 +603,6 @@
       "MaestroTR21",
       "Melon",
       "ShootingStar 1\\-1 \\| Medic",
-      "Somon",
       "Tako",
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
       "\\[RK\\] Falcon Pilot YT",
@@ -622,10 +614,6 @@
       "101\\-Rabik"
     ],
     "playerDetails": [
-      {
-        "name": "101\\-Tibet\\[4722\\]",
-        "unit": "F-16C_50"
-      },
       {
         "name": "101\\-VespaTR\\(ACEMİ\\)",
         "unit": "F-16C_50"
@@ -653,10 +641,6 @@
       {
         "name": "ShootingStar 1\\-1 \\| Medic",
         "unit": "M-2000C"
-      },
-      {
-        "name": "Somon",
-        "unit": "FA-18C_hornet"
       },
       {
         "name": "Tako",
@@ -698,10 +682,6 @@
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Tibet\\[4722\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-VespaTR\\(ACEMİ\\)",
           "unit": "F-16C_50"
         },
@@ -728,10 +708,6 @@
         {
           "name": "ShootingStar 1\\-1 \\| Medic",
           "unit": "M-2000C"
-        },
-        {
-          "name": "Somon",
-          "unit": "FA-18C_hornet"
         },
         {
           "name": "Tako",
@@ -827,9 +803,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 19:05:18 UTC",
+    "lastUpdate": "26-03-29 19:09:47 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T19:05:23.066Z"
+  "lastUpdated": "2026-03-29T19:10:14.246Z"
 }
