@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［11／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 11,
       "maxPlayers": 32,
-      "missionTime": "2:38:07",
-      "missionDate": "2026-03-29 10:53:07",
+      "missionTime": "2:43:07",
+      "missionDate": "2026-03-29 10:58:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -25,26 +25,33 @@
           "total": 134
         },
         "red": {
-          "used": 0,
+          "used": 1,
           "total": 16
         }
       },
       "playerList": [
-        "101\\-Nos",
         "CanAda",
+        "IRRESTIBLE",
+        "MaestroTR21",
         "ShootingStar 1\\-1 \\| Medic",
-        "VespaTR",
         "cagan",
+        "101\\-Nos",
+        "101\\-Fish\\[7906\\]",
+        "101\\-Maskot\\(0019\\)",
         "101chemisTR61",
-        "IRRESTIBLE"
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Nos",
-          "unit": "FA-18C_hornet"
+          "name": "CanAda",
+          "unit": "F-16C_50"
         },
         {
-          "name": "CanAda",
+          "name": "IRRESTIBLE",
+          "unit": "A-10A"
+        },
+        {
+          "name": "MaestroTR21",
           "unit": "F-16C_50"
         },
         {
@@ -52,30 +59,42 @@
           "unit": "M-2000C"
         },
         {
-          "name": "VespaTR",
+          "name": "cagan",
           "unit": "F-16C_50"
         },
         {
-          "name": "cagan",
+          "name": "101\\-Nos",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "--"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "--"
         },
         {
           "name": "101chemisTR61",
           "unit": "--"
         },
         {
-          "name": "IRRESTIBLE",
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Nos",
-            "unit": "FA-18C_hornet"
+            "name": "CanAda",
+            "unit": "F-16C_50"
           },
           {
-            "name": "CanAda",
+            "name": "IRRESTIBLE",
+            "unit": "A-10A"
+          },
+          {
+            "name": "MaestroTR21",
             "unit": "F-16C_50"
           },
           {
@@ -83,22 +102,31 @@
             "unit": "M-2000C"
           },
           {
-            "name": "VespaTR",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "cagan",
             "unit": "F-16C_50"
           }
         ],
-        "red": [],
+        "red": [
+          {
+            "name": "101\\-Nos",
+            "unit": "F-16C_50"
+          }
+        ],
         "neutral": [
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "--"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "--"
+          },
           {
             "name": "101chemisTR61",
             "unit": "--"
           },
           {
-            "name": "IRRESTIBLE",
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "--"
           }
         ]
@@ -127,22 +155,22 @@
           },
           "Yapilar": {
             "blue": 134,
-            "red": 15
+            "red": 14
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 3
+            "blue": 10,
+            "red": 6
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 4,
+            "blue": 11,
             "red": 0
           },
           "Sunken Ships": {
@@ -156,7 +184,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 17:40:18 UTC",
+      "lastUpdate": "26-03-29 17:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -169,8 +197,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:34:46",
-      "missionDate": "2026-03-29 14:39:46",
+      "missionTime": "2:39:46",
+      "missionDate": "2026-03-29 14:44:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -249,21 +277,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 17:40:17 UTC",
+      "lastUpdate": "26-03-29 17:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［3／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:30:45",
-      "missionDate": "2026-03-29 09:30:45",
+      "missionTime": "2:35:45",
+      "missionDate": "2026-03-29 09:35:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -332,8 +360,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 0
+            "blue": 4,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -354,7 +382,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 17:40:19 UTC",
+      "lastUpdate": "26-03-29 17:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -367,8 +395,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:28:42",
-      "missionDate": "2026-03-29 17:53:42",
+      "missionTime": "2:33:42",
+      "missionDate": "2026-03-29 17:58:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -447,22 +475,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 17:40:19 UTC",
+      "lastUpdate": "26-03-29 17:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［11／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 11,
     "maxPlayers": 32,
-    "missionTime": "2:38:07",
-    "missionDate": "2026-03-29 10:53:07",
+    "missionTime": "2:43:07",
+    "missionDate": "2026-03-29 10:58:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -477,26 +505,33 @@
         "total": 134
       },
       "red": {
-        "used": 0,
+        "used": 1,
         "total": 16
       }
     },
     "playerList": [
-      "101\\-Nos",
       "CanAda",
+      "IRRESTIBLE",
+      "MaestroTR21",
       "ShootingStar 1\\-1 \\| Medic",
-      "VespaTR",
       "cagan",
+      "101\\-Nos",
+      "101\\-Fish\\[7906\\]",
+      "101\\-Maskot\\(0019\\)",
       "101chemisTR61",
-      "IRRESTIBLE"
+      "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
     ],
     "playerDetails": [
       {
-        "name": "101\\-Nos",
-        "unit": "FA-18C_hornet"
+        "name": "CanAda",
+        "unit": "F-16C_50"
       },
       {
-        "name": "CanAda",
+        "name": "IRRESTIBLE",
+        "unit": "A-10A"
+      },
+      {
+        "name": "MaestroTR21",
         "unit": "F-16C_50"
       },
       {
@@ -504,30 +539,42 @@
         "unit": "M-2000C"
       },
       {
-        "name": "VespaTR",
+        "name": "cagan",
         "unit": "F-16C_50"
       },
       {
-        "name": "cagan",
+        "name": "101\\-Nos",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "101\\-Fish\\[7906\\]",
+        "unit": "--"
+      },
+      {
+        "name": "101\\-Maskot\\(0019\\)",
+        "unit": "--"
       },
       {
         "name": "101chemisTR61",
         "unit": "--"
       },
       {
-        "name": "IRRESTIBLE",
+        "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "unit": "--"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Nos",
-          "unit": "FA-18C_hornet"
+          "name": "CanAda",
+          "unit": "F-16C_50"
         },
         {
-          "name": "CanAda",
+          "name": "IRRESTIBLE",
+          "unit": "A-10A"
+        },
+        {
+          "name": "MaestroTR21",
           "unit": "F-16C_50"
         },
         {
@@ -535,22 +582,31 @@
           "unit": "M-2000C"
         },
         {
-          "name": "VespaTR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "cagan",
           "unit": "F-16C_50"
         }
       ],
-      "red": [],
+      "red": [
+        {
+          "name": "101\\-Nos",
+          "unit": "F-16C_50"
+        }
+      ],
       "neutral": [
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "--"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "--"
+        },
         {
           "name": "101chemisTR61",
           "unit": "--"
         },
         {
-          "name": "IRRESTIBLE",
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "unit": "--"
         }
       ]
@@ -579,22 +635,22 @@
         },
         "Yapilar": {
           "blue": 134,
-          "red": 15
+          "red": 14
         },
         "Base Captures": {
           "blue": 0,
           "red": 0
         },
         "Killed Planes": {
-          "blue": 1,
-          "red": 3
+          "blue": 10,
+          "red": 6
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 4,
+          "blue": 11,
           "red": 0
         },
         "Sunken Ships": {
@@ -608,9 +664,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 17:40:18 UTC",
+    "lastUpdate": "26-03-29 17:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T17:40:25.499Z"
+  "lastUpdated": "2026-03-29T17:45:31.217Z"
 }
