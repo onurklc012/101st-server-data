@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［11／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 11,
       "maxPlayers": 32,
-      "missionTime": "1:33:07",
-      "missionDate": "2026-03-29 09:48:07",
+      "missionTime": "1:38:07",
+      "missionDate": "2026-03-29 09:53:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 134
         },
         "red": {
@@ -34,9 +34,12 @@
         "?Beyaz",
         "Başar Demir",
         "CanAda",
+        "VespaTR",
         "on7as",
         "rte",
-        "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>"
+        "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
+        "ShootingStar 1\\-1 \\| Medic",
+        "cagan"
       ],
       "playerDetails": [
         {
@@ -56,6 +59,10 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "VespaTR",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "on7as",
           "unit": "F-16C_50"
         },
@@ -66,6 +73,14 @@
         {
           "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
           "unit": "F15EX"
+        },
+        {
+          "name": "ShootingStar 1\\-1 \\| Medic",
+          "unit": "--"
+        },
+        {
+          "name": "cagan",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -87,6 +102,10 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "VespaTR",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "on7as",
             "unit": "F-16C_50"
           },
@@ -101,7 +120,16 @@
             "unit": "F15EX"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "ShootingStar 1\\-1 \\| Medic",
+            "unit": "--"
+          },
+          {
+            "name": "cagan",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -135,7 +163,7 @@
           },
           "Killed Planes": {
             "blue": 1,
-            "red": 2
+            "red": 3
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -156,7 +184,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:35:18 UTC",
+      "lastUpdate": "26-03-29 16:40:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -169,8 +197,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:29:46",
-      "missionDate": "2026-03-29 13:34:46",
+      "missionTime": "1:34:46",
+      "missionDate": "2026-03-29 13:39:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -249,7 +277,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:35:17 UTC",
+      "lastUpdate": "26-03-29 16:40:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -262,8 +290,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:25:45",
-      "missionDate": "2026-03-29 08:25:45",
+      "missionTime": "1:30:45",
+      "missionDate": "2026-03-29 08:30:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -342,7 +370,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:35:20 UTC",
+      "lastUpdate": "26-03-29 16:40:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -355,8 +383,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:23:42",
-      "missionDate": "2026-03-29 16:48:42",
+      "missionTime": "1:28:42",
+      "missionDate": "2026-03-29 16:53:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -435,22 +463,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:35:20 UTC",
+      "lastUpdate": "26-03-29 16:40:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "channelName": "🖥️┃server-caucasus［11／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 8,
+    "players": 11,
     "maxPlayers": 32,
-    "missionTime": "1:33:07",
-    "missionDate": "2026-03-29 09:48:07",
+    "missionTime": "1:38:07",
+    "missionDate": "2026-03-29 09:53:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -461,7 +489,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 7,
         "total": 134
       },
       "red": {
@@ -474,9 +502,12 @@
       "?Beyaz",
       "Başar Demir",
       "CanAda",
+      "VespaTR",
       "on7as",
       "rte",
-      "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>"
+      "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
+      "ShootingStar 1\\-1 \\| Medic",
+      "cagan"
     ],
     "playerDetails": [
       {
@@ -496,6 +527,10 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "VespaTR",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "on7as",
         "unit": "F-16C_50"
       },
@@ -506,6 +541,14 @@
       {
         "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
         "unit": "F15EX"
+      },
+      {
+        "name": "ShootingStar 1\\-1 \\| Medic",
+        "unit": "--"
+      },
+      {
+        "name": "cagan",
+        "unit": "--"
       }
     ],
     "activePlayers": {
@@ -527,6 +570,10 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "VespaTR",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "on7as",
           "unit": "F-16C_50"
         },
@@ -541,7 +588,16 @@
           "unit": "F15EX"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "ShootingStar 1\\-1 \\| Medic",
+          "unit": "--"
+        },
+        {
+          "name": "cagan",
+          "unit": "--"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -575,7 +631,7 @@
         },
         "Killed Planes": {
           "blue": 1,
-          "red": 2
+          "red": 3
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -596,9 +652,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 16:35:18 UTC",
+    "lastUpdate": "26-03-29 16:40:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T16:35:27.173Z"
+  "lastUpdated": "2026-03-29T16:40:30.677Z"
 }
