@@ -2,34 +2,18 @@
   "serverStatus": {
     "servers": [
       {
-        "online": true,
+        "online": false,
         "channelName": "🖥️┃server-caucasus［6／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": "88.247.164.234:10308",
-        "mission": "101_Hunter_SQN_v9_5",
-        "map": "Caucasus",
+        "serverIP": null,
+        "mission": "--",
+        "map": "--",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "5:54:46",
-        "missionDate": "2026-03-29 14:09:46",
-        "weather": {
-          "temperature": "16.0°C",
-          "qnh": "1001 hPa",
-          "clouds": "Clear",
-          "cloudbase": "--",
-          "visibility": "10 km / 6 SM (+)",
-          "wind": "100° / 4 kts"
-        },
-        "slots": {
-          "blue": {
-            "used": 5,
-            "total": 134
-          },
-          "red": {
-            "used": 0,
-            "total": 16
-          }
-        },
+        "missionTime": "--:--",
+        "missionDate": null,
+        "weather": null,
+        "slots": null,
         "playerList": [
           "101 \\- Tepe",
           "?Beyaz",
@@ -40,50 +24,50 @@
         "playerDetails": [
           {
             "name": "101 \\- Tepe",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "?Beyaz",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "VespaTR",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "cagan",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "on7as",
-            "unit": "F-16C_50"
+            "unit": "--"
           }
         ],
         "activePlayers": {
-          "blue": [
+          "blue": [],
+          "red": [],
+          "neutral": [
             {
               "name": "101 \\- Tepe",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "?Beyaz",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "VespaTR",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "cagan",
-              "unit": "F-16C_50"
+              "unit": "--"
             },
             {
               "name": "on7as",
-              "unit": "F-16C_50"
+              "unit": "--"
             }
-          ],
-          "red": [],
-          "neutral": []
+          ]
         },
         "missionStats": {
           "situation": {
@@ -124,7 +108,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 11,
+              "blue": 14,
               "red": 0
             },
             "Sunken Ships": {
@@ -138,7 +122,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 14:57:18 UTC",
+        "lastUpdate": null,
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -151,8 +135,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:51:45",
-        "missionDate": "2026-03-29 17:56:45",
+        "missionTime": "5:54:45",
+        "missionDate": "2026-03-29 17:59:45",
         "weather": {
           "temperature": "17.0°C",
           "qnh": "1009 hPa",
@@ -243,7 +227,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 14:57:17 UTC",
+        "lastUpdate": "26-03-29 15:00:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -256,8 +240,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:47:41",
-        "missionDate": "2026-03-29 12:47:41",
+        "missionTime": "5:50:41",
+        "missionDate": "2026-03-29 12:50:41",
         "weather": {
           "temperature": "17.0°C",
           "qnh": "1009 hPa",
@@ -336,7 +320,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 14:57:19 UTC",
+        "lastUpdate": "26-03-29 15:00:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -349,8 +333,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:22:39",
-        "missionDate": "2026-03-29 16:47:39",
+        "missionTime": "1:25:39",
+        "missionDate": "2026-03-29 16:50:39",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "995 hPa",
@@ -429,40 +413,24 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 14:57:19 UTC",
+        "lastUpdate": "26-03-29 15:00:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "5:54:46",
-      "missionDate": "2026-03-29 14:09:46",
-      "weather": {
-        "temperature": "16.0°C",
-        "qnh": "1001 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "100° / 4 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 5,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "101 \\- Tepe",
         "?Beyaz",
@@ -473,50 +441,50 @@
       "playerDetails": [
         {
           "name": "101 \\- Tepe",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "?Beyaz",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "VespaTR",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "cagan",
-          "unit": "F-16C_50"
+          "unit": "--"
         },
         {
           "name": "on7as",
-          "unit": "F-16C_50"
+          "unit": "--"
         }
       ],
       "activePlayers": {
-        "blue": [
+        "blue": [],
+        "red": [],
+        "neutral": [
           {
             "name": "101 \\- Tepe",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "?Beyaz",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "VespaTR",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "cagan",
-            "unit": "F-16C_50"
+            "unit": "--"
           },
           {
             "name": "on7as",
-            "unit": "F-16C_50"
+            "unit": "--"
           }
-        ],
-        "red": [],
-        "neutral": []
+        ]
       },
       "missionStats": {
         "situation": {
@@ -557,7 +525,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 11,
+            "blue": 14,
             "red": 0
           },
           "Sunken Ships": {
@@ -571,11 +539,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 14:57:18 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-29T14:57:22.460Z"
+    "lastUpdated": "2026-03-29T15:00:39.570Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -653,7 +621,7 @@
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 17:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 18:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -694,7 +662,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-29T14:57:22.581Z"
+    "lastUpdated": "2026-03-29T15:00:39.698Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2845,11 +2813,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-29T14:57:23.488Z",
+    "lastUpdated": "2026-03-29T15:00:40.617Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-29T14:57:24.487Z",
+    "fetchedAt": "2026-03-29T15:00:41.163Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
