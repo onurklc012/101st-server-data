@@ -1,43 +1,25 @@
 {
   "servers": [
     {
-      "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "online": false,
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
-      "players": 8,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "5:53:07",
-      "missionDate": "2026-03-29 14:08:07",
-      "weather": {
-        "temperature": "20.0°C",
-        "qnh": "995 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "60° / 5 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 7,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "101ArmOn1453",
-        "101\\-VespaTR\\(ACEMİ\\)",
-        "BNB\\.Caner",
+        "101\\-Tunay \\[5555\\]",
         "CanAda",
         "Tako",
         "cagan",
-        "on7as",
-        "101\\-Tunay \\[5555\\]"
+        "on7as"
       ],
       "playerDetails": [
         {
@@ -45,12 +27,8 @@
           "unit": "Ka-50_3"
         },
         {
-          "name": "101\\-VespaTR\\(ACEMİ\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "BNB\\.Caner",
-          "unit": "Su-27"
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "Ka-50_3"
         },
         {
           "name": "CanAda",
@@ -67,10 +45,6 @@
         {
           "name": "on7as",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -80,12 +54,8 @@
             "unit": "Ka-50_3"
           },
           {
-            "name": "101\\-VespaTR\\(ACEMİ\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "BNB\\.Caner",
-            "unit": "Su-27"
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "Ka-50_3"
           },
           {
             "name": "CanAda",
@@ -105,12 +75,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -165,7 +130,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:55:18 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -178,8 +143,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:49:45",
-      "missionDate": "2026-03-29 17:54:45",
+      "missionTime": "5:54:45",
+      "missionDate": "2026-03-29 17:59:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -258,21 +223,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:55:17 UTC",
+      "lastUpdate": "26-03-29 21:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:45:44",
-      "missionDate": "2026-03-29 12:45:44",
+      "missionTime": "5:50:44",
+      "missionDate": "2026-03-29 12:50:44",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -283,7 +248,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -291,22 +256,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "karahan"
-      ],
-      "playerDetails": [
-        {
-          "name": "karahan",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "karahan",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -363,21 +316,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:55:19 UTC",
+      "lastUpdate": "26-03-29 21:00:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［3／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:43:42",
-      "missionDate": "2026-03-29 21:08:42",
+      "missionTime": "5:48:42",
+      "missionDate": "2026-03-29 21:13:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -388,7 +341,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -397,17 +350,12 @@
         }
       },
       "playerList": [
-        "AKYOL Semih",
-        "Ftr\\. Plt\\. Hakan"
+        "AKYOL Semih"
       ],
       "playerDetails": [
         {
           "name": "AKYOL Semih",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Ftr\\. Plt\\. Hakan",
-          "unit": "A-10A"
         }
       ],
       "activePlayers": {
@@ -415,10 +363,6 @@
           {
             "name": "AKYOL Semih",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "Ftr\\. Plt\\. Hakan",
-            "unit": "A-10A"
           }
         ],
         "red": [],
@@ -477,49 +421,31 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:55:19 UTC",
+      "lastUpdate": "26-03-29 21:00:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "online": false,
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
-    "players": 8,
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "5:53:07",
-    "missionDate": "2026-03-29 14:08:07",
-    "weather": {
-      "temperature": "20.0°C",
-      "qnh": "995 hPa",
-      "clouds": "Clear",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "60° / 5 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 7,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
+    "missionTime": "--:--",
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
     "playerList": [
       "101ArmOn1453",
-      "101\\-VespaTR\\(ACEMİ\\)",
-      "BNB\\.Caner",
+      "101\\-Tunay \\[5555\\]",
       "CanAda",
       "Tako",
       "cagan",
-      "on7as",
-      "101\\-Tunay \\[5555\\]"
+      "on7as"
     ],
     "playerDetails": [
       {
@@ -527,12 +453,8 @@
         "unit": "Ka-50_3"
       },
       {
-        "name": "101\\-VespaTR\\(ACEMİ\\)",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "BNB\\.Caner",
-        "unit": "Su-27"
+        "name": "101\\-Tunay \\[5555\\]",
+        "unit": "Ka-50_3"
       },
       {
         "name": "CanAda",
@@ -549,10 +471,6 @@
       {
         "name": "on7as",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Tunay \\[5555\\]",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -562,12 +480,8 @@
           "unit": "Ka-50_3"
         },
         {
-          "name": "101\\-VespaTR\\(ACEMİ\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "BNB\\.Caner",
-          "unit": "Su-27"
+          "name": "101\\-Tunay \\[5555\\]",
+          "unit": "Ka-50_3"
         },
         {
           "name": "CanAda",
@@ -587,12 +501,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -647,9 +556,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 20:55:18 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T20:55:24.636Z"
+  "lastUpdated": "2026-03-29T21:00:37.335Z"
 }
