@@ -1,24 +1,52 @@
 {
   "servers": [
     {
-      "online": false,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "online": true,
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
-      "players": 2,
+      "serverIP": "88.247.164.234:10308",
+      "mission": "101_Hunter_SQN_v9_5",
+      "map": "Caucasus",
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
-      "playerList": [],
-      "playerDetails": [],
+      "missionTime": "0:03:04",
+      "missionDate": "2026-03-29 08:18:04",
+      "weather": {
+        "temperature": "9.0°C",
+        "qnh": "1003 hPa",
+        "clouds": "Clear",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "90° / 3 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 134
+        },
+        "red": {
+          "used": 0,
+          "total": 16
+        }
+      },
+      "playerList": [
+        "101\\-Tibet\\[4722\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Tibet\\[4722\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Tibet\\[4722\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -44,22 +72,22 @@
           },
           "Yapilar": {
             "blue": 134,
-            "red": 14
+            "red": 15
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 13,
-            "red": 4
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 18,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -73,39 +101,23 @@
         },
         "achievements": {}
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-03-29 03:05:17 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
-      "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "online": false,
+      "channelName": "🖥️┃server-syria［-］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10309",
-      "mission": "101_Hunter_SQN_SURIYE_v3_7",
-      "map": "Syria",
-      "players": 1,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 0,
       "maxPlayers": 32,
-      "missionTime": "5:54:50",
-      "missionDate": "2026-03-29 17:59:50",
-      "weather": {
-        "temperature": "13.0°C",
-        "qnh": "1011 hPa",
-        "clouds": "Few Scattered Clouds",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "220° / 5 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 12
-        },
-        "red": {
-          "used": 0,
-          "total": 9
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -166,7 +178,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 03:00:17 UTC",
+      "lastUpdate": null,
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -179,8 +191,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:50:46",
-      "missionDate": "2026-03-29 12:50:46",
+      "missionTime": "5:55:46",
+      "missionDate": "2026-03-29 12:55:46",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -259,7 +271,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 03:00:19 UTC",
+      "lastUpdate": "26-03-29 03:05:18 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -272,8 +284,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:48:43",
-      "missionDate": "2026-03-29 21:13:43",
+      "missionTime": "5:53:43",
+      "missionDate": "2026-03-29 21:18:43",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -352,30 +364,58 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 03:00:19 UTC",
+      "lastUpdate": "26-03-29 03:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": false,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "online": true,
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": null,
-    "mission": "--",
-    "map": "--",
-    "players": 2,
+    "serverIP": "88.247.164.234:10308",
+    "mission": "101_Hunter_SQN_v9_5",
+    "map": "Caucasus",
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "--:--",
-    "missionDate": null,
-    "weather": null,
-    "slots": null,
-    "playerList": [],
-    "playerDetails": [],
+    "missionTime": "0:03:04",
+    "missionDate": "2026-03-29 08:18:04",
+    "weather": {
+      "temperature": "9.0°C",
+      "qnh": "1003 hPa",
+      "clouds": "Clear",
+      "cloudbase": "--",
+      "visibility": "10 km / 6 SM (+)",
+      "wind": "90° / 3 kts"
+    },
+    "slots": {
+      "blue": {
+        "used": 0,
+        "total": 134
+      },
+      "red": {
+        "used": 0,
+        "total": 16
+      }
+    },
+    "playerList": [
+      "101\\-Tibet\\[4722\\]"
+    ],
+    "playerDetails": [
+      {
+        "name": "101\\-Tibet\\[4722\\]",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Tibet\\[4722\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -401,22 +441,22 @@
         },
         "Yapilar": {
           "blue": 134,
-          "red": 14
+          "red": 15
         },
         "Base Captures": {
           "blue": 0,
           "red": 0
         },
         "Killed Planes": {
-          "blue": 13,
-          "red": 4
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 18,
+          "blue": 0,
           "red": 0
         },
         "Sunken Ships": {
@@ -430,9 +470,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": null,
+    "lastUpdate": "26-03-29 03:05:17 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T03:00:39.773Z"
+  "lastUpdated": "2026-03-29T03:05:23.079Z"
 }
