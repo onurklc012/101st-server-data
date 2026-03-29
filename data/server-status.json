@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "0:38:07",
-      "missionDate": "2026-03-29 08:53:07",
+      "missionTime": "0:43:07",
+      "missionDate": "2026-03-29 08:58:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -33,7 +33,8 @@
         "?Beyaz",
         "CanAda",
         "cagan",
-        "on7as"
+        "on7as",
+        "Başar Demir"
       ],
       "playerDetails": [
         {
@@ -51,6 +52,10 @@
         {
           "name": "on7as",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Başar Demir",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -73,7 +78,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Başar Demir",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -128,7 +138,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 15:40:18 UTC",
+      "lastUpdate": "26-03-29 15:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +151,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:34:46",
-      "missionDate": "2026-03-29 12:39:46",
+      "missionTime": "0:39:46",
+      "missionDate": "2026-03-29 12:44:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -161,10 +171,22 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "✯101\\-EffBee\\[0010\\]✯"
+      ],
+      "playerDetails": [
+        {
+          "name": "✯101\\-EffBee\\[0010\\]✯",
+          "unit": "F-4E-45MC"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "✯101\\-EffBee\\[0010\\]✯",
+            "unit": "F-4E-45MC"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -221,7 +243,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 15:40:17 UTC",
+      "lastUpdate": "26-03-29 15:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -234,8 +256,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:30:45",
-      "missionDate": "2026-03-29 07:30:45",
+      "missionTime": "0:35:45",
+      "missionDate": "2026-03-29 07:35:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -314,21 +336,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 15:40:19 UTC",
+      "lastUpdate": "26-03-29 15:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:28:42",
-      "missionDate": "2026-03-29 15:53:42",
+      "missionTime": "0:33:42",
+      "missionDate": "2026-03-29 15:58:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -347,12 +369,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-zeshka\\[0035\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -385,15 +419,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 3
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 5,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -407,22 +441,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 15:40:19 UTC",
+      "lastUpdate": "26-03-29 15:45:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "0:38:07",
-    "missionDate": "2026-03-29 08:53:07",
+    "missionTime": "0:43:07",
+    "missionDate": "2026-03-29 08:58:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -445,7 +479,8 @@
       "?Beyaz",
       "CanAda",
       "cagan",
-      "on7as"
+      "on7as",
+      "Başar Demir"
     ],
     "playerDetails": [
       {
@@ -463,6 +498,10 @@
       {
         "name": "on7as",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "Başar Demir",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -485,7 +524,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Başar Demir",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -540,9 +584,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 15:40:18 UTC",
+    "lastUpdate": "26-03-29 15:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T15:40:29.653Z"
+  "lastUpdated": "2026-03-29T15:45:32.764Z"
 }
