@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［18／32］",
+      "channelName": "🖥️┃server-caucasus［20／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 18,
+      "players": 20,
       "maxPlayers": 32,
-      "missionTime": "3:53:07",
-      "missionDate": "2026-03-29 12:08:07",
+      "missionTime": "3:58:07",
+      "missionDate": "2026-03-29 12:13:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 13,
+          "used": 12,
           "total": 134
         },
         "red": {
@@ -31,7 +31,6 @@
       },
       "playerList": [
         "101\\-VespaTR\\(ACEMİ\\)",
-        "101chemisTR61",
         "?Beyaz",
         "BNB\\.ASLAN",
         "CanAda",
@@ -45,15 +44,16 @@
         "on7as",
         "101\\-Maskot\\(0019\\)",
         "101\\-Nos",
-        "101\\-Rabik"
+        "101\\-Rabik",
+        "101\\-Fish\\[7906\\]",
+        "Iron\\_Hussar",
+        "Melon",
+        "TosTRafora",
+        "cassaba"
       ],
       "playerDetails": [
         {
           "name": "101\\-VespaTR\\(ACEMİ\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101chemisTR61",
           "unit": "F-16C_50"
         },
         {
@@ -111,16 +111,32 @@
         {
           "name": "101\\-Rabik",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "--"
+        },
+        {
+          "name": "Iron\\_Hussar",
+          "unit": "--"
+        },
+        {
+          "name": "Melon",
+          "unit": "--"
+        },
+        {
+          "name": "TosTRafora",
+          "unit": "--"
+        },
+        {
+          "name": "cassaba",
+          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
             "name": "101\\-VespaTR\\(ACEMİ\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101chemisTR61",
             "unit": "F-16C_50"
           },
           {
@@ -182,7 +198,28 @@
             "unit": "FA-18C_hornet"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "--"
+          },
+          {
+            "name": "Iron\\_Hussar",
+            "unit": "--"
+          },
+          {
+            "name": "Melon",
+            "unit": "--"
+          },
+          {
+            "name": "TosTRafora",
+            "unit": "--"
+          },
+          {
+            "name": "cassaba",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -237,7 +274,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:55:18 UTC",
+      "lastUpdate": "26-03-29 19:00:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -250,8 +287,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:49:46",
-      "missionDate": "2026-03-29 15:54:46",
+      "missionTime": "3:54:46",
+      "missionDate": "2026-03-29 15:59:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -330,7 +367,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:55:17 UTC",
+      "lastUpdate": "26-03-29 19:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -343,8 +380,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:45:45",
-      "missionDate": "2026-03-29 10:45:45",
+      "missionTime": "3:50:45",
+      "missionDate": "2026-03-29 10:50:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -444,7 +481,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:55:19 UTC",
+      "lastUpdate": "26-03-29 19:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -457,8 +494,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:43:42",
-      "missionDate": "2026-03-29 19:08:42",
+      "missionTime": "3:48:42",
+      "missionDate": "2026-03-29 19:13:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -549,22 +586,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:55:19 UTC",
+      "lastUpdate": "26-03-29 19:00:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［18／32］",
+    "channelName": "🖥️┃server-caucasus［20／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 18,
+    "players": 20,
     "maxPlayers": 32,
-    "missionTime": "3:53:07",
-    "missionDate": "2026-03-29 12:08:07",
+    "missionTime": "3:58:07",
+    "missionDate": "2026-03-29 12:13:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -575,7 +612,7 @@
     },
     "slots": {
       "blue": {
-        "used": 13,
+        "used": 12,
         "total": 134
       },
       "red": {
@@ -585,7 +622,6 @@
     },
     "playerList": [
       "101\\-VespaTR\\(ACEMİ\\)",
-      "101chemisTR61",
       "?Beyaz",
       "BNB\\.ASLAN",
       "CanAda",
@@ -599,15 +635,16 @@
       "on7as",
       "101\\-Maskot\\(0019\\)",
       "101\\-Nos",
-      "101\\-Rabik"
+      "101\\-Rabik",
+      "101\\-Fish\\[7906\\]",
+      "Iron\\_Hussar",
+      "Melon",
+      "TosTRafora",
+      "cassaba"
     ],
     "playerDetails": [
       {
         "name": "101\\-VespaTR\\(ACEMİ\\)",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101chemisTR61",
         "unit": "F-16C_50"
       },
       {
@@ -665,16 +702,32 @@
       {
         "name": "101\\-Rabik",
         "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "101\\-Fish\\[7906\\]",
+        "unit": "--"
+      },
+      {
+        "name": "Iron\\_Hussar",
+        "unit": "--"
+      },
+      {
+        "name": "Melon",
+        "unit": "--"
+      },
+      {
+        "name": "TosTRafora",
+        "unit": "--"
+      },
+      {
+        "name": "cassaba",
+        "unit": "--"
       }
     ],
     "activePlayers": {
       "blue": [
         {
           "name": "101\\-VespaTR\\(ACEMİ\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101chemisTR61",
           "unit": "F-16C_50"
         },
         {
@@ -736,7 +789,28 @@
           "unit": "FA-18C_hornet"
         }
       ],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "--"
+        },
+        {
+          "name": "Iron\\_Hussar",
+          "unit": "--"
+        },
+        {
+          "name": "Melon",
+          "unit": "--"
+        },
+        {
+          "name": "TosTRafora",
+          "unit": "--"
+        },
+        {
+          "name": "cassaba",
+          "unit": "--"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -791,9 +865,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 18:55:18 UTC",
+    "lastUpdate": "26-03-29 19:00:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T18:55:24.930Z"
+  "lastUpdated": "2026-03-29T19:00:36.160Z"
 }
