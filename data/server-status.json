@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:27:45",
-      "missionDate": "2026-03-30 08:42:45",
+      "missionTime": "0:32:45",
+      "missionDate": "2026-03-30 08:47:45",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "998 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,18 +30,11 @@
         }
       },
       "playerList": [
-        "101\\-Tibet\\[4722\\]",
         "101\\-Zorbey\\[0741\\]",
         "BNB\\.Caner",
-        "Başar Demir",
-        "Tako",
-        "cagan"
+        "Başar Demir"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Tibet\\[4722\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-Zorbey\\[0741\\]",
           "unit": "F-16C_50"
@@ -53,22 +46,10 @@
         {
           "name": "Başar Demir",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Tako",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-Tibet\\[4722\\]",
-            "unit": "F-16C_50"
-          },
           {
             "name": "101\\-Zorbey\\[0741\\]",
             "unit": "F-16C_50"
@@ -80,14 +61,6 @@
           {
             "name": "Başar Demir",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "Tako",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "cagan",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -146,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 21:30:18 UTC",
+      "lastUpdate": "26-03-29 21:35:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -159,8 +132,8 @@
       "map": "Syria",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "0:24:47",
-      "missionDate": "2026-03-30 12:29:47",
+      "missionTime": "0:29:47",
+      "missionDate": "2026-03-30 12:34:47",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1011 hPa",
@@ -269,21 +242,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 21:30:17 UTC",
+      "lastUpdate": "26-03-29 21:35:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:20:41",
-      "missionDate": "2026-03-30 07:20:41",
+      "missionTime": "0:25:41",
+      "missionDate": "2026-03-30 07:25:41",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1011 hPa",
@@ -302,12 +275,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Hançer\\-1"
+      ],
+      "playerDetails": [
+        {
+          "name": "Hançer\\-1",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Hançer\\-1",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -362,7 +347,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 21:30:18 UTC",
+      "lastUpdate": "26-03-29 21:35:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -375,8 +360,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:18:28",
-      "missionDate": "2026-03-30 15:43:28",
+      "missionTime": "0:23:28",
+      "missionDate": "2026-03-30 15:48:28",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "998 hPa",
@@ -455,22 +440,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 21:30:19 UTC",
+      "lastUpdate": "26-03-29 21:35:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "0:27:45",
-    "missionDate": "2026-03-30 08:42:45",
+    "missionTime": "0:32:45",
+    "missionDate": "2026-03-30 08:47:45",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "998 hPa",
@@ -481,7 +466,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -490,18 +475,11 @@
       }
     },
     "playerList": [
-      "101\\-Tibet\\[4722\\]",
       "101\\-Zorbey\\[0741\\]",
       "BNB\\.Caner",
-      "Başar Demir",
-      "Tako",
-      "cagan"
+      "Başar Demir"
     ],
     "playerDetails": [
-      {
-        "name": "101\\-Tibet\\[4722\\]",
-        "unit": "F-16C_50"
-      },
       {
         "name": "101\\-Zorbey\\[0741\\]",
         "unit": "F-16C_50"
@@ -513,22 +491,10 @@
       {
         "name": "Başar Demir",
         "unit": "FA-18C_hornet"
-      },
-      {
-        "name": "Tako",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "cagan",
-        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "101\\-Tibet\\[4722\\]",
-          "unit": "F-16C_50"
-        },
         {
           "name": "101\\-Zorbey\\[0741\\]",
           "unit": "F-16C_50"
@@ -540,14 +506,6 @@
         {
           "name": "Başar Demir",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Tako",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
         }
       ],
       "red": [],
@@ -606,9 +564,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 21:30:18 UTC",
+    "lastUpdate": "26-03-29 21:35:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T21:30:30.126Z"
+  "lastUpdated": "2026-03-29T21:35:26.434Z"
 }
