@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "0:27:46",
-      "missionDate": "2026-03-29 08:42:46",
+      "missionTime": "0:32:46",
+      "missionDate": "2026-03-29 08:47:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1001 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 6,
           "total": 134
         },
         "red": {
@@ -30,6 +30,7 @@
         }
       },
       "playerList": [
+        "101 \\- Tepe",
         "101\\-Yidobaba\\[0098\\]",
         "ANATOLIANEAGLE",
         "\\[RK\\] Falcon Pilot YT",
@@ -37,6 +38,10 @@
         "⍟101\\-Longec\\[0007\\]⍟"
       ],
       "playerDetails": [
+        {
+          "name": "101 \\- Tepe",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Ka-50_3"
@@ -55,11 +60,15 @@
         },
         {
           "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "_ _"
+          "unit": "Ka-50_3"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101 \\- Tepe",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
             "unit": "Ka-50_3"
@@ -75,15 +84,14 @@
           {
             "name": "cagan",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "⍟101\\-Longec\\[0007\\]⍟",
+            "unit": "Ka-50_3"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "⍟101\\-Longec\\[0007\\]⍟",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -138,7 +146,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 09:30:18 UTC",
+      "lastUpdate": "26-03-29 09:35:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -151,8 +159,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:24:45",
-      "missionDate": "2026-03-29 12:29:45",
+      "missionTime": "0:29:45",
+      "missionDate": "2026-03-29 12:34:45",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1009 hPa",
@@ -231,7 +239,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 09:30:17 UTC",
+      "lastUpdate": "26-03-29 09:35:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -244,8 +252,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:20:42",
-      "missionDate": "2026-03-29 07:20:42",
+      "missionTime": "0:25:42",
+      "missionDate": "2026-03-29 07:25:42",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1009 hPa",
@@ -324,7 +332,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 09:30:19 UTC",
+      "lastUpdate": "26-03-29 09:35:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -337,8 +345,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:18:39",
-      "missionDate": "2026-03-29 15:43:39",
+      "missionTime": "0:23:39",
+      "missionDate": "2026-03-29 15:48:39",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1001 hPa",
@@ -417,22 +425,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 09:30:19 UTC",
+      "lastUpdate": "26-03-29 09:35:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［6／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 6,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "0:27:46",
-    "missionDate": "2026-03-29 08:42:46",
+    "missionTime": "0:32:46",
+    "missionDate": "2026-03-29 08:47:46",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1001 hPa",
@@ -443,7 +451,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 6,
         "total": 134
       },
       "red": {
@@ -452,6 +460,7 @@
       }
     },
     "playerList": [
+      "101 \\- Tepe",
       "101\\-Yidobaba\\[0098\\]",
       "ANATOLIANEAGLE",
       "\\[RK\\] Falcon Pilot YT",
@@ -459,6 +468,10 @@
       "⍟101\\-Longec\\[0007\\]⍟"
     ],
     "playerDetails": [
+      {
+        "name": "101 \\- Tepe",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101\\-Yidobaba\\[0098\\]",
         "unit": "Ka-50_3"
@@ -477,11 +490,15 @@
       },
       {
         "name": "⍟101\\-Longec\\[0007\\]⍟",
-        "unit": "_ _"
+        "unit": "Ka-50_3"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101 \\- Tepe",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Yidobaba\\[0098\\]",
           "unit": "Ka-50_3"
@@ -497,15 +514,14 @@
         {
           "name": "cagan",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "⍟101\\-Longec\\[0007\\]⍟",
+          "unit": "Ka-50_3"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "⍟101\\-Longec\\[0007\\]⍟",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -560,9 +576,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 09:30:18 UTC",
+    "lastUpdate": "26-03-29 09:35:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T09:30:36.228Z"
+  "lastUpdated": "2026-03-29T09:35:23.690Z"
 }
