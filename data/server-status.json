@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "5:43:07",
-      "missionDate": "2026-03-29 13:58:07",
+      "missionTime": "5:48:07",
+      "missionDate": "2026-03-29 14:03:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -146,21 +146,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:45:18 UTC",
+      "lastUpdate": "26-03-29 20:50:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:39:45",
-      "missionDate": "2026-03-29 17:44:45",
+      "missionTime": "5:44:45",
+      "missionDate": "2026-03-29 17:49:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -179,12 +179,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+      ],
+      "playerDetails": [
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -239,7 +251,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:45:17 UTC",
+      "lastUpdate": "26-03-29 20:50:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -252,8 +264,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:35:44",
-      "missionDate": "2026-03-29 12:35:44",
+      "missionTime": "5:40:44",
+      "missionDate": "2026-03-29 12:40:44",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -344,7 +356,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:45:19 UTC",
+      "lastUpdate": "26-03-29 20:50:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -357,8 +369,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:33:42",
-      "missionDate": "2026-03-29 20:58:42",
+      "missionTime": "5:38:42",
+      "missionDate": "2026-03-29 21:03:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -458,22 +470,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:45:19 UTC",
+      "lastUpdate": "26-03-29 20:50:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 8,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "5:43:07",
-    "missionDate": "2026-03-29 13:58:07",
+    "missionTime": "5:48:07",
+    "missionDate": "2026-03-29 14:03:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -609,9 +621,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 20:45:18 UTC",
+    "lastUpdate": "26-03-29 20:50:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T20:45:24.791Z"
+  "lastUpdated": "2026-03-29T20:50:28.062Z"
 }
