@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［10／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 10,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:53:07",
-      "missionDate": "2026-03-29 10:08:07",
+      "missionTime": "1:58:07",
+      "missionDate": "2026-03-29 10:13:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -25,7 +25,7 @@
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 0,
           "total": 16
         }
       },
@@ -36,9 +36,7 @@
         "VespaTR",
         "cagan",
         "on7as",
-        "rte",
-        "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-        "101\\-Maskot\\(0019\\)"
+        "rte"
       ],
       "playerDetails": [
         {
@@ -68,14 +66,6 @@
         {
           "name": "rte",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-          "unit": "F15EX"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -109,18 +99,8 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [
-          {
-            "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-            "unit": "F15EX"
-          }
-        ],
-        "neutral": [
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "_ _"
-          }
-        ]
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -175,7 +155,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:55:18 UTC",
+      "lastUpdate": "26-03-29 17:00:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -188,8 +168,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:49:46",
-      "missionDate": "2026-03-29 13:54:46",
+      "missionTime": "1:54:46",
+      "missionDate": "2026-03-29 13:59:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -268,7 +248,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:55:17 UTC",
+      "lastUpdate": "26-03-29 17:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -281,8 +261,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:45:45",
-      "missionDate": "2026-03-29 08:45:45",
+      "missionTime": "1:50:45",
+      "missionDate": "2026-03-29 08:50:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -293,7 +273,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 126
         },
         "red": {
@@ -308,26 +288,26 @@
       "playerDetails": [
         {
           "name": "Hançer\\-1",
-          "unit": "--"
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "Swoxy",
-          "unit": "--"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "Hançer\\-1",
-            "unit": "--"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "Swoxy",
-            "unit": "--"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -382,7 +362,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:55:19 UTC",
+      "lastUpdate": "26-03-29 17:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -395,8 +375,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:43:42",
-      "missionDate": "2026-03-29 17:08:42",
+      "missionTime": "1:48:42",
+      "missionDate": "2026-03-29 17:13:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -475,22 +455,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 16:55:19 UTC",
+      "lastUpdate": "26-03-29 17:00:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［10／32］",
+    "channelName": "🖥️┃server-caucasus［8／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 10,
+    "players": 8,
     "maxPlayers": 32,
-    "missionTime": "1:53:07",
-    "missionDate": "2026-03-29 10:08:07",
+    "missionTime": "1:58:07",
+    "missionDate": "2026-03-29 10:13:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -505,7 +485,7 @@
         "total": 134
       },
       "red": {
-        "used": 1,
+        "used": 0,
         "total": 16
       }
     },
@@ -516,9 +496,7 @@
       "VespaTR",
       "cagan",
       "on7as",
-      "rte",
-      "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-      "101\\-Maskot\\(0019\\)"
+      "rte"
     ],
     "playerDetails": [
       {
@@ -548,14 +526,6 @@
       {
         "name": "rte",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-        "unit": "F15EX"
-      },
-      {
-        "name": "101\\-Maskot\\(0019\\)",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -589,18 +559,8 @@
           "unit": "F-16C_50"
         }
       ],
-      "red": [
-        {
-          "name": "<\\- \\} GHOST \"ACE\" IVA \\{\\-\\>",
-          "unit": "F15EX"
-        }
-      ],
-      "neutral": [
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "_ _"
-        }
-      ]
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -655,9 +615,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 16:55:18 UTC",
+    "lastUpdate": "26-03-29 17:00:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T16:55:26.533Z"
+  "lastUpdated": "2026-03-29T17:00:40.287Z"
 }
