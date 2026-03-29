@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［16／32］",
+      "channelName": "🖥️┃server-caucasus［12／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 16,
+      "players": 12,
       "maxPlayers": 32,
-      "missionTime": "4:18:07",
-      "missionDate": "2026-03-29 12:33:07",
+      "missionTime": "4:23:07",
+      "missionDate": "2026-03-29 12:38:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -21,11 +21,11 @@
       },
       "slots": {
         "blue": {
-          "used": 12,
+          "used": 11,
           "total": 134
         },
         "red": {
-          "used": 3,
+          "used": 0,
           "total": 16
         }
       },
@@ -34,17 +34,13 @@
         "?Beyaz",
         "BNB\\.ASLAN",
         "CanAda",
-        "MaestroTR21",
         "Melon",
         "ShootingStar 1\\-1 \\| Medic",
         "Tako",
         "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-        "\\[RK\\] Falcon Pilot YT",
+        "cagan",
         "cassaba",
-        "on7as",
-        "101\\-Fish\\[7906\\]",
-        "101\\-Maskot\\(0019\\)",
-        "101\\-Nos"
+        "on7as"
       ],
       "playerDetails": [
         {
@@ -64,10 +60,6 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "MaestroTR21",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "Melon",
           "unit": "F-16C_50"
         },
@@ -84,7 +76,7 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\[RK\\] Falcon Pilot YT",
+          "name": "cagan",
           "unit": "F-15C"
         },
         {
@@ -93,18 +85,6 @@
         },
         {
           "name": "on7as",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Fish\\[7906\\]",
-          "unit": "F-15C"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Nos",
           "unit": "F-16C_50"
         }
       ],
@@ -127,10 +107,6 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "MaestroTR21",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "Melon",
             "unit": "F-16C_50"
           },
@@ -147,7 +123,7 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "\\[RK\\] Falcon Pilot YT",
+            "name": "cagan",
             "unit": "F-15C"
           },
           {
@@ -159,20 +135,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "red": [
-          {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "F-15C"
-          },
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Nos",
-            "unit": "F-16C_50"
-          }
-        ],
+        "red": [],
         "neutral": []
       },
       "missionStats": {
@@ -228,7 +191,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:20:18 UTC",
+      "lastUpdate": "26-03-29 19:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -241,8 +204,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:14:46",
-      "missionDate": "2026-03-29 16:19:46",
+      "missionTime": "4:19:46",
+      "missionDate": "2026-03-29 16:24:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -321,7 +284,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:20:17 UTC",
+      "lastUpdate": "26-03-29 19:25:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -334,8 +297,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:10:45",
-      "missionDate": "2026-03-29 11:10:45",
+      "missionTime": "4:15:45",
+      "missionDate": "2026-03-29 11:15:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -346,7 +309,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 126
         },
         "red": {
@@ -435,21 +398,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:20:19 UTC",
+      "lastUpdate": "26-03-29 19:25:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:08:42",
-      "missionDate": "2026-03-29 19:33:42",
+      "missionTime": "4:13:42",
+      "missionDate": "2026-03-29 19:38:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -460,7 +423,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -479,7 +442,7 @@
         },
         {
           "name": "Ftr\\. Plt\\. Hakan",
-          "unit": "_ _"
+          "unit": "AH-64D_BLK_II"
         }
       ],
       "activePlayers": {
@@ -487,15 +450,14 @@
           {
             "name": "101ArmOn1453",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Ftr\\. Plt\\. Hakan",
+            "unit": "AH-64D_BLK_II"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Ftr\\. Plt\\. Hakan",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -550,22 +512,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:20:19 UTC",
+      "lastUpdate": "26-03-29 19:25:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［16／32］",
+    "channelName": "🖥️┃server-caucasus［12／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 16,
+    "players": 12,
     "maxPlayers": 32,
-    "missionTime": "4:18:07",
-    "missionDate": "2026-03-29 12:33:07",
+    "missionTime": "4:23:07",
+    "missionDate": "2026-03-29 12:38:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -576,11 +538,11 @@
     },
     "slots": {
       "blue": {
-        "used": 12,
+        "used": 11,
         "total": 134
       },
       "red": {
-        "used": 3,
+        "used": 0,
         "total": 16
       }
     },
@@ -589,17 +551,13 @@
       "?Beyaz",
       "BNB\\.ASLAN",
       "CanAda",
-      "MaestroTR21",
       "Melon",
       "ShootingStar 1\\-1 \\| Medic",
       "Tako",
       "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-      "\\[RK\\] Falcon Pilot YT",
+      "cagan",
       "cassaba",
-      "on7as",
-      "101\\-Fish\\[7906\\]",
-      "101\\-Maskot\\(0019\\)",
-      "101\\-Nos"
+      "on7as"
     ],
     "playerDetails": [
       {
@@ -619,10 +577,6 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "MaestroTR21",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "Melon",
         "unit": "F-16C_50"
       },
@@ -639,7 +593,7 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "\\[RK\\] Falcon Pilot YT",
+        "name": "cagan",
         "unit": "F-15C"
       },
       {
@@ -648,18 +602,6 @@
       },
       {
         "name": "on7as",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Fish\\[7906\\]",
-        "unit": "F-15C"
-      },
-      {
-        "name": "101\\-Maskot\\(0019\\)",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "101\\-Nos",
         "unit": "F-16C_50"
       }
     ],
@@ -682,10 +624,6 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "MaestroTR21",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "Melon",
           "unit": "F-16C_50"
         },
@@ -702,7 +640,7 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\[RK\\] Falcon Pilot YT",
+          "name": "cagan",
           "unit": "F-15C"
         },
         {
@@ -714,20 +652,7 @@
           "unit": "F-16C_50"
         }
       ],
-      "red": [
-        {
-          "name": "101\\-Fish\\[7906\\]",
-          "unit": "F-15C"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Nos",
-          "unit": "F-16C_50"
-        }
-      ],
+      "red": [],
       "neutral": []
     },
     "missionStats": {
@@ -783,9 +708,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 19:20:18 UTC",
+    "lastUpdate": "26-03-29 19:25:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T19:20:27.322Z"
+  "lastUpdated": "2026-03-29T19:25:24.972Z"
 }
