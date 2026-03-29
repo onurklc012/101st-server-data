@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:53:11",
-      "missionDate": "2026-03-29 11:08:11",
+      "missionTime": "2:58:11",
+      "missionDate": "2026-03-29 11:13:11",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -30,16 +30,11 @@
         }
       },
       "playerList": [
-        "cagan",
         "on7as",
         "vinland",
         "✯101\\-EffBee\\[0010\\]✯"
       ],
       "playerDetails": [
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
-        },
         {
           "name": "on7as",
           "unit": "F-16C_50"
@@ -55,10 +50,6 @@
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "cagan",
-            "unit": "F-16C_50"
-          },
           {
             "name": "on7as",
             "unit": "F-16C_50"
@@ -128,7 +119,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 23:55:18 UTC",
+      "lastUpdate": "26-03-29 00:00:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +132,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:49:49",
-      "missionDate": "2026-03-29 14:54:49",
+      "missionTime": "2:54:49",
+      "missionDate": "2026-03-29 14:59:49",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -221,7 +212,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 23:55:17 UTC",
+      "lastUpdate": "26-03-29 00:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -234,8 +225,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:45:46",
-      "missionDate": "2026-03-29 09:45:46",
+      "missionTime": "2:50:46",
+      "missionDate": "2026-03-29 09:50:46",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1011 hPa",
@@ -246,7 +237,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -260,18 +251,18 @@
       "playerDetails": [
         {
           "name": "101\\-Yidobaba\\[0098\\]",
-          "unit": "_ _"
+          "unit": "JF-17"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "_ _"
+            "unit": "JF-17"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -326,21 +317,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 23:55:19 UTC",
+      "lastUpdate": "26-03-29 00:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［3／32］",
+      "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:43:43",
-      "missionDate": "2026-03-29 18:08:43",
+      "missionTime": "2:48:43",
+      "missionDate": "2026-03-29 18:13:43",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1006 hPa",
@@ -351,7 +342,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -361,7 +352,9 @@
       },
       "playerList": [
         "101ArmOn1453",
-        "101\\-Atmaca\\[3404\\]"
+        "101\\-Atmaca\\[3404\\]",
+        "101\\-HotelTango",
+        "cagri"
       ],
       "playerDetails": [
         {
@@ -370,6 +363,14 @@
         },
         {
           "name": "101\\-Atmaca\\[3404\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-HotelTango",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "cagri",
           "unit": "F-16C_50"
         }
       ],
@@ -381,6 +382,14 @@
           },
           {
             "name": "101\\-Atmaca\\[3404\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-HotelTango",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "cagri",
             "unit": "F-16C_50"
           }
         ],
@@ -440,22 +449,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-28 23:55:20 UTC",
+      "lastUpdate": "26-03-29 00:00:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "2:53:11",
-    "missionDate": "2026-03-29 11:08:11",
+    "missionTime": "2:58:11",
+    "missionDate": "2026-03-29 11:13:11",
     "weather": {
       "temperature": "9.0°C",
       "qnh": "1006 hPa",
@@ -466,7 +475,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 3,
         "total": 134
       },
       "red": {
@@ -475,16 +484,11 @@
       }
     },
     "playerList": [
-      "cagan",
       "on7as",
       "vinland",
       "✯101\\-EffBee\\[0010\\]✯"
     ],
     "playerDetails": [
-      {
-        "name": "cagan",
-        "unit": "F-16C_50"
-      },
       {
         "name": "on7as",
         "unit": "F-16C_50"
@@ -500,10 +504,6 @@
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
-        },
         {
           "name": "on7as",
           "unit": "F-16C_50"
@@ -573,9 +573,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-28 23:55:18 UTC",
+    "lastUpdate": "26-03-29 00:00:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-28T23:55:22.450Z"
+  "lastUpdated": "2026-03-29T00:00:42.570Z"
 }
