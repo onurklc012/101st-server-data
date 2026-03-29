@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［12／32］",
+      "channelName": "🖥️┃server-caucasus［10／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 12,
+      "players": 10,
       "maxPlayers": 32,
-      "missionTime": "4:58:07",
-      "missionDate": "2026-03-29 13:13:07",
+      "missionTime": "5:03:07",
+      "missionDate": "2026-03-29 13:18:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -38,8 +38,7 @@
         "Tako",
         "cagan",
         "cassaba",
-        "on7as",
-        "Not A Flanker"
+        "on7as"
       ],
       "playerDetails": [
         {
@@ -77,10 +76,6 @@
         {
           "name": "on7as",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Not A Flanker",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -123,12 +118,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Not A Flanker",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -161,15 +151,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 49,
-            "red": 26
+            "blue": 50,
+            "red": 29
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 21,
+            "blue": 25,
             "red": 0
           },
           "Sunken Ships": {
@@ -183,7 +173,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:00:18 UTC",
+      "lastUpdate": "26-03-29 20:05:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -196,8 +186,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:54:46",
-      "missionDate": "2026-03-29 16:59:46",
+      "missionTime": "4:59:46",
+      "missionDate": "2026-03-29 17:04:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -276,21 +266,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:00:17 UTC",
+      "lastUpdate": "26-03-29 20:05:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［4／32］",
+      "channelName": "🖥️┃syria-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 4,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:50:45",
-      "missionDate": "2026-03-29 11:50:45",
+      "missionTime": "4:55:45",
+      "missionDate": "2026-03-29 11:55:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -301,7 +291,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 126
         },
         "red": {
@@ -310,12 +300,16 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "Swoxy",
         "karahan",
-        "le Cossack",
-        "101ArmOn1453"
+        "le Cossack"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "Swoxy",
           "unit": "F-16C_50"
@@ -327,14 +321,14 @@
         {
           "name": "le Cossack",
           "unit": "MiG-29 Fulcrum"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "Swoxy",
             "unit": "F-16C_50"
@@ -349,12 +343,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -409,7 +398,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:00:19 UTC",
+      "lastUpdate": "26-03-29 20:05:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -422,8 +411,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:48:42",
-      "missionDate": "2026-03-29 20:13:42",
+      "missionTime": "4:53:42",
+      "missionDate": "2026-03-29 20:18:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -502,22 +491,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 20:00:20 UTC",
+      "lastUpdate": "26-03-29 20:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［12／32］",
+    "channelName": "🖥️┃server-caucasus［10／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 12,
+    "players": 10,
     "maxPlayers": 32,
-    "missionTime": "4:58:07",
-    "missionDate": "2026-03-29 13:13:07",
+    "missionTime": "5:03:07",
+    "missionDate": "2026-03-29 13:18:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -545,8 +534,7 @@
       "Tako",
       "cagan",
       "cassaba",
-      "on7as",
-      "Not A Flanker"
+      "on7as"
     ],
     "playerDetails": [
       {
@@ -584,10 +572,6 @@
       {
         "name": "on7as",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "Not A Flanker",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -630,12 +614,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Not A Flanker",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -668,15 +647,15 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 49,
-          "red": 26
+          "blue": 50,
+          "red": 29
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 21,
+          "blue": 25,
           "red": 0
         },
         "Sunken Ships": {
@@ -690,9 +669,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 20:00:18 UTC",
+    "lastUpdate": "26-03-29 20:05:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T20:00:34.002Z"
+  "lastUpdated": "2026-03-29T20:05:27.371Z"
 }
