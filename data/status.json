@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［11／32］",
+        "channelName": "🖥️┃server-caucasus［12／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 11,
+        "players": 12,
         "maxPlayers": 32,
-        "missionTime": "2:43:07",
-        "missionDate": "2026-03-29 10:58:07",
+        "missionTime": "2:48:07",
+        "missionDate": "2026-03-29 11:03:07",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "995 hPa",
@@ -22,27 +22,32 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 8,
             "total": 134
           },
           "red": {
-            "used": 1,
+            "used": 3,
             "total": 16
           }
         },
         "playerList": [
+          "101chemisTR61",
           "CanAda",
           "IRRESTIBLE",
           "MaestroTR21",
           "ShootingStar 1\\-1 \\| Medic",
+          "VespaTR",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "cagan",
-          "101\\-Nos",
           "101\\-Fish\\[7906\\]",
           "101\\-Maskot\\(0019\\)",
-          "101chemisTR61",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+          "101\\-Nos"
         ],
         "playerDetails": [
+          {
+            "name": "101chemisTR61",
+            "unit": "F-16C_50"
+          },
           {
             "name": "CanAda",
             "unit": "F-16C_50"
@@ -60,32 +65,36 @@
             "unit": "M-2000C"
           },
           {
+            "name": "VespaTR",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "cagan",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
             "unit": "F-16C_50"
           },
           {
             "name": "101\\-Nos",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
-          },
-          {
-            "name": "101chemisTR61",
-            "unit": "--"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "--"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101chemisTR61",
+              "unit": "F-16C_50"
+            },
             {
               "name": "CanAda",
               "unit": "F-16C_50"
@@ -103,34 +112,33 @@
               "unit": "M-2000C"
             },
             {
+              "name": "VespaTR",
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "cagan",
               "unit": "F-16C_50"
             }
           ],
           "red": [
             {
+              "name": "101\\-Fish\\[7906\\]",
+              "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "101\\-Maskot\\(0019\\)",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "101\\-Nos",
               "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "101\\-Fish\\[7906\\]",
-              "unit": "--"
-            },
-            {
-              "name": "101\\-Maskot\\(0019\\)",
-              "unit": "--"
-            },
-            {
-              "name": "101chemisTR61",
-              "unit": "--"
-            },
-            {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "--"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -185,7 +193,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 17:45:18 UTC",
+        "lastUpdate": "26-03-29 17:50:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -198,8 +206,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:39:46",
-        "missionDate": "2026-03-29 14:44:46",
+        "missionTime": "2:44:46",
+        "missionDate": "2026-03-29 14:49:46",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1007 hPa",
@@ -278,7 +286,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 17:45:17 UTC",
+        "lastUpdate": "26-03-29 17:50:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -291,8 +299,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:35:45",
-        "missionDate": "2026-03-29 09:35:45",
+        "missionTime": "2:40:45",
+        "missionDate": "2026-03-29 09:40:45",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1007 hPa",
@@ -383,7 +391,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 17:45:19 UTC",
+        "lastUpdate": "26-03-29 17:50:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -396,8 +404,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:33:42",
-        "missionDate": "2026-03-29 17:58:42",
+        "missionTime": "2:38:42",
+        "missionDate": "2026-03-29 18:03:42",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "995 hPa",
@@ -476,22 +484,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 17:45:19 UTC",
+        "lastUpdate": "26-03-29 17:50:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［11／32］",
+      "channelName": "🖥️┃server-caucasus［12／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 11,
+      "players": 12,
       "maxPlayers": 32,
-      "missionTime": "2:43:07",
-      "missionDate": "2026-03-29 10:58:07",
+      "missionTime": "2:48:07",
+      "missionDate": "2026-03-29 11:03:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -502,27 +510,32 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 8,
           "total": 134
         },
         "red": {
-          "used": 1,
+          "used": 3,
           "total": 16
         }
       },
       "playerList": [
+        "101chemisTR61",
         "CanAda",
         "IRRESTIBLE",
         "MaestroTR21",
         "ShootingStar 1\\-1 \\| Medic",
+        "VespaTR",
+        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "cagan",
-        "101\\-Nos",
         "101\\-Fish\\[7906\\]",
         "101\\-Maskot\\(0019\\)",
-        "101chemisTR61",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
+        "101\\-Nos"
       ],
       "playerDetails": [
+        {
+          "name": "101chemisTR61",
+          "unit": "F-16C_50"
+        },
         {
           "name": "CanAda",
           "unit": "F-16C_50"
@@ -540,32 +553,36 @@
           "unit": "M-2000C"
         },
         {
+          "name": "VespaTR",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "cagan",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-Nos",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Fish\\[7906\\]",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "--"
-        },
-        {
-          "name": "101chemisTR61",
-          "unit": "--"
-        },
-        {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101chemisTR61",
+            "unit": "F-16C_50"
+          },
           {
             "name": "CanAda",
             "unit": "F-16C_50"
@@ -583,34 +600,33 @@
             "unit": "M-2000C"
           },
           {
+            "name": "VespaTR",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "cagan",
             "unit": "F-16C_50"
           }
         ],
         "red": [
           {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Nos",
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101\\-Fish\\[7906\\]",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "--"
-          },
-          {
-            "name": "101chemisTR61",
-            "unit": "--"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -665,11 +681,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 17:45:18 UTC",
+      "lastUpdate": "26-03-29 17:50:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-29T17:45:31.217Z"
+    "lastUpdated": "2026-03-29T17:50:33.276Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -747,7 +763,7 @@
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 20:40  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 20:50  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -788,7 +804,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-29T17:45:31.480Z"
+    "lastUpdated": "2026-03-29T17:50:33.540Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -1318,6 +1334,13 @@
             "color": null,
             "icon": null,
             "position": 4
+          },
+          {
+            "id": "1487869625696911460",
+            "name": "Apex Aday",
+            "color": "#71368a",
+            "icon": null,
+            "position": 1
           }
         ],
         "topRole": {
@@ -1363,6 +1386,13 @@
             "color": null,
             "icon": null,
             "position": 8
+          },
+          {
+            "id": "1487869625696911460",
+            "name": "Apex Aday",
+            "color": "#71368a",
+            "icon": null,
+            "position": 1
           }
         ],
         "topRole": {
@@ -1439,6 +1469,13 @@
             "color": null,
             "icon": null,
             "position": 8
+          },
+          {
+            "id": "1487869625696911460",
+            "name": "Apex Aday",
+            "color": "#71368a",
+            "icon": null,
+            "position": 1
           }
         ],
         "topRole": {
@@ -2953,11 +2990,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-29T17:45:35.689Z",
+    "lastUpdated": "2026-03-29T17:50:34.561Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-29T17:45:36.346Z",
+    "fetchedAt": "2026-03-29T17:50:35.117Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
