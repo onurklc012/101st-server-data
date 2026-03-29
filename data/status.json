@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 12,
         "maxPlayers": 32,
-        "missionTime": "4:23:07",
-        "missionDate": "2026-03-29 12:38:07",
+        "missionTime": "4:28:07",
+        "missionDate": "2026-03-29 12:43:07",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "995 hPa",
@@ -31,6 +31,7 @@
           }
         },
         "playerList": [
+          "101\\-Tibet\\[4722\\]",
           "101\\-VespaTR\\(ACEMİ\\)",
           "?Beyaz",
           "BNB\\.ASLAN",
@@ -38,12 +39,15 @@
           "Melon",
           "ShootingStar 1\\-1 \\| Medic",
           "Tako",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
           "cagan",
           "cassaba",
           "on7as"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-Tibet\\[4722\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-VespaTR\\(ACEMİ\\)",
             "unit": "F-16C_50"
@@ -73,12 +77,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "cagan",
-            "unit": "F-15C"
+            "unit": "F-16C_50"
           },
           {
             "name": "cassaba",
@@ -91,6 +91,10 @@
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-Tibet\\[4722\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-VespaTR\\(ACEMİ\\)",
               "unit": "F-16C_50"
@@ -120,12 +124,8 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-              "unit": "F-16C_50"
-            },
-            {
               "name": "cagan",
-              "unit": "F-15C"
+              "unit": "F-16C_50"
             },
             {
               "name": "cassaba",
@@ -192,7 +192,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 19:25:18 UTC",
+        "lastUpdate": "26-03-29 19:30:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -205,8 +205,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:19:46",
-        "missionDate": "2026-03-29 16:24:46",
+        "missionTime": "4:24:46",
+        "missionDate": "2026-03-29 16:29:46",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1007 hPa",
@@ -285,7 +285,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 19:25:17 UTC",
+        "lastUpdate": "26-03-29 19:30:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -298,8 +298,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:15:45",
-        "missionDate": "2026-03-29 11:15:45",
+        "missionTime": "4:20:45",
+        "missionDate": "2026-03-29 11:20:45",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1007 hPa",
@@ -349,8 +349,8 @@
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 53,
-              "red": 13
+              "blue": 52,
+              "red": 14
             },
             "Ucaklar": {
               "blue": 0,
@@ -377,7 +377,7 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 13,
+              "blue": 14,
               "red": 6
             },
             "Downed Helicopters": {
@@ -385,7 +385,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 8,
+              "blue": 9,
               "red": 0
             },
             "Sunken Ships": {
@@ -399,7 +399,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 19:25:19 UTC",
+        "lastUpdate": "26-03-29 19:30:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -412,8 +412,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "4:13:42",
-        "missionDate": "2026-03-29 19:38:42",
+        "missionTime": "4:18:42",
+        "missionDate": "2026-03-29 19:43:42",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "995 hPa",
@@ -443,7 +443,7 @@
           },
           {
             "name": "Ftr\\. Plt\\. Hakan",
-            "unit": "AH-64D_BLK_II"
+            "unit": "Su-25T"
           }
         ],
         "activePlayers": {
@@ -454,7 +454,7 @@
             },
             {
               "name": "Ftr\\. Plt\\. Hakan",
-              "unit": "AH-64D_BLK_II"
+              "unit": "Su-25T"
             }
           ],
           "red": [],
@@ -496,7 +496,7 @@
             },
             "Downed Helicopters": {
               "blue": 0,
-              "red": 0
+              "red": 1
             },
             "Ground Shacks": {
               "blue": 1,
@@ -513,7 +513,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-29 19:25:20 UTC",
+        "lastUpdate": "26-03-29 19:30:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -527,8 +527,8 @@
       "map": "Caucasus",
       "players": 12,
       "maxPlayers": 32,
-      "missionTime": "4:23:07",
-      "missionDate": "2026-03-29 12:38:07",
+      "missionTime": "4:28:07",
+      "missionDate": "2026-03-29 12:43:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -548,6 +548,7 @@
         }
       },
       "playerList": [
+        "101\\-Tibet\\[4722\\]",
         "101\\-VespaTR\\(ACEMİ\\)",
         "?Beyaz",
         "BNB\\.ASLAN",
@@ -555,12 +556,15 @@
         "Melon",
         "ShootingStar 1\\-1 \\| Medic",
         "Tako",
-        "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
         "cagan",
         "cassaba",
         "on7as"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Tibet\\[4722\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-VespaTR\\(ACEMİ\\)",
           "unit": "F-16C_50"
@@ -590,12 +594,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "cagan",
-          "unit": "F-15C"
+          "unit": "F-16C_50"
         },
         {
           "name": "cassaba",
@@ -608,6 +608,10 @@
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Tibet\\[4722\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-VespaTR\\(ACEMİ\\)",
             "unit": "F-16C_50"
@@ -637,12 +641,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "cagan",
-            "unit": "F-15C"
+            "unit": "F-16C_50"
           },
           {
             "name": "cassaba",
@@ -709,11 +709,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 19:25:18 UTC",
+      "lastUpdate": "26-03-29 19:30:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-29T19:25:24.972Z"
+    "lastUpdated": "2026-03-29T19:30:33.737Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -791,7 +791,7 @@
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 22:20  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 29.03.2026 22:30  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -832,7 +832,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-29T19:25:25.213Z"
+    "lastUpdated": "2026-03-29T19:30:33.904Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3018,11 +3018,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-29T19:25:26.248Z",
+    "lastUpdated": "2026-03-29T19:30:34.962Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-29T19:25:27.137Z",
+    "fetchedAt": "2026-03-29T19:30:35.455Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
