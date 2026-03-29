@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［14／32］",
+      "channelName": "🖥️┃server-caucasus［17／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 14,
+      "players": 17,
       "maxPlayers": 32,
-      "missionTime": "3:28:07",
-      "missionDate": "2026-03-29 11:43:07",
+      "missionTime": "3:33:07",
+      "missionDate": "2026-03-29 11:48:07",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "995 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 8,
+          "used": 10,
           "total": 134
         },
         "red": {
@@ -30,8 +30,10 @@
         }
       },
       "playerList": [
+        "101\\-VespaTR\\(ACEMİ\\)",
         "101chemisTR61",
         "?Beyaz",
+        "BNB\\.ASLAN",
         "CanAda",
         "Hançer\\-1",
         "MaestroTR21",
@@ -42,16 +44,24 @@
         "101\\-Maskot\\(0019\\)",
         "101\\-Nos",
         "101\\-Rabik",
-        "101\\-VespaTR\\(ACEMİ\\)",
-        "BNB\\.ASLAN"
+        "05M4N",
+        "Somon"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-VespaTR\\(ACEMİ\\)",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101chemisTR61",
           "unit": "F-16C_50"
         },
         {
           "name": "?Beyaz",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
         },
         {
@@ -95,22 +105,30 @@
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "101\\-VespaTR\\(ACEMİ\\)",
+          "name": "05M4N",
           "unit": "--"
         },
         {
-          "name": "BNB\\.ASLAN",
+          "name": "Somon",
           "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
           {
+            "name": "101\\-VespaTR\\(ACEMİ\\)",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101chemisTR61",
             "unit": "F-16C_50"
           },
           {
             "name": "?Beyaz",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "BNB\\.ASLAN",
             "unit": "F-16C_50"
           },
           {
@@ -158,11 +176,11 @@
         ],
         "neutral": [
           {
-            "name": "101\\-VespaTR\\(ACEMİ\\)",
+            "name": "05M4N",
             "unit": "--"
           },
           {
-            "name": "BNB\\.ASLAN",
+            "name": "Somon",
             "unit": "--"
           }
         ]
@@ -220,7 +238,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:30:57 UTC",
+      "lastUpdate": "26-03-29 18:35:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -233,8 +251,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:24:46",
-      "missionDate": "2026-03-29 15:29:46",
+      "missionTime": "3:29:46",
+      "missionDate": "2026-03-29 15:34:46",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -313,7 +331,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:30:17 UTC",
+      "lastUpdate": "26-03-29 18:35:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -326,8 +344,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:20:45",
-      "missionDate": "2026-03-29 10:20:45",
+      "missionTime": "3:25:45",
+      "missionDate": "2026-03-29 10:25:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1007 hPa",
@@ -396,7 +414,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 7,
+            "blue": 8,
             "red": 3
           },
           "Downed Helicopters": {
@@ -418,7 +436,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:30:19 UTC",
+      "lastUpdate": "26-03-29 18:35:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -431,8 +449,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:18:42",
-      "missionDate": "2026-03-29 18:43:42",
+      "missionTime": "3:23:42",
+      "missionDate": "2026-03-29 18:48:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "995 hPa",
@@ -511,22 +529,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-29 18:30:19 UTC",
+      "lastUpdate": "26-03-29 18:35:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［14／32］",
+    "channelName": "🖥️┃server-caucasus［17／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 14,
+    "players": 17,
     "maxPlayers": 32,
-    "missionTime": "3:28:07",
-    "missionDate": "2026-03-29 11:43:07",
+    "missionTime": "3:33:07",
+    "missionDate": "2026-03-29 11:48:07",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "995 hPa",
@@ -537,7 +555,7 @@
     },
     "slots": {
       "blue": {
-        "used": 8,
+        "used": 10,
         "total": 134
       },
       "red": {
@@ -546,8 +564,10 @@
       }
     },
     "playerList": [
+      "101\\-VespaTR\\(ACEMİ\\)",
       "101chemisTR61",
       "?Beyaz",
+      "BNB\\.ASLAN",
       "CanAda",
       "Hançer\\-1",
       "MaestroTR21",
@@ -558,16 +578,24 @@
       "101\\-Maskot\\(0019\\)",
       "101\\-Nos",
       "101\\-Rabik",
-      "101\\-VespaTR\\(ACEMİ\\)",
-      "BNB\\.ASLAN"
+      "05M4N",
+      "Somon"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-VespaTR\\(ACEMİ\\)",
+        "unit": "F-16C_50"
+      },
       {
         "name": "101chemisTR61",
         "unit": "F-16C_50"
       },
       {
         "name": "?Beyaz",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "BNB\\.ASLAN",
         "unit": "F-16C_50"
       },
       {
@@ -611,22 +639,30 @@
         "unit": "FA-18C_hornet"
       },
       {
-        "name": "101\\-VespaTR\\(ACEMİ\\)",
+        "name": "05M4N",
         "unit": "--"
       },
       {
-        "name": "BNB\\.ASLAN",
+        "name": "Somon",
         "unit": "--"
       }
     ],
     "activePlayers": {
       "blue": [
         {
+          "name": "101\\-VespaTR\\(ACEMİ\\)",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101chemisTR61",
           "unit": "F-16C_50"
         },
         {
           "name": "?Beyaz",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
         },
         {
@@ -674,11 +710,11 @@
       ],
       "neutral": [
         {
-          "name": "101\\-VespaTR\\(ACEMİ\\)",
+          "name": "05M4N",
           "unit": "--"
         },
         {
-          "name": "BNB\\.ASLAN",
+          "name": "Somon",
           "unit": "--"
         }
       ]
@@ -736,9 +772,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-29 18:30:57 UTC",
+    "lastUpdate": "26-03-29 18:35:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-29T18:31:10.184Z"
+  "lastUpdated": "2026-03-29T18:35:25.683Z"
 }
