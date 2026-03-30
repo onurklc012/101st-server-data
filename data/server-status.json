@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［4／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:57:48",
-      "missionDate": "2026-03-30 12:12:48",
+      "missionTime": "4:02:48",
+      "missionDate": "2026-03-30 12:17:48",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1002 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -31,16 +31,11 @@
       },
       "playerList": [
         "ANATOLIANEAGLE",
-        "IRRESTIBLE",
         "on7as"
       ],
       "playerDetails": [
         {
           "name": "ANATOLIANEAGLE",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "IRRESTIBLE",
           "unit": "F-16C_50"
         },
         {
@@ -52,10 +47,6 @@
         "blue": [
           {
             "name": "ANATOLIANEAGLE",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "IRRESTIBLE",
             "unit": "F-16C_50"
           },
           {
@@ -119,21 +110,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 13:00:18 UTC",
+      "lastUpdate": "26-03-30 13:05:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［1／32］",
+      "channelName": "🖥️┃server-syria［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:54:45",
-      "missionDate": "2026-03-30 15:59:45",
+      "missionTime": "3:59:45",
+      "missionDate": "2026-03-30 16:04:45",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -152,12 +143,24 @@
           "total": 9
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "NAZGUL"
+      ],
+      "playerDetails": [
+        {
+          "name": "NAZGUL",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "NAZGUL",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -212,21 +215,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 13:00:17 UTC",
+      "lastUpdate": "26-03-30 13:05:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:50:48",
-      "missionDate": "2026-03-30 10:50:48",
+      "missionTime": "3:55:48",
+      "missionDate": "2026-03-30 10:55:48",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1010 hPa",
@@ -245,12 +248,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Fish\\[7906\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Fish\\[7906\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Fish\\[7906\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -305,7 +320,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 13:00:19 UTC",
+      "lastUpdate": "26-03-30 13:05:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -318,8 +333,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:48:43",
-      "missionDate": "2026-03-30 19:13:43",
+      "missionTime": "3:53:43",
+      "missionDate": "2026-03-30 19:18:43",
       "weather": {
         "temperature": "12.0°C",
         "qnh": "1002 hPa",
@@ -398,22 +413,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 13:00:21 UTC",
+      "lastUpdate": "26-03-30 13:05:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［4／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 4,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "3:57:48",
-    "missionDate": "2026-03-30 12:12:48",
+    "missionTime": "4:02:48",
+    "missionDate": "2026-03-30 12:17:48",
     "weather": {
       "temperature": "12.0°C",
       "qnh": "1002 hPa",
@@ -424,7 +439,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -434,16 +449,11 @@
     },
     "playerList": [
       "ANATOLIANEAGLE",
-      "IRRESTIBLE",
       "on7as"
     ],
     "playerDetails": [
       {
         "name": "ANATOLIANEAGLE",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "IRRESTIBLE",
         "unit": "F-16C_50"
       },
       {
@@ -455,10 +465,6 @@
       "blue": [
         {
           "name": "ANATOLIANEAGLE",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "IRRESTIBLE",
           "unit": "F-16C_50"
         },
         {
@@ -522,9 +528,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-30 13:00:18 UTC",
+    "lastUpdate": "26-03-30 13:05:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-30T13:00:38.770Z"
+  "lastUpdated": "2026-03-30T13:05:25.713Z"
 }
