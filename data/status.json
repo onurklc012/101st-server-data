@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "5:47:46",
-        "missionDate": "2026-03-30 14:02:46",
+        "missionTime": "5:52:46",
+        "missionDate": "2026-03-30 14:07:46",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1005 hPa",
@@ -111,7 +111,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:50:18 UTC",
+        "lastUpdate": "26-03-30 20:55:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -124,8 +124,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "5:44:48",
-        "missionDate": "2026-03-30 17:49:48",
+        "missionTime": "5:49:48",
+        "missionDate": "2026-03-30 17:54:48",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1009 hPa",
@@ -216,7 +216,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:50:17 UTC",
+        "lastUpdate": "26-03-30 20:55:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -229,8 +229,8 @@
         "map": "Syria",
         "players": 9,
         "maxPlayers": 32,
-        "missionTime": "5:40:30",
-        "missionDate": "2026-03-30 12:40:30",
+        "missionTime": "5:45:30",
+        "missionDate": "2026-03-30 12:45:30",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1009 hPa",
@@ -241,7 +241,7 @@
         },
         "slots": {
           "blue": {
-            "used": 7,
+            "used": 8,
             "total": 126
           },
           "red": {
@@ -256,8 +256,8 @@
           "101\\-Shadow\\[1881\\]",
           "101\\-Tunay \\[5555\\]",
           "101\\-Yidobaba\\[0098\\]",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "Hançer\\-1"
+          "Hançer\\-1",
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -282,15 +282,15 @@
           },
           {
             "name": "101\\-Yidobaba\\[0098\\]",
-            "unit": "Su-30SM"
-          },
-          {
-            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "F-16C_50"
           },
           {
             "name": "Hançer\\-1",
-            "unit": "_ _"
+            "unit": "FA-18E"
+          },
+          {
+            "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -317,7 +317,11 @@
             },
             {
               "name": "101\\-Yidobaba\\[0098\\]",
-              "unit": "Su-30SM"
+              "unit": "F-16C_50"
+            },
+            {
+              "name": "Hançer\\-1",
+              "unit": "FA-18E"
             },
             {
               "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
@@ -325,18 +329,13 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "Hançer\\-1",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 53,
-              "red": 14
+              "blue": 54,
+              "red": 13
             },
             "Ucaklar": {
               "blue": 0,
@@ -363,15 +362,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 29,
-              "red": 20
+              "blue": 31,
+              "red": 23
             },
             "Downed Helicopters": {
-              "blue": 7,
+              "blue": 8,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 56,
+              "blue": 57,
               "red": 0
             },
             "Sunken Ships": {
@@ -385,7 +384,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:50:19 UTC",
+        "lastUpdate": "26-03-30 20:55:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -398,8 +397,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:38:39",
-        "missionDate": "2026-03-30 21:03:39",
+        "missionTime": "5:43:39",
+        "missionDate": "2026-03-30 21:08:39",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1005 hPa",
@@ -478,7 +477,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:50:19 UTC",
+        "lastUpdate": "26-03-30 20:55:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -492,8 +491,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:47:46",
-      "missionDate": "2026-03-30 14:02:46",
+      "missionTime": "5:52:46",
+      "missionDate": "2026-03-30 14:07:46",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1005 hPa",
@@ -593,11 +592,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 20:50:18 UTC",
+      "lastUpdate": "26-03-30 20:55:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-30T20:50:32.387Z"
+    "lastUpdated": "2026-03-30T20:55:26.163Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -716,7 +715,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-30T20:50:32.670Z"
+    "lastUpdated": "2026-03-30T20:55:26.285Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2975,11 +2974,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-30T20:50:33.700Z",
+    "lastUpdated": "2026-03-30T20:55:26.968Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-30T20:50:34.508Z",
+    "fetchedAt": "2026-03-30T20:55:27.399Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
