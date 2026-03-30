@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 6,
         "maxPlayers": 32,
-        "missionTime": "5:02:46",
-        "missionDate": "2026-03-30 13:17:46",
+        "missionTime": "5:07:46",
+        "missionDate": "2026-03-30 13:22:46",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1005 hPa",
@@ -138,7 +138,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:05:18 UTC",
+        "lastUpdate": "26-03-30 20:10:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -151,8 +151,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:59:48",
-        "missionDate": "2026-03-30 17:04:48",
+        "missionTime": "5:04:48",
+        "missionDate": "2026-03-30 17:09:48",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1009 hPa",
@@ -243,7 +243,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:05:17 UTC",
+        "lastUpdate": "26-03-30 20:10:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -256,8 +256,8 @@
         "map": "Syria",
         "players": 8,
         "maxPlayers": 32,
-        "missionTime": "4:55:29",
-        "missionDate": "2026-03-30 11:55:29",
+        "missionTime": "5:00:30",
+        "missionDate": "2026-03-30 12:00:30",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1009 hPa",
@@ -268,7 +268,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 7,
             "total": 126
           },
           "red": {
@@ -279,11 +279,11 @@
         "playerList": [
           "101ArmOn1453",
           "101\\-HotelTango",
+          "101\\-Maestro \\[2106\\]",
           "101\\-Shadow\\[1881\\]",
           "101\\-Tunay \\[5555\\]",
           "Swoxy",
-          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
-          "101\\-Maestro \\[2106\\]"
+          "\\*\\*101\\-Hunter\\[0101\\]\\*\\*"
         ],
         "playerDetails": [
           {
@@ -293,6 +293,10 @@
           {
             "name": "101\\-HotelTango",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101\\-Maestro \\[2106\\]",
+            "unit": "F-16C_50"
           },
           {
             "name": "101\\-Shadow\\[1881\\]",
@@ -309,10 +313,6 @@
           {
             "name": "\\*\\*101\\-Hunter\\[0101\\]\\*\\*",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "101\\-Maestro \\[2106\\]",
-            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -324,6 +324,10 @@
             {
               "name": "101\\-HotelTango",
               "unit": "FA-18C_hornet"
+            },
+            {
+              "name": "101\\-Maestro \\[2106\\]",
+              "unit": "F-16C_50"
             },
             {
               "name": "101\\-Shadow\\[1881\\]",
@@ -343,18 +347,13 @@
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "101\\-Maestro \\[2106\\]",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
             "Hava Usleri / FARP'lar": {
-              "blue": 54,
-              "red": 13
+              "blue": 53,
+              "red": 14
             },
             "Ucaklar": {
               "blue": 0,
@@ -381,15 +380,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 19,
-              "red": 11
+              "blue": 21,
+              "red": 16
             },
             "Downed Helicopters": {
-              "blue": 3,
+              "blue": 4,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 23,
+              "blue": 31,
               "red": 0
             },
             "Sunken Ships": {
@@ -403,7 +402,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:05:19 UTC",
+        "lastUpdate": "26-03-30 20:10:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -416,8 +415,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:53:39",
-        "missionDate": "2026-03-30 20:18:39",
+        "missionTime": "4:58:39",
+        "missionDate": "2026-03-30 20:23:39",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1005 hPa",
@@ -428,7 +427,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 69
           },
           "red": {
@@ -442,18 +441,18 @@
         "playerDetails": [
           {
             "name": "MUTABIG",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "MUTABIG",
-              "unit": "_ _"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -508,7 +507,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-30 20:05:19 UTC",
+        "lastUpdate": "26-03-30 20:10:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -522,8 +521,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "5:02:46",
-      "missionDate": "2026-03-30 13:17:46",
+      "missionTime": "5:07:46",
+      "missionDate": "2026-03-30 13:22:46",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1005 hPa",
@@ -650,11 +649,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 20:05:18 UTC",
+      "lastUpdate": "26-03-30 20:10:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-30T20:05:27.805Z"
+    "lastUpdated": "2026-03-30T20:10:31.919Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -713,7 +712,7 @@
           {
             "rank": 3,
             "name": "101-Shadow[1881]",
-            "credits": 11126
+            "credits": 11256
           },
           {
             "rank": 4,
@@ -723,16 +722,16 @@
           {
             "rank": 5,
             "name": "101ArmOn1453",
-            "credits": 9491
+            "credits": 9391
           }
         ],
         "stats": {
-          "totalCredits": 118347,
+          "totalCredits": 118377,
           "totalPlayers": 90,
           "activePilots": "5",
           "highestScore": 14278
         },
-        "lastUpdate": "🕒 Son guncelleme: 30.03.2026 23:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 30.03.2026 23:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -773,7 +772,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-30T20:05:27.959Z"
+    "lastUpdated": "2026-03-30T20:10:32.076Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3032,11 +3031,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-30T20:05:28.813Z",
+    "lastUpdated": "2026-03-30T20:10:32.894Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-30T20:05:29.255Z",
+    "fetchedAt": "2026-03-30T20:10:33.482Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
