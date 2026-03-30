@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:13:12",
-      "missionDate": "2026-03-31 08:28:12",
+      "missionTime": "0:18:12",
+      "missionDate": "2026-03-31 08:33:12",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 21:15:18 UTC",
+      "lastUpdate": "26-03-30 21:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:09:47",
-      "missionDate": "2026-03-31 12:14:47",
+      "missionTime": "0:14:47",
+      "missionDate": "2026-03-31 12:19:47",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1011 hPa",
@@ -194,21 +194,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 21:15:17 UTC",
+      "lastUpdate": "26-03-30 21:20:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:04:42",
-      "missionDate": "2026-03-31 07:04:42",
+      "missionTime": "0:09:42",
+      "missionDate": "2026-03-31 07:09:42",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1011 hPa",
@@ -219,7 +219,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -227,12 +227,34 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Hançer\\-1",
+        "101ArmOn1453"
+      ],
+      "playerDetails": [
+        {
+          "name": "Hançer\\-1",
+          "unit": "FA-18E"
+        },
+        {
+          "name": "101ArmOn1453",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "Hançer\\-1",
+            "unit": "FA-18E"
+          }
+        ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -287,7 +309,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 21:15:19 UTC",
+      "lastUpdate": "26-03-30 21:20:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -300,8 +322,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:03:37",
-      "missionDate": "2026-03-31 15:28:37",
+      "missionTime": "0:08:37",
+      "missionDate": "2026-03-31 15:33:37",
       "weather": {
         "temperature": "10.0°C",
         "qnh": "1006 hPa",
@@ -380,7 +402,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 21:15:19 UTC",
+      "lastUpdate": "26-03-30 21:20:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -394,8 +416,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:13:12",
-    "missionDate": "2026-03-31 08:28:12",
+    "missionTime": "0:18:12",
+    "missionDate": "2026-03-31 08:33:12",
     "weather": {
       "temperature": "10.0°C",
       "qnh": "1006 hPa",
@@ -486,9 +508,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-30 21:15:18 UTC",
+    "lastUpdate": "26-03-30 21:20:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-30T21:15:26.807Z"
+  "lastUpdated": "2026-03-30T21:20:31.248Z"
 }
