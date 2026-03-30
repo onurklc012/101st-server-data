@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 11,
       "maxPlayers": 32,
-      "missionTime": "4:14:46",
-      "missionDate": "2026-03-30 12:29:46",
+      "missionTime": "4:17:46",
+      "missionDate": "2026-03-30 12:32:46",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1005 hPa",
@@ -30,22 +30,17 @@
         }
       },
       "playerList": [
-        "?Beyaz",
         "BNB\\.ASLAN",
         "CanAda",
         "Dante",
+        "NAZGUL",
         "Panter",
         "Tako",
         "cagan",
         "on7as",
-        "NAZGUL",
         "Yavuz"
       ],
       "playerDetails": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
@@ -56,6 +51,10 @@
         },
         {
           "name": "Dante",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
@@ -75,20 +74,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "NAZGUL",
-          "unit": "--"
-        },
-        {
           "name": "Yavuz",
-          "unit": "--"
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "?Beyaz",
-            "unit": "F-16C_50"
-          },
           {
             "name": "BNB\\.ASLAN",
             "unit": "F-16C_50"
@@ -99,6 +90,10 @@
           },
           {
             "name": "Dante",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "NAZGUL",
             "unit": "F-16C_50"
           },
           {
@@ -121,12 +116,8 @@
         "red": [],
         "neutral": [
           {
-            "name": "NAZGUL",
-            "unit": "--"
-          },
-          {
             "name": "Yavuz",
-            "unit": "--"
+            "unit": "_ _"
           }
         ]
       },
@@ -183,7 +174,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 19:18:07 UTC",
+      "lastUpdate": "26-03-30 19:20:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -196,8 +187,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:11:48",
-      "missionDate": "2026-03-30 16:16:48",
+      "missionTime": "4:14:48",
+      "missionDate": "2026-03-30 16:19:48",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1009 hPa",
@@ -276,21 +267,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 19:17:17 UTC",
+      "lastUpdate": "26-03-30 19:20:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［5／32］",
+      "channelName": "🖥️┃syria-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 5,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:07:30",
-      "missionDate": "2026-03-30 11:07:30",
+      "missionTime": "4:10:30",
+      "missionDate": "2026-03-30 11:10:30",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1009 hPa",
@@ -301,7 +292,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 6,
           "total": 126
         },
         "red": {
@@ -311,11 +302,11 @@
       },
       "playerList": [
         "101ArmOn1453",
-        "101\\-Shadow\\[1881\\]",
-        "Gustav",
-        "Swoxy",
         "101\\-HotelTango",
-        "101\\-Tunay \\[5555\\]"
+        "101\\-Shadow\\[1881\\]",
+        "101\\-Tunay \\[5555\\]",
+        "Gustav",
+        "Swoxy"
       ],
       "playerDetails": [
         {
@@ -323,7 +314,15 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "101\\-HotelTango",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
         },
         {
@@ -333,14 +332,6 @@
         {
           "name": "Swoxy",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-HotelTango",
-          "unit": "--"
-        },
-        {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -350,7 +341,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "101\\-HotelTango",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           },
           {
@@ -363,16 +362,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-HotelTango",
-            "unit": "--"
-          },
-          {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -427,21 +417,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 19:17:37 UTC",
+      "lastUpdate": "26-03-30 19:20:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［4／32］",
+      "channelName": "🖥️┃caucasus-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:05:39",
-      "missionDate": "2026-03-30 19:30:39",
+      "missionTime": "4:08:39",
+      "missionDate": "2026-03-30 19:33:39",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1005 hPa",
@@ -541,7 +531,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-30 19:17:21 UTC",
+      "lastUpdate": "26-03-30 19:20:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -555,8 +545,8 @@
     "map": "Caucasus",
     "players": 11,
     "maxPlayers": 32,
-    "missionTime": "4:14:46",
-    "missionDate": "2026-03-30 12:29:46",
+    "missionTime": "4:17:46",
+    "missionDate": "2026-03-30 12:32:46",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1005 hPa",
@@ -576,22 +566,17 @@
       }
     },
     "playerList": [
-      "?Beyaz",
       "BNB\\.ASLAN",
       "CanAda",
       "Dante",
+      "NAZGUL",
       "Panter",
       "Tako",
       "cagan",
       "on7as",
-      "NAZGUL",
       "Yavuz"
     ],
     "playerDetails": [
-      {
-        "name": "?Beyaz",
-        "unit": "F-16C_50"
-      },
       {
         "name": "BNB\\.ASLAN",
         "unit": "F-16C_50"
@@ -602,6 +587,10 @@
       },
       {
         "name": "Dante",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "NAZGUL",
         "unit": "F-16C_50"
       },
       {
@@ -621,20 +610,12 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "NAZGUL",
-        "unit": "--"
-      },
-      {
         "name": "Yavuz",
-        "unit": "--"
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
@@ -645,6 +626,10 @@
         },
         {
           "name": "Dante",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
@@ -667,12 +652,8 @@
       "red": [],
       "neutral": [
         {
-          "name": "NAZGUL",
-          "unit": "--"
-        },
-        {
           "name": "Yavuz",
-          "unit": "--"
+          "unit": "_ _"
         }
       ]
     },
@@ -729,9 +710,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-30 19:18:07 UTC",
+    "lastUpdate": "26-03-30 19:20:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-30T19:18:11.336Z"
+  "lastUpdated": "2026-03-30T19:20:29.031Z"
 }
