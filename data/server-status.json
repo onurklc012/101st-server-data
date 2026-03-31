@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "5:47:49",
-      "missionDate": "2026-03-31 14:02:49",
+      "missionTime": "5:52:49",
+      "missionDate": "2026-03-31 14:07:49",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1011 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -30,25 +30,14 @@
         }
       },
       "playerList": [
-        "101\\-Omry\\[0333\\]",
         "101\\-VespaTR\\(Aday Avcı\\)",
-        "NAZGUL",
         "Tako",
         "cagan",
-        "✯101\\-Emrecan\\[0444\\]✯",
-        "orzel"
+        "✯101\\-Emrecan\\[0444\\]✯"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-VespaTR\\(Aday Avcı\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
@@ -62,24 +51,12 @@
         {
           "name": "✯101\\-Emrecan\\[0444\\]✯",
           "unit": "AH-64D_BLK_II"
-        },
-        {
-          "name": "orzel",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Omry\\[0333\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-VespaTR\\(Aday Avcı\\)",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "NAZGUL",
             "unit": "F-16C_50"
           },
           {
@@ -96,12 +73,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "orzel",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -135,14 +107,14 @@
           },
           "Killed Planes": {
             "blue": 14,
-            "red": 7
+            "red": 9
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
@@ -156,7 +128,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:50:18 UTC",
+      "lastUpdate": "26-03-31 20:55:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -169,8 +141,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:44:54",
-      "missionDate": "2026-03-31 17:49:54",
+      "missionTime": "5:49:54",
+      "missionDate": "2026-03-31 17:54:54",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -249,7 +221,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:50:17 UTC",
+      "lastUpdate": "26-03-31 20:55:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -262,8 +234,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:40:49",
-      "missionDate": "2026-03-31 12:40:49",
+      "missionTime": "5:45:49",
+      "missionDate": "2026-03-31 12:45:49",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -342,7 +314,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:50:20 UTC",
+      "lastUpdate": "26-03-31 20:55:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -355,8 +327,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:38:41",
-      "missionDate": "2026-03-31 21:03:41",
+      "missionTime": "5:43:42",
+      "missionDate": "2026-03-31 21:08:42",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1011 hPa",
@@ -447,22 +419,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:50:21 UTC",
+      "lastUpdate": "26-03-31 20:55:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "channelName": "🖥️┃server-caucasus［7／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 8,
+    "players": 7,
     "maxPlayers": 32,
-    "missionTime": "5:47:49",
-    "missionDate": "2026-03-31 14:02:49",
+    "missionTime": "5:52:49",
+    "missionDate": "2026-03-31 14:07:49",
     "weather": {
       "temperature": "17.0°C",
       "qnh": "1011 hPa",
@@ -473,7 +445,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -482,25 +454,14 @@
       }
     },
     "playerList": [
-      "101\\-Omry\\[0333\\]",
       "101\\-VespaTR\\(Aday Avcı\\)",
-      "NAZGUL",
       "Tako",
       "cagan",
-      "✯101\\-Emrecan\\[0444\\]✯",
-      "orzel"
+      "✯101\\-Emrecan\\[0444\\]✯"
     ],
     "playerDetails": [
       {
-        "name": "101\\-Omry\\[0333\\]",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "101\\-VespaTR\\(Aday Avcı\\)",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "NAZGUL",
         "unit": "F-16C_50"
       },
       {
@@ -514,24 +475,12 @@
       {
         "name": "✯101\\-Emrecan\\[0444\\]✯",
         "unit": "AH-64D_BLK_II"
-      },
-      {
-        "name": "orzel",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
       "blue": [
         {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-VespaTR\\(Aday Avcı\\)",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "NAZGUL",
           "unit": "F-16C_50"
         },
         {
@@ -548,12 +497,7 @@
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "orzel",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -587,14 +531,14 @@
         },
         "Killed Planes": {
           "blue": 14,
-          "red": 7
+          "red": 9
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Sunken Ships": {
@@ -608,9 +552,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-31 20:50:18 UTC",
+    "lastUpdate": "26-03-31 20:55:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-31T20:50:26.851Z"
+  "lastUpdated": "2026-03-31T20:55:26.038Z"
 }
