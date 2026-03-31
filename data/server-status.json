@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［9／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 9,
       "maxPlayers": 32,
-      "missionTime": "5:32:49",
-      "missionDate": "2026-03-31 13:47:49",
+      "missionTime": "5:37:49",
+      "missionDate": "2026-03-31 13:52:49",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1011 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 134
         },
         "red": {
@@ -35,7 +35,9 @@
         "BNB\\.ASLAN",
         "NAZGUL",
         "Phantom",
-        "Tako"
+        "Tako",
+        "cagan",
+        "Niknush"
       ],
       "playerDetails": [
         {
@@ -56,11 +58,19 @@
         },
         {
           "name": "Phantom",
-          "unit": "Su-33"
+          "unit": "F-16C_50"
         },
         {
           "name": "Tako",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "cagan",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Niknush",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -83,15 +93,24 @@
           },
           {
             "name": "Phantom",
-            "unit": "Su-33"
+            "unit": "F-16C_50"
           },
           {
             "name": "Tako",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "cagan",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Niknush",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -146,7 +165,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:35:18 UTC",
+      "lastUpdate": "26-03-31 20:40:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -159,8 +178,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:29:54",
-      "missionDate": "2026-03-31 17:34:54",
+      "missionTime": "5:34:54",
+      "missionDate": "2026-03-31 17:39:54",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -239,7 +258,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:35:17 UTC",
+      "lastUpdate": "26-03-31 20:40:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -252,8 +271,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:25:49",
-      "missionDate": "2026-03-31 12:25:49",
+      "missionTime": "5:30:49",
+      "missionDate": "2026-03-31 12:30:49",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -344,21 +363,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:35:19 UTC",
+      "lastUpdate": "26-03-31 20:40:18 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:23:41",
-      "missionDate": "2026-03-31 20:48:41",
+      "missionTime": "5:28:41",
+      "missionDate": "2026-03-31 20:53:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1011 hPa",
@@ -369,7 +388,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -377,10 +396,22 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "MUTABIG"
+      ],
+      "playerDetails": [
+        {
+          "name": "MUTABIG",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "MUTABIG",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -437,22 +468,22 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 20:35:19 UTC",
+      "lastUpdate": "26-03-31 20:40:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［9／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 9,
     "maxPlayers": 32,
-    "missionTime": "5:32:49",
-    "missionDate": "2026-03-31 13:47:49",
+    "missionTime": "5:37:49",
+    "missionDate": "2026-03-31 13:52:49",
     "weather": {
       "temperature": "17.0°C",
       "qnh": "1011 hPa",
@@ -463,7 +494,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 7,
         "total": 134
       },
       "red": {
@@ -477,7 +508,9 @@
       "BNB\\.ASLAN",
       "NAZGUL",
       "Phantom",
-      "Tako"
+      "Tako",
+      "cagan",
+      "Niknush"
     ],
     "playerDetails": [
       {
@@ -498,11 +531,19 @@
       },
       {
         "name": "Phantom",
-        "unit": "Su-33"
+        "unit": "F-16C_50"
       },
       {
         "name": "Tako",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "cagan",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "Niknush",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -525,15 +566,24 @@
         },
         {
           "name": "Phantom",
-          "unit": "Su-33"
+          "unit": "F-16C_50"
         },
         {
           "name": "Tako",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "cagan",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "Niknush",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -588,9 +638,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-31 20:35:18 UTC",
+    "lastUpdate": "26-03-31 20:40:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-31T20:35:26.306Z"
+  "lastUpdated": "2026-03-31T20:40:28.280Z"
 }
