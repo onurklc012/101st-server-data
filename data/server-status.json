@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:37:49",
-      "missionDate": "2026-03-31 08:52:49",
+      "missionTime": "0:42:49",
+      "missionDate": "2026-03-31 08:57:49",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1011 hPa",
@@ -79,7 +79,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Downed Helicopters": {
@@ -101,7 +101,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 15:40:18 UTC",
+      "lastUpdate": "26-03-31 15:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -114,8 +114,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:34:54",
-      "missionDate": "2026-03-31 12:39:54",
+      "missionTime": "0:39:54",
+      "missionDate": "2026-03-31 12:44:54",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -194,7 +194,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 15:40:17 UTC",
+      "lastUpdate": "26-03-31 15:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -207,8 +207,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:30:49",
-      "missionDate": "2026-03-31 07:30:49",
+      "missionTime": "0:35:49",
+      "missionDate": "2026-03-31 07:35:49",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -238,7 +238,7 @@
         "situation": {
           "Hava Usleri / FARP'lar": {
             "blue": 57,
-            "red": 11
+            "red": 10
           },
           "Ucaklar": {
             "blue": 0,
@@ -258,22 +258,22 @@
           },
           "Yapilar": {
             "blue": 65,
-            "red": 114
+            "red": 108
           },
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 9,
-            "red": 9
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
-            "blue": 2,
+            "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 9,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -287,21 +287,21 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 15:40:18 UTC",
+      "lastUpdate": "26-03-31 15:45:18 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:28:42",
-      "missionDate": "2026-03-31 15:53:42",
+      "missionTime": "0:33:42",
+      "missionDate": "2026-03-31 15:58:42",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1011 hPa",
@@ -320,12 +320,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-zeshka\\[0035\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-zeshka\\[0035\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-zeshka\\[0035\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -380,7 +392,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 15:40:19 UTC",
+      "lastUpdate": "26-03-31 15:45:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -394,8 +406,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:37:49",
-    "missionDate": "2026-03-31 08:52:49",
+    "missionTime": "0:42:49",
+    "missionDate": "2026-03-31 08:57:49",
     "weather": {
       "temperature": "17.0°C",
       "qnh": "1011 hPa",
@@ -464,7 +476,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Downed Helicopters": {
@@ -486,9 +498,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-03-31 15:40:18 UTC",
+    "lastUpdate": "26-03-31 15:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-03-31T15:40:30.838Z"
+  "lastUpdated": "2026-03-31T15:45:29.616Z"
 }
