@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "2:17:49",
-        "missionDate": "2026-03-31 10:32:49",
+        "missionTime": "2:22:49",
+        "missionDate": "2026-03-31 10:37:49",
         "weather": {
           "temperature": "17.0°C",
           "qnh": "1011 hPa",
@@ -98,8 +98,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 1,
-              "red": 0
+              "blue": 3,
+              "red": 2
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -120,7 +120,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-31 17:20:18 UTC",
+        "lastUpdate": "26-03-31 17:25:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -133,8 +133,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:14:54",
-        "missionDate": "2026-03-31 14:19:54",
+        "missionTime": "2:19:54",
+        "missionDate": "2026-03-31 14:24:54",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "1013 hPa",
@@ -153,12 +153,24 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "Gustav"
+        ],
+        "playerDetails": [
+          {
+            "name": "Gustav",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Gustav",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -213,7 +225,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-31 17:20:17 UTC",
+        "lastUpdate": "26-03-31 17:25:27 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -226,8 +238,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:10:49",
-        "missionDate": "2026-03-31 09:10:49",
+        "missionTime": "2:15:49",
+        "missionDate": "2026-03-31 09:15:49",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "1013 hPa",
@@ -306,7 +318,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-31 17:20:19 UTC",
+        "lastUpdate": "26-03-31 17:25:18 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -319,8 +331,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:08:41",
-        "missionDate": "2026-03-31 17:33:41",
+        "missionTime": "2:13:41",
+        "missionDate": "2026-03-31 17:38:41",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1011 hPa",
@@ -399,7 +411,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-03-31 17:20:19 UTC",
+        "lastUpdate": "26-03-31 17:25:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -413,8 +425,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "2:17:49",
-      "missionDate": "2026-03-31 10:32:49",
+      "missionTime": "2:22:49",
+      "missionDate": "2026-03-31 10:37:49",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1011 hPa",
@@ -501,8 +513,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 0
+            "blue": 3,
+            "red": 2
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -523,11 +535,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-03-31 17:20:18 UTC",
+      "lastUpdate": "26-03-31 17:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-03-31T17:20:30.665Z"
+    "lastUpdated": "2026-03-31T17:25:32.711Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -646,7 +658,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-03-31T17:20:30.791Z"
+    "lastUpdated": "2026-03-31T17:25:32.931Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2912,11 +2924,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-03-31T17:20:31.702Z",
+    "lastUpdated": "2026-03-31T17:25:33.819Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-03-31T17:20:32.147Z",
+    "fetchedAt": "2026-03-31T17:25:34.483Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
