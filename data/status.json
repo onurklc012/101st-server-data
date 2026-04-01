@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［10／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 10,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "2:17:53",
-        "missionDate": "2026-04-01 10:32:53",
+        "missionTime": "2:22:53",
+        "missionDate": "2026-04-01 10:37:53",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 5,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -33,7 +33,6 @@
         "playerList": [
           "101\\-VespaTR\\(Aday Avcı\\)",
           "Aru",
-          "FatihEmin19",
           "ZubiZaretta",
           "cagan",
           "?Beyaz",
@@ -48,10 +47,6 @@
           {
             "name": "Aru",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
           },
           {
             "name": "ZubiZaretta",
@@ -83,10 +78,6 @@
             {
               "name": "Aru",
               "unit": "F-16C_50"
-            },
-            {
-              "name": "FatihEmin19",
-              "unit": "F-5E-3"
             },
             {
               "name": "ZubiZaretta",
@@ -166,7 +157,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 17:20:18 UTC",
+        "lastUpdate": "26-04-01 17:25:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -179,8 +170,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:14:59",
-        "missionDate": "2026-04-01 14:19:59",
+        "missionTime": "2:19:59",
+        "missionDate": "2026-04-01 14:24:59",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -259,7 +250,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 17:20:17 UTC",
+        "lastUpdate": "26-04-01 17:25:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -272,8 +263,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "2:10:56",
-        "missionDate": "2026-04-01 09:10:56",
+        "missionTime": "2:15:56",
+        "missionDate": "2026-04-01 09:15:56",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -284,7 +275,7 @@
         },
         "slots": {
           "blue": {
-            "used": 1,
+            "used": 2,
             "total": 126
           },
           "red": {
@@ -293,33 +284,32 @@
           }
         },
         "playerList": [
-          "Swoxy",
-          "Bravo Yankee"
+          "Bravo Yankee",
+          "Swoxy"
         ],
         "playerDetails": [
           {
-            "name": "Swoxy",
-            "unit": "F-16C_50"
+            "name": "Bravo Yankee",
+            "unit": "AH-64D_BLK_II"
           },
           {
-            "name": "Bravo Yankee",
-            "unit": "_ _"
+            "name": "Swoxy",
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "Bravo Yankee",
+              "unit": "AH-64D_BLK_II"
+            },
             {
               "name": "Swoxy",
               "unit": "F-16C_50"
             }
           ],
           "red": [],
-          "neutral": [
-            {
-              "name": "Bravo Yankee",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -360,7 +350,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 0,
+              "blue": 1,
               "red": 0
             },
             "Sunken Ships": {
@@ -374,7 +364,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 17:20:19 UTC",
+        "lastUpdate": "26-04-01 17:25:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -387,8 +377,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "2:08:42",
-        "missionDate": "2026-04-01 17:33:42",
+        "missionTime": "2:13:42",
+        "missionDate": "2026-04-01 17:38:42",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "1013 hPa",
@@ -467,22 +457,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 17:20:19 UTC",
+        "lastUpdate": "26-04-01 17:25:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［10／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 10,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "2:17:53",
-      "missionDate": "2026-04-01 10:32:53",
+      "missionTime": "2:22:53",
+      "missionDate": "2026-04-01 10:37:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -493,7 +483,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -504,7 +494,6 @@
       "playerList": [
         "101\\-VespaTR\\(Aday Avcı\\)",
         "Aru",
-        "FatihEmin19",
         "ZubiZaretta",
         "cagan",
         "?Beyaz",
@@ -519,10 +508,6 @@
         {
           "name": "Aru",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         },
         {
           "name": "ZubiZaretta",
@@ -554,10 +539,6 @@
           {
             "name": "Aru",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
           },
           {
             "name": "ZubiZaretta",
@@ -637,11 +618,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 17:20:18 UTC",
+      "lastUpdate": "26-04-01 17:25:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-01T17:20:37.567Z"
+    "lastUpdated": "2026-04-01T17:25:25.264Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -760,7 +741,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-01T17:20:37.709Z"
+    "lastUpdated": "2026-04-01T17:25:25.433Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3057,11 +3038,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-01T17:20:38.460Z",
+    "lastUpdated": "2026-04-01T17:25:26.398Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-01T17:20:38.815Z",
+    "fetchedAt": "2026-04-01T17:25:26.751Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
