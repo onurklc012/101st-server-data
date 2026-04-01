@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［8／32］",
+        "channelName": "🖥️┃server-caucasus［7／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 8,
+        "players": 7,
         "maxPlayers": 32,
-        "missionTime": "4:02:53",
-        "missionDate": "2026-04-01 12:17:53",
+        "missionTime": "4:07:53",
+        "missionDate": "2026-04-01 12:22:53",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 6,
+            "used": 3,
             "total": 134
           },
           "red": {
@@ -32,12 +32,10 @@
         },
         "playerList": [
           "101\\-VespaTR\\(Aday Avcı\\)",
-          "Aru",
-          "Silent Space",
-          "ZubiZaretta",
+          "101chemisTR61",
           "cagan",
-          "fabulous",
-          "on7as"
+          "on7as",
+          "?Beyaz"
         ],
         "playerDetails": [
           {
@@ -45,15 +43,7 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Aru",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Silent Space",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "ZubiZaretta",
+            "name": "101chemisTR61",
             "unit": "F-16C_50"
           },
           {
@@ -61,12 +51,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "fabulous",
+            "name": "on7as",
             "unit": "F-16C_50"
           },
           {
-            "name": "on7as",
-            "unit": "F-16C_50"
+            "name": "?Beyaz",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -76,23 +66,11 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Aru",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "Silent Space",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "ZubiZaretta",
+              "name": "101chemisTR61",
               "unit": "F-16C_50"
             },
             {
               "name": "cagan",
-              "unit": "F-16C_50"
-            },
-            {
-              "name": "fabulous",
               "unit": "F-16C_50"
             }
           ],
@@ -102,7 +80,12 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "?Beyaz",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -135,15 +118,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 4,
-              "red": 4
+              "blue": 9,
+              "red": 6
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 1,
+              "blue": 6,
               "red": 13
             },
             "Sunken Ships": {
@@ -157,7 +140,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 19:05:18 UTC",
+        "lastUpdate": "26-04-01 19:10:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -170,8 +153,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:59:59",
-        "missionDate": "2026-04-01 16:04:59",
+        "missionTime": "4:04:59",
+        "missionDate": "2026-04-01 16:09:59",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -250,7 +233,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 19:05:17 UTC",
+        "lastUpdate": "26-04-01 19:10:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -263,8 +246,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:55:56",
-        "missionDate": "2026-04-01 10:55:56",
+        "missionTime": "4:00:56",
+        "missionDate": "2026-04-01 11:00:56",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -283,12 +266,24 @@
             "total": 7
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-Tunay \\[5555\\]"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-Tunay \\[5555\\]",
+            "unit": "_ _"
+          }
+        ],
         "activePlayers": {
           "blue": [],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101\\-Tunay \\[5555\\]",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -343,7 +338,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 19:05:19 UTC",
+        "lastUpdate": "26-04-01 19:10:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -356,8 +351,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "3:53:42",
-        "missionDate": "2026-04-01 19:18:42",
+        "missionTime": "3:58:42",
+        "missionDate": "2026-04-01 19:23:42",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "1013 hPa",
@@ -436,22 +431,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 19:05:19 UTC",
+        "lastUpdate": "26-04-01 19:10:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "4:02:53",
-      "missionDate": "2026-04-01 12:17:53",
+      "missionTime": "4:07:53",
+      "missionDate": "2026-04-01 12:22:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -462,7 +457,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -472,12 +467,10 @@
       },
       "playerList": [
         "101\\-VespaTR\\(Aday Avcı\\)",
-        "Aru",
-        "Silent Space",
-        "ZubiZaretta",
+        "101chemisTR61",
         "cagan",
-        "fabulous",
-        "on7as"
+        "on7as",
+        "?Beyaz"
       ],
       "playerDetails": [
         {
@@ -485,15 +478,7 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Aru",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Silent Space",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "ZubiZaretta",
+          "name": "101chemisTR61",
           "unit": "F-16C_50"
         },
         {
@@ -501,12 +486,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "fabulous",
+          "name": "on7as",
           "unit": "F-16C_50"
         },
         {
-          "name": "on7as",
-          "unit": "F-16C_50"
+          "name": "?Beyaz",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -516,23 +501,11 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Aru",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Silent Space",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "ZubiZaretta",
+            "name": "101chemisTR61",
             "unit": "F-16C_50"
           },
           {
             "name": "cagan",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "fabulous",
             "unit": "F-16C_50"
           }
         ],
@@ -542,7 +515,12 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "?Beyaz",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -575,15 +553,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
-            "red": 4
+            "blue": 9,
+            "red": 6
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 6,
             "red": 13
           },
           "Sunken Ships": {
@@ -597,11 +575,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 19:05:18 UTC",
+      "lastUpdate": "26-04-01 19:10:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-01T19:05:28.018Z"
+    "lastUpdated": "2026-04-01T19:10:33.677Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -679,7 +657,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 01.04.2026 22:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 01.04.2026 22:10  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -720,7 +698,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-01T19:05:28.180Z"
+    "lastUpdated": "2026-04-01T19:10:33.847Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3017,11 +2995,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-01T19:05:29.384Z",
+    "lastUpdated": "2026-04-01T19:10:35.467Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-01T19:05:29.919Z",
+    "fetchedAt": "2026-04-01T19:10:35.985Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
