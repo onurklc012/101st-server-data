@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［6／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 6,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "1:38:53",
-        "missionDate": "2026-04-01 09:53:53",
+        "missionTime": "1:42:53",
+        "missionDate": "2026-04-01 09:57:53",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 3,
             "total": 134
           },
           "red": {
@@ -32,11 +32,12 @@
         },
         "playerList": [
           "101 \\- Tepe",
-          "Me1e27",
           "Panter",
           "Phantom",
           "?Beyaz",
-          "on7as"
+          "on7as",
+          "Aru",
+          "ZubiZaretta"
         ],
         "playerDetails": [
           {
@@ -44,16 +45,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Me1e27",
-            "unit": "F-15C"
-          },
-          {
             "name": "Panter",
             "unit": "F-16C_50"
           },
           {
             "name": "Phantom",
-            "unit": "F-86F Sabre"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "?Beyaz",
@@ -62,6 +59,14 @@
           {
             "name": "on7as",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Aru",
+            "unit": "--"
+          },
+          {
+            "name": "ZubiZaretta",
+            "unit": "--"
           }
         ],
         "activePlayers": {
@@ -71,16 +76,12 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "Me1e27",
-              "unit": "F-15C"
-            },
-            {
               "name": "Panter",
               "unit": "F-16C_50"
             },
             {
               "name": "Phantom",
-              "unit": "F-86F Sabre"
+              "unit": "FA-18C_hornet"
             }
           ],
           "red": [
@@ -93,7 +94,16 @@
               "unit": "F-16C_50"
             }
           ],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "Aru",
+              "unit": "--"
+            },
+            {
+              "name": "ZubiZaretta",
+              "unit": "--"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -148,7 +158,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 16:41:18 UTC",
+        "lastUpdate": "26-04-01 16:45:18 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -161,8 +171,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:35:59",
-        "missionDate": "2026-04-01 13:40:59",
+        "missionTime": "1:39:59",
+        "missionDate": "2026-04-01 13:44:59",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -241,7 +251,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 16:41:17 UTC",
+        "lastUpdate": "26-04-01 16:45:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -254,8 +264,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:31:56",
-        "missionDate": "2026-04-01 08:31:56",
+        "missionTime": "1:35:56",
+        "missionDate": "2026-04-01 08:35:56",
         "weather": {
           "temperature": "16.0°C",
           "qnh": "1015 hPa",
@@ -334,7 +344,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 16:41:19 UTC",
+        "lastUpdate": "26-04-01 16:45:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -347,8 +357,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "1:29:42",
-        "missionDate": "2026-04-01 16:54:42",
+        "missionTime": "1:33:42",
+        "missionDate": "2026-04-01 16:58:42",
         "weather": {
           "temperature": "19.0°C",
           "qnh": "1013 hPa",
@@ -427,22 +437,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 16:41:20 UTC",
+        "lastUpdate": "26-04-01 16:45:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［6／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 6,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:38:53",
-      "missionDate": "2026-04-01 09:53:53",
+      "missionTime": "1:42:53",
+      "missionDate": "2026-04-01 09:57:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -453,7 +463,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 134
         },
         "red": {
@@ -463,11 +473,12 @@
       },
       "playerList": [
         "101 \\- Tepe",
-        "Me1e27",
         "Panter",
         "Phantom",
         "?Beyaz",
-        "on7as"
+        "on7as",
+        "Aru",
+        "ZubiZaretta"
       ],
       "playerDetails": [
         {
@@ -475,16 +486,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Me1e27",
-          "unit": "F-15C"
-        },
-        {
           "name": "Panter",
           "unit": "F-16C_50"
         },
         {
           "name": "Phantom",
-          "unit": "F-86F Sabre"
+          "unit": "FA-18C_hornet"
         },
         {
           "name": "?Beyaz",
@@ -493,6 +500,14 @@
         {
           "name": "on7as",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Aru",
+          "unit": "--"
+        },
+        {
+          "name": "ZubiZaretta",
+          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -502,16 +517,12 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "Me1e27",
-            "unit": "F-15C"
-          },
-          {
             "name": "Panter",
             "unit": "F-16C_50"
           },
           {
             "name": "Phantom",
-            "unit": "F-86F Sabre"
+            "unit": "FA-18C_hornet"
           }
         ],
         "red": [
@@ -524,7 +535,16 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Aru",
+            "unit": "--"
+          },
+          {
+            "name": "ZubiZaretta",
+            "unit": "--"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -579,11 +599,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 16:41:18 UTC",
+      "lastUpdate": "26-04-01 16:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-01T16:41:33.428Z"
+    "lastUpdated": "2026-04-01T16:45:30.002Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -702,7 +722,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-01T16:41:33.606Z"
+    "lastUpdated": "2026-04-01T16:45:30.219Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2999,11 +3019,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-01T16:41:34.899Z",
+    "lastUpdated": "2026-04-01T16:45:31.093Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-01T16:41:35.403Z",
+    "fetchedAt": "2026-04-01T16:45:31.665Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
