@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:51:50",
-      "missionDate": "2026-04-02 09:06:50",
+      "missionTime": "0:56:50",
+      "missionDate": "2026-04-02 09:11:50",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1014 hPa",
@@ -90,21 +90,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-01 22:09:40 UTC",
+      "lastUpdate": "26-04-01 22:14:40 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［4／32］",
+      "channelName": "🖥️┃server-syria［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 4,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:51:11",
-      "missionDate": "2026-04-02 12:56:11",
+      "missionTime": "0:56:11",
+      "missionDate": "2026-04-02 13:01:11",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1018 hPa",
@@ -205,21 +205,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-01 22:09:39 UTC",
+      "lastUpdate": "26-04-01 22:14:39 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:50:23",
-      "missionDate": "2026-04-02 07:50:23",
+      "missionTime": "0:55:23",
+      "missionDate": "2026-04-02 07:55:23",
       "weather": {
         "temperature": "14.0°C",
         "qnh": "1018 hPa",
@@ -230,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 126
         },
         "red": {
@@ -249,7 +249,7 @@
         },
         {
           "name": "Thumper02",
-          "unit": "_ _"
+          "unit": "Su-35S"
         }
       ],
       "activePlayers": {
@@ -257,15 +257,14 @@
           {
             "name": "Cipher\\_17",
             "unit": "Su-35S"
+          },
+          {
+            "name": "Thumper02",
+            "unit": "Su-35S"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Thumper02",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -321,7 +320,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-01 22:10:29 UTC",
+      "lastUpdate": "26-04-01 22:14:41 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -334,8 +333,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:50:52",
-      "missionDate": "2026-04-02 16:15:52",
+      "missionTime": "0:55:52",
+      "missionDate": "2026-04-02 16:20:52",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1014 hPa",
@@ -363,44 +362,46 @@
       },
       "missionStats": {
         "situation": {
-          "Hava Usleri / FARP'lar": {
+          "Airbases / FARPs": {
             "blue": 22,
             "red": 26
           },
-          "Ucaklar": {
-            "blue": 0,
+          "Planes": {
+            "blue": 6,
+            "red": 6
+          },
+          "Helicopters": {
+            "blue": 1,
             "red": 0
           },
-          "Helikopterler": {
-            "blue": 0,
-            "red": 0
+          "Ground Units": {
+            "blue": 167,
+            "red": 807
           },
-          "Kara Birlikleri": {
-            "blue": 0,
-            "red": 0
+          "Ships": {
+            "blue": 8,
+            "red": 2
           },
-          "Gemiler": {
-            "blue": 0,
-            "red": 0
-          },
-          "Yapilar": {
+          "Structures": {
             "blue": 24,
             "red": 151
-          },
+          }
+        },
+        "achievements": {
           "Base Captures": {
             "blue": 0,
             "red": 0
           },
           "Killed Planes": {
-            "blue": 2,
-            "red": 2
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 2,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -411,10 +412,9 @@
             "blue": 0,
             "red": 0
           }
-        },
-        "achievements": {}
+        }
       },
-      "lastUpdate": "26-04-01 22:09:42 UTC",
+      "lastUpdate": "26-04-01 22:14:41 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -428,8 +428,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "0:51:50",
-    "missionDate": "2026-04-02 09:06:50",
+    "missionTime": "0:56:50",
+    "missionDate": "2026-04-02 09:11:50",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1014 hPa",
@@ -509,9 +509,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-01 22:09:40 UTC",
+    "lastUpdate": "26-04-01 22:14:40 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-01T22:10:28.945Z"
+  "lastUpdated": "2026-04-01T22:15:29.379Z"
 }
