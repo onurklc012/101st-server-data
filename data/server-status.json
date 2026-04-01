@@ -1,77 +1,22 @@
 {
   "servers": [
     {
-      "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "online": false,
+      "channelName": "🖥️┃server-caucasus［4／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
-      "players": 5,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:52:38",
-      "missionDate": "2026-04-01 14:07:38",
-      "weather": {
-        "temperature": "20.0°C",
-        "qnh": "1013 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "150° / 2 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 4,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
-      "playerList": [
-        "?Beyaz",
-        "Bozgun",
-        "FİXTO",
-        "cagan"
-      ],
-      "playerDetails": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Bozgun",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "FİXTO",
-          "unit": "F-4E-45MC"
-        },
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
-        }
-      ],
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "?Beyaz",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Bozgun",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "FİXTO",
-            "unit": "F-4E-45MC"
-          },
-          {
-            "name": "cagan",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -128,7 +73,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 14:55:18 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -141,8 +86,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:49:48",
-      "missionDate": "2026-04-01 17:54:48",
+      "missionTime": "5:54:48",
+      "missionDate": "2026-04-01 17:59:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1018 hPa",
@@ -221,7 +166,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 14:55:17 UTC",
+      "lastUpdate": "26-04-01 15:00:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -234,8 +179,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:45:54",
-      "missionDate": "2026-04-01 12:45:54",
+      "missionTime": "5:50:54",
+      "missionDate": "2026-04-01 12:50:54",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1018 hPa",
@@ -314,7 +259,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 14:55:19 UTC",
+      "lastUpdate": "26-04-01 15:00:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -327,8 +272,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:43:45",
-      "missionDate": "2026-04-01 21:08:45",
+      "missionTime": "5:48:45",
+      "missionDate": "2026-04-01 21:13:45",
       "weather": {
         "temperature": "21.0°C",
         "qnh": "1013 hPa",
@@ -428,83 +373,28 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 14:55:19 UTC",
+      "lastUpdate": "26-04-01 15:00:20 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "online": false,
+    "channelName": "🖥️┃server-caucasus［4／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
-    "players": 5,
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
+    "players": 4,
     "maxPlayers": 32,
-    "missionTime": "5:52:38",
-    "missionDate": "2026-04-01 14:07:38",
-    "weather": {
-      "temperature": "20.0°C",
-      "qnh": "1013 hPa",
-      "clouds": "Clear",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "150° / 2 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 4,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
-    "playerList": [
-      "?Beyaz",
-      "Bozgun",
-      "FİXTO",
-      "cagan"
-    ],
-    "playerDetails": [
-      {
-        "name": "?Beyaz",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "Bozgun",
-        "unit": "F-16C_50"
-      },
-      {
-        "name": "FİXTO",
-        "unit": "F-4E-45MC"
-      },
-      {
-        "name": "cagan",
-        "unit": "F-16C_50"
-      }
-    ],
+    "missionTime": "--:--",
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
+    "playerList": [],
+    "playerDetails": [],
     "activePlayers": {
-      "blue": [
-        {
-          "name": "?Beyaz",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Bozgun",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "FİXTO",
-          "unit": "F-4E-45MC"
-        },
-        {
-          "name": "cagan",
-          "unit": "F-16C_50"
-        }
-      ],
+      "blue": [],
       "red": [],
       "neutral": []
     },
@@ -561,9 +451,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-04-01 14:55:18 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-01T14:55:38.022Z"
+  "lastUpdated": "2026-04-01T15:00:43.868Z"
 }
