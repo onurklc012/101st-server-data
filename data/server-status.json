@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:38:53",
-      "missionDate": "2026-04-01 12:53:53",
+      "missionTime": "4:42:53",
+      "missionDate": "2026-04-01 12:57:53",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -34,9 +34,9 @@
         "101\\-VespaTR\\(Aday Avcı\\)",
         "101chemisTR61",
         "Tako",
+        "Yavuz",
         "?Beyaz",
-        "on7as",
-        "Yavuz"
+        "on7as"
       ],
       "playerDetails": [
         {
@@ -56,16 +56,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Yavuz",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "?Beyaz",
           "unit": "F-16C_50"
         },
         {
           "name": "on7as",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "Yavuz",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -85,6 +85,10 @@
           {
             "name": "Tako",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Yavuz",
+            "unit": "F-16C_50"
           }
         ],
         "red": [
@@ -97,12 +101,7 @@
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "Yavuz",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -157,7 +156,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 19:41:18 UTC",
+      "lastUpdate": "26-04-01 19:45:18 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -170,8 +169,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:35:59",
-      "missionDate": "2026-04-01 16:40:59",
+      "missionTime": "4:39:59",
+      "missionDate": "2026-04-01 16:44:59",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1015 hPa",
@@ -250,7 +249,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 19:41:17 UTC",
+      "lastUpdate": "26-04-01 19:45:17 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -263,8 +262,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:31:56",
-      "missionDate": "2026-04-01 11:31:56",
+      "missionTime": "4:35:56",
+      "missionDate": "2026-04-01 11:35:56",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1015 hPa",
@@ -343,7 +342,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 19:41:19 UTC",
+      "lastUpdate": "26-04-01 19:45:19 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -356,8 +355,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:29:42",
-      "missionDate": "2026-04-01 19:54:42",
+      "missionTime": "4:33:42",
+      "missionDate": "2026-04-01 19:58:42",
       "weather": {
         "temperature": "19.0°C",
         "qnh": "1013 hPa",
@@ -376,12 +375,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "MUTABIG"
+      ],
+      "playerDetails": [
+        {
+          "name": "MUTABIG",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "MUTABIG",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -436,7 +447,7 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 19:41:19 UTC",
+      "lastUpdate": "26-04-01 19:45:27 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -450,8 +461,8 @@
     "map": "Caucasus",
     "players": 8,
     "maxPlayers": 32,
-    "missionTime": "4:38:53",
-    "missionDate": "2026-04-01 12:53:53",
+    "missionTime": "4:42:53",
+    "missionDate": "2026-04-01 12:57:53",
     "weather": {
       "temperature": "20.0°C",
       "qnh": "1013 hPa",
@@ -462,7 +473,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -475,9 +486,9 @@
       "101\\-VespaTR\\(Aday Avcı\\)",
       "101chemisTR61",
       "Tako",
+      "Yavuz",
       "?Beyaz",
-      "on7as",
-      "Yavuz"
+      "on7as"
     ],
     "playerDetails": [
       {
@@ -497,16 +508,16 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "Yavuz",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "?Beyaz",
         "unit": "F-16C_50"
       },
       {
         "name": "on7as",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "Yavuz",
-        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -526,6 +537,10 @@
         {
           "name": "Tako",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Yavuz",
+          "unit": "F-16C_50"
         }
       ],
       "red": [
@@ -538,12 +553,7 @@
           "unit": "F-16C_50"
         }
       ],
-      "neutral": [
-        {
-          "name": "Yavuz",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -598,9 +608,9 @@
       },
       "achievements": {}
     },
-    "lastUpdate": "26-04-01 19:41:18 UTC",
+    "lastUpdate": "26-04-01 19:45:18 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-01T19:42:05.885Z"
+  "lastUpdated": "2026-04-01T19:45:29.006Z"
 }
