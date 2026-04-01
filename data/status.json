@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［3／32］",
+        "channelName": "🖥️┃server-caucasus［5／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 3,
+        "players": 5,
         "maxPlayers": 32,
-        "missionTime": "5:32:38",
-        "missionDate": "2026-04-01 13:47:38",
+        "missionTime": "5:37:38",
+        "missionDate": "2026-04-01 13:52:38",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1013 hPa",
@@ -22,7 +22,7 @@
         },
         "slots": {
           "blue": {
-            "used": 2,
+            "used": 4,
             "total": 134
           },
           "red": {
@@ -32,7 +32,9 @@
         },
         "playerList": [
           "?Beyaz",
-          "FİXTO"
+          "Bozgun",
+          "FİXTO",
+          "cagan"
         ],
         "playerDetails": [
           {
@@ -40,7 +42,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Bozgun",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "FİXTO",
+            "unit": "F-4E-45MC"
+          },
+          {
+            "name": "cagan",
             "unit": "F-16C_50"
           }
         ],
@@ -51,7 +61,15 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "Bozgun",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "FİXTO",
+              "unit": "F-4E-45MC"
+            },
+            {
+              "name": "cagan",
               "unit": "F-16C_50"
             }
           ],
@@ -89,8 +107,8 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 4,
-              "red": 3
+              "blue": 5,
+              "red": 4
             },
             "Downed Helicopters": {
               "blue": 0,
@@ -111,7 +129,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 14:35:18 UTC",
+        "lastUpdate": "26-04-01 14:40:19 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -124,8 +142,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:29:48",
-        "missionDate": "2026-04-01 17:34:48",
+        "missionTime": "5:34:48",
+        "missionDate": "2026-04-01 17:39:48",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1018 hPa",
@@ -204,7 +222,7 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 14:35:17 UTC",
+        "lastUpdate": "26-04-01 14:40:17 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -217,8 +235,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:25:55",
-        "missionDate": "2026-04-01 12:25:55",
+        "missionTime": "5:30:54",
+        "missionDate": "2026-04-01 12:30:54",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1018 hPa",
@@ -297,21 +315,21 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 14:35:19 UTC",
+        "lastUpdate": "26-04-01 14:40:19 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［4／32］",
+        "channelName": "🖥️┃caucasus-dynamic［3／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 4,
+        "players": 3,
         "maxPlayers": 32,
-        "missionTime": "5:23:45",
-        "missionDate": "2026-04-01 20:48:45",
+        "missionTime": "5:28:45",
+        "missionDate": "2026-04-01 20:53:45",
         "weather": {
           "temperature": "21.0°C",
           "qnh": "1013 hPa",
@@ -332,8 +350,7 @@
         },
         "playerList": [
           "101\\-HotelTango",
-          "101\\-zeshka\\[0035\\]",
-          "Bozgun"
+          "101\\-zeshka\\[0035\\]"
         ],
         "playerDetails": [
           {
@@ -343,10 +360,6 @@
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "FA-18C_hornet"
-          },
-          {
-            "name": "Bozgun",
-            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
@@ -358,10 +371,6 @@
             {
               "name": "101\\-zeshka\\[0035\\]",
               "unit": "FA-18C_hornet"
-            },
-            {
-              "name": "Bozgun",
-              "unit": "F-16C_50"
             }
           ],
           "red": [],
@@ -420,22 +429,22 @@
           },
           "achievements": {}
         },
-        "lastUpdate": "26-04-01 14:35:19 UTC",
+        "lastUpdate": "26-04-01 14:40:20 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:32:38",
-      "missionDate": "2026-04-01 13:47:38",
+      "missionTime": "5:37:38",
+      "missionDate": "2026-04-01 13:52:38",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1013 hPa",
@@ -446,7 +455,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -456,7 +465,9 @@
       },
       "playerList": [
         "?Beyaz",
-        "FİXTO"
+        "Bozgun",
+        "FİXTO",
+        "cagan"
       ],
       "playerDetails": [
         {
@@ -464,7 +475,15 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Bozgun",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "FİXTO",
+          "unit": "F-4E-45MC"
+        },
+        {
+          "name": "cagan",
           "unit": "F-16C_50"
         }
       ],
@@ -475,7 +494,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Bozgun",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "FİXTO",
+            "unit": "F-4E-45MC"
+          },
+          {
+            "name": "cagan",
             "unit": "F-16C_50"
           }
         ],
@@ -513,8 +540,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
-            "red": 3
+            "blue": 5,
+            "red": 4
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -535,11 +562,11 @@
         },
         "achievements": {}
       },
-      "lastUpdate": "26-04-01 14:35:18 UTC",
+      "lastUpdate": "26-04-01 14:40:19 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-01T14:35:29.967Z"
+    "lastUpdated": "2026-04-01T14:40:29.395Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -617,7 +644,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 01.04.2026 17:30  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 01.04.2026 17:40  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -658,7 +685,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-01T14:35:30.306Z"
+    "lastUpdated": "2026-04-01T14:40:29.516Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -1779,7 +1806,7 @@
         "id": "594851391550521345",
         "username": "speedyfatih",
         "displayName": "101-Oscar[0057]",
-        "avatar": "https://cdn.discordapp.com/avatars/594851391550521345/e4cc67fdee97e3977ceefdb8b5a2ec21.png?size=128",
+        "avatar": "https://cdn.discordapp.com/avatars/594851391550521345/6e52ae8719c1c621b122731c740ee839.png?size=128",
         "roles": [
           {
             "id": "1411689298239160402",
@@ -2924,11 +2951,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-01T14:35:30.970Z",
+    "lastUpdated": "2026-04-01T14:40:30.308Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-01T14:35:31.431Z",
+    "fetchedAt": "2026-04-01T14:40:30.656Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
