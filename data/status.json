@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［7／32］",
+        "channelName": "🖥️┃server-caucasus［8／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 7,
+        "players": 8,
         "maxPlayers": 32,
-        "missionTime": "4:52:43",
-        "missionDate": "2026-04-02 13:07:43",
+        "missionTime": "4:56:43",
+        "missionDate": "2026-04-02 13:11:43",
         "weather": {
           "temperature": "24.0°C",
           "qnh": "1003 hPa",
@@ -22,24 +22,29 @@
         },
         "slots": {
           "blue": {
-            "used": 4,
+            "used": 5,
             "total": 134
           },
           "red": {
-            "used": 2,
+            "used": 3,
             "total": 16
           }
         },
         "playerList": [
+          "101\\-Maskot\\(0019\\)",
           "101\\-Shadow\\[1881\\]",
           "101\\-VespaTR\\(Aday Avcı\\)",
           "Tako",
           "cagan",
           "?Beyaz",
-          "on7as",
-          "101\\-Maskot\\(0019\\)"
+          "Noxaris",
+          "on7as"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
@@ -61,16 +66,20 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "on7as",
+            "name": "Noxaris",
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "_ _"
+            "name": "on7as",
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-Maskot\\(0019\\)",
+              "unit": "F-16C_50"
+            },
             {
               "name": "101\\-Shadow\\[1881\\]",
               "unit": "F-16C_50"
@@ -94,16 +103,15 @@
               "unit": "F-16C_50"
             },
             {
+              "name": "Noxaris",
+              "unit": "F-16C_50"
+            },
+            {
               "name": "on7as",
               "unit": "F-16C_50"
             }
           ],
-          "neutral": [
-            {
-              "name": "101\\-Maskot\\(0019\\)",
-              "unit": "_ _"
-            }
-          ]
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -112,8 +120,8 @@
               "red": 23
             },
             "Planes": {
-              "blue": 10,
-              "red": 12
+              "blue": 12,
+              "red": 13
             },
             "Helicopters": {
               "blue": 2,
@@ -159,7 +167,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-02 19:55:52 UTC",
+        "lastUpdate": "26-04-02 19:59:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -172,8 +180,8 @@
         "map": "Syria",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "4:49:50",
-        "missionDate": "2026-04-02 16:54:50",
+        "missionTime": "4:53:50",
+        "missionDate": "2026-04-02 16:58:50",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1010 hPa",
@@ -184,7 +192,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 12
           },
           "red": {
@@ -192,10 +200,22 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "CanAda"
+        ],
+        "playerDetails": [
+          {
+            "name": "CanAda",
+            "unit": "FA-18C_hornet"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "CanAda",
+              "unit": "FA-18C_hornet"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -253,21 +273,21 @@
             }
           }
         },
-        "lastUpdate": "26-04-02 19:55:52 UTC",
+        "lastUpdate": "26-04-02 19:59:52 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［2／32］",
+        "channelName": "🖥️┃syria-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 2,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:45:42",
-        "missionDate": "2026-04-02 11:45:42",
+        "missionTime": "4:49:42",
+        "missionDate": "2026-04-02 11:49:42",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1010 hPa",
@@ -300,8 +320,8 @@
               "red": 10
             },
             "Planes": {
-              "blue": 4,
-              "red": 9
+              "blue": 7,
+              "red": 6
             },
             "Helicopters": {
               "blue": 0,
@@ -309,7 +329,7 @@
             },
             "Ground Units": {
               "blue": 968,
-              "red": 150
+              "red": 153
             },
             "Ships": {
               "blue": 19,
@@ -347,7 +367,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-02 19:55:53 UTC",
+        "lastUpdate": "26-04-02 19:59:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -360,8 +380,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:43:45",
-        "missionDate": "2026-04-02 20:08:45",
+        "missionTime": "4:47:45",
+        "missionDate": "2026-04-02 20:12:45",
         "weather": {
           "temperature": "23.0°C",
           "qnh": "1003 hPa",
@@ -441,22 +461,22 @@
             }
           }
         },
-        "lastUpdate": "26-04-02 19:55:54 UTC",
+        "lastUpdate": "26-04-02 19:59:54 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:52:43",
-      "missionDate": "2026-04-02 13:07:43",
+      "missionTime": "4:56:43",
+      "missionDate": "2026-04-02 13:11:43",
       "weather": {
         "temperature": "24.0°C",
         "qnh": "1003 hPa",
@@ -467,24 +487,29 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 134
         },
         "red": {
-          "used": 2,
+          "used": 3,
           "total": 16
         }
       },
       "playerList": [
+        "101\\-Maskot\\(0019\\)",
         "101\\-Shadow\\[1881\\]",
         "101\\-VespaTR\\(Aday Avcı\\)",
         "Tako",
         "cagan",
         "?Beyaz",
-        "on7as",
-        "101\\-Maskot\\(0019\\)"
+        "Noxaris",
+        "on7as"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Maskot\\(0019\\)",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Shadow\\[1881\\]",
           "unit": "F-16C_50"
@@ -506,16 +531,20 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "on7as",
+          "name": "Noxaris",
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-Maskot\\(0019\\)",
-          "unit": "_ _"
+          "name": "on7as",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Maskot\\(0019\\)",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
@@ -539,16 +568,15 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Noxaris",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "on7as",
             "unit": "F-16C_50"
           }
         ],
-        "neutral": [
-          {
-            "name": "101\\-Maskot\\(0019\\)",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -557,8 +585,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 10,
-            "red": 12
+            "blue": 12,
+            "red": 13
           },
           "Helicopters": {
             "blue": 2,
@@ -604,11 +632,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 19:55:52 UTC",
+      "lastUpdate": "26-04-02 19:59:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-02T19:56:27.056Z"
+    "lastUpdated": "2026-04-02T20:00:36.526Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -686,7 +714,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 02.04.2026 22:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 02.04.2026 23:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -727,7 +755,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-02T19:56:27.265Z"
+    "lastUpdated": "2026-04-02T20:00:36.723Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3031,11 +3059,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-02T19:56:28.178Z",
+    "lastUpdated": "2026-04-02T20:00:38.048Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-02T19:56:28.581Z",
+    "fetchedAt": "2026-04-02T20:00:38.703Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
