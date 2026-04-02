@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "1:49:59",
-      "missionDate": "2026-04-02 10:04:59",
+      "missionTime": "1:54:59",
+      "missionDate": "2026-04-02 10:09:59",
       "weather": {
         "temperature": "23.0°C",
         "qnh": "1005 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -30,10 +30,16 @@
         }
       },
       "playerList": [
+        "101\\-Yidobaba\\[0098\\]",
         "BNB\\.ASLAN",
-        "YZB\\.YAĞIZ"
+        "YZB\\.YAĞIZ",
+        "\\[RK\\] Falcon Pilot YT"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-35S"
+        },
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
@@ -41,10 +47,18 @@
         {
           "name": "YZB\\.YAĞIZ",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "\\[RK\\] Falcon Pilot YT",
+          "unit": "Ka-50_3"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Yidobaba\\[0098\\]",
+            "unit": "Su-35S"
+          },
           {
             "name": "BNB\\.ASLAN",
             "unit": "F-16C_50"
@@ -52,6 +66,10 @@
           {
             "name": "YZB\\.YAĞIZ",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "\\[RK\\] Falcon Pilot YT",
+            "unit": "Ka-50_3"
           }
         ],
         "red": [],
@@ -65,10 +83,10 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 18
+            "red": 17
           },
           "Helicopters": {
-            "blue": 2,
+            "blue": 3,
             "red": 2
           },
           "Ground Units": {
@@ -111,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:59:52 UTC",
+      "lastUpdate": "26-04-02 11:04:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +142,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:49:15",
-      "missionDate": "2026-04-02 13:54:15",
+      "missionTime": "1:54:15",
+      "missionDate": "2026-04-02 13:59:15",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +223,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:59:52 UTC",
+      "lastUpdate": "26-04-02 11:04:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -218,8 +236,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:48:39",
-      "missionDate": "2026-04-02 08:48:39",
+      "missionTime": "1:53:39",
+      "missionDate": "2026-04-02 08:53:39",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1013 hPa",
@@ -248,12 +266,12 @@
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 58,
-            "red": 9
+            "blue": 57,
+            "red": 10
           },
           "Planes": {
-            "blue": 4,
-            "red": 14
+            "blue": 6,
+            "red": 15
           },
           "Helicopters": {
             "blue": 1,
@@ -299,21 +317,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:59:53 UTC",
+      "lastUpdate": "26-04-02 11:04:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:49:07",
-      "missionDate": "2026-04-02 17:14:07",
+      "missionTime": "1:54:07",
+      "missionDate": "2026-04-02 17:19:07",
       "weather": {
         "temperature": "23.0°C",
         "qnh": "1005 hPa",
@@ -332,24 +350,12 @@
           "total": 2
         }
       },
-      "playerList": [
-        "flankerviper"
-      ],
-      "playerDetails": [
-        {
-          "name": "flankerviper",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "flankerviper",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -405,22 +411,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:59:54 UTC",
+      "lastUpdate": "26-04-02 11:04:57 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "1:49:59",
-    "missionDate": "2026-04-02 10:04:59",
+    "missionTime": "1:54:59",
+    "missionDate": "2026-04-02 10:09:59",
     "weather": {
       "temperature": "23.0°C",
       "qnh": "1005 hPa",
@@ -431,7 +437,7 @@
     },
     "slots": {
       "blue": {
-        "used": 2,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -440,10 +446,16 @@
       }
     },
     "playerList": [
+      "101\\-Yidobaba\\[0098\\]",
       "BNB\\.ASLAN",
-      "YZB\\.YAĞIZ"
+      "YZB\\.YAĞIZ",
+      "\\[RK\\] Falcon Pilot YT"
     ],
     "playerDetails": [
+      {
+        "name": "101\\-Yidobaba\\[0098\\]",
+        "unit": "Su-35S"
+      },
       {
         "name": "BNB\\.ASLAN",
         "unit": "F-16C_50"
@@ -451,10 +463,18 @@
       {
         "name": "YZB\\.YAĞIZ",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "\\[RK\\] Falcon Pilot YT",
+        "unit": "Ka-50_3"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Yidobaba\\[0098\\]",
+          "unit": "Su-35S"
+        },
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
@@ -462,6 +482,10 @@
         {
           "name": "YZB\\.YAĞIZ",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "\\[RK\\] Falcon Pilot YT",
+          "unit": "Ka-50_3"
         }
       ],
       "red": [],
@@ -475,10 +499,10 @@
         },
         "Planes": {
           "blue": 9,
-          "red": 18
+          "red": 17
         },
         "Helicopters": {
-          "blue": 2,
+          "blue": 3,
           "red": 2
         },
         "Ground Units": {
@@ -521,9 +545,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-02 10:59:52 UTC",
+    "lastUpdate": "26-04-02 11:04:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-02T11:00:41.891Z"
+  "lastUpdated": "2026-04-02T11:05:31.912Z"
 }
