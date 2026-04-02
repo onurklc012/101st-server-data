@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:44:59",
-      "missionDate": "2026-04-02 09:59:59",
+      "missionTime": "1:49:59",
+      "missionDate": "2026-04-02 10:04:59",
       "weather": {
         "temperature": "23.0°C",
         "qnh": "1005 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:54:53 UTC",
+      "lastUpdate": "26-04-02 10:59:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -124,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:44:15",
-      "missionDate": "2026-04-02 13:49:15",
+      "missionTime": "1:49:15",
+      "missionDate": "2026-04-02 13:54:15",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1013 hPa",
@@ -205,7 +205,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:54:52 UTC",
+      "lastUpdate": "26-04-02 10:59:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -218,8 +218,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:43:39",
-      "missionDate": "2026-04-02 08:43:39",
+      "missionTime": "1:48:39",
+      "missionDate": "2026-04-02 08:48:39",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1013 hPa",
@@ -299,21 +299,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:54:53 UTC",
+      "lastUpdate": "26-04-02 10:59:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "channelName": "🖥️┃caucasus-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:44:07",
-      "missionDate": "2026-04-02 17:09:07",
+      "missionTime": "1:49:07",
+      "missionDate": "2026-04-02 17:14:07",
       "weather": {
         "temperature": "23.0°C",
         "qnh": "1005 hPa",
@@ -332,12 +332,24 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "flankerviper"
+      ],
+      "playerDetails": [
+        {
+          "name": "flankerviper",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "flankerviper",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -393,7 +405,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-02 10:54:54 UTC",
+      "lastUpdate": "26-04-02 10:59:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -407,8 +419,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "1:44:59",
-    "missionDate": "2026-04-02 09:59:59",
+    "missionTime": "1:49:59",
+    "missionDate": "2026-04-02 10:04:59",
     "weather": {
       "temperature": "23.0°C",
       "qnh": "1005 hPa",
@@ -509,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-02 10:54:53 UTC",
+    "lastUpdate": "26-04-02 10:59:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-02T10:55:27.669Z"
+  "lastUpdated": "2026-04-02T11:00:41.891Z"
 }
