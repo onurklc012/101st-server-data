@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:48:09",
-      "missionDate": "2026-04-03 13:03:09",
+      "missionTime": "4:50:09",
+      "missionDate": "2026-04-03 13:05:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 6,
           "total": 134
         },
         "red": {
@@ -35,8 +35,7 @@
         "GhostEagle",
         "IRIS\\-T",
         "Tako",
-        "cagan",
-        "fastjet"
+        "cagan"
       ],
       "playerDetails": [
         {
@@ -62,10 +61,6 @@
         {
           "name": "cagan",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "fastjet",
-          "unit": "Su-35S"
         }
       ],
       "activePlayers": {
@@ -93,10 +88,6 @@
           {
             "name": "cagan",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "fastjet",
-            "unit": "Su-35S"
           }
         ],
         "red": [],
@@ -156,7 +147,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 19:52:52 UTC",
+      "lastUpdate": "26-04-03 19:54:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -169,8 +160,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:44:41",
-      "missionDate": "2026-04-03 16:49:41",
+      "missionTime": "4:46:41",
+      "missionDate": "2026-04-03 16:51:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -262,7 +253,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 19:52:52 UTC",
+      "lastUpdate": "26-04-03 19:54:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -275,8 +266,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:38:24",
-      "missionDate": "2026-04-03 11:38:24",
+      "missionTime": "4:40:24",
+      "missionDate": "2026-04-03 11:40:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -356,7 +347,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 19:52:53 UTC",
+      "lastUpdate": "26-04-03 19:54:54 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -369,8 +360,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:38:48",
-      "missionDate": "2026-04-03 20:03:48",
+      "missionTime": "4:40:48",
+      "missionDate": "2026-04-03 20:05:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -381,7 +372,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -389,10 +380,22 @@
           "total": 2
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "fastjet"
+      ],
+      "playerDetails": [
+        {
+          "name": "fastjet",
+          "unit": "Su-35S"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "fastjet",
+            "unit": "Su-35S"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -450,7 +453,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 19:52:54 UTC",
+      "lastUpdate": "26-04-03 19:54:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -464,8 +467,8 @@
     "map": "Caucasus",
     "players": 8,
     "maxPlayers": 32,
-    "missionTime": "4:48:09",
-    "missionDate": "2026-04-03 13:03:09",
+    "missionTime": "4:50:09",
+    "missionDate": "2026-04-03 13:05:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -476,7 +479,7 @@
     },
     "slots": {
       "blue": {
-        "used": 7,
+        "used": 6,
         "total": 134
       },
       "red": {
@@ -490,8 +493,7 @@
       "GhostEagle",
       "IRIS\\-T",
       "Tako",
-      "cagan",
-      "fastjet"
+      "cagan"
     ],
     "playerDetails": [
       {
@@ -517,10 +519,6 @@
       {
         "name": "cagan",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "fastjet",
-        "unit": "Su-35S"
       }
     ],
     "activePlayers": {
@@ -548,10 +546,6 @@
         {
           "name": "cagan",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "fastjet",
-          "unit": "Su-35S"
         }
       ],
       "red": [],
@@ -611,9 +605,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 19:52:52 UTC",
+    "lastUpdate": "26-04-03 19:54:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T19:53:53.121Z"
+  "lastUpdated": "2026-04-03T19:55:28.023Z"
 }
