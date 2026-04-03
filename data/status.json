@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 8,
         "maxPlayers": 32,
-        "missionTime": "5:40:09",
-        "missionDate": "2026-04-03 13:55:09",
+        "missionTime": "5:45:09",
+        "missionDate": "2026-04-03 14:00:09",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1003 hPa",
@@ -33,7 +33,7 @@
         "playerList": [
           "101\\-Tunay \\[5555\\]",
           "101\\-VespaTR",
-          "IRIS\\-T",
+          "MUCAHIT01",
           "Tako",
           "cagan",
           "fastjet"
@@ -48,8 +48,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "IRIS\\-T",
-            "unit": "Su-35S"
+            "name": "MUCAHIT01",
+            "unit": "Su-25T"
           },
           {
             "name": "Tako",
@@ -75,8 +75,8 @@
               "unit": "F-16C_50"
             },
             {
-              "name": "IRIS\\-T",
-              "unit": "Su-35S"
+              "name": "MUCAHIT01",
+              "unit": "Su-25T"
             },
             {
               "name": "Tako",
@@ -114,7 +114,7 @@
             },
             "Ships": {
               "blue": 10,
-              "red": 21
+              "red": 20
             },
             "Structures": {
               "blue": 134,
@@ -139,6 +139,112 @@
               "red": 0
             },
             "Sunken Ships": {
+              "blue": 1,
+              "red": 0
+            },
+            "Demolished Structures": {
+              "blue": 0,
+              "red": 0
+            }
+          }
+        },
+        "lastUpdate": "26-04-03 20:49:52 UTC",
+        "mapId": "caucasus",
+        "friendlyName": "Caucasus"
+      },
+      {
+        "online": true,
+        "channelName": "🖥️┃server-syria［2／32］",
+        "serverName": "101st Hunter Squadron",
+        "serverIP": "88.247.164.234:10309",
+        "mission": "101_Hunter_SQN_SURIYE_v3_7",
+        "map": "Syria",
+        "players": 2,
+        "maxPlayers": 32,
+        "missionTime": "5:41:41",
+        "missionDate": "2026-04-03 17:46:41",
+        "weather": {
+          "temperature": "16.0°C",
+          "qnh": "1014 hPa",
+          "clouds": "Clear",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "270° / 1 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 1,
+            "total": 12
+          },
+          "red": {
+            "used": 0,
+            "total": 9
+          }
+        },
+        "playerList": [
+          "CanAda"
+        ],
+        "playerDetails": [
+          {
+            "name": "CanAda",
+            "unit": "FA-18C_hornet"
+          }
+        ],
+        "activePlayers": {
+          "blue": [
+            {
+              "name": "CanAda",
+              "unit": "FA-18C_hornet"
+            }
+          ],
+          "red": [],
+          "neutral": []
+        },
+        "missionStats": {
+          "situation": {
+            "Airbases / FARPs": {
+              "blue": 7,
+              "red": 8
+            },
+            "Planes": {
+              "blue": 11,
+              "red": 28
+            },
+            "Helicopters": {
+              "blue": 0,
+              "red": 0
+            },
+            "Ground Units": {
+              "blue": 108,
+              "red": 334
+            },
+            "Ships": {
+              "blue": 4,
+              "red": 7
+            },
+            "Structures": {
+              "blue": 28,
+              "red": 89
+            }
+          },
+          "achievements": {
+            "Base Captures": {
+              "blue": 0,
+              "red": 0
+            },
+            "Killed Planes": {
+              "blue": 3,
+              "red": 0
+            },
+            "Downed Helicopters": {
+              "blue": 0,
+              "red": 0
+            },
+            "Ground Shacks": {
+              "blue": 0,
+              "red": 0
+            },
+            "Sunken Ships": {
               "blue": 0,
               "red": 0
             },
@@ -148,9 +254,9 @@
             }
           }
         },
-        "lastUpdate": "26-04-03 20:44:53 UTC",
-        "mapId": "caucasus",
-        "friendlyName": "Caucasus"
+        "lastUpdate": "26-04-03 20:49:52 UTC",
+        "mapId": "syria",
+        "friendlyName": "Syria"
       },
       {
         "online": true,
@@ -161,8 +267,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:30:24",
-        "missionDate": "2026-04-03 12:30:24",
+        "missionTime": "5:35:24",
+        "missionDate": "2026-04-03 12:35:24",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1014 hPa",
@@ -242,7 +348,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-03 20:44:53 UTC",
+        "lastUpdate": "26-04-03 20:49:53 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -255,8 +361,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "5:30:48",
-        "missionDate": "2026-04-03 20:55:48",
+        "missionTime": "5:35:48",
+        "missionDate": "2026-04-03 21:00:48",
         "weather": {
           "temperature": "18.0°C",
           "qnh": "1005 hPa",
@@ -336,7 +442,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-03 20:44:54 UTC",
+        "lastUpdate": "26-04-03 20:49:54 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -350,8 +456,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "5:40:09",
-      "missionDate": "2026-04-03 13:55:09",
+      "missionTime": "5:45:09",
+      "missionDate": "2026-04-03 14:00:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -373,7 +479,7 @@
       "playerList": [
         "101\\-Tunay \\[5555\\]",
         "101\\-VespaTR",
-        "IRIS\\-T",
+        "MUCAHIT01",
         "Tako",
         "cagan",
         "fastjet"
@@ -388,8 +494,8 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "IRIS\\-T",
-          "unit": "Su-35S"
+          "name": "MUCAHIT01",
+          "unit": "Su-25T"
         },
         {
           "name": "Tako",
@@ -415,8 +521,8 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "IRIS\\-T",
-            "unit": "Su-35S"
+            "name": "MUCAHIT01",
+            "unit": "Su-25T"
           },
           {
             "name": "Tako",
@@ -454,7 +560,7 @@
           },
           "Ships": {
             "blue": 10,
-            "red": 21
+            "red": 20
           },
           "Structures": {
             "blue": 134,
@@ -479,7 +585,7 @@
             "red": 0
           },
           "Sunken Ships": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Demolished Structures": {
@@ -488,11 +594,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 20:44:53 UTC",
+      "lastUpdate": "26-04-03 20:49:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-03T20:45:31.180Z"
+    "lastUpdated": "2026-04-03T20:50:29.305Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -570,7 +676,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 03.04.2026 23:40  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 03.04.2026 23:50  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -611,7 +717,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-03T20:45:31.369Z"
+    "lastUpdated": "2026-04-03T20:50:29.490Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2970,11 +3076,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-03T20:45:32.339Z",
+    "lastUpdated": "2026-04-03T20:50:30.429Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-03T20:45:32.860Z",
+    "fetchedAt": "2026-04-03T20:50:30.840Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
