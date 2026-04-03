@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:50:09",
-      "missionDate": "2026-04-03 14:05:09",
+      "missionTime": "5:55:09",
+      "missionDate": "2026-04-03 14:10:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -31,9 +31,7 @@
       },
       "playerList": [
         "101\\-Tunay \\[5555\\]",
-        "101\\-VespaTR",
         "MUCAHIT01",
-        "Tako",
         "cagan",
         "fastjet"
       ],
@@ -43,16 +41,8 @@
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "101\\-VespaTR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "MUCAHIT01",
           "unit": "Su-25T"
-        },
-        {
-          "name": "Tako",
-          "unit": "F-16C_50"
         },
         {
           "name": "cagan",
@@ -70,16 +60,8 @@
             "unit": "FA-18C_hornet"
           },
           {
-            "name": "101\\-VespaTR",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "MUCAHIT01",
             "unit": "Su-25T"
-          },
-          {
-            "name": "Tako",
-            "unit": "F-16C_50"
           },
           {
             "name": "cagan",
@@ -100,7 +82,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 12,
+            "blue": 10,
             "red": 17
           },
           "Helicopters": {
@@ -147,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 20:54:52 UTC",
+      "lastUpdate": "26-04-03 20:59:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -160,8 +142,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:46:41",
-      "missionDate": "2026-04-03 17:51:41",
+      "missionTime": "5:51:41",
+      "missionDate": "2026-04-03 17:56:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -253,7 +235,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 20:54:52 UTC",
+      "lastUpdate": "26-04-03 20:59:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -266,8 +248,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:40:24",
-      "missionDate": "2026-04-03 12:40:24",
+      "missionTime": "5:45:24",
+      "missionDate": "2026-04-03 12:45:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -347,21 +329,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 20:54:53 UTC",
+      "lastUpdate": "26-04-03 20:59:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［2／32］",
+      "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:40:48",
-      "missionDate": "2026-04-03 21:05:48",
+      "missionTime": "5:45:48",
+      "missionDate": "2026-04-03 21:10:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -380,24 +362,12 @@
           "total": 2
         }
       },
-      "playerList": [
-        "IRIS\\-T"
-      ],
-      "playerDetails": [
-        {
-          "name": "IRIS\\-T",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "IRIS\\-T",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -453,22 +423,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 20:54:54 UTC",
+      "lastUpdate": "26-04-03 20:59:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［5／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 5,
     "maxPlayers": 32,
-    "missionTime": "5:50:09",
-    "missionDate": "2026-04-03 14:05:09",
+    "missionTime": "5:55:09",
+    "missionDate": "2026-04-03 14:10:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -479,7 +449,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -489,9 +459,7 @@
     },
     "playerList": [
       "101\\-Tunay \\[5555\\]",
-      "101\\-VespaTR",
       "MUCAHIT01",
-      "Tako",
       "cagan",
       "fastjet"
     ],
@@ -501,16 +469,8 @@
         "unit": "FA-18C_hornet"
       },
       {
-        "name": "101\\-VespaTR",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "MUCAHIT01",
         "unit": "Su-25T"
-      },
-      {
-        "name": "Tako",
-        "unit": "F-16C_50"
       },
       {
         "name": "cagan",
@@ -528,16 +488,8 @@
           "unit": "FA-18C_hornet"
         },
         {
-          "name": "101\\-VespaTR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "MUCAHIT01",
           "unit": "Su-25T"
-        },
-        {
-          "name": "Tako",
-          "unit": "F-16C_50"
         },
         {
           "name": "cagan",
@@ -558,7 +510,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 12,
+          "blue": 10,
           "red": 17
         },
         "Helicopters": {
@@ -605,9 +557,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 20:54:52 UTC",
+    "lastUpdate": "26-04-03 20:59:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T20:55:26.013Z"
+  "lastUpdated": "2026-04-03T21:00:40.560Z"
 }
