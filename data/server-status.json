@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:35:09",
-      "missionDate": "2026-04-03 10:50:09",
+      "missionTime": "2:40:09",
+      "missionDate": "2026-04-03 10:55:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,33 +30,32 @@
         }
       },
       "playerList": [
-        "fastjet",
-        "101\\-VespaTR"
+        "101\\-VespaTR",
+        "fastjet"
       ],
       "playerDetails": [
         {
-          "name": "fastjet",
-          "unit": "Su-35S"
+          "name": "101\\-VespaTR",
+          "unit": "F-16C_50"
         },
         {
-          "name": "101\\-VespaTR",
-          "unit": "_ _"
+          "name": "fastjet",
+          "unit": "Su-35S"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-VespaTR",
+            "unit": "F-16C_50"
+          },
           {
             "name": "fastjet",
             "unit": "Su-35S"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-VespaTR",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -112,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 17:39:52 UTC",
+      "lastUpdate": "26-04-03 17:44:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +124,8 @@
       "map": "Syria",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "2:31:41",
-      "missionDate": "2026-04-03 14:36:41",
+      "missionTime": "2:36:41",
+      "missionDate": "2026-04-03 14:41:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -227,7 +226,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 17:39:52 UTC",
+      "lastUpdate": "26-04-03 17:44:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -240,8 +239,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:25:24",
-      "missionDate": "2026-04-03 09:25:24",
+      "missionTime": "2:30:24",
+      "missionDate": "2026-04-03 09:30:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -274,12 +273,12 @@
             "red": 10
           },
           "Planes": {
-            "blue": 7,
-            "red": 12
+            "blue": 9,
+            "red": 6
           },
           "Helicopters": {
             "blue": 1,
-            "red": 2
+            "red": 1
           },
           "Ground Units": {
             "blue": 968,
@@ -321,7 +320,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 17:39:53 UTC",
+      "lastUpdate": "26-04-03 17:44:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -334,8 +333,8 @@
       "map": "Caucasus",
       "players": 7,
       "maxPlayers": 32,
-      "missionTime": "2:25:48",
-      "missionDate": "2026-04-03 17:50:48",
+      "missionTime": "2:30:48",
+      "missionDate": "2026-04-03 17:55:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -463,22 +462,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 17:39:54 UTC",
+      "lastUpdate": "26-04-03 17:44:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "2:35:09",
-    "missionDate": "2026-04-03 10:50:09",
+    "missionTime": "2:40:09",
+    "missionDate": "2026-04-03 10:55:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -489,7 +488,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -498,33 +497,32 @@
       }
     },
     "playerList": [
-      "fastjet",
-      "101\\-VespaTR"
+      "101\\-VespaTR",
+      "fastjet"
     ],
     "playerDetails": [
       {
-        "name": "fastjet",
-        "unit": "Su-35S"
+        "name": "101\\-VespaTR",
+        "unit": "F-16C_50"
       },
       {
-        "name": "101\\-VespaTR",
-        "unit": "_ _"
+        "name": "fastjet",
+        "unit": "Su-35S"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-VespaTR",
+          "unit": "F-16C_50"
+        },
         {
           "name": "fastjet",
           "unit": "Su-35S"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-VespaTR",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -580,9 +578,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 17:39:52 UTC",
+    "lastUpdate": "26-04-03 17:44:53 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T17:40:31.714Z"
+  "lastUpdated": "2026-04-03T17:45:30.060Z"
 }
