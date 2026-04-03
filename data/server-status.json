@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:20:09",
-      "missionDate": "2026-04-03 08:35:09",
+      "missionTime": "0:30:09",
+      "missionDate": "2026-04-03 08:45:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,33 +30,32 @@
         }
       },
       "playerList": [
-        "Hakoş",
-        "101\\-Antares"
+        "101\\-Antares",
+        "Hakoş"
       ],
       "playerDetails": [
         {
-          "name": "Hakoş",
-          "unit": "FA-18C_hornet"
+          "name": "101\\-Antares",
+          "unit": "Mirage-F1BE"
         },
         {
-          "name": "101\\-Antares",
-          "unit": "_ _"
+          "name": "Hakoş",
+          "unit": "FA-18C_hornet"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Antares",
+            "unit": "Mirage-F1BE"
+          },
           {
             "name": "Hakoş",
             "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Antares",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -112,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 15:24:52 UTC",
+      "lastUpdate": "26-04-03 15:34:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +124,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:16:42",
-      "missionDate": "2026-04-03 12:21:42",
+      "missionTime": "0:26:42",
+      "missionDate": "2026-04-03 12:31:42",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -206,7 +205,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 15:24:52 UTC",
+      "lastUpdate": "26-04-03 15:34:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -219,8 +218,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:10:25",
-      "missionDate": "2026-04-03 07:10:25",
+      "missionTime": "0:20:24",
+      "missionDate": "2026-04-03 07:20:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -300,7 +299,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 15:24:53 UTC",
+      "lastUpdate": "26-04-03 15:34:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -313,8 +312,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:10:49",
-      "missionDate": "2026-04-03 15:35:49",
+      "missionTime": "0:20:49",
+      "missionDate": "2026-04-03 15:45:49",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -333,24 +332,12 @@
           "total": 2
         }
       },
-      "playerList": [
-        "RodrigoAzevedo"
-      ],
-      "playerDetails": [
-        {
-          "name": "RodrigoAzevedo",
-          "unit": "_ _"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": [
-          {
-            "name": "RodrigoAzevedo",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -406,22 +393,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 15:25:02 UTC",
+      "lastUpdate": "26-04-03 15:34:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "0:20:09",
-    "missionDate": "2026-04-03 08:35:09",
+    "missionTime": "0:30:09",
+    "missionDate": "2026-04-03 08:45:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -432,7 +419,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -441,33 +428,32 @@
       }
     },
     "playerList": [
-      "Hakoş",
-      "101\\-Antares"
+      "101\\-Antares",
+      "Hakoş"
     ],
     "playerDetails": [
       {
-        "name": "Hakoş",
-        "unit": "FA-18C_hornet"
+        "name": "101\\-Antares",
+        "unit": "Mirage-F1BE"
       },
       {
-        "name": "101\\-Antares",
-        "unit": "_ _"
+        "name": "Hakoş",
+        "unit": "FA-18C_hornet"
       }
     ],
     "activePlayers": {
       "blue": [
+        {
+          "name": "101\\-Antares",
+          "unit": "Mirage-F1BE"
+        },
         {
           "name": "Hakoş",
           "unit": "FA-18C_hornet"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "101\\-Antares",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -523,9 +509,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 15:24:52 UTC",
+    "lastUpdate": "26-04-03 15:34:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T15:25:29.470Z"
+  "lastUpdated": "2026-04-03T15:35:25.678Z"
 }
