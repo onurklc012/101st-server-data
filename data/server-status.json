@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［3／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 3,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:15:09",
-      "missionDate": "2026-04-03 11:30:09",
+      "missionTime": "3:20:09",
+      "missionDate": "2026-04-03 11:35:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "BNB\\.ASLAN"
+        "BNB\\.ASLAN",
+        "fastjet"
       ],
       "playerDetails": [
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "fastjet",
+          "unit": "Su-35S"
         }
       ],
       "activePlayers": {
@@ -43,6 +48,10 @@
           {
             "name": "BNB\\.ASLAN",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "fastjet",
+            "unit": "Su-35S"
           }
         ],
         "red": [],
@@ -102,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:19:52 UTC",
+      "lastUpdate": "26-04-03 18:24:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +124,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:11:41",
-      "missionDate": "2026-04-03 15:16:41",
+      "missionTime": "3:16:41",
+      "missionDate": "2026-04-03 15:21:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -208,7 +217,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:19:52 UTC",
+      "lastUpdate": "26-04-03 18:24:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -221,8 +230,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:05:24",
-      "missionDate": "2026-04-03 10:05:24",
+      "missionTime": "3:10:24",
+      "missionDate": "2026-04-03 10:10:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -302,21 +311,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:19:53 UTC",
+      "lastUpdate": "26-04-03 18:24:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［10／32］",
+      "channelName": "🖥️┃caucasus-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 10,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "3:05:48",
-      "missionDate": "2026-04-03 18:30:48",
+      "missionTime": "3:10:48",
+      "missionDate": "2026-04-03 18:35:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -327,7 +336,7 @@
       },
       "slots": {
         "blue": {
-          "used": 7,
+          "used": 6,
           "total": 69
         },
         "red": {
@@ -341,8 +350,7 @@
         "Hunter2\\-1",
         "MrEmou",
         "Steph57",
-        "Zelveron",
-        "alperen efe"
+        "Zelveron"
       ],
       "playerDetails": [
         {
@@ -368,10 +376,6 @@
         {
           "name": "Zelveron",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "alperen efe",
-          "unit": "UH-60L"
         }
       ],
       "activePlayers": {
@@ -399,10 +403,6 @@
           {
             "name": "Zelveron",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "alperen efe",
-            "unit": "UH-60L"
           }
         ],
         "red": [],
@@ -415,7 +415,7 @@
             "red": 26
           },
           "Planes": {
-            "blue": 15,
+            "blue": 12,
             "red": 4
           },
           "Helicopters": {
@@ -423,8 +423,8 @@
             "red": 4
           },
           "Ground Units": {
-            "blue": 177,
-            "red": 789
+            "blue": 178,
+            "red": 790
           },
           "Ships": {
             "blue": 13,
@@ -442,7 +442,7 @@
           },
           "Killed Planes": {
             "blue": 7,
-            "red": 10
+            "red": 12
           },
           "Downed Helicopters": {
             "blue": 2,
@@ -462,22 +462,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:19:54 UTC",
+      "lastUpdate": "26-04-03 18:24:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［3／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 3,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "3:15:09",
-    "missionDate": "2026-04-03 11:30:09",
+    "missionTime": "3:20:09",
+    "missionDate": "2026-04-03 11:35:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -497,12 +497,17 @@
       }
     },
     "playerList": [
-      "BNB\\.ASLAN"
+      "BNB\\.ASLAN",
+      "fastjet"
     ],
     "playerDetails": [
       {
         "name": "BNB\\.ASLAN",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "fastjet",
+        "unit": "Su-35S"
       }
     ],
     "activePlayers": {
@@ -510,6 +515,10 @@
         {
           "name": "BNB\\.ASLAN",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "fastjet",
+          "unit": "Su-35S"
         }
       ],
       "red": [],
@@ -569,9 +578,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 18:19:52 UTC",
+    "lastUpdate": "26-04-03 18:24:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T18:20:30.181Z"
+  "lastUpdated": "2026-04-03T18:25:25.109Z"
 }
