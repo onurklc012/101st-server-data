@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "3:10:09",
-      "missionDate": "2026-04-03 11:25:09",
+      "missionTime": "3:15:09",
+      "missionDate": "2026-04-03 11:30:09",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1003 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -35,18 +35,18 @@
       "playerDetails": [
         {
           "name": "BNB\\.ASLAN",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "BNB\\.ASLAN",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -102,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:15:22 UTC",
+      "lastUpdate": "26-04-03 18:19:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +115,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:06:41",
-      "missionDate": "2026-04-03 15:11:41",
+      "missionTime": "3:11:41",
+      "missionDate": "2026-04-03 15:16:41",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -208,7 +208,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:14:52 UTC",
+      "lastUpdate": "26-04-03 18:19:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -221,8 +221,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:00:24",
-      "missionDate": "2026-04-03 10:00:24",
+      "missionTime": "3:05:24",
+      "missionDate": "2026-04-03 10:05:24",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1014 hPa",
@@ -302,7 +302,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:14:53 UTC",
+      "lastUpdate": "26-04-03 18:19:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -315,8 +315,8 @@
       "map": "Caucasus",
       "players": 10,
       "maxPlayers": 32,
-      "missionTime": "3:00:48",
-      "missionDate": "2026-04-03 18:25:48",
+      "missionTime": "3:05:48",
+      "missionDate": "2026-04-03 18:30:48",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1005 hPa",
@@ -336,23 +336,15 @@
         }
       },
       "playerList": [
-        "101\\-Maestro \\[2106\\]",
-        "Botan",
         "Hançer 2",
         "Hançer\\-1",
         "Hunter2\\-1",
         "MrEmou",
-        "Zelveron"
+        "Steph57",
+        "Zelveron",
+        "alperen efe"
       ],
       "playerDetails": [
-        {
-          "name": "101\\-Maestro \\[2106\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "Botan",
-          "unit": "J-11A"
-        },
         {
           "name": "Hançer 2",
           "unit": "F-16C_50"
@@ -370,20 +362,20 @@
           "unit": "Su-25T"
         },
         {
+          "name": "Steph57",
+          "unit": "Su-35S-AG"
+        },
+        {
           "name": "Zelveron",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "alperen efe",
+          "unit": "UH-60L"
         }
       ],
       "activePlayers": {
         "blue": [
-          {
-            "name": "101\\-Maestro \\[2106\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "Botan",
-            "unit": "J-11A"
-          },
           {
             "name": "Hançer 2",
             "unit": "F-16C_50"
@@ -401,8 +393,16 @@
             "unit": "Su-25T"
           },
           {
+            "name": "Steph57",
+            "unit": "Su-35S-AG"
+          },
+          {
             "name": "Zelveron",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "alperen efe",
+            "unit": "UH-60L"
           }
         ],
         "red": [],
@@ -415,7 +415,7 @@
             "red": 26
           },
           "Planes": {
-            "blue": 17,
+            "blue": 15,
             "red": 4
           },
           "Helicopters": {
@@ -424,11 +424,11 @@
           },
           "Ground Units": {
             "blue": 177,
-            "red": 785
+            "red": 789
           },
           "Ships": {
             "blue": 13,
-            "red": 0
+            "red": 3
           },
           "Structures": {
             "blue": 24,
@@ -462,22 +462,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-03 18:14:54 UTC",
+      "lastUpdate": "26-04-03 18:19:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［3／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 3,
     "maxPlayers": 32,
-    "missionTime": "3:10:09",
-    "missionDate": "2026-04-03 11:25:09",
+    "missionTime": "3:15:09",
+    "missionDate": "2026-04-03 11:30:09",
     "weather": {
       "temperature": "18.0°C",
       "qnh": "1003 hPa",
@@ -488,7 +488,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -502,18 +502,18 @@
     "playerDetails": [
       {
         "name": "BNB\\.ASLAN",
-        "unit": "_ _"
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
-      "blue": [],
-      "red": [],
-      "neutral": [
+      "blue": [
         {
           "name": "BNB\\.ASLAN",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
-      ]
+      ],
+      "red": [],
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -569,9 +569,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-03 18:15:22 UTC",
+    "lastUpdate": "26-04-03 18:19:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-03T18:15:32.334Z"
+  "lastUpdated": "2026-04-03T18:20:30.181Z"
 }
