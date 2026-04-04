@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:36:53",
-      "missionDate": "2026-04-04 09:51:53",
+      "missionTime": "1:46:53",
+      "missionDate": "2026-04-04 10:01:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 16:39:52 UTC",
+      "lastUpdate": "26-04-04 16:49:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -190,15 +190,15 @@
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:29:38",
-      "missionDate": "2026-04-04 08:29:38",
+      "missionTime": "1:39:38",
+      "missionDate": "2026-04-04 08:39:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -209,7 +209,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -217,42 +217,30 @@
           "total": 7
         }
       },
-      "playerList": [
-        "TalhaPV"
-      ],
-      "playerDetails": [
-        {
-          "name": "TalhaPV",
-          "unit": "F-16C_50"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "TalhaPV",
-            "unit": "F-16C_50"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 57,
-            "red": 10
+            "blue": 58,
+            "red": 9
           },
           "Planes": {
-            "blue": 5,
-            "red": 6
+            "blue": 6,
+            "red": 10
           },
           "Helicopters": {
-            "blue": 1,
-            "red": 2
+            "blue": 2,
+            "red": 1
           },
           "Ground Units": {
-            "blue": 965,
-            "red": 139
+            "blue": 979,
+            "red": 156
           },
           "Ships": {
             "blue": 19,
@@ -269,15 +257,15 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 0
+            "blue": 2,
+            "red": 4
           },
           "Downed Helicopters": {
-            "blue": 0,
+            "blue": 3,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 1,
+            "blue": 4,
             "red": 0
           },
           "Sunken Ships": {
@@ -290,21 +278,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 16:39:52 UTC",
+      "lastUpdate": "26-04-04 16:49:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［7／32］",
+      "channelName": "🖥️┃caucasus-dynamic［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "1:27:43",
-      "missionDate": "2026-04-04 16:52:43",
+      "missionTime": "1:37:43",
+      "missionDate": "2026-04-04 17:02:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -315,7 +303,7 @@
       },
       "slots": {
         "blue": {
-          "used": 5,
+          "used": 6,
           "total": 69
         },
         "red": {
@@ -325,15 +313,25 @@
       },
       "playerList": [
         "101\\-zeshka\\[0035\\]",
+        "Kerem",
+        "MISHA",
         "NAZGUL",
         "RodrigoAzevedo",
-        "\\=Silver\\_Hawk\\= Rafael",
-        "\\=Silver\\_Hawk\\= SrFox\\_Trot"
+        "\\=Silver\\_Hawk\\= SrFox\\_Trot",
+        "YZB\\.ÖNCEL"
       ],
       "playerDetails": [
         {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "Kerem",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "MISHA",
+          "unit": "MiG-29 Fulcrum"
         },
         {
           "name": "NAZGUL",
@@ -344,12 +342,12 @@
           "unit": "Su-35S"
         },
         {
-          "name": "\\=Silver\\_Hawk\\= Rafael",
-          "unit": "Su-35S"
-        },
-        {
           "name": "\\=Silver\\_Hawk\\= SrFox\\_Trot",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "YZB\\.ÖNCEL",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -357,6 +355,14 @@
           {
             "name": "101\\-zeshka\\[0035\\]",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "Kerem",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "MISHA",
+            "unit": "MiG-29 Fulcrum"
           },
           {
             "name": "NAZGUL",
@@ -367,16 +373,17 @@
             "unit": "Su-35S"
           },
           {
-            "name": "\\=Silver\\_Hawk\\= Rafael",
-            "unit": "Su-35S"
-          },
-          {
             "name": "\\=Silver\\_Hawk\\= SrFox\\_Trot",
             "unit": "FA-18C_hornet"
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "YZB\\.ÖNCEL",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -432,7 +439,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 16:39:53 UTC",
+      "lastUpdate": "26-04-04 16:49:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -446,8 +453,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "1:36:53",
-    "missionDate": "2026-04-04 09:51:53",
+    "missionTime": "1:46:53",
+    "missionDate": "2026-04-04 10:01:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -527,9 +534,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 16:39:52 UTC",
+    "lastUpdate": "26-04-04 16:49:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T16:40:30.646Z"
+  "lastUpdated": "2026-04-04T16:50:32.886Z"
 }
