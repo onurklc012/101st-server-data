@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 2,
         "maxPlayers": 32,
-        "missionTime": "2:17:51",
-        "missionDate": "2026-04-05 10:32:51",
+        "missionTime": "2:21:51",
+        "missionDate": "2026-04-05 10:36:51",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1013 hPa",
@@ -103,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 23:20:52 UTC",
+        "lastUpdate": "26-04-04 23:24:52 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -210,8 +210,8 @@
         "map": "Syria",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "2:10:34",
-        "missionDate": "2026-04-05 09:10:34",
+        "missionTime": "2:14:34",
+        "missionDate": "2026-04-05 09:14:34",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1018 hPa",
@@ -312,7 +312,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 23:20:54 UTC",
+        "lastUpdate": "26-04-04 23:24:52 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -325,8 +325,8 @@
         "map": "Caucasus",
         "players": 3,
         "maxPlayers": 32,
-        "missionTime": "2:08:50",
-        "missionDate": "2026-04-05 17:33:50",
+        "missionTime": "2:12:50",
+        "missionDate": "2026-04-05 17:37:50",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1013 hPa",
@@ -347,7 +347,8 @@
         },
         "playerList": [
           "HİGGSZED",
-          "✯101\\-EffBee\\[0010\\]✯"
+          "✯101\\-EffBee\\[0010\\]✯",
+          "TosTRafora"
         ],
         "playerDetails": [
           {
@@ -357,6 +358,10 @@
           {
             "name": "✯101\\-EffBee\\[0010\\]✯",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "TosTRafora",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -371,7 +376,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "TosTRafora",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -427,7 +437,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 23:20:55 UTC",
+        "lastUpdate": "26-04-04 23:24:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -441,8 +451,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:17:51",
-      "missionDate": "2026-04-05 10:32:51",
+      "missionTime": "2:21:51",
+      "missionDate": "2026-04-05 10:36:51",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1013 hPa",
@@ -534,11 +544,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 23:20:52 UTC",
+      "lastUpdate": "26-04-04 23:24:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-04T23:21:13.884Z"
+    "lastUpdated": "2026-04-04T23:25:27.167Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -657,7 +667,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-04T23:21:14.103Z"
+    "lastUpdated": "2026-04-04T23:25:27.314Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3016,11 +3026,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-04T23:21:14.883Z",
+    "lastUpdated": "2026-04-04T23:25:28.254Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-04T23:21:15.380Z",
+    "fetchedAt": "2026-04-04T23:25:28.615Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
