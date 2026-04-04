@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［-］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:01:53",
-      "missionDate": "2026-04-04 08:16:53",
+      "missionTime": "0:06:53",
+      "missionDate": "2026-04-04 08:21:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 134
         },
         "red": {
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "101\\-Tunay \\[5555\\]"
+        "101\\-Tunay \\[5555\\]",
+        "CAKIR"
       ],
       "playerDetails": [
         {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "CAKIR",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -43,6 +48,10 @@
           {
             "name": "101\\-Tunay \\[5555\\]",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "CAKIR",
+            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -55,7 +64,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
+            "blue": 9,
             "red": 18
           },
           "Helicopters": {
@@ -81,8 +90,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 2
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -102,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:04:52 UTC",
+      "lastUpdate": "26-04-04 15:09:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -202,26 +211,26 @@
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［2／32］",
+      "channelName": "🖥️┃syria-dynamic［-］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 2,
+      "players": 0,
       "maxPlayers": 32,
-      "missionTime": "5:13:08",
-      "missionDate": "2026-04-04 12:13:08",
+      "missionTime": "0:00:00",
+      "missionDate": "2026-04-04 07:00:00",
       "weather": {
-        "temperature": "20.0°C",
+        "temperature": "18.0°C",
         "qnh": "1015 hPa",
         "clouds": "Clear",
         "cloudbase": "--",
         "visibility": "10 km / 6 SM (+)",
-        "wind": "240° / 11 kts"
+        "wind": "240° / 9 kts"
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 0,
           "total": 126
         },
         "red": {
@@ -229,22 +238,10 @@
           "total": 7
         }
       },
-      "playerList": [
-        "CAKIR"
-      ],
-      "playerDetails": [
-        {
-          "name": "CAKIR",
-          "unit": "C-130J-30"
-        }
-      ],
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "CAKIR",
-            "unit": "C-130J-30"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -302,39 +299,23 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:04:53 UTC",
+      "lastUpdate": "26-04-04 15:10:12 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［1／32］",
+      "online": false,
+      "channelName": "🖥️┃caucasus-dynamic［3／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10311",
-      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
-      "map": "Caucasus",
-      "players": 1,
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:14:54",
-      "missionDate": "2026-04-04 20:39:54",
-      "weather": {
-        "temperature": "15.0°C",
-        "qnh": "1010 hPa",
-        "clouds": "Three Layers Overcast Low Level",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "250° / 7 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 0,
-          "total": 69
-        },
-        "red": {
-          "used": 0,
-          "total": 2
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -396,22 +377,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:04:54 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［-］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "0:01:53",
-    "missionDate": "2026-04-04 08:16:53",
+    "missionTime": "0:06:53",
+    "missionDate": "2026-04-04 08:21:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -422,7 +403,7 @@
     },
     "slots": {
       "blue": {
-        "used": 1,
+        "used": 2,
         "total": 134
       },
       "red": {
@@ -431,12 +412,17 @@
       }
     },
     "playerList": [
-      "101\\-Tunay \\[5555\\]"
+      "101\\-Tunay \\[5555\\]",
+      "CAKIR"
     ],
     "playerDetails": [
       {
         "name": "101\\-Tunay \\[5555\\]",
         "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "CAKIR",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -444,6 +430,10 @@
         {
           "name": "101\\-Tunay \\[5555\\]",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "CAKIR",
+          "unit": "F-16C_50"
         }
       ],
       "red": [],
@@ -456,7 +446,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
+          "blue": 9,
           "red": 18
         },
         "Helicopters": {
@@ -482,8 +472,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 1,
-          "red": 2
+          "blue": 0,
+          "red": 0
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -503,9 +493,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 15:04:52 UTC",
+    "lastUpdate": "26-04-04 15:09:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T15:05:30.153Z"
+  "lastUpdated": "2026-04-04T15:10:37.823Z"
 }
