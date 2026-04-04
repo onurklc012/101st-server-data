@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［2／32］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 2,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:11:17",
-      "missionDate": "2026-04-04 11:26:17",
+      "missionTime": "3:16:17",
+      "missionDate": "2026-04-04 11:31:17",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 12:59:52 UTC",
+      "lastUpdate": "26-04-04 13:04:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -197,8 +197,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:08:08",
-      "missionDate": "2026-04-04 10:08:08",
+      "missionTime": "3:13:08",
+      "missionDate": "2026-04-04 10:13:08",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1015 hPa",
@@ -278,7 +278,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 12:59:52 UTC",
+      "lastUpdate": "26-04-04 13:04:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -291,8 +291,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:09:54",
-      "missionDate": "2026-04-04 18:34:54",
+      "missionTime": "3:14:54",
+      "missionDate": "2026-04-04 18:39:54",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -303,7 +303,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -312,12 +312,16 @@
         }
       },
       "playerList": [
+        "101ArmOn1453",
         "101\\-Maestro \\[2106\\]",
         "101\\-Shadow\\[1881\\]",
-        "101\\-zeshka\\[0035\\]",
-        "101ArmOn1453"
+        "101\\-zeshka\\[0035\\]"
       ],
       "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Maestro \\[2106\\]",
           "unit": "F-16C_50"
@@ -329,14 +333,14 @@
         {
           "name": "101\\-zeshka\\[0035\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101ArmOn1453",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Maestro \\[2106\\]",
             "unit": "F-16C_50"
@@ -351,12 +355,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101ArmOn1453",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -412,22 +411,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 12:59:53 UTC",
+      "lastUpdate": "26-04-04 13:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［2／32］",
+    "channelName": "🖥️┃server-caucasus［1／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 32,
-    "missionTime": "3:11:17",
-    "missionDate": "2026-04-04 11:26:17",
+    "missionTime": "3:16:17",
+    "missionDate": "2026-04-04 11:31:17",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -507,9 +506,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 12:59:52 UTC",
+    "lastUpdate": "26-04-04 13:04:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T13:00:40.210Z"
+  "lastUpdated": "2026-04-04T13:05:28.826Z"
 }
