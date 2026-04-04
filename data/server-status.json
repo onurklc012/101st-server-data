@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:06:53",
-      "missionDate": "2026-04-04 11:21:53",
+      "missionTime": "3:11:53",
+      "missionDate": "2026-04-04 11:26:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -33,6 +33,7 @@
         "101\\-Can\\_Ada\\[1824\\]",
         "101\\-Tunay \\[5555\\]",
         "CanerBABA",
+        "Sabre 2",
         "Yasin10"
       ],
       "playerDetails": [
@@ -49,8 +50,12 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "Sabre 2",
+          "unit": "F-16C_50"
+        },
+        {
           "name": "Yasin10",
-          "unit": "_ _"
+          "unit": "F-15C"
         }
       ],
       "activePlayers": {
@@ -66,15 +71,18 @@
           {
             "name": "CanerBABA",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Sabre 2",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "Yasin10",
+            "unit": "F-15C"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Yasin10",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -130,7 +138,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:09:52 UTC",
+      "lastUpdate": "26-04-04 18:14:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -237,8 +245,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:59:38",
-      "missionDate": "2026-04-04 09:59:38",
+      "missionTime": "3:04:38",
+      "missionDate": "2026-04-04 10:04:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -284,14 +292,14 @@
           },
           "Planes": {
             "blue": 6,
-            "red": 12
+            "red": 13
           },
           "Helicopters": {
             "blue": 3,
             "red": 1
           },
           "Ground Units": {
-            "blue": 997,
+            "blue": 1003,
             "red": 161
           },
           "Ships": {
@@ -330,21 +338,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:09:52 UTC",
+      "lastUpdate": "26-04-04 18:14:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［6／32］",
+      "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 6,
+      "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:57:43",
-      "missionDate": "2026-04-04 18:22:43",
+      "missionTime": "3:02:43",
+      "missionDate": "2026-04-04 18:27:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -355,7 +363,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 4,
           "total": 69
         },
         "red": {
@@ -365,15 +373,18 @@
       },
       "playerList": [
         "101\\-Shadow\\[1881\\]",
-        "RodrigoAzevedo",
-        "\\=Silver\\_Hawk\\= SrFox\\_Trot",
         "MISHA",
-        "Sabre 2"
+        "RodrigoAzevedo",
+        "\\=Silver\\_Hawk\\= SrFox\\_Trot"
       ],
       "playerDetails": [
         {
           "name": "101\\-Shadow\\[1881\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "MISHA",
+          "unit": "Mi-8MT"
         },
         {
           "name": "RodrigoAzevedo",
@@ -382,14 +393,6 @@
         {
           "name": "\\=Silver\\_Hawk\\= SrFox\\_Trot",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "MISHA",
-          "unit": "--"
-        },
-        {
-          "name": "Sabre 2",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -397,6 +400,10 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "MISHA",
+            "unit": "Mi-8MT"
           },
           {
             "name": "RodrigoAzevedo",
@@ -408,16 +415,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "MISHA",
-            "unit": "--"
-          },
-          {
-            "name": "Sabre 2",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -473,7 +471,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:10:22 UTC",
+      "lastUpdate": "26-04-04 18:14:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -487,8 +485,8 @@
     "map": "Caucasus",
     "players": 6,
     "maxPlayers": 32,
-    "missionTime": "3:06:53",
-    "missionDate": "2026-04-04 11:21:53",
+    "missionTime": "3:11:53",
+    "missionDate": "2026-04-04 11:26:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -499,7 +497,7 @@
     },
     "slots": {
       "blue": {
-        "used": 3,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -511,6 +509,7 @@
       "101\\-Can\\_Ada\\[1824\\]",
       "101\\-Tunay \\[5555\\]",
       "CanerBABA",
+      "Sabre 2",
       "Yasin10"
     ],
     "playerDetails": [
@@ -527,8 +526,12 @@
         "unit": "F-16C_50"
       },
       {
+        "name": "Sabre 2",
+        "unit": "F-16C_50"
+      },
+      {
         "name": "Yasin10",
-        "unit": "_ _"
+        "unit": "F-15C"
       }
     ],
     "activePlayers": {
@@ -544,15 +547,18 @@
         {
           "name": "CanerBABA",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Sabre 2",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "Yasin10",
+          "unit": "F-15C"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "Yasin10",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -608,9 +614,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 18:09:52 UTC",
+    "lastUpdate": "26-04-04 18:14:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T18:10:30.604Z"
+  "lastUpdated": "2026-04-04T18:15:40.992Z"
 }
