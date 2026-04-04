@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［8／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 8,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "5:11:53",
-      "missionDate": "2026-04-04 13:26:53",
+      "missionTime": "5:16:53",
+      "missionDate": "2026-04-04 13:31:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 4,
           "total": 134
         },
         "red": {
@@ -31,10 +31,8 @@
       },
       "playerList": [
         "101\\-Can\\_Ada\\[1824\\]",
-        "101\\-Tunay \\[5555\\]",
         "101\\-VespaTR",
         "101\\-cagan",
-        "FatihEmin19",
         "Tako"
       ],
       "playerDetails": [
@@ -43,20 +41,12 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "101\\-VespaTR",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-cagan",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         },
         {
           "name": "Tako",
@@ -70,20 +60,12 @@
             "unit": "AH-64D_BLK_II"
           },
           {
-            "name": "101\\-Tunay \\[5555\\]",
-            "unit": "FA-18C_hornet"
-          },
-          {
             "name": "101\\-VespaTR",
             "unit": "F-16C_50"
           },
           {
             "name": "101\\-cagan",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
           },
           {
             "name": "Tako",
@@ -147,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:15:22 UTC",
+      "lastUpdate": "26-04-04 20:19:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -254,8 +236,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:04:39",
-      "missionDate": "2026-04-04 12:04:39",
+      "missionTime": "5:09:38",
+      "missionDate": "2026-04-04 12:09:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -288,7 +270,7 @@
             "red": 10
           },
           "Planes": {
-            "blue": 6,
+            "blue": 5,
             "red": 15
           },
           "Helicopters": {
@@ -296,8 +278,8 @@
             "red": 2
           },
           "Ground Units": {
-            "blue": 1012,
-            "red": 158
+            "blue": 1017,
+            "red": 156
           },
           "Ships": {
             "blue": 19,
@@ -335,7 +317,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:14:52 UTC",
+      "lastUpdate": "26-04-04 20:19:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -348,8 +330,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:02:43",
-      "missionDate": "2026-04-04 20:27:43",
+      "missionTime": "5:07:43",
+      "missionDate": "2026-04-04 20:32:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -360,7 +342,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -371,6 +353,7 @@
       "playerList": [
         "101\\-Maestro \\[2106\\]",
         "101\\-Shadow\\[1881\\]",
+        "101\\-Tunay \\[5555\\]",
         "Kerem"
       ],
       "playerDetails": [
@@ -380,6 +363,10 @@
         },
         {
           "name": "101\\-Shadow\\[1881\\]",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "101\\-Tunay \\[5555\\]",
           "unit": "F-16C_50"
         },
         {
@@ -395,6 +382,10 @@
           },
           {
             "name": "101\\-Shadow\\[1881\\]",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "101\\-Tunay \\[5555\\]",
             "unit": "F-16C_50"
           }
         ],
@@ -460,22 +451,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:14:53 UTC",
+      "lastUpdate": "26-04-04 20:19:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［8／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 8,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "5:11:53",
-    "missionDate": "2026-04-04 13:26:53",
+    "missionTime": "5:16:53",
+    "missionDate": "2026-04-04 13:31:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -486,7 +477,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 4,
         "total": 134
       },
       "red": {
@@ -496,10 +487,8 @@
     },
     "playerList": [
       "101\\-Can\\_Ada\\[1824\\]",
-      "101\\-Tunay \\[5555\\]",
       "101\\-VespaTR",
       "101\\-cagan",
-      "FatihEmin19",
       "Tako"
     ],
     "playerDetails": [
@@ -508,20 +497,12 @@
         "unit": "AH-64D_BLK_II"
       },
       {
-        "name": "101\\-Tunay \\[5555\\]",
-        "unit": "FA-18C_hornet"
-      },
-      {
         "name": "101\\-VespaTR",
         "unit": "F-16C_50"
       },
       {
         "name": "101\\-cagan",
         "unit": "F-16C_50"
-      },
-      {
-        "name": "FatihEmin19",
-        "unit": "F-5E-3"
       },
       {
         "name": "Tako",
@@ -535,20 +516,12 @@
           "unit": "AH-64D_BLK_II"
         },
         {
-          "name": "101\\-Tunay \\[5555\\]",
-          "unit": "FA-18C_hornet"
-        },
-        {
           "name": "101\\-VespaTR",
           "unit": "F-16C_50"
         },
         {
           "name": "101\\-cagan",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         },
         {
           "name": "Tako",
@@ -612,9 +585,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 20:15:22 UTC",
+    "lastUpdate": "26-04-04 20:19:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T20:15:32.411Z"
+  "lastUpdated": "2026-04-04T20:20:32.467Z"
 }
