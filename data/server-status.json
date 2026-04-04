@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:21:53",
-      "missionDate": "2026-04-04 11:36:53",
+      "missionTime": "3:26:53",
+      "missionDate": "2026-04-04 11:41:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -91,16 +91,16 @@
             "red": 23
           },
           "Planes": {
-            "blue": 8,
+            "blue": 11,
             "red": 10
           },
           "Helicopters": {
-            "blue": 3,
+            "blue": 2,
             "red": 2
           },
           "Ground Units": {
             "blue": 52,
-            "red": 308
+            "red": 307
           },
           "Ships": {
             "blue": 10,
@@ -118,14 +118,14 @@
           },
           "Killed Planes": {
             "blue": 5,
-            "red": 2
+            "red": 4
           },
           "Downed Helicopters": {
             "blue": 0,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 0,
+            "blue": 1,
             "red": 0
           },
           "Sunken Ships": {
@@ -138,7 +138,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:24:52 UTC",
+      "lastUpdate": "26-04-04 18:29:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -245,8 +245,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:14:39",
-      "missionDate": "2026-04-04 10:14:39",
+      "missionTime": "3:19:38",
+      "missionDate": "2026-04-04 10:19:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -338,21 +338,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:24:52 UTC",
+      "lastUpdate": "26-04-04 18:29:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［5／32］",
+      "channelName": "🖥️┃caucasus-dynamic［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "3:12:43",
-      "missionDate": "2026-04-04 18:37:43",
+      "missionTime": "3:17:43",
+      "missionDate": "2026-04-04 18:42:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -363,7 +363,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 5,
           "total": 69
         },
         "red": {
@@ -373,15 +373,23 @@
       },
       "playerList": [
         "101\\-Shadow\\[1881\\]",
-        "RodrigoAzevedo",
-        "\\=Silver\\_Hawk\\= SrFox\\_Trot",
         "Barros",
-        "MISHA"
+        "MISHA",
+        "RodrigoAzevedo",
+        "\\=Silver\\_Hawk\\= SrFox\\_Trot"
       ],
       "playerDetails": [
         {
           "name": "101\\-Shadow\\[1881\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Barros",
+          "unit": "Su-33"
+        },
+        {
+          "name": "MISHA",
+          "unit": "Mi-8MT"
         },
         {
           "name": "RodrigoAzevedo",
@@ -390,14 +398,6 @@
         {
           "name": "\\=Silver\\_Hawk\\= SrFox\\_Trot",
           "unit": "FA-18C_hornet"
-        },
-        {
-          "name": "Barros",
-          "unit": "--"
-        },
-        {
-          "name": "MISHA",
-          "unit": "--"
         }
       ],
       "activePlayers": {
@@ -405,6 +405,14 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "Barros",
+            "unit": "Su-33"
+          },
+          {
+            "name": "MISHA",
+            "unit": "Mi-8MT"
           },
           {
             "name": "RodrigoAzevedo",
@@ -416,16 +424,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Barros",
-            "unit": "--"
-          },
-          {
-            "name": "MISHA",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -481,7 +480,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 18:24:53 UTC",
+      "lastUpdate": "26-04-04 18:29:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -495,8 +494,8 @@
     "map": "Caucasus",
     "players": 6,
     "maxPlayers": 32,
-    "missionTime": "3:21:53",
-    "missionDate": "2026-04-04 11:36:53",
+    "missionTime": "3:26:53",
+    "missionDate": "2026-04-04 11:41:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -577,16 +576,16 @@
           "red": 23
         },
         "Planes": {
-          "blue": 8,
+          "blue": 11,
           "red": 10
         },
         "Helicopters": {
-          "blue": 3,
+          "blue": 2,
           "red": 2
         },
         "Ground Units": {
           "blue": 52,
-          "red": 308
+          "red": 307
         },
         "Ships": {
           "blue": 10,
@@ -604,14 +603,14 @@
         },
         "Killed Planes": {
           "blue": 5,
-          "red": 2
+          "red": 4
         },
         "Downed Helicopters": {
           "blue": 0,
           "red": 0
         },
         "Ground Shacks": {
-          "blue": 0,
+          "blue": 1,
           "red": 0
         },
         "Sunken Ships": {
@@ -624,9 +623,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 18:24:52 UTC",
+    "lastUpdate": "26-04-04 18:29:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T18:25:27.344Z"
+  "lastUpdated": "2026-04-04T18:30:36.067Z"
 }
