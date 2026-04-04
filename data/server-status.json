@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:06:48",
-      "missionDate": "2026-04-04 13:21:48",
+      "missionTime": "5:11:48",
+      "missionDate": "2026-04-04 13:26:48",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 134
         },
         "red": {
@@ -29,10 +29,22 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "Hakoş"
+      ],
+      "playerDetails": [
+        {
+          "name": "Hakoş",
+          "unit": "FA-18C_hornet"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "Hakoş",
+            "unit": "FA-18C_hornet"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -43,7 +55,7 @@
             "red": 23
           },
           "Planes": {
-            "blue": 9,
+            "blue": 8,
             "red": 18
           },
           "Helicopters": {
@@ -69,7 +81,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Downed Helicopters": {
@@ -90,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 08:09:52 UTC",
+      "lastUpdate": "26-04-04 08:14:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +115,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:03:54",
-      "missionDate": "2026-04-04 17:08:54",
+      "missionTime": "5:08:54",
+      "missionDate": "2026-04-04 17:13:54",
       "weather": {
         "temperature": "7.0°C",
         "qnh": "1017 hPa",
@@ -184,7 +196,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 08:09:52 UTC",
+      "lastUpdate": "26-04-04 08:14:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -197,8 +209,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:59:43",
-      "missionDate": "2026-04-04 11:59:43",
+      "missionTime": "5:04:43",
+      "missionDate": "2026-04-04 12:04:43",
       "weather": {
         "temperature": "7.0°C",
         "qnh": "1017 hPa",
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 08:09:53 UTC",
+      "lastUpdate": "26-04-04 08:14:53 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -291,8 +303,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:57:42",
-      "missionDate": "2026-04-04 20:22:42",
+      "missionTime": "5:02:42",
+      "missionDate": "2026-04-04 20:27:42",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1009 hPa",
@@ -303,7 +315,7 @@
       },
       "slots": {
         "blue": {
-          "used": 2,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -313,8 +325,8 @@
       },
       "playerList": [
         "101\\-Atmaca\\[3404\\]",
-        "TalhaPV",
-        "Ege"
+        "Ege",
+        "TalhaPV"
       ],
       "playerDetails": [
         {
@@ -322,12 +334,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "TalhaPV",
+          "name": "Ege",
           "unit": "F-16C_50"
         },
         {
-          "name": "Ege",
-          "unit": "_ _"
+          "name": "TalhaPV",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -337,17 +349,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "Ege",
+            "unit": "F-16C_50"
+          },
+          {
             "name": "TalhaPV",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "Ege",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -403,22 +414,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 08:09:54 UTC",
+      "lastUpdate": "26-04-04 08:14:54 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "5:06:48",
-    "missionDate": "2026-04-04 13:21:48",
+    "missionTime": "5:11:48",
+    "missionDate": "2026-04-04 13:26:48",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1009 hPa",
@@ -429,7 +440,7 @@
     },
     "slots": {
       "blue": {
-        "used": 0,
+        "used": 1,
         "total": 134
       },
       "red": {
@@ -437,10 +448,22 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "Hakoş"
+    ],
+    "playerDetails": [
+      {
+        "name": "Hakoş",
+        "unit": "FA-18C_hornet"
+      }
+    ],
     "activePlayers": {
-      "blue": [],
+      "blue": [
+        {
+          "name": "Hakoş",
+          "unit": "FA-18C_hornet"
+        }
+      ],
       "red": [],
       "neutral": []
     },
@@ -451,7 +474,7 @@
           "red": 23
         },
         "Planes": {
-          "blue": 9,
+          "blue": 8,
           "red": 18
         },
         "Helicopters": {
@@ -477,7 +500,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
+          "blue": 2,
           "red": 0
         },
         "Downed Helicopters": {
@@ -498,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 08:09:52 UTC",
+    "lastUpdate": "26-04-04 08:14:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T08:10:35.987Z"
+  "lastUpdated": "2026-04-04T08:15:32.446Z"
 }
