@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［1／32］",
+      "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:21:17",
-      "missionDate": "2026-04-04 11:36:17",
+      "missionTime": "3:26:17",
+      "missionDate": "2026-04-04 11:41:17",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -29,12 +29,24 @@
           "total": 16
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101\\-Can\\_Ada\\[1824\\]"
+      ],
+      "playerDetails": [
+        {
+          "name": "101\\-Can\\_Ada\\[1824\\]",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Can\\_Ada\\[1824\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -90,7 +102,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 13:09:52 UTC",
+      "lastUpdate": "26-04-04 13:14:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -197,8 +209,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "3:18:08",
-      "missionDate": "2026-04-04 10:18:08",
+      "missionTime": "3:23:08",
+      "missionDate": "2026-04-04 10:23:08",
       "weather": {
         "temperature": "20.0°C",
         "qnh": "1015 hPa",
@@ -227,20 +239,20 @@
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 56,
-            "red": 10
+            "blue": 55,
+            "red": 11
           },
           "Planes": {
             "blue": 6,
-            "red": 11
+            "red": 12
           },
           "Helicopters": {
             "blue": 2,
-            "red": 7
+            "red": 5
           },
           "Ground Units": {
-            "blue": 973,
-            "red": 147
+            "blue": 985,
+            "red": 148
           },
           "Ships": {
             "blue": 19,
@@ -278,7 +290,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 13:09:52 UTC",
+      "lastUpdate": "26-04-04 13:14:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -291,8 +303,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "3:19:54",
-      "missionDate": "2026-04-04 18:44:54",
+      "missionTime": "3:24:54",
+      "missionDate": "2026-04-04 18:49:54",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -303,7 +315,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -314,8 +326,7 @@
       "playerList": [
         "101ArmOn1453",
         "101\\-Maestro \\[2106\\]",
-        "101\\-Shadow\\[1881\\]",
-        "101\\-zeshka\\[0035\\]"
+        "101\\-Shadow\\[1881\\]"
       ],
       "playerDetails": [
         {
@@ -328,10 +339,6 @@
         },
         {
           "name": "101\\-Shadow\\[1881\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-zeshka\\[0035\\]",
           "unit": "F-16C_50"
         }
       ],
@@ -348,10 +355,6 @@
           {
             "name": "101\\-Shadow\\[1881\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-zeshka\\[0035\\]",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
@@ -364,20 +367,20 @@
             "red": 25
           },
           "Planes": {
-            "blue": 10,
-            "red": 7
+            "blue": 9,
+            "red": 10
           },
           "Helicopters": {
             "blue": 2,
-            "red": 2
+            "red": 1
           },
           "Ground Units": {
-            "blue": 189,
-            "red": 855
+            "blue": 190,
+            "red": 853
           },
           "Ships": {
             "blue": 13,
-            "red": 3
+            "red": 1
           },
           "Structures": {
             "blue": 32,
@@ -390,19 +393,19 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 3,
-            "red": 11
+            "blue": 6,
+            "red": 15
           },
           "Downed Helicopters": {
-            "blue": 2,
+            "blue": 4,
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 31,
+            "blue": 34,
             "red": 0
           },
           "Sunken Ships": {
-            "blue": 0,
+            "blue": 2,
             "red": 0
           },
           "Demolished Structures": {
@@ -411,22 +414,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 13:09:53 UTC",
+      "lastUpdate": "26-04-04 13:14:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［1／32］",
+    "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 32,
-    "missionTime": "3:21:17",
-    "missionDate": "2026-04-04 11:36:17",
+    "missionTime": "3:26:17",
+    "missionDate": "2026-04-04 11:41:17",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -445,12 +448,24 @@
         "total": 16
       }
     },
-    "playerList": [],
-    "playerDetails": [],
+    "playerList": [
+      "101\\-Can\\_Ada\\[1824\\]"
+    ],
+    "playerDetails": [
+      {
+        "name": "101\\-Can\\_Ada\\[1824\\]",
+        "unit": "_ _"
+      }
+    ],
     "activePlayers": {
       "blue": [],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Can\\_Ada\\[1824\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -506,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 13:09:52 UTC",
+    "lastUpdate": "26-04-04 13:14:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T13:10:32.669Z"
+  "lastUpdated": "2026-04-04T13:15:28.180Z"
 }
