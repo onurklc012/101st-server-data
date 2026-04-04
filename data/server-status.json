@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:56:51",
-      "missionDate": "2026-04-05 10:11:51",
+      "missionTime": "2:01:51",
+      "missionDate": "2026-04-05 10:16:51",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1013 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 22:59:52 UTC",
+      "lastUpdate": "26-04-04 23:04:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -211,15 +211,15 @@
     },
     {
       "online": true,
-      "channelName": "🖥️┃syria-dynamic［1／32］",
+      "channelName": "🖥️┃syria-dynamic［2／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10310",
       "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
       "map": "Syria",
-      "players": 1,
+      "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:49:34",
-      "missionDate": "2026-04-05 08:49:34",
+      "missionTime": "1:54:34",
+      "missionDate": "2026-04-05 08:54:34",
       "weather": {
         "temperature": "9.0°C",
         "qnh": "1018 hPa",
@@ -230,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -238,10 +238,22 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "101ArmOn1453"
+      ],
+      "playerDetails": [
+        {
+          "name": "101ArmOn1453",
+          "unit": "F-16C_50"
+        }
+      ],
       "activePlayers": {
-        "blue": [],
+        "blue": [
+          {
+            "name": "101ArmOn1453",
+            "unit": "F-16C_50"
+          }
+        ],
         "red": [],
         "neutral": []
       },
@@ -252,12 +264,12 @@
             "red": 10
           },
           "Planes": {
-            "blue": 6,
-            "red": 6
+            "blue": 5,
+            "red": 8
           },
           "Helicopters": {
             "blue": 2,
-            "red": 1
+            "red": 3
           },
           "Ground Units": {
             "blue": 985,
@@ -299,7 +311,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 22:59:52 UTC",
+      "lastUpdate": "26-04-04 23:04:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -312,8 +324,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:47:50",
-      "missionDate": "2026-04-05 17:12:50",
+      "missionTime": "1:52:50",
+      "missionDate": "2026-04-05 17:17:50",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1013 hPa",
@@ -393,7 +405,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 22:59:53 UTC",
+      "lastUpdate": "26-04-04 23:04:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -407,8 +419,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "1:56:51",
-    "missionDate": "2026-04-05 10:11:51",
+    "missionTime": "2:01:51",
+    "missionDate": "2026-04-05 10:16:51",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1013 hPa",
@@ -509,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 22:59:52 UTC",
+    "lastUpdate": "26-04-04 23:04:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T23:00:42.577Z"
+  "lastUpdated": "2026-04-04T23:05:27.582Z"
 }
