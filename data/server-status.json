@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［7／32］",
+      "channelName": "🖥️┃server-caucasus［8／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 7,
+      "players": 8,
       "maxPlayers": 32,
-      "missionTime": "4:26:53",
-      "missionDate": "2026-04-04 12:41:53",
+      "missionTime": "4:31:53",
+      "missionDate": "2026-04-04 12:46:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 6,
+          "used": 7,
           "total": 134
         },
         "red": {
@@ -35,7 +35,9 @@
         "101\\-VespaTR",
         "101\\-cagan",
         "Sabre 2",
-        "Yasin10"
+        "Tako",
+        "Yasin10",
+        "101\\-Maestro \\[2106\\]"
       ],
       "playerDetails": [
         {
@@ -56,11 +58,19 @@
         },
         {
           "name": "Sabre 2",
-          "unit": "F-15C"
+          "unit": "J-11A"
+        },
+        {
+          "name": "Tako",
+          "unit": "F-16C_50"
         },
         {
           "name": "Yasin10",
           "unit": "F-15C"
+        },
+        {
+          "name": "101\\-Maestro \\[2106\\]",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -83,7 +93,11 @@
           },
           {
             "name": "Sabre 2",
-            "unit": "F-15C"
+            "unit": "J-11A"
+          },
+          {
+            "name": "Tako",
+            "unit": "F-16C_50"
           },
           {
             "name": "Yasin10",
@@ -91,7 +105,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "101\\-Maestro \\[2106\\]",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -147,7 +166,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 19:29:52 UTC",
+      "lastUpdate": "26-04-04 19:35:12 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -254,8 +273,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:19:38",
-      "missionDate": "2026-04-04 11:19:38",
+      "missionTime": "4:24:38",
+      "missionDate": "2026-04-04 11:24:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -289,15 +308,15 @@
           },
           "Planes": {
             "blue": 7,
-            "red": 10
+            "red": 15
           },
           "Helicopters": {
             "blue": 3,
             "red": 1
           },
           "Ground Units": {
-            "blue": 1004,
-            "red": 164
+            "blue": 1005,
+            "red": 151
           },
           "Ships": {
             "blue": 19,
@@ -335,7 +354,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 19:29:52 UTC",
+      "lastUpdate": "26-04-04 19:34:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -348,8 +367,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:17:43",
-      "missionDate": "2026-04-04 19:42:43",
+      "missionTime": "4:22:43",
+      "missionDate": "2026-04-04 19:47:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -412,15 +431,15 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 9
+            "blue": 6,
+            "red": 6
           },
           "Helicopters": {
-            "blue": 3,
-            "red": 3
+            "blue": 5,
+            "red": 1
           },
           "Ground Units": {
-            "blue": 233,
+            "blue": 228,
             "red": 714
           },
           "Ships": {
@@ -439,10 +458,10 @@
           },
           "Killed Planes": {
             "blue": 16,
-            "red": 7
+            "red": 8
           },
           "Downed Helicopters": {
-            "blue": 3,
+            "blue": 5,
             "red": 1
           },
           "Ground Shacks": {
@@ -459,22 +478,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 19:29:53 UTC",
+      "lastUpdate": "26-04-04 19:34:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［7／32］",
+    "channelName": "🖥️┃server-caucasus［8／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 7,
+    "players": 8,
     "maxPlayers": 32,
-    "missionTime": "4:26:53",
-    "missionDate": "2026-04-04 12:41:53",
+    "missionTime": "4:31:53",
+    "missionDate": "2026-04-04 12:46:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -485,7 +504,7 @@
     },
     "slots": {
       "blue": {
-        "used": 6,
+        "used": 7,
         "total": 134
       },
       "red": {
@@ -499,7 +518,9 @@
       "101\\-VespaTR",
       "101\\-cagan",
       "Sabre 2",
-      "Yasin10"
+      "Tako",
+      "Yasin10",
+      "101\\-Maestro \\[2106\\]"
     ],
     "playerDetails": [
       {
@@ -520,11 +541,19 @@
       },
       {
         "name": "Sabre 2",
-        "unit": "F-15C"
+        "unit": "J-11A"
+      },
+      {
+        "name": "Tako",
+        "unit": "F-16C_50"
       },
       {
         "name": "Yasin10",
         "unit": "F-15C"
+      },
+      {
+        "name": "101\\-Maestro \\[2106\\]",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -547,7 +576,11 @@
         },
         {
           "name": "Sabre 2",
-          "unit": "F-15C"
+          "unit": "J-11A"
+        },
+        {
+          "name": "Tako",
+          "unit": "F-16C_50"
         },
         {
           "name": "Yasin10",
@@ -555,7 +588,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "101\\-Maestro \\[2106\\]",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -611,9 +649,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 19:29:52 UTC",
+    "lastUpdate": "26-04-04 19:35:12 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T19:30:38.217Z"
+  "lastUpdated": "2026-04-04T19:35:26.721Z"
 }
