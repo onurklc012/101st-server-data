@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 8,
       "maxPlayers": 32,
-      "missionTime": "5:01:53",
-      "missionDate": "2026-04-04 13:16:53",
+      "missionTime": "5:06:53",
+      "missionDate": "2026-04-04 13:21:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -156,7 +156,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:04:52 UTC",
+      "lastUpdate": "26-04-04 20:09:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -263,8 +263,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:54:38",
-      "missionDate": "2026-04-04 11:54:38",
+      "missionTime": "4:59:38",
+      "missionDate": "2026-04-04 11:59:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -344,7 +344,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:04:52 UTC",
+      "lastUpdate": "26-04-04 20:09:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -357,8 +357,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "4:52:43",
-      "missionDate": "2026-04-04 20:17:43",
+      "missionTime": "4:57:44",
+      "missionDate": "2026-04-04 20:22:44",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -379,7 +379,8 @@
       },
       "playerList": [
         "101\\-Maestro \\[2106\\]",
-        "101\\-Shadow\\[1881\\]"
+        "101\\-Shadow\\[1881\\]",
+        "Aegis"
       ],
       "playerDetails": [
         {
@@ -389,6 +390,10 @@
         {
           "name": "101\\-Shadow\\[1881\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "Aegis",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -403,7 +408,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "Aegis",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -459,7 +469,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 20:04:53 UTC",
+      "lastUpdate": "26-04-04 20:09:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -473,8 +483,8 @@
     "map": "Caucasus",
     "players": 8,
     "maxPlayers": 32,
-    "missionTime": "5:01:53",
-    "missionDate": "2026-04-04 13:16:53",
+    "missionTime": "5:06:53",
+    "missionDate": "2026-04-04 13:21:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -620,9 +630,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 20:04:52 UTC",
+    "lastUpdate": "26-04-04 20:09:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T20:05:31.997Z"
+  "lastUpdated": "2026-04-04T20:10:33.808Z"
 }
