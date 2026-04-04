@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:36:51",
-        "missionDate": "2026-04-05 08:51:51",
+        "missionTime": "0:41:51",
+        "missionDate": "2026-04-05 08:56:51",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1013 hPa",
@@ -91,7 +91,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 21:39:52 UTC",
+        "lastUpdate": "26-04-04 21:44:52 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -198,8 +198,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:29:34",
-        "missionDate": "2026-04-05 07:29:34",
+        "missionTime": "0:34:34",
+        "missionDate": "2026-04-05 07:34:34",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1018 hPa",
@@ -279,7 +279,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 21:39:52 UTC",
+        "lastUpdate": "26-04-04 21:44:52 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -292,8 +292,8 @@
         "map": "Caucasus",
         "players": 4,
         "maxPlayers": 32,
-        "missionTime": "0:27:50",
-        "missionDate": "2026-04-05 15:52:50",
+        "missionTime": "0:32:50",
+        "missionDate": "2026-04-05 15:57:50",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1013 hPa",
@@ -315,7 +315,8 @@
         "playerList": [
           "101\\-Tunay \\[5555\\]",
           "101\\-zeshka\\[0035\\]",
-          "Jonz"
+          "Jonz",
+          "101chemisTR61"
         ],
         "playerDetails": [
           {
@@ -324,11 +325,15 @@
           },
           {
             "name": "101\\-zeshka\\[0035\\]",
-            "unit": "F-16C_50"
+            "unit": "FA-18C_hornet"
           },
           {
             "name": "Jonz",
             "unit": "FA-18C_hornet"
+          },
+          {
+            "name": "101chemisTR61",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
@@ -339,7 +344,7 @@
             },
             {
               "name": "101\\-zeshka\\[0035\\]",
-              "unit": "F-16C_50"
+              "unit": "FA-18C_hornet"
             },
             {
               "name": "Jonz",
@@ -347,7 +352,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "101chemisTR61",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -356,16 +366,16 @@
               "red": 22
             },
             "Planes": {
-              "blue": 3,
-              "red": 1
+              "blue": 7,
+              "red": 3
             },
             "Helicopters": {
-              "blue": 0,
-              "red": 0
+              "blue": 1,
+              "red": 4
             },
             "Ground Units": {
               "blue": 253,
-              "red": 687
+              "red": 681
             },
             "Ships": {
               "blue": 13,
@@ -390,7 +400,7 @@
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 0,
+              "blue": 6,
               "red": 0
             },
             "Sunken Ships": {
@@ -403,7 +413,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 21:39:53 UTC",
+        "lastUpdate": "26-04-04 21:45:02 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -417,8 +427,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:36:51",
-      "missionDate": "2026-04-05 08:51:51",
+      "missionTime": "0:41:51",
+      "missionDate": "2026-04-05 08:56:51",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1013 hPa",
@@ -498,11 +508,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 21:39:52 UTC",
+      "lastUpdate": "26-04-04 21:44:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-04T21:40:32.134Z"
+    "lastUpdated": "2026-04-04T21:45:31.453Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -621,7 +631,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-04T21:40:32.347Z"
+    "lastUpdated": "2026-04-04T21:45:31.627Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2980,11 +2990,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-04T21:40:33.223Z",
+    "lastUpdated": "2026-04-04T21:45:32.571Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-04T21:40:33.712Z",
+    "fetchedAt": "2026-04-04T21:45:33.200Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
