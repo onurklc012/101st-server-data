@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:06:17",
-        "missionDate": "2026-04-04 08:21:17",
+        "missionTime": "0:11:17",
+        "missionDate": "2026-04-04 08:26:17",
         "weather": {
           "temperature": "15.0°C",
           "qnh": "1010 hPa",
@@ -103,7 +103,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 09:54:52 UTC",
+        "lastUpdate": "26-04-04 09:59:52 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -203,15 +203,15 @@
       },
       {
         "online": true,
-        "channelName": "🖥️┃syria-dynamic［1／32］",
+        "channelName": "🖥️┃syria-dynamic［2／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10310",
         "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
         "map": "Syria",
-        "players": 1,
+        "players": 2,
         "maxPlayers": 32,
-        "missionTime": "0:03:08",
-        "missionDate": "2026-04-04 07:03:08",
+        "missionTime": "0:08:08",
+        "missionDate": "2026-04-04 07:08:08",
         "weather": {
           "temperature": "20.0°C",
           "qnh": "1015 hPa",
@@ -222,7 +222,7 @@
         },
         "slots": {
           "blue": {
-            "used": 0,
+            "used": 1,
             "total": 126
           },
           "red": {
@@ -236,18 +236,18 @@
         "playerDetails": [
           {
             "name": "101ArmOn1453",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
         ],
         "activePlayers": {
-          "blue": [],
-          "red": [],
-          "neutral": [
+          "blue": [
             {
               "name": "101ArmOn1453",
-              "unit": "_ _"
+              "unit": "F-16C_50"
             }
-          ]
+          ],
+          "red": [],
+          "neutral": []
         },
         "missionStats": {
           "situation": {
@@ -303,7 +303,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 09:55:02 UTC",
+        "lastUpdate": "26-04-04 09:59:52 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -316,8 +316,8 @@
         "map": "Caucasus",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:04:53",
-        "missionDate": "2026-04-04 15:29:53",
+        "missionTime": "0:09:53",
+        "missionDate": "2026-04-04 15:34:53",
         "weather": {
           "temperature": "15.0°C",
           "qnh": "1010 hPa",
@@ -397,7 +397,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-04 09:54:53 UTC",
+        "lastUpdate": "26-04-04 09:59:53 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -411,8 +411,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:06:17",
-      "missionDate": "2026-04-04 08:21:17",
+      "missionTime": "0:11:17",
+      "missionDate": "2026-04-04 08:26:17",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -504,11 +504,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 09:54:52 UTC",
+      "lastUpdate": "26-04-04 09:59:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-04T09:55:29.517Z"
+    "lastUpdated": "2026-04-04T10:00:38.922Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -586,7 +586,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 04.04.2026 12:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 04.04.2026 13:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -627,7 +627,7 @@
       },
       "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-04T09:55:29.651Z"
+    "lastUpdated": "2026-04-04T10:00:39.059Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2986,11 +2986,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-04T09:55:30.446Z",
+    "lastUpdated": "2026-04-04T10:00:39.819Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-04T09:55:30.760Z",
+    "fetchedAt": "2026-04-04T10:00:40.281Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
