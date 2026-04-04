@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "0:11:53",
-      "missionDate": "2026-04-04 08:26:53",
+      "missionTime": "0:16:53",
+      "missionDate": "2026-04-04 08:31:53",
       "weather": {
         "temperature": "15.0°C",
         "qnh": "1010 hPa",
@@ -111,7 +111,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:14:52 UTC",
+      "lastUpdate": "26-04-04 15:19:52 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -218,8 +218,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "0:04:38",
-      "missionDate": "2026-04-04 07:04:38",
+      "missionTime": "0:09:38",
+      "missionDate": "2026-04-04 07:09:38",
       "weather": {
         "temperature": "18.0°C",
         "qnh": "1015 hPa",
@@ -230,7 +230,7 @@
       },
       "slots": {
         "blue": {
-          "used": 0,
+          "used": 1,
           "total": 126
         },
         "red": {
@@ -244,36 +244,36 @@
       "playerDetails": [
         {
           "name": "TalhaPV",
-          "unit": "_ _"
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
-        "blue": [],
-        "red": [],
-        "neutral": [
+        "blue": [
           {
             "name": "TalhaPV",
-            "unit": "_ _"
+            "unit": "F-16C_50"
           }
-        ]
+        ],
+        "red": [],
+        "neutral": []
       },
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 55,
-            "red": 11
+            "blue": 57,
+            "red": 10
           },
           "Planes": {
-            "blue": 10,
-            "red": 13
+            "blue": 3,
+            "red": 3
           },
           "Helicopters": {
-            "blue": 3,
-            "red": 4
+            "blue": 0,
+            "red": 1
           },
           "Ground Units": {
-            "blue": 987,
-            "red": 149
+            "blue": 965,
+            "red": 140
           },
           "Ships": {
             "blue": 19,
@@ -298,7 +298,7 @@
             "red": 0
           },
           "Ground Shacks": {
-            "blue": 2,
+            "blue": 0,
             "red": 0
           },
           "Sunken Ships": {
@@ -311,7 +311,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:14:53 UTC",
+      "lastUpdate": "26-04-04 15:19:52 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -324,8 +324,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:02:43",
-      "missionDate": "2026-04-04 15:27:43",
+      "missionTime": "0:07:43",
+      "missionDate": "2026-04-04 15:32:43",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -405,7 +405,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-04 15:14:53 UTC",
+      "lastUpdate": "26-04-04 15:19:53 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -419,8 +419,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "0:11:53",
-    "missionDate": "2026-04-04 08:26:53",
+    "missionTime": "0:16:53",
+    "missionDate": "2026-04-04 08:31:53",
     "weather": {
       "temperature": "15.0°C",
       "qnh": "1010 hPa",
@@ -521,9 +521,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-04 15:14:52 UTC",
+    "lastUpdate": "26-04-04 15:19:52 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-04T15:15:31.523Z"
+  "lastUpdated": "2026-04-04T15:20:32.232Z"
 }
