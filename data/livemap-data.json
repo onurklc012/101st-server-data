@@ -1,6 +1,6 @@
 {
-  "timestamp": 1775354880230,
-  "lastUpdated": "2026-04-05T02:08:00.230Z",
+  "timestamp": 1775354890243,
+  "lastUpdated": "2026-04-05T02:08:10.243Z",
   "servers": {
     "caucasus": {
       "serverId": "caucasus",
@@ -467,52 +467,12 @@
       "online": true
     },
     "syria-edc": {
-      "server": "syria",
-      "serverName": "101 Hunter SQN | Syria EDC",
-      "theatre": "Syria",
-      "playerCount": 0,
-      "missionTime": 599,
-      "timestamp": 1775354817,
-      "units": [
-        {
-          "name": "AWACS_RED-1",
-          "aircraft": "A-50",
-          "lat": 30.511192,
-          "lon": 33.674337,
-          "alt": 9144,
-          "heading": 213,
-          "speed": 459.9,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        },
-        {
-          "name": "AWACS_BLUE-1",
-          "aircraft": "E-3A",
-          "lat": 32.202746,
-          "lon": 36.19431,
-          "alt": 9144,
-          "heading": 337.3,
-          "speed": 473,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        },
-        {
-          "name": "AWACS_BLUE_SECONDARY",
-          "aircraft": "E-3A",
-          "lat": 33.855235,
-          "lon": 35.772262,
-          "alt": 9144,
-          "heading": 51.4,
-          "speed": 471.7,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        }
-      ],
       "serverId": "syria-edc",
-      "online": true
+      "serverName": "101 Hunter SQN | Syria EDC",
+      "theatre": "Unknown",
+      "playerCount": 0,
+      "units": [],
+      "online": false
     },
     "caucasus-edc": {
       "server": "caucasus",
@@ -564,5 +524,5 @@
     }
   },
   "totalPlayers": 0,
-  "activeServers": 3
+  "activeServers": 2
 }
