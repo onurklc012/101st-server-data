@@ -1,34 +1,18 @@
 {
   "servers": [
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃server-caucasus［2／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10308",
-      "mission": "101_Hunter_SQN_v9_5",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:57:54",
-      "missionDate": "2026-04-05 13:12:54",
-      "weather": {
-        "temperature": "16.0°C",
-        "qnh": "1014 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "270° / 1 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 1,
-          "total": 134
-        },
-        "red": {
-          "used": 0,
-          "total": 16
-        }
-      },
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
       "playerList": [
         "MUCAHIT01"
       ],
@@ -102,21 +86,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 20:54:31 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
     {
       "online": true,
-      "channelName": "🖥️┃server-syria［2／32］",
+      "channelName": "🖥️┃server-syria［3／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10309",
       "mission": "101_Hunter_SQN_SURIYE_v3_7",
       "map": "Syria",
-      "players": 2,
+      "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:48:53",
-      "missionDate": "2026-04-05 17:53:53",
+      "missionTime": "5:54:53",
+      "missionDate": "2026-04-05 17:59:53",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -136,17 +120,12 @@
         }
       },
       "playerList": [
-        "101\\-Maskot\\(0019\\)",
-        "101\\-Rabik"
+        "101\\-Maskot\\(0019\\)"
       ],
       "playerDetails": [
         {
           "name": "101\\-Maskot\\(0019\\)",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Rabik",
-          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -157,12 +136,7 @@
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Rabik",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -218,7 +192,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 20:54:32 UTC",
+      "lastUpdate": "26-04-05 21:00:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -231,8 +205,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:56:50",
-      "missionDate": "2026-04-05 11:56:50",
+      "missionTime": "5:02:50",
+      "missionDate": "2026-04-05 12:02:50",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -312,7 +286,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 20:54:32 UTC",
+      "lastUpdate": "26-04-05 21:00:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -325,8 +299,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "3:13:33",
-      "missionDate": "2026-04-05 13:13:33",
+      "missionTime": "3:19:33",
+      "missionDate": "2026-04-05 13:19:33",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1019 hPa",
@@ -346,12 +320,17 @@
         }
       },
       "playerList": [
-        "101\\-Zorbey\\[0741\\]"
+        "101\\-Zorbey\\[0741\\]",
+        "sable"
       ],
       "playerDetails": [
         {
           "name": "101\\-Zorbey\\[0741\\]",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "sable",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -362,7 +341,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "sable",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -371,15 +355,15 @@
             "red": 22
           },
           "Planes": {
-            "blue": 8,
-            "red": 11
+            "blue": 7,
+            "red": 10
           },
           "Helicopters": {
-            "blue": 7,
+            "blue": 6,
             "red": 5
           },
           "Ground Units": {
-            "blue": 223,
+            "blue": 233,
             "red": 392
           },
           "Ships": {
@@ -397,8 +381,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 10
+            "blue": 2,
+            "red": 12
           },
           "Downed Helicopters": {
             "blue": 3,
@@ -418,40 +402,24 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 20:54:33 UTC",
+      "lastUpdate": "26-04-05 21:00:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
-    "online": true,
+    "online": false,
     "channelName": "🖥️┃server-caucasus［2／32］",
     "serverName": "101st Hunter Squadron",
-    "serverIP": "88.247.164.234:10308",
-    "mission": "101_Hunter_SQN_v9_5",
-    "map": "Caucasus",
+    "serverIP": null,
+    "mission": "--",
+    "map": "--",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "4:57:54",
-    "missionDate": "2026-04-05 13:12:54",
-    "weather": {
-      "temperature": "16.0°C",
-      "qnh": "1014 hPa",
-      "clouds": "Clear",
-      "cloudbase": "--",
-      "visibility": "10 km / 6 SM (+)",
-      "wind": "270° / 1 kts"
-    },
-    "slots": {
-      "blue": {
-        "used": 1,
-        "total": 134
-      },
-      "red": {
-        "used": 0,
-        "total": 16
-      }
-    },
+    "missionTime": "--:--",
+    "missionDate": null,
+    "weather": null,
+    "slots": null,
     "playerList": [
       "MUCAHIT01"
     ],
@@ -525,9 +493,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 20:54:31 UTC",
+    "lastUpdate": null,
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T20:55:36.116Z"
+  "lastUpdated": "2026-04-05T21:00:41.925Z"
 }
