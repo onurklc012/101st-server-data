@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "1:17:54",
-      "missionDate": "2026-04-05 09:32:54",
+      "missionTime": "1:22:54",
+      "missionDate": "2026-04-05 09:37:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -30,12 +30,17 @@
         }
       },
       "playerList": [
-        "Hakoş"
+        "Hakoş",
+        "?Beyaz"
       ],
       "playerDetails": [
         {
           "name": "Hakoş",
           "unit": "FA-18C_hornet"
+        },
+        {
+          "name": "?Beyaz",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -46,7 +51,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "?Beyaz",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -102,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:14:31 UTC",
+      "lastUpdate": "26-04-05 17:20:21 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -115,8 +125,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "2:08:53",
-      "missionDate": "2026-04-05 14:13:53",
+      "missionTime": "2:13:53",
+      "missionDate": "2026-04-05 14:18:53",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -196,7 +206,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:14:32 UTC",
+      "lastUpdate": "26-04-05 17:19:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -209,8 +219,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:16:50",
-      "missionDate": "2026-04-05 08:16:50",
+      "missionTime": "1:21:50",
+      "missionDate": "2026-04-05 08:21:50",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -290,21 +300,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:14:33 UTC",
+      "lastUpdate": "26-04-05 17:19:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［5／32］",
+      "channelName": "🖥️┃caucasus-dynamic［7／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare ",
       "map": "Caucasus",
-      "players": 5,
+      "players": 7,
       "maxPlayers": 32,
-      "missionTime": "2:02:39",
-      "missionDate": "2026-04-05 12:02:39",
+      "missionTime": "2:07:39",
+      "missionDate": "2026-04-05 12:07:39",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -315,7 +325,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 69
         },
         "red": {
@@ -328,7 +338,8 @@
         "101\\-Maestro \\[2106\\]",
         "BİLGE",
         "MuniPekchee",
-        "THE HİTMAN"
+        "THE HİTMAN",
+        "fastjet"
       ],
       "playerDetails": [
         {
@@ -349,6 +360,10 @@
         },
         {
           "name": "THE HİTMAN",
+          "unit": "Ka-50_3"
+        },
+        {
+          "name": "fastjet",
           "unit": "_ _"
         }
       ],
@@ -369,12 +384,16 @@
           {
             "name": "MuniPekchee",
             "unit": "Mi-8MT"
+          },
+          {
+            "name": "THE HİTMAN",
+            "unit": "Ka-50_3"
           }
         ],
         "red": [],
         "neutral": [
           {
-            "name": "THE HİTMAN",
+            "name": "fastjet",
             "unit": "_ _"
           }
         ]
@@ -433,7 +452,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:15:01 UTC",
+      "lastUpdate": "26-04-05 17:19:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -447,8 +466,8 @@
     "map": "Caucasus",
     "players": 2,
     "maxPlayers": 32,
-    "missionTime": "1:17:54",
-    "missionDate": "2026-04-05 09:32:54",
+    "missionTime": "1:22:54",
+    "missionDate": "2026-04-05 09:37:54",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1014 hPa",
@@ -468,12 +487,17 @@
       }
     },
     "playerList": [
-      "Hakoş"
+      "Hakoş",
+      "?Beyaz"
     ],
     "playerDetails": [
       {
         "name": "Hakoş",
         "unit": "FA-18C_hornet"
+      },
+      {
+        "name": "?Beyaz",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -484,7 +508,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "?Beyaz",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -540,9 +569,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 17:14:31 UTC",
+    "lastUpdate": "26-04-05 17:20:21 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T17:15:33.238Z"
+  "lastUpdated": "2026-04-05T17:20:32.293Z"
 }
