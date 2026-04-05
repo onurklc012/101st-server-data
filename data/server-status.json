@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:02:16",
-      "missionDate": "2026-04-05 13:17:16",
+      "missionTime": "5:12:16",
+      "missionDate": "2026-04-05 13:27:16",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -33,7 +33,8 @@
         "101\\-SKY",
         "101\\-VespaTR",
         "101\\-cagan",
-        "Tako"
+        "Tako",
+        "RodrigoAzevedo"
       ],
       "playerDetails": [
         {
@@ -51,6 +52,10 @@
         {
           "name": "Tako",
           "unit": "F-16C_50"
+        },
+        {
+          "name": "RodrigoAzevedo",
+          "unit": "_ _"
         }
       ],
       "activePlayers": {
@@ -73,7 +78,12 @@
           }
         ],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "RodrigoAzevedo",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -129,7 +139,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:04:31 UTC",
+      "lastUpdate": "26-04-05 14:14:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +152,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "4:59:01",
-      "missionDate": "2026-04-05 17:04:01",
+      "missionTime": "5:09:01",
+      "missionDate": "2026-04-05 17:14:01",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -235,7 +245,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:04:32 UTC",
+      "lastUpdate": "26-04-05 14:14:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -248,8 +258,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:55:16",
-      "missionDate": "2026-04-05 11:55:16",
+      "missionTime": "5:05:16",
+      "missionDate": "2026-04-05 12:05:16",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -329,21 +339,21 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:04:33 UTC",
+      "lastUpdate": "26-04-05 14:14:34 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
       "online": true,
-      "channelName": "🖥️┃caucasus-dynamic［6／32］",
+      "channelName": "🖥️┃caucasus-dynamic［4／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10311",
       "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare ",
       "map": "Caucasus",
-      "players": 6,
+      "players": 4,
       "maxPlayers": 32,
-      "missionTime": "4:52:41",
-      "missionDate": "2026-04-05 14:52:41",
+      "missionTime": "5:02:41",
+      "missionDate": "2026-04-05 15:02:41",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -354,7 +364,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 3,
           "total": 69
         },
         "red": {
@@ -363,14 +373,15 @@
         }
       },
       "playerList": [
-        "101\\-Zorbey\\[0741\\]",
-        "FatihEmin19",
-        "TalhaPV",
-        "irrestibleTR",
         "101\\-Maestro \\[2106\\]",
-        "RodrigoAzevedo"
+        "101\\-Zorbey\\[0741\\]",
+        "FatihEmin19"
       ],
       "playerDetails": [
+        {
+          "name": "101\\-Maestro \\[2106\\]",
+          "unit": "F-16C_50"
+        },
         {
           "name": "101\\-Zorbey\\[0741\\]",
           "unit": "F-16C_50"
@@ -378,26 +389,14 @@
         {
           "name": "FatihEmin19",
           "unit": "F-5E-3"
-        },
-        {
-          "name": "TalhaPV",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "irrestibleTR",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Maestro \\[2106\\]",
-          "unit": "--"
-        },
-        {
-          "name": "RodrigoAzevedo",
-          "unit": "--"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Maestro \\[2106\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Zorbey\\[0741\\]",
             "unit": "F-16C_50"
@@ -405,27 +404,10 @@
           {
             "name": "FatihEmin19",
             "unit": "F-5E-3"
-          },
-          {
-            "name": "TalhaPV",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "irrestibleTR",
-            "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "101\\-Maestro \\[2106\\]",
-            "unit": "--"
-          },
-          {
-            "name": "RodrigoAzevedo",
-            "unit": "--"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -481,7 +463,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:05:21 UTC",
+      "lastUpdate": "26-04-05 14:14:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -495,8 +477,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "5:02:16",
-    "missionDate": "2026-04-05 13:17:16",
+    "missionTime": "5:12:16",
+    "missionDate": "2026-04-05 13:27:16",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1015 hPa",
@@ -519,7 +501,8 @@
       "101\\-SKY",
       "101\\-VespaTR",
       "101\\-cagan",
-      "Tako"
+      "Tako",
+      "RodrigoAzevedo"
     ],
     "playerDetails": [
       {
@@ -537,6 +520,10 @@
       {
         "name": "Tako",
         "unit": "F-16C_50"
+      },
+      {
+        "name": "RodrigoAzevedo",
+        "unit": "_ _"
       }
     ],
     "activePlayers": {
@@ -559,7 +546,12 @@
         }
       ],
       "red": [],
-      "neutral": []
+      "neutral": [
+        {
+          "name": "RodrigoAzevedo",
+          "unit": "_ _"
+        }
+      ]
     },
     "missionStats": {
       "situation": {
@@ -615,9 +607,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 14:04:31 UTC",
+    "lastUpdate": "26-04-05 14:14:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T14:05:30.298Z"
+  "lastUpdated": "2026-04-05T14:15:28.880Z"
 }
