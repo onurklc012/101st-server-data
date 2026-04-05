@@ -2,15 +2,15 @@
   "servers": [
     {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［5／32］",
+      "channelName": "🖥️┃server-caucasus［6／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 5,
+      "players": 6,
       "maxPlayers": 32,
-      "missionTime": "5:12:16",
-      "missionDate": "2026-04-05 13:27:16",
+      "missionTime": "5:17:16",
+      "missionDate": "2026-04-05 13:32:16",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -21,7 +21,7 @@
       },
       "slots": {
         "blue": {
-          "used": 4,
+          "used": 5,
           "total": 134
         },
         "red": {
@@ -33,8 +33,8 @@
         "101\\-SKY",
         "101\\-VespaTR",
         "101\\-cagan",
-        "Tako",
-        "RodrigoAzevedo"
+        "RodrigoAzevedo",
+        "Tako"
       ],
       "playerDetails": [
         {
@@ -50,12 +50,12 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "Tako",
-          "unit": "F-16C_50"
+          "name": "RodrigoAzevedo",
+          "unit": "Su-35S"
         },
         {
-          "name": "RodrigoAzevedo",
-          "unit": "_ _"
+          "name": "Tako",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
@@ -73,17 +73,16 @@
             "unit": "F-16C_50"
           },
           {
+            "name": "RodrigoAzevedo",
+            "unit": "Su-35S"
+          },
+          {
             "name": "Tako",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "RodrigoAzevedo",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -92,8 +91,8 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 18
+            "blue": 9,
+            "red": 15
           },
           "Helicopters": {
             "blue": 2,
@@ -118,8 +117,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 0,
-            "red": 0
+            "blue": 17,
+            "red": 1
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -139,7 +138,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:14:31 UTC",
+      "lastUpdate": "26-04-05 14:19:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -152,8 +151,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:09:01",
-      "missionDate": "2026-04-05 17:14:01",
+      "missionTime": "5:14:01",
+      "missionDate": "2026-04-05 17:19:01",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -245,7 +244,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:14:33 UTC",
+      "lastUpdate": "26-04-05 14:19:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -258,8 +257,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:05:16",
-      "missionDate": "2026-04-05 12:05:16",
+      "missionTime": "5:10:15",
+      "missionDate": "2026-04-05 12:10:15",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -339,7 +338,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:14:34 UTC",
+      "lastUpdate": "26-04-05 14:19:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -352,8 +351,8 @@
       "map": "Caucasus",
       "players": 4,
       "maxPlayers": 32,
-      "missionTime": "5:02:41",
-      "missionDate": "2026-04-05 15:02:41",
+      "missionTime": "5:07:41",
+      "missionDate": "2026-04-05 15:07:41",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -364,7 +363,7 @@
       },
       "slots": {
         "blue": {
-          "used": 3,
+          "used": 1,
           "total": 69
         },
         "red": {
@@ -373,37 +372,19 @@
         }
       },
       "playerList": [
-        "101\\-Maestro \\[2106\\]",
-        "101\\-Zorbey\\[0741\\]",
-        "FatihEmin19"
+        "101\\-Zorbey\\[0741\\]"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Maestro \\[2106\\]",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-Zorbey\\[0741\\]",
           "unit": "F-16C_50"
-        },
-        {
-          "name": "FatihEmin19",
-          "unit": "F-5E-3"
         }
       ],
       "activePlayers": {
         "blue": [
           {
-            "name": "101\\-Maestro \\[2106\\]",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-Zorbey\\[0741\\]",
             "unit": "F-16C_50"
-          },
-          {
-            "name": "FatihEmin19",
-            "unit": "F-5E-3"
           }
         ],
         "red": [],
@@ -416,16 +397,16 @@
             "red": 23
           },
           "Planes": {
-            "blue": 12,
-            "red": 13
+            "blue": 11,
+            "red": 7
           },
           "Helicopters": {
             "blue": 3,
-            "red": 1
+            "red": 3
           },
           "Ground Units": {
-            "blue": 207,
-            "red": 357
+            "blue": 215,
+            "red": 362
           },
           "Ships": {
             "blue": 10,
@@ -442,8 +423,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 1,
-            "red": 10
+            "blue": 3,
+            "red": 14
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -463,22 +444,22 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:14:34 UTC",
+      "lastUpdate": "26-04-05 14:19:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
   ],
   "primaryServer": {
     "online": true,
-    "channelName": "🖥️┃server-caucasus［5／32］",
+    "channelName": "🖥️┃server-caucasus［6／32］",
     "serverName": "101st Hunter Squadron",
     "serverIP": "88.247.164.234:10308",
     "mission": "101_Hunter_SQN_v9_5",
     "map": "Caucasus",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 32,
-    "missionTime": "5:12:16",
-    "missionDate": "2026-04-05 13:27:16",
+    "missionTime": "5:17:16",
+    "missionDate": "2026-04-05 13:32:16",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1015 hPa",
@@ -489,7 +470,7 @@
     },
     "slots": {
       "blue": {
-        "used": 4,
+        "used": 5,
         "total": 134
       },
       "red": {
@@ -501,8 +482,8 @@
       "101\\-SKY",
       "101\\-VespaTR",
       "101\\-cagan",
-      "Tako",
-      "RodrigoAzevedo"
+      "RodrigoAzevedo",
+      "Tako"
     ],
     "playerDetails": [
       {
@@ -518,12 +499,12 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "Tako",
-        "unit": "F-16C_50"
+        "name": "RodrigoAzevedo",
+        "unit": "Su-35S"
       },
       {
-        "name": "RodrigoAzevedo",
-        "unit": "_ _"
+        "name": "Tako",
+        "unit": "F-16C_50"
       }
     ],
     "activePlayers": {
@@ -541,17 +522,16 @@
           "unit": "F-16C_50"
         },
         {
+          "name": "RodrigoAzevedo",
+          "unit": "Su-35S"
+        },
+        {
           "name": "Tako",
           "unit": "F-16C_50"
         }
       ],
       "red": [],
-      "neutral": [
-        {
-          "name": "RodrigoAzevedo",
-          "unit": "_ _"
-        }
-      ]
+      "neutral": []
     },
     "missionStats": {
       "situation": {
@@ -560,8 +540,8 @@
           "red": 23
         },
         "Planes": {
-          "blue": 7,
-          "red": 18
+          "blue": 9,
+          "red": 15
         },
         "Helicopters": {
           "blue": 2,
@@ -586,8 +566,8 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 0,
-          "red": 0
+          "blue": 17,
+          "red": 1
         },
         "Downed Helicopters": {
           "blue": 0,
@@ -607,9 +587,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 14:14:31 UTC",
+    "lastUpdate": "26-04-05 14:19:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T14:15:28.880Z"
+  "lastUpdated": "2026-04-05T14:20:30.710Z"
 }
