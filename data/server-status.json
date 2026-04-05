@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "1:37:54",
-      "missionDate": "2026-04-05 09:52:54",
+      "missionTime": "1:42:54",
+      "missionDate": "2026-04-05 09:57:54",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -112,7 +112,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:34:31 UTC",
+      "lastUpdate": "26-04-05 17:39:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -125,8 +125,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "2:28:53",
-      "missionDate": "2026-04-05 14:33:53",
+      "missionTime": "2:33:53",
+      "missionDate": "2026-04-05 14:38:53",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -218,7 +218,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:34:32 UTC",
+      "lastUpdate": "26-04-05 17:39:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -231,8 +231,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "1:36:50",
-      "missionDate": "2026-04-05 08:36:50",
+      "missionTime": "1:41:50",
+      "missionDate": "2026-04-05 08:41:50",
       "weather": {
         "temperature": "16.0°C",
         "qnh": "1014 hPa",
@@ -251,12 +251,24 @@
           "total": 7
         }
       },
-      "playerList": [],
-      "playerDetails": [],
+      "playerList": [
+        "THE HİTMAN"
+      ],
+      "playerDetails": [
+        {
+          "name": "THE HİTMAN",
+          "unit": "_ _"
+        }
+      ],
       "activePlayers": {
         "blue": [],
         "red": [],
-        "neutral": []
+        "neutral": [
+          {
+            "name": "THE HİTMAN",
+            "unit": "_ _"
+          }
+        ]
       },
       "missionStats": {
         "situation": {
@@ -312,82 +324,27 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:34:33 UTC",
+      "lastUpdate": "26-04-05 17:40:21 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": true,
+      "online": false,
       "channelName": "🖥️┃caucasus-dynamic［5／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": "88.247.164.234:10311",
-      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare ",
-      "map": "Caucasus",
+      "serverIP": null,
+      "mission": "--",
+      "map": "--",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "2:22:39",
-      "missionDate": "2026-04-05 12:22:39",
-      "weather": {
-        "temperature": "16.0°C",
-        "qnh": "1014 hPa",
-        "clouds": "Clear",
-        "cloudbase": "--",
-        "visibility": "10 km / 6 SM (+)",
-        "wind": "270° / 1 kts"
-      },
-      "slots": {
-        "blue": {
-          "used": 3,
-          "total": 69
-        },
-        "red": {
-          "used": 0,
-          "total": 2
-        }
-      },
-      "playerList": [
-        "101\\-Maestro \\[2106\\]",
-        "101\\-Omry\\[0333\\]",
-        "THE HİTMAN",
-        "fastjet"
-      ],
-      "playerDetails": [
-        {
-          "name": "101\\-Maestro \\[2106\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "101\\-Omry\\[0333\\]",
-          "unit": "F-16C_50"
-        },
-        {
-          "name": "THE HİTMAN",
-          "unit": "Ka-50_3"
-        },
-        {
-          "name": "fastjet",
-          "unit": "Su-35S"
-        }
-      ],
+      "missionTime": "--:--",
+      "missionDate": null,
+      "weather": null,
+      "slots": null,
+      "playerList": [],
+      "playerDetails": [],
       "activePlayers": {
-        "blue": [
-          {
-            "name": "101\\-Maestro \\[2106\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "101\\-Omry\\[0333\\]",
-            "unit": "F-16C_50"
-          },
-          {
-            "name": "THE HİTMAN",
-            "unit": "Ka-50_3"
-          },
-          {
-            "name": "fastjet",
-            "unit": "Su-35S"
-          }
-        ],
+        "blue": [],
         "red": [],
         "neutral": []
       },
@@ -398,15 +355,15 @@
             "red": 23
           },
           "Planes": {
-            "blue": 7,
-            "red": 5
+            "blue": 8,
+            "red": 6
           },
           "Helicopters": {
             "blue": 3,
-            "red": 3
+            "red": 1
           },
           "Ground Units": {
-            "blue": 213,
+            "blue": 211,
             "red": 357
           },
           "Ships": {
@@ -424,11 +381,11 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 7,
+            "blue": 9,
             "red": 11
           },
           "Downed Helicopters": {
-            "blue": 1,
+            "blue": 4,
             "red": 0
           },
           "Ground Shacks": {
@@ -445,7 +402,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 17:34:33 UTC",
+      "lastUpdate": null,
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -459,8 +416,8 @@
     "map": "Caucasus",
     "players": 3,
     "maxPlayers": 32,
-    "missionTime": "1:37:54",
-    "missionDate": "2026-04-05 09:52:54",
+    "missionTime": "1:42:54",
+    "missionDate": "2026-04-05 09:57:54",
     "weather": {
       "temperature": "16.0°C",
       "qnh": "1014 hPa",
@@ -562,9 +519,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 17:34:31 UTC",
+    "lastUpdate": "26-04-05 17:39:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T17:35:28.940Z"
+  "lastUpdated": "2026-04-05T17:40:32.499Z"
 }
