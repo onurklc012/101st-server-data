@@ -1,6 +1,6 @@
 {
-  "timestamp": 1775354930266,
-  "lastUpdated": "2026-04-05T02:08:50.266Z",
+  "timestamp": 1775354940278,
+  "lastUpdated": "2026-04-05T02:09:00.278Z",
   "servers": {
     "caucasus": {
       "serverId": "caucasus",
@@ -475,54 +475,14 @@
       "online": false
     },
     "caucasus-edc": {
-      "server": "caucasus",
-      "serverName": "101 Hunter SQN | Caucasus EDC",
-      "theatre": "Caucasus",
-      "playerCount": 0,
-      "missionTime": 662,
-      "timestamp": 1775354816,
-      "units": [
-        {
-          "name": "AWACS_RED",
-          "aircraft": "A-50",
-          "lat": 43.602887,
-          "lon": 45.138663,
-          "alt": 9145,
-          "heading": 56.9,
-          "speed": 453.1,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        },
-        {
-          "name": "AWACS_BLUE",
-          "aircraft": "E-3A",
-          "lat": 43.486543,
-          "lon": 39.480956,
-          "alt": 9144,
-          "heading": 213,
-          "speed": 465.6,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        },
-        {
-          "name": "AWACS_BLUE_SECONDARY",
-          "aircraft": "E-3A",
-          "lat": 42.242194,
-          "lon": 41.82975,
-          "alt": 9144,
-          "heading": 266.1,
-          "speed": 469.6,
-          "coalition": "neutral",
-          "unitType": "aircraft",
-          "isPlayer": false
-        }
-      ],
       "serverId": "caucasus-edc",
-      "online": true
+      "serverName": "101 Hunter SQN | Caucasus EDC",
+      "theatre": "Unknown",
+      "playerCount": 0,
+      "units": [],
+      "online": false
     }
   },
   "totalPlayers": 0,
-  "activeServers": 2
+  "activeServers": 1
 }
