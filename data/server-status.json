@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "5:27:16",
-      "missionDate": "2026-04-05 13:42:16",
+      "missionTime": "5:32:16",
+      "missionDate": "2026-04-05 13:47:16",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -31,9 +31,9 @@
       },
       "playerList": [
         "101\\-SKY",
-        "101\\-VespaTR",
         "101\\-cagan",
-        "Tako"
+        "Tako",
+        "massaka"
       ],
       "playerDetails": [
         {
@@ -41,15 +41,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-VespaTR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-cagan",
-          "unit": "F-16C_50"
+          "unit": "Su-27"
         },
         {
           "name": "Tako",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "massaka",
           "unit": "F-16C_50"
         }
       ],
@@ -60,15 +60,15 @@
             "unit": "F-16C_50"
           },
           {
-            "name": "101\\-VespaTR",
-            "unit": "F-16C_50"
-          },
-          {
             "name": "101\\-cagan",
-            "unit": "F-16C_50"
+            "unit": "Su-27"
           },
           {
             "name": "Tako",
+            "unit": "F-16C_50"
+          },
+          {
+            "name": "massaka",
             "unit": "F-16C_50"
           }
         ],
@@ -83,7 +83,7 @@
           },
           "Planes": {
             "blue": 9,
-            "red": 15
+            "red": 16
           },
           "Helicopters": {
             "blue": 2,
@@ -108,7 +108,7 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 17,
+            "blue": 21,
             "red": 1
           },
           "Downed Helicopters": {
@@ -129,7 +129,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:29:31 UTC",
+      "lastUpdate": "26-04-05 14:34:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -142,8 +142,8 @@
       "map": "Syria",
       "players": 2,
       "maxPlayers": 32,
-      "missionTime": "5:24:01",
-      "missionDate": "2026-04-05 17:29:01",
+      "missionTime": "5:29:01",
+      "missionDate": "2026-04-05 17:34:01",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -235,7 +235,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:29:32 UTC",
+      "lastUpdate": "26-04-05 14:34:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
@@ -248,8 +248,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:20:15",
-      "missionDate": "2026-04-05 12:20:15",
+      "missionTime": "5:25:15",
+      "missionDate": "2026-04-05 12:25:15",
       "weather": {
         "temperature": "17.0°C",
         "qnh": "1018 hPa",
@@ -329,7 +329,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:29:33 UTC",
+      "lastUpdate": "26-04-05 14:34:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
@@ -342,8 +342,8 @@
       "map": "Caucasus",
       "players": 3,
       "maxPlayers": 32,
-      "missionTime": "5:17:41",
-      "missionDate": "2026-04-05 15:17:41",
+      "missionTime": "5:22:41",
+      "missionDate": "2026-04-05 15:22:41",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -354,7 +354,7 @@
       },
       "slots": {
         "blue": {
-          "used": 1,
+          "used": 2,
           "total": 69
         },
         "red": {
@@ -363,33 +363,32 @@
         }
       },
       "playerList": [
-        "101\\-Zorbey\\[0741\\]",
-        "b\\.lent99"
+        "101\\-Maestro \\[2106\\]",
+        "101\\-Zorbey\\[0741\\]"
       ],
       "playerDetails": [
         {
-          "name": "101\\-Zorbey\\[0741\\]",
+          "name": "101\\-Maestro \\[2106\\]",
           "unit": "F-16C_50"
         },
         {
-          "name": "b\\.lent99",
-          "unit": "_ _"
+          "name": "101\\-Zorbey\\[0741\\]",
+          "unit": "F-16C_50"
         }
       ],
       "activePlayers": {
         "blue": [
+          {
+            "name": "101\\-Maestro \\[2106\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "101\\-Zorbey\\[0741\\]",
             "unit": "F-16C_50"
           }
         ],
         "red": [],
-        "neutral": [
-          {
-            "name": "b\\.lent99",
-            "unit": "_ _"
-          }
-        ]
+        "neutral": []
       },
       "missionStats": {
         "situation": {
@@ -445,7 +444,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 14:29:33 UTC",
+      "lastUpdate": "26-04-05 14:34:34 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -459,8 +458,8 @@
     "map": "Caucasus",
     "players": 5,
     "maxPlayers": 32,
-    "missionTime": "5:27:16",
-    "missionDate": "2026-04-05 13:42:16",
+    "missionTime": "5:32:16",
+    "missionDate": "2026-04-05 13:47:16",
     "weather": {
       "temperature": "13.0°C",
       "qnh": "1015 hPa",
@@ -481,9 +480,9 @@
     },
     "playerList": [
       "101\\-SKY",
-      "101\\-VespaTR",
       "101\\-cagan",
-      "Tako"
+      "Tako",
+      "massaka"
     ],
     "playerDetails": [
       {
@@ -491,15 +490,15 @@
         "unit": "F-16C_50"
       },
       {
-        "name": "101\\-VespaTR",
-        "unit": "F-16C_50"
-      },
-      {
         "name": "101\\-cagan",
-        "unit": "F-16C_50"
+        "unit": "Su-27"
       },
       {
         "name": "Tako",
+        "unit": "F-16C_50"
+      },
+      {
+        "name": "massaka",
         "unit": "F-16C_50"
       }
     ],
@@ -510,15 +509,15 @@
           "unit": "F-16C_50"
         },
         {
-          "name": "101\\-VespaTR",
-          "unit": "F-16C_50"
-        },
-        {
           "name": "101\\-cagan",
-          "unit": "F-16C_50"
+          "unit": "Su-27"
         },
         {
           "name": "Tako",
+          "unit": "F-16C_50"
+        },
+        {
+          "name": "massaka",
           "unit": "F-16C_50"
         }
       ],
@@ -533,7 +532,7 @@
         },
         "Planes": {
           "blue": 9,
-          "red": 15
+          "red": 16
         },
         "Helicopters": {
           "blue": 2,
@@ -558,7 +557,7 @@
           "red": 0
         },
         "Killed Planes": {
-          "blue": 17,
+          "blue": 21,
           "red": 1
         },
         "Downed Helicopters": {
@@ -579,9 +578,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 14:29:31 UTC",
+    "lastUpdate": "26-04-05 14:34:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T14:30:35.681Z"
+  "lastUpdated": "2026-04-05T14:35:30.227Z"
 }
