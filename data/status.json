@@ -10,8 +10,8 @@
         "map": "Caucasus",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "4:52:16",
-        "missionDate": "2026-04-05 13:07:16",
+        "missionTime": "4:57:16",
+        "missionDate": "2026-04-05 13:12:16",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1015 hPa",
@@ -130,7 +130,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 13:54:31 UTC",
+        "lastUpdate": "26-04-05 13:59:31 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
@@ -143,8 +143,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:49:01",
-        "missionDate": "2026-04-05 16:54:01",
+        "missionTime": "4:54:01",
+        "missionDate": "2026-04-05 16:59:01",
         "weather": {
           "temperature": "17.0°C",
           "qnh": "1018 hPa",
@@ -163,10 +163,22 @@
             "total": 9
           }
         },
-        "playerList": [],
-        "playerDetails": [],
+        "playerList": [
+          "101\\-Can\\_Ada\\[1824\\]"
+        ],
+        "playerDetails": [
+          {
+            "name": "101\\-Can\\_Ada\\[1824\\]",
+            "unit": "FA-18C_hornet"
+          }
+        ],
         "activePlayers": {
-          "blue": [],
+          "blue": [
+            {
+              "name": "101\\-Can\\_Ada\\[1824\\]",
+              "unit": "FA-18C_hornet"
+            }
+          ],
           "red": [],
           "neutral": []
         },
@@ -224,7 +236,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 13:54:32 UTC",
+        "lastUpdate": "26-04-05 13:59:32 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
@@ -237,8 +249,8 @@
         "map": "Syria",
         "players": 1,
         "maxPlayers": 32,
-        "missionTime": "4:45:16",
-        "missionDate": "2026-04-05 11:45:16",
+        "missionTime": "4:50:16",
+        "missionDate": "2026-04-05 11:50:16",
         "weather": {
           "temperature": "17.0°C",
           "qnh": "1018 hPa",
@@ -318,7 +330,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 13:54:33 UTC",
+        "lastUpdate": "26-04-05 13:59:32 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
@@ -331,8 +343,8 @@
         "map": "Caucasus",
         "players": 5,
         "maxPlayers": 32,
-        "missionTime": "4:42:41",
-        "missionDate": "2026-04-05 14:42:41",
+        "missionTime": "4:47:41",
+        "missionDate": "2026-04-05 14:47:41",
         "weather": {
           "temperature": "13.0°C",
           "qnh": "1015 hPa",
@@ -343,7 +355,7 @@
         },
         "slots": {
           "blue": {
-            "used": 3,
+            "used": 4,
             "total": 69
           },
           "red": {
@@ -352,11 +364,17 @@
           }
         },
         "playerList": [
+          "101\\-Zorbey\\[0741\\]",
           "FatihEmin19",
           "TalhaPV",
-          "irrestibleTR"
+          "irrestibleTR",
+          "RodrigoAzevedo"
         ],
         "playerDetails": [
+          {
+            "name": "101\\-Zorbey\\[0741\\]",
+            "unit": "F-16C_50"
+          },
           {
             "name": "FatihEmin19",
             "unit": "F-5E-3"
@@ -368,10 +386,18 @@
           {
             "name": "irrestibleTR",
             "unit": "F-16C_50"
+          },
+          {
+            "name": "RodrigoAzevedo",
+            "unit": "_ _"
           }
         ],
         "activePlayers": {
           "blue": [
+            {
+              "name": "101\\-Zorbey\\[0741\\]",
+              "unit": "F-16C_50"
+            },
             {
               "name": "FatihEmin19",
               "unit": "F-5E-3"
@@ -386,7 +412,12 @@
             }
           ],
           "red": [],
-          "neutral": []
+          "neutral": [
+            {
+              "name": "RodrigoAzevedo",
+              "unit": "_ _"
+            }
+          ]
         },
         "missionStats": {
           "situation": {
@@ -395,16 +426,16 @@
               "red": 23
             },
             "Planes": {
-              "blue": 10,
-              "red": 8
+              "blue": 12,
+              "red": 13
             },
             "Helicopters": {
               "blue": 3,
-              "red": 3
+              "red": 1
             },
             "Ground Units": {
-              "blue": 211,
-              "red": 362
+              "blue": 207,
+              "red": 357
             },
             "Ships": {
               "blue": 10,
@@ -421,15 +452,15 @@
               "red": 0
             },
             "Killed Planes": {
-              "blue": 0,
-              "red": 7
+              "blue": 1,
+              "red": 10
             },
             "Downed Helicopters": {
               "blue": 0,
               "red": 0
             },
             "Ground Shacks": {
-              "blue": 2,
+              "blue": 7,
               "red": 0
             },
             "Sunken Ships": {
@@ -442,7 +473,7 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 13:54:33 UTC",
+        "lastUpdate": "26-04-05 14:00:21 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
@@ -456,8 +487,8 @@
       "map": "Caucasus",
       "players": 5,
       "maxPlayers": 32,
-      "missionTime": "4:52:16",
-      "missionDate": "2026-04-05 13:07:16",
+      "missionTime": "4:57:16",
+      "missionDate": "2026-04-05 13:12:16",
       "weather": {
         "temperature": "13.0°C",
         "qnh": "1015 hPa",
@@ -576,11 +607,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 13:54:31 UTC",
+      "lastUpdate": "26-04-05 13:59:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-05T13:55:27.050Z"
+    "lastUpdated": "2026-04-05T14:00:38.026Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -611,16 +642,16 @@
           {
             "rank": 5,
             "name": "TalhaPV",
-            "credits": 1314
+            "credits": 1114
           }
         ],
         "stats": {
-          "totalCredits": 15053,
+          "totalCredits": 14853,
           "totalPlayers": 47,
           "activePilots": "5",
           "highestScore": 3605
         },
-        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 16:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 17:00  |  Her 5 dk guncellenir"
       },
       {
         "channelName": "👑┃leaderboard🌟",
@@ -658,7 +689,7 @@
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 16:50  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 17:00  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -688,18 +719,18 @@
         {
           "rank": 5,
           "name": "TalhaPV",
-          "credits": 1314
+          "credits": 1114
         }
       ],
       "stats": {
-        "totalCredits": 15053,
+        "totalCredits": 14853,
         "totalPlayers": 47,
         "activePilots": "5",
         "highestScore": 3605
       },
-      "lastUpdate": "🕒 Son guncelleme: 05.04.2026 16:50  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 05.04.2026 17:00  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-05T13:55:27.212Z"
+    "lastUpdated": "2026-04-05T14:00:38.254Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -3065,11 +3096,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-05T13:55:27.993Z",
+    "lastUpdated": "2026-04-05T14:00:39.037Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-05T13:55:28.367Z",
+    "fetchedAt": "2026-04-05T14:00:39.557Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
