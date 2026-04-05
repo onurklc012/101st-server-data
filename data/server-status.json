@@ -9,8 +9,8 @@
       "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "5:02:12",
-      "missionDate": "2026-04-05 13:17:12",
+      "missionTime": "5:07:12",
+      "missionDate": "2026-04-05 13:22:12",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1014 hPa",
@@ -90,7 +90,7 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 08:04:31 UTC",
+      "lastUpdate": "26-04-05 08:09:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
@@ -103,8 +103,8 @@
       "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "4:59:03",
-      "missionDate": "2026-04-05 17:04:03",
+      "missionTime": "5:04:04",
+      "missionDate": "2026-04-05 17:09:04",
       "weather": {
         "temperature": "8.0°C",
         "qnh": "1018 hPa",
@@ -184,23 +184,39 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 08:04:32 UTC",
+      "lastUpdate": "26-04-05 08:09:32 UTC",
       "mapId": "syria",
       "friendlyName": "Syria"
     },
     {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃syria-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10310",
+      "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare ",
+      "map": "Syria",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionTime": "0:01:34",
+      "missionDate": "2025-07-01 07:01:34",
+      "weather": {
+        "temperature": "20.0°C",
+        "qnh": "1016 hPa",
+        "clouds": "Clear",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "180° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 126
+        },
+        "red": {
+          "used": 0,
+          "total": 7
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -212,22 +228,22 @@
         "situation": {
           "Airbases / FARPs": {
             "blue": 62,
-            "red": 6
+            "red": 10
           },
           "Planes": {
-            "blue": 5,
-            "red": 7
+            "blue": 2,
+            "red": 1
           },
           "Helicopters": {
-            "blue": 6,
+            "blue": 0,
             "red": 0
           },
           "Ground Units": {
-            "blue": 1053,
-            "red": 71
+            "blue": 420,
+            "red": 125
           },
           "Ships": {
-            "blue": 19,
+            "blue": 16,
             "red": 0
           },
           "Structures": {
@@ -262,23 +278,39 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-04-05 08:09:33 UTC",
       "mapId": "syria",
       "friendlyName": "Syria Dynamic"
     },
     {
-      "online": false,
+      "online": true,
       "channelName": "🖥️┃caucasus-dynamic［1／32］",
       "serverName": "101st Hunter Squadron",
-      "serverIP": null,
-      "mission": "--",
-      "map": "--",
+      "serverIP": "88.247.164.234:10311",
+      "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare ",
+      "map": "Caucasus",
       "players": 1,
       "maxPlayers": 32,
-      "missionTime": "--:--",
-      "missionDate": null,
-      "weather": null,
-      "slots": null,
+      "missionTime": "0:01:58",
+      "missionDate": "2024-10-31 10:01:58",
+      "weather": {
+        "temperature": "6.6°C",
+        "qnh": "1022 hPa",
+        "clouds": "Two Layers Scattered Large Clouds High Ceiling",
+        "cloudbase": "--",
+        "visibility": "10 km / 6 SM (+)",
+        "wind": "50° / 4 kts"
+      },
+      "slots": {
+        "blue": {
+          "used": 0,
+          "total": 69
+        },
+        "red": {
+          "used": 0,
+          "total": 2
+        }
+      },
       "playerList": [],
       "playerDetails": [],
       "activePlayers": {
@@ -289,28 +321,28 @@
       "missionStats": {
         "situation": {
           "Airbases / FARPs": {
-            "blue": 25,
+            "blue": 28,
             "red": 23
           },
           "Planes": {
-            "blue": 9,
-            "red": 8
+            "blue": 3,
+            "red": 1
           },
           "Helicopters": {
-            "blue": 3,
-            "red": 5
+            "blue": 0,
+            "red": 0
           },
           "Ground Units": {
-            "blue": 231,
-            "red": 696
+            "blue": 216,
+            "red": 346
           },
           "Ships": {
-            "blue": 13,
+            "blue": 7,
             "red": 0
           },
           "Structures": {
             "blue": 40,
-            "red": 152
+            "red": 151
           }
         },
         "achievements": {
@@ -319,8 +351,8 @@
             "red": 0
           },
           "Killed Planes": {
-            "blue": 4,
-            "red": 8
+            "blue": 0,
+            "red": 0
           },
           "Downed Helicopters": {
             "blue": 0,
@@ -331,7 +363,7 @@
             "red": 0
           },
           "Sunken Ships": {
-            "blue": 3,
+            "blue": 0,
             "red": 0
           },
           "Demolished Structures": {
@@ -340,7 +372,7 @@
           }
         }
       },
-      "lastUpdate": null,
+      "lastUpdate": "26-04-05 08:09:33 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus Dynamic"
     }
@@ -354,8 +386,8 @@
     "map": "Caucasus",
     "players": 1,
     "maxPlayers": 32,
-    "missionTime": "5:02:12",
-    "missionDate": "2026-04-05 13:17:12",
+    "missionTime": "5:07:12",
+    "missionDate": "2026-04-05 13:22:12",
     "weather": {
       "temperature": "11.0°C",
       "qnh": "1014 hPa",
@@ -435,9 +467,9 @@
         }
       }
     },
-    "lastUpdate": "26-04-05 08:04:31 UTC",
+    "lastUpdate": "26-04-05 08:09:31 UTC",
     "mapId": "caucasus",
     "friendlyName": "Caucasus"
   },
-  "lastUpdated": "2026-04-05T08:05:29.658Z"
+  "lastUpdated": "2026-04-05T08:10:32.103Z"
 }
