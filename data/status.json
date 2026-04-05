@@ -3,15 +3,15 @@
     "servers": [
       {
         "online": true,
-        "channelName": "🖥️┃server-caucasus［-］",
+        "channelName": "🖥️┃server-caucasus［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10308",
         "mission": "101_Hunter_SQN_v9_5",
         "map": "Caucasus",
-        "players": 0,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:58",
-        "missionDate": "2026-04-05 08:15:58",
+        "missionTime": "0:05:58",
+        "missionDate": "2026-04-05 08:20:58",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1014 hPa",
@@ -91,21 +91,21 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 02:14:41 UTC",
+        "lastUpdate": "26-04-05 02:19:31 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus"
       },
       {
         "online": true,
-        "channelName": "🖥️┃server-syria［-］",
+        "channelName": "🖥️┃server-syria［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10309",
         "mission": "101_Hunter_SQN_SURIYE_v3_7",
         "map": "Syria",
-        "players": 0,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:00",
-        "missionDate": "2026-04-05 12:05:00",
+        "missionTime": "0:04:59",
+        "missionDate": "2026-04-05 12:09:59",
         "weather": {
           "temperature": "9.0°C",
           "qnh": "1018 hPa",
@@ -185,23 +185,39 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 02:14:33 UTC",
+        "lastUpdate": "26-04-05 02:19:32 UTC",
         "mapId": "syria",
         "friendlyName": "Syria"
       },
       {
-        "online": false,
-        "channelName": "🖥️┃syria-dynamic［-］",
+        "online": true,
+        "channelName": "🖥️┃syria-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
-        "serverIP": null,
-        "mission": "--",
-        "map": "--",
-        "players": 0,
+        "serverIP": "88.247.164.234:10310",
+        "mission": "101 Hunters SQN \\- Suriye \\- Modern Warfare",
+        "map": "Syria",
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "--:--",
-        "missionDate": null,
-        "weather": null,
-        "slots": null,
+        "missionTime": "0:03:47",
+        "missionDate": "2026-04-05 07:03:47",
+        "weather": {
+          "temperature": "9.0°C",
+          "qnh": "1018 hPa",
+          "clouds": "Clear",
+          "cloudbase": "--",
+          "visibility": "10 km / 6 SM (+)",
+          "wind": "200° / 4 kts"
+        },
+        "slots": {
+          "blue": {
+            "used": 0,
+            "total": 126
+          },
+          "red": {
+            "used": 0,
+            "total": 7
+          }
+        },
         "playerList": [],
         "playerDetails": [],
         "activePlayers": {
@@ -263,21 +279,21 @@
             }
           }
         },
-        "lastUpdate": null,
+        "lastUpdate": "26-04-05 02:19:33 UTC",
         "mapId": "syria",
         "friendlyName": "Syria Dynamic"
       },
       {
         "online": true,
-        "channelName": "🖥️┃caucasus-dynamic［-］",
+        "channelName": "🖥️┃caucasus-dynamic［1／32］",
         "serverName": "101st Hunter Squadron",
         "serverIP": "88.247.164.234:10311",
         "mission": "101 Hunters SQN \\- Kafkas \\- Modern Warfare",
         "map": "Caucasus",
-        "players": 0,
+        "players": 1,
         "maxPlayers": 32,
-        "missionTime": "0:00:00",
-        "missionDate": "2026-04-05 15:25:00",
+        "missionTime": "0:04:26",
+        "missionDate": "2026-04-05 15:29:26",
         "weather": {
           "temperature": "11.0°C",
           "qnh": "1014 hPa",
@@ -357,22 +373,22 @@
             }
           }
         },
-        "lastUpdate": "26-04-05 02:15:04 UTC",
+        "lastUpdate": "26-04-05 02:19:34 UTC",
         "mapId": "caucasus",
         "friendlyName": "Caucasus Dynamic"
       }
     ],
     "primaryServer": {
       "online": true,
-      "channelName": "🖥️┃server-caucasus［-］",
+      "channelName": "🖥️┃server-caucasus［1／32］",
       "serverName": "101st Hunter Squadron",
       "serverIP": "88.247.164.234:10308",
       "mission": "101_Hunter_SQN_v9_5",
       "map": "Caucasus",
-      "players": 0,
+      "players": 1,
       "maxPlayers": 32,
-      "missionTime": "0:00:58",
-      "missionDate": "2026-04-05 08:15:58",
+      "missionTime": "0:05:58",
+      "missionDate": "2026-04-05 08:20:58",
       "weather": {
         "temperature": "11.0°C",
         "qnh": "1014 hPa",
@@ -452,11 +468,11 @@
           }
         }
       },
-      "lastUpdate": "26-04-05 02:14:41 UTC",
+      "lastUpdate": "26-04-05 02:19:31 UTC",
       "mapId": "caucasus",
       "friendlyName": "Caucasus"
     },
-    "lastUpdated": "2026-04-05T02:15:32.236Z"
+    "lastUpdated": "2026-04-05T02:20:28.897Z"
   },
   "leaderboard": {
     "leaderboards": [
@@ -466,37 +482,37 @@
         "pilots": [
           {
             "rank": 1,
-            "name": "101-Yidobaba[0098]",
-            "credits": 2800
+            "name": "101-Shadow[1881]",
+            "credits": 3605
           },
           {
             "rank": 2,
-            "name": "101-Shadow[1881]",
-            "credits": 750
+            "name": "101-Atmaca[3404]",
+            "credits": 2795
           },
           {
             "rank": 3,
-            "name": "Malp2",
-            "credits": 444
+            "name": "Somon",
+            "credits": 1960
           },
           {
             "rank": 4,
-            "name": "eXitus",
-            "credits": 444
+            "name": "101-MrMercans",
+            "credits": 1510
           },
           {
             "rank": 5,
-            "name": "THE HİTMAN",
-            "credits": 170
+            "name": "TalhaPV",
+            "credits": 1064
           }
         ],
         "stats": {
-          "totalCredits": 4688,
-          "totalPlayers": 21,
+          "totalCredits": 14355,
+          "totalPlayers": 46,
           "activePilots": "5",
-          "highestScore": 2800
+          "highestScore": 3605
         },
-        "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 05:20  |  Her 5 dk guncellenir"
       },
       {
         "channelName": "👑┃leaderboard🌟",
@@ -509,32 +525,32 @@
           },
           {
             "rank": 2,
-            "name": "101-AsilTurq",
-            "credits": 14278
-          },
-          {
-            "rank": 3,
             "name": "101-Shadow[1881]",
             "credits": 13231
           },
           {
-            "rank": 4,
+            "rank": 3,
             "name": "101ArmOn1453",
             "credits": 10808
           },
           {
-            "rank": 5,
+            "rank": 4,
             "name": "101-HotelTango",
             "credits": 10533
+          },
+          {
+            "rank": 5,
+            "name": "101-Yidobaba[0098]",
+            "credits": 9425
           }
         ],
         "stats": {
-          "totalCredits": 128585,
-          "totalPlayers": 96,
+          "totalCredits": 114307,
+          "totalPlayers": 95,
           "activePilots": "5",
           "highestScore": 15586
         },
-        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 05:00  |  Her 5 dk guncellenir"
+        "lastUpdate": "🕒 Son guncelleme: 05.04.2026 05:20  |  Her 5 dk guncellenir"
       }
     ],
     "primary": {
@@ -543,39 +559,39 @@
       "pilots": [
         {
           "rank": 1,
-          "name": "101-Yidobaba[0098]",
-          "credits": 2800
+          "name": "101-Shadow[1881]",
+          "credits": 3605
         },
         {
           "rank": 2,
-          "name": "101-Shadow[1881]",
-          "credits": 750
+          "name": "101-Atmaca[3404]",
+          "credits": 2795
         },
         {
           "rank": 3,
-          "name": "Malp2",
-          "credits": 444
+          "name": "Somon",
+          "credits": 1960
         },
         {
           "rank": 4,
-          "name": "eXitus",
-          "credits": 444
+          "name": "101-MrMercans",
+          "credits": 1510
         },
         {
           "rank": 5,
-          "name": "THE HİTMAN",
-          "credits": 170
+          "name": "TalhaPV",
+          "credits": 1064
         }
       ],
       "stats": {
-        "totalCredits": 4688,
-        "totalPlayers": 21,
+        "totalCredits": 14355,
+        "totalPlayers": 46,
         "activePilots": "5",
-        "highestScore": 2800
+        "highestScore": 3605
       },
-      "lastUpdate": "🕒 Son guncelleme: 13.03.2026 08:00  |  Her 5 dk guncellenir"
+      "lastUpdate": "🕒 Son guncelleme: 05.04.2026 05:20  |  Her 5 dk guncellenir"
     },
-    "lastUpdated": "2026-04-05T02:15:32.398Z"
+    "lastUpdated": "2026-04-05T02:20:29.115Z"
   },
   "members": {
     "guildName": "101. HUNTER SQUADRON (AVCI FILOSU)",
@@ -2934,11 +2950,11 @@
         "position": 1
       }
     ],
-    "lastUpdated": "2026-04-05T02:15:33.298Z",
+    "lastUpdated": "2026-04-05T02:20:29.906Z",
     "source": "rest-api"
   },
   "meta": {
-    "fetchedAt": "2026-04-05T02:15:33.655Z",
+    "fetchedAt": "2026-04-05T02:20:30.394Z",
     "source": "GitHub Actions",
     "refreshInterval": "10 minutes"
   }
